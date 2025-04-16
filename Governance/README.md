@@ -33,7 +33,7 @@ The official letter from the IRS confirming OWL’s status as a tax-exempt nonpr
 **Why It Matters:**  
 Provides legal proof of exemption, necessary for compliance, fundraising, donor contributions, and eligibility for grants or public funding.
 
-🖼️ [View IRS Determination Letter (Image)](Governance/irs-determination-letter.jpg)
+🖼️ [View IRS Determination Letter (Image)](irs-determination-letter.jpg)
 
 ---
 
