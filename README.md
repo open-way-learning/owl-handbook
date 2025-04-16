@@ -26,5 +26,36 @@ This handbook includes guidance on:
 
 ## 🌱 A Living Document
 
-This is not a dusty PDF sitting in a forgotten drawer. It is a living handbook
+This is not a dusty PDF sitting in a forgotten drawer. It is a handbook built for iteration—an evolving reflection of our organization as we grow and learn.
 
+We update this handbook often, based on staff input, feedback from partners, and changing needs. If you have an idea for improving it, [propose a change](https://github.com/open-way-learning/owl-handbook/pulls) or share your thoughts via GitBook’s comment feature.
+
+---
+
+## 💡 License
+
+Unless otherwise noted, all content is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+That means you’re free to use, remix, and share this content non-commercially—just give proper credit.
+
+---
+
+## 🧭 Looking for Something?
+
+To make navigation easier, this handbook is organized into the following sections (mirrored in GitBook):
+
+- `Governance/` – bylaws, code of ethics, legal policies
+- `Operations-Finance/` – expense, travel, tech, and budgeting policies
+- `Admin-HR/` – compensation, leave, benefits, classifications
+- `Outreach-Programming/` – project delivery, client expectations, protocols
+- `Development-Research/` – fundraising, grants, data, reporting
+- `Strategy-Innovation/` – continuous improvement, learning org frameworks
+- `Templates-Resources/` – forms, checklists, and reusable tools
+
+---
+
+## 📬 Questions?
+
+Reach out to the OWL Leadership Team or [start a discussion](https://github.com/open-way-learning/owl-handbook/discussions) if you have questions, suggestions, or ideas.
+
+Together, we’re building something different—and better.
