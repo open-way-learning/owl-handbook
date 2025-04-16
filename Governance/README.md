@@ -1,4 +1,4 @@
-# 🧭 Governance Overview
+# 🧭 OWL Governance
 
 This section of the OWL Handbook provides public access to the foundational governance documents that define how Open Way Learning (OWL) operates as a 501(c)(3) nonprofit. These resources clarify the **legal, ethical, and organizational framework** that underpins both Board-level oversight and our distributed, mission-aligned leadership culture.
 
