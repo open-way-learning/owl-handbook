@@ -26,12 +26,14 @@ This document defines how OWL remains legally compliant and mission-aligned. It 
 
 ---
 
-### 2. `IRS Determination Letter`
+### 2. IRS Determination Letter  
 **What It Is:**  
-The formal notice from the IRS confirming OWL’s status as a tax-exempt nonprofit under section 501(c)(3) of the Internal Revenue Code.
+The official letter from the IRS confirming OWL’s status as a tax-exempt nonprofit under section 501(c)(3) of the Internal Revenue Code.
 
 **Why It Matters:**  
-Proof of exemption is necessary for compliance, fundraising, and eligibility for certain grants or public funding.
+Provides legal proof of exemption, necessary for compliance, fundraising, donor contributions, and eligibility for grants or public funding.
+
+🖼️ [View IRS Determination Letter (Image)](governance/irs-determination-letter.jpg)
 
 ---
 
