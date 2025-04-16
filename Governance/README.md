@@ -45,7 +45,7 @@ A current map of OWL’s internal staffing roles and reporting relationships—s
 **Why It Matters:**  
 Illustrates how OWL distributes authority, aligns responsibilities, and ensures clarity between organizational units.
 
-[View Organization Chart (pdf)](OWL Organization Chart.pdf)
+📎 [View OWL Organization Chart (PDF)](./OWL%20Organization%20Chart.pdf)
 
 ---
 
