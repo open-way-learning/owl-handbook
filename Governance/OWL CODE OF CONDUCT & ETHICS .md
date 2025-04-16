@@ -26,8 +26,6 @@ Pregnancy accommodation is also governed by the ADA, the Pregnancy Discriminatio
 
 OWL offers team members with disabilities — whether visible or invisible — an equal opportunity to succeed, to learn, to be compensated fairly, and to advance. True inclusion is about embracing differences.
 
-### 
-
 ### **RESPECTFUL WORK ENVIRONMENT** 
 
 A fair, inclusive and respectful community is vital to all individuals and is essential to OWL’s mission. Therefore, OWL embraces the concept of a Respectful Workplace as a guiding principle and is committed to promoting an environment where employees respect each other regardless of their roles, levels of responsibilities, or the nature of their contributions. OWL also recognizes its responsibility to lead by example, being a model organization that provides leadership regarding issues of openness, transparency, collegiality, civility, and respect. 
@@ -66,8 +64,6 @@ The Board is responsible for confidentially investigating all reports and taking
 
 Individuals who report concerns in good faith are protected from retaliation. Any act of retaliation will result in disciplinary action, including possible termination or Board removal. For full details, refer to the Whistleblower Policy in OWL’s Bylaws.
 
-### 
-
 ### **COMPLIANCE WITH ALL LAWS, RULES AND REGULATIONS**
 
 OWL will comply with all laws and governmental regulations that are applicable to its activities and expects all employees to obey the law. Laws can be complex and at times, even counterintuitive. Although it’s impossible to know all aspects of every law, you should understand the major laws, rules and regulations that apply to your work. You should consult with any director if you are unsure or have any questions or concerns related to your work. A few specific areas of legal compliance are discussed in greater detail below:
@@ -76,8 +72,6 @@ OWL will comply with all laws and governmental regulations that are applicable t
 * **No Bribery or Corruption:** All forms of bribery and corruption are prohibited. We will not tolerate bribery or corruption in any form or for any purpose. There is no potential benefit that can justify damaging our integrity and reputation or the trust others place in us. All persons subject to this Code must comply fully with the Foreign Corrupt Practices Act (FCPA) and other applicable laws that prohibit bribery and corruption. Many of these laws are very broad and apply to both government and private bribery and corruption. If you have a question regarding any gift, entertainment or other expense, consult with our Director of Finance & Operations before you incur or authorize the expense.  
 * **Fair Sales and Marketing Practices:** We compete for contracts based solely on the merits of our services. We do not participate in any activities that unfairly harm other organizations, including ones that might be deemed as being in direct competition with OWL. We want to win contracts, but win them fairly. We will accurately represent OWL and our services in our marketing materials and any other public-facing information. Deliberately providing misleading messages or leaving out important facts or false claims about our products and services is inconsistent with our policies regarding trust and transparency.
 
-### 
-
 ### **FAIR DEALING**
 
 All employees are required to deal honestly, ethically and fairly with clients, partners, competitors and other third parties. The following are prohibited:
@@ -85,8 +79,6 @@ All employees are required to deal honestly, ethically and fairly with clients, 
 * Bribes, kickbacks or any other form of improper payment, direct or indirect, to any representative of a government, labor union, client or vendor in order to obtain a contract, some other commercial benefit or government action.  
 * Gifts or favors to or from any client or vendor, except for promotional material of nominal value and gifts of modest value (\<$50) that are related to commonly recognized events or occasions.  
 * Client entertainment expenditures unless they are necessary, prudent, job related and consistent with our travel policy and this Code.
-
-### 
 
 ### **CONFLICT OF INTEREST AND OUTSIDE EMPLOYMENT**
 
@@ -100,8 +92,6 @@ Refer to Article VIII, Section 12 of the Bylaws for the full Conflict of Interes
 ### **SUBSTANCE ABUSE**
 
 OWL will maintain a workplace that is free from illegal use, possession, sale, or distribution of alcohol or controlled substances. Moreover, legal or illegal substances shall not be used in a manner that impairs a person’s performance of assigned tasks. OWL team members must also adhere to the local laws of where they reside and where they travel to, including any OWL sponsored event or other event, meal, or social gathering associated with client-facing work.
-
-### 
 
 ### **CONFIDENTIALITY AND CORPORATE ASSETS** 
 
@@ -239,8 +229,6 @@ Note that either OWL or the employee may initiate separation. OWL encourages emp
 ### **STATE & FEDERAL LABOR & EMPLOYMENT NOTICES:**
 
 Because OWL does not have typical brick and mortar offices, we don't have a physical worksite or break room wall upon which to post important labor and employment notices for team members. As such, [this summary](https://about.gitlab.com/handbook/labor-and-employment-notices/) from OWL (a similar “all remote” organization) provides such notices for each state. Likewise, [this document](https://www.dol.gov/agencies/whd/posters) provides similar reference for US Federal Labor Law notices.
-
-### 
 
 ### **RECORDS RETENTION**
 
