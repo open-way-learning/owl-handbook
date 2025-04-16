@@ -40,12 +40,12 @@ Provides legal proof of exemption, necessary for compliance, fundraising, donor 
 
 ### 3. `Organizational Chart`
 **What It Is:**  
-A current map of OWL’s internal staffing roles and reporting relationships—spanning the Leadership Team, employees, and operational functions.  
-
-> _Note: Board membership is maintained publicly at [openwaylearning.org](https://www.openwaylearning.org)._  
+A current map of OWL’s internal staffing roles and reporting relationships—spanning the Leadership Team, employees, and the Board of Directors
 
 **Why It Matters:**  
 Illustrates how OWL distributes authority, aligns responsibilities, and ensures clarity between organizational units.
+
+[View Organization Chart (pdf)](OWL Organization Chart.pdf)
 
 ---
 
