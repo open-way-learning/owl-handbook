@@ -1,4 +1,4 @@
-1. ### **OWL’s MISSION & VISION**
+### **OWL’s MISSION & VISION**
 
 Open Way Learning (OWL) is a 501(c)(3) nonprofit organization on a mission to co-design ways to amplify the joy and wonder of learning for every student. We envision a future where all learners can change the world—and schools empower that change to happen now.
 
@@ -19,7 +19,7 @@ We are driven by three foundational ideas:
 
 3. The talent is already here: Every school has the creative potential to design better ways of teaching and learning. By applying “the open source way” \- transparency, inclusivity, collaboration, adaptability, and community \- we help unlock and connect that talent in service of sustainable change.
 
-2. ### **OWL’s VALUES**
+### **OWL’s VALUES**
 
 OWL is serious about a “Living Mission & Vision” and that extends to our values as well. They aren’t something you hang on the wall \- they should *live* as part of what someone experiences in practice and partnership with OWL every day \- in conversations, decisions, feedback, and follow-through.
 
@@ -78,7 +78,7 @@ We also assume positive intent, give and receive candid feedback, and name tensi
 
 These values aren’t just aspirational \- they’re operational. They shape how we design our work, how we build our culture, and how we navigate challenges together. They show up in the details of a workshop plan, in the way we give feedback, and in the choices we make when no one’s watching. Our hope and our expectation is that you’ll live these values not as a checklist, but as a compass. A way to stay aligned to our shared purpose, mission, and vision. 
 
-3. ### **THE OPEN WAY LEARNING HISTORY**
+### **THE OPEN WAY LEARNING HISTORY**
 
 *“Who wants to research this technology and bring their findings back to the team?”*  
 *“What’s needed for us to scale this work to other areas?”*  
