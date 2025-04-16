@@ -89,6 +89,7 @@ Section 9: The Board of Directors may appoint non-voting Board Advisors to provi
 * Advisors must adhere to OWL’s Conflict of Interest Policy and disclose any potential conflicts related to their role or contractual arrangements with the Organization.  
 * The Board shall conduct an annual review to determine the continuation or conclusion of the advisory role.
 
+
   # **ARTICLE IV: ORGANIZATION** 
 
 Section 1: The Board of Directors of Open Way Learning (OWL) is organized and operates under the authority of the North Carolina Nonprofit Corporation Act, unless otherwise specified by the Articles of Incorporation or these bylaws. The Board holds ultimate responsibility for the Organization’s governance, oversight, and strategic direction, with powers vested in it to manage OWL’s activities, property, and operations in alignment with its mission and legal obligations.
@@ -120,6 +121,7 @@ Section 6: The Board of Directors shall conduct a self-evaluation at least once 
 * A review of adherence to nonprofit governance best practices, including fiduciary duties, compliance, and strategic planning.  
 * Identification of areas for improvement and development of an action plan to address findings.
 
+
   # **ARTICLE V: QUORUM**
 
 Section 1: A simple majority of the members of the Board of Directors shall constitute a quorum.
@@ -135,6 +137,7 @@ Section 3: In circumstances where a quorum is not reached at a meeting or when u
 * Time Frame: Board members shall be given at least 48 hours to respond unless a shorter time frame is approved by the Chair due to extraordinary circumstances.  
 * Documentation: All votes cast via email must be recorded in the official minutes of the next Board meeting. The motion, voting results, and any relevant discussion must be documented by the Member-at-Large/Secretary to ensure transparency and compliance.  
 * Restrictions: Email voting is permitted only for decisions that do not require extensive deliberation or debate. Matters involving personnel decisions, changes to bylaws, or financial transactions exceeding $10,000 shall not be decided via email.
+
 
   # **ARTICLE VI: AMENDMENTS**
 
@@ -167,6 +170,7 @@ Section 5: The Board of Directors Member-at-Large/Secretary shall:
 * Clearly mark bylaws as "Pending Amendment" following first reading approval, with the proposed changes highlighted, until the second reading and final approval are completed.  
 * Ensure that all officially approved updates are reflected in the final version of the bylaws and Articles of Incorporation (if applicable), including annotations for the date of full adoption.  
 * Distribute updated bylaws to all Board members promptly following final approval and ensure proper archiving of prior versions.
+
 
   # **ARTICLE VII: BOARD OF DIRECTORS MEETINGS**
 
