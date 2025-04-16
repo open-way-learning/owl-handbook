@@ -356,7 +356,6 @@ As OWL expands our reach and impact, we are committed to staying agile, open, an
 
 We call this our startup mindset, and it’s a conscious choice \- not something that just “happens.” It’s what lets us remain true to our mission while adapting to a changing education landscape.
 
-### 
 
 #### **What This Looks Like at OWL**
 
