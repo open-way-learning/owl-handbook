@@ -12,7 +12,6 @@ Section 1 of the I-9 Form must be completed by the employee no later than the da
 
 ### Employees must also ensure that their emergency contact information is on file in the OWL Personnel Records. Use [this form](https://docs.google.com/document/d/1MieqhFQhi9tG3A79S76o03T0T8xlu4fiwOB_tdBqwCQ/edit?usp=sharing) to provide this information and send it to your manager or the OWL Manager.
 
-### 
 
 ### **NEW EMPLOYEE ORIENTATION**
 
