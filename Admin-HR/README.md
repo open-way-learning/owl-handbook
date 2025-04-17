@@ -22,4 +22,4 @@ Some content areas are currently being reviewed or co-developed:
 - Internal advancement pathways aligned to the OWL Competency Framework
 - Guidance for part-time and fellow-contracted roles
 
-We’ll update this section as new documents are finalized.
+These and other items will be added to this section as they are finalized. Please reach out to the Manager of Finance, HR, & Communications for questions that may arise.
