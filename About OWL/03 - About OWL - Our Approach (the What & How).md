@@ -1,4 +1,4 @@
-1. ### **WHAT WE DO:**
+### **WHAT WE DO:**
 
 OWL works directly with schools, districts, networks, and education partners to bring our beliefs to life through experiential learning strategies and schoolwide systems change. Our support is always:
 
@@ -18,7 +18,7 @@ We specialize in helping communities adopt and adapt practices such as:
 
 We do this through design sprints, workshops, coaching, school visits, conferences, virtual courses, and open-source resource sharing—all guided by our belief that real innovation grows from trust, agency, and reflection.
 
-2. ### **SMART GROWTH \> FAST GROWTH**
+### **SMART GROWTH \> FAST GROWTH**
 
 Open Way Learning also believes that real change doesn’t come from scaling faster, it comes from scaling wiser. That’s why we pursue smart growth: a commitment to growing in ways that strengthen our values, deepen our impact, and preserve the uniquely human, learner-centered approach that defines who we are as an education nonprofit. We do not exist to become big for the sake of being big. Our goal is also not to saturate the market with one-size-fits-all programs, but to build capacity for schools to lead their own transformation—anchored in culture, relationships, and trust.
 
@@ -30,7 +30,7 @@ As education scholar Jal Mehta writes in [*In Search of Deeper Learning*](https:
 
 This is the throughline in all our work, and a key reason we’ve earned a reputation for doing what many consider hard to do in education: combining vision with the discipline to make it real.
 
-3. ### **HOW WE WORK WITH CLIENTS \- CORE PRACTICES & PRIORITIES:**
+### **HOW WE WORK WITH CLIENTS \- CORE PRACTICES & PRIORITIES:**
 
 Open Way Learning’s core purpose is to help education practitioners bring cultures of learner-centered innovation to life within their own communities. We do this through workshops, design sprints, coaching, and other customized support grounded in Human-Centered Design and guided by the principles in our [Experiential Learning Playbook](https://docs.google.com/document/d/12v1Xnc22Z3WRI-9DGxuBDbEayVxb-ov-ydEMm3ndQTg/edit?usp=sharing).
 
@@ -90,7 +90,7 @@ Each OWL engagement is designed to catalyze not just individual change, but scho
 
 This is why we embrace a “go slow to go fast” philosophy. Rather than rushing to scale, we focus on prototyping, feedback, and iteration—creating the conditions for long-term success and sustainability. When paired with strong internal culture and psychological safety, this approach empowers teams to *fail forward* in a safe, supported way.
 
-4. ### **PROJECT MANAGEMENT & CLIENT-FACING WORK**
+### **PROJECT MANAGEMENT & CLIENT-FACING WORK**
 
 Every OWL project progresses through several key phases, each with specific responsibilities. This workflow applies to both employees and contracted OWL Fellows and is consistent with the procedures outlined in the OWL Contractor Manual.
 
