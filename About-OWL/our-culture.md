@@ -1,10 +1,12 @@
-### **THE COLLABORATIVE CULTURE WE MODEL IN OUR WORK**
+# Our Culture
+
+## The Collaborative Culture we Model in our Work
 
 OWL’s working philosophy (that everyone can contribute, regardless of title, tenure with the organization, etc.) means that everyone on our team is empowered to bring our mission and vision to life by making a positive, value-adding impact with everything they do. Every day. We are able to effectively model this approach because our team brings a vast and diverse array of experience (in and out of education) to the table. As such, no one should feel that they don't have to have the required degree, certification, minimum service time, or specific role that makes them less of a contributor to the important work OWL does or to the tools we use. 
 
 This open, radically collaborative, collective leadership approach works because we're a team of passionate people who want to help each other, our nonprofit, and the educators we network with in the broader OWL community succeed. We learn from each other, challenge each other, and thank each other. The minimum that’s asked of you in such a collaborative culture is to come to the work everyday prepared to do whatever it takes to help shape the future of the organization as we strive to live our mission and vision\!
 
-### **WORKING IN “*THE OPEN SOURCE* *WAY”* AT OWL**
+## **WORKING IN “*THE OPEN SOURCE* *WAY”* AT OWL**
 
 The “open” in Open Way Learning is rooted in our core philosophy of “working in the open source way” \- an ethos that shapes how we collaborate, create, and contribute, both internally and externally. While our collective leadership model empowers everyone to make mission-aligned decisions, our open source mindset shapes how we share knowledge, build tools, and iterate together in public view.
 
@@ -38,7 +40,7 @@ Finally, our open-source ethos informs how we hire, organize, and grow:
 
 In essence, OWL is not just an open organization—we are an open-source movement in education. We don’t just use these values \- we live them.
 
-### **OWL COLLECTIVE LEADERSHIP**
+## **OWL COLLECTIVE LEADERSHIP**
 
 At Open Way Learning, leadership is not tied to titles, it’s embedded in how we work, share decisions, and advance our mission together. Inspired by open-source principles of transparency, adaptability, inclusivity, and shared responsibility, OWL operates using a collective leadership model that empowers all team members to lead in their roles, contribute to strategic decisions, and take ownership of execution.
 
@@ -50,7 +52,7 @@ Unlike conventional hierarchies or top-down management, OWL’s collective leade
 * Open Access to Information: Instead of relying on gatekeepers, we invest in systems (like our Employee Handbook, SOPs, shared drives, and Productive) to ensure retrieval of knowledge is fast and accessible to all—allowing anyone to step in with clarity and confidence.  
 * Bias for Action & Learning: We prioritize many informed decisions over perfect consensus, embracing iteration, reflection, and rapid feedback as a means of learning and improving together.
 
-#### **Key Pillars of Collective Leadership at OWL:**
+### **Key Pillars of Collective Leadership at OWL:**
 
 * Mission-Driven Decision Making \- Every decision starts with one question: Does this align with our mission, vision, values, and current strategic goals? If not, the decision must be escalated to the Director team or, if major, to the Board.  
 * Radical Trust \- Trust is the currency of our culture. We assume positive intent, encourage open dialogue, and support each other in making good-faith decisions, even when the path is ambiguous. “Open” in OWL means transparent, respectful, and accountable.  
@@ -64,12 +66,11 @@ Unlike conventional hierarchies or top-down management, OWL’s collective leade
   * Evaluate tradeoffs  
   * Decide  
   * Communicate clearly  
-  * Reflect and improve  
-    
+  * Reflect and improve
 
-  We also maintain a centralized Decision Log, regularly updated by our Manager of Operations to track key strategic and financial decisions.
+We also maintain a centralized Decision Log, regularly updated by our Manager of Operations to track key strategic and financial decisions.
 
-#### **How This Shows Up in Our Work:**
+### **How This Shows Up in Our Work:**
 
 * All Directors share responsibility for internal systems, program quality, partner relationships, and org-wide strategy. We meet weekly to raise, track, and resolve decisions collaboratively.  
 * Staff and Fellows contribute to decision-making in their scope and are encouraged to suggest changes or identify gaps.  
@@ -80,7 +81,7 @@ This model empowers everyone at OWL to contribute meaningfully to the mission—
 
 For more on the tools, processes, and responsibilities tied to OWL’s collective leadership model, refer to the [Collective Leadership SOP](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing).
 
-### **SUSTAINING AN AGILE, STARTUP MINDSET AS WE GROW**
+## **SUSTAINING AN AGILE, STARTUP MINDSET AS WE GROW**
 
 As OWL expands our reach and impact, we are committed to staying agile, open, and focused—not slow, bureaucratic, or overly hierarchical. We draw inspiration from models like Kotter’s Dual Operating System, which remind us that an organization can run like a scaling company and a nimble startup at the same time—if it intentionally supports both. This balance helps us:
 
@@ -91,7 +92,7 @@ As OWL expands our reach and impact, we are committed to staying agile, open, an
 
 We call this our startup mindset, and it’s a conscious choice \- not something that just “happens.” It’s what lets us remain true to our mission while adapting to a changing education landscape.
 
-#### **What This Looks Like at OWL**
+### **What This Looks Like at OWL**
 
 Maintaining this mindset means everyone on the team is empowered to contribute \- not just to their individual work, but to how OWL works as an organization. Here’s how we practice this ethos:
 
@@ -130,7 +131,7 @@ Here’s how we live that out:
 | **Postmortems & Retros** | Structured reflection and debrief after key events | Normalize learning from failure and celebrate wins |
 | **Async-first communication** | Slack \+ Productive \+ shared docs | Respect time zones and focus, reduce meeting overload |
 
-### **OWL’s CULTURAL COMMITMENT TO EQUITY**
+## **OWL’s CULTURAL COMMITMENT TO EQUITY**
 
 Open Way Learning believes that meaningful innovation in education must be rooted in fairness, belonging, and opportunity for every learner. We know that schools across the country serve students from widely varied backgrounds \- racially, economically, culturally, and geographically. Our work is grounded in the belief that each of these students deserves access to innovative learning experiences that recognize their potential, reflect their identity, and prepare them for a rapidly changing world.
 
@@ -144,7 +145,7 @@ This is important work that belongs to all of us. Every member of the OWL team i
 
 Note that OWL intentionally avoids politically charged or polarizing language in public-facing equity commitments. This is not to diminish the seriousness of systemic inequities, but to protect the work we do to ensure our mission reaches all communities. Our values remain clear: equity, inclusion, and student-centered transformation is for every student, especially those historically furthest from opportunity.
 
-### **ONE LAST THING: BRINGING THE OWL CULTURE TO LIFE (EVERY DAY)**
+## **ONE LAST THING: BRINGING THE OWL CULTURE TO LIFE (EVERY DAY)**
 
 No matter your role, title, or location, you’re part of a team that’s committed to something more than just getting things done \- we’re building a culture. One that models what schools themselves should feel like: curious, courageous, joyful, and generous.
 

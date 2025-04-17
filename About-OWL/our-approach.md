@@ -1,4 +1,6 @@
-### **WHAT WE DO:**
+# Our Approach (The What and How)
+
+## What We Do
 
 OWL works directly with schools, districts, networks, and education partners to bring our beliefs to life through experiential learning strategies and schoolwide systems change. Our support is always:
 
@@ -18,7 +20,7 @@ We specialize in helping communities adopt and adapt practices such as:
 
 We do this through design sprints, workshops, coaching, school visits, conferences, virtual courses, and open-source resource sharing—all guided by our belief that real innovation grows from trust, agency, and reflection.
 
-### **SMART GROWTH \> FAST GROWTH**
+## **SMART GROWTH \> FAST GROWTH**
 
 Open Way Learning also believes that real change doesn’t come from scaling faster, it comes from scaling wiser. That’s why we pursue smart growth: a commitment to growing in ways that strengthen our values, deepen our impact, and preserve the uniquely human, learner-centered approach that defines who we are as an education nonprofit. We do not exist to become big for the sake of being big. Our goal is also not to saturate the market with one-size-fits-all programs, but to build capacity for schools to lead their own transformation—anchored in culture, relationships, and trust.
 
@@ -30,7 +32,7 @@ As education scholar Jal Mehta writes in [*In Search of Deeper Learning*](https:
 
 This is the throughline in all our work, and a key reason we’ve earned a reputation for doing what many consider hard to do in education: combining vision with the discipline to make it real.
 
-### **HOW WE WORK WITH CLIENTS \- CORE PRACTICES & PRIORITIES:**
+## **HOW WE WORK WITH CLIENTS \- CORE PRACTICES & PRIORITIES:**
 
 Open Way Learning’s core purpose is to help education practitioners bring cultures of learner-centered innovation to life within their own communities. We do this through workshops, design sprints, coaching, and other customized support grounded in Human-Centered Design and guided by the principles in our [Experiential Learning Playbook](https://docs.google.com/document/d/12v1Xnc22Z3WRI-9DGxuBDbEayVxb-ov-ydEMm3ndQTg/edit?usp=sharing).
 
@@ -54,7 +56,7 @@ These are foundational elements of all OWL-facilitated work and should be eviden
 * "Less is more" approach – minimum essential content to maximize impact  
 * Focus on long-term systems thinking (never quick fixes)
 
-#### **Tier 2: Strongly Encouraged Best Practices (Context Dependent):**
+### **Tier 2: Strongly Encouraged Best Practices (Context Dependent):**
 
 These elements should be included whenever possible and tailored to the specific audience, format, or duration of the engagement:
 
@@ -71,7 +73,7 @@ These elements should be included whenever possible and tailored to the specific
 * Modeling critique, revision, and prototyping (“skateboard-to-car” mindset)  
 * End the experience with a clear, emotionally resonant crescendo
 
-#### **Tier 3: Value-Added Enhancements (When Time/Resources Allow):**
+### **Tier 3: Value-Added Enhancements (When Time/Resources Allow):**
 
 These elevate the participant experience and deepen impact but may depend on logistics, time, or budget:
 
@@ -84,13 +86,13 @@ These elevate the participant experience and deepen impact but may depend on log
 * Cross-site networking with other schools, districts, or thought leaders  
 * Opportunities to participate in OWL’s national network of learner-centered innovators
 
-#### **Why This Matters \- Invest in Building Relationships for the Long-Term:**
+### **Why This Matters \- Invest in Building Relationships for the Long-Term:**
 
 Each OWL engagement is designed to catalyze not just individual change, but schoolwide transformation. We aim to build the capacity of clients to carry the work forward without us \- rooted in *local ownership*, *collaborative networks*, and a culture of ongoing reflection and experimentation.
 
 This is why we embrace a “go slow to go fast” philosophy. Rather than rushing to scale, we focus on prototyping, feedback, and iteration—creating the conditions for long-term success and sustainability. When paired with strong internal culture and psychological safety, this approach empowers teams to *fail forward* in a safe, supported way.
 
-### **PROJECT MANAGEMENT & CLIENT-FACING WORK**
+## **PROJECT MANAGEMENT & CLIENT-FACING WORK**
 
 Every OWL project progresses through several key phases, each with specific responsibilities. This workflow applies to both employees and contracted OWL Fellows and is consistent with the procedures outlined in the OWL Contractor Manual.
 
@@ -126,7 +128,7 @@ PHASE 4: Follow-Up & Reflection:
 * The Primary Contact reviews client feedback and shares growth-oriented notes with the facilitation team.  
 * If appropriate, the project is archived and lessons are added to OWL’s internal knowledge-sharing systems.
 
-#### **Key Responsibilities by Role:**
+### **Key Responsibilities by Role:**
 
 * Primary Contact (Project Lead)  
   * Owns the full scope of the project and serves as the main liaison between the client and OWL team.  
@@ -140,7 +142,7 @@ PHASE 4: Follow-Up & Reflection:
   * May serve as a sounding board, coach, or design partner throughout the engagement.  
   * Steps in as lead if the Primary Contact is unavailable, ensuring seamless coverage.
 
-#### **Final Notes on Project Management:**
+### **Final Notes on Project Management:**
 
 * All project personnel must ensure that work remains within the scope of the client contract or contractor SOW.  
 * Any significant changes in service dates, deliverables, or facilitator roles must be approved by the Primary Contact and documented in writing.  
