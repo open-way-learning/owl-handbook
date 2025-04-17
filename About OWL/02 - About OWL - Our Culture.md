@@ -1,10 +1,10 @@
-1. ### **THE COLLABORATIVE CULTURE WE MODEL IN OUR WORK**
+### **THE COLLABORATIVE CULTURE WE MODEL IN OUR WORK**
 
 OWL’s working philosophy (that everyone can contribute, regardless of title, tenure with the organization, etc.) means that everyone on our team is empowered to bring our mission and vision to life by making a positive, value-adding impact with everything they do. Every day. We are able to effectively model this approach because our team brings a vast and diverse array of experience (in and out of education) to the table. As such, no one should feel that they don't have to have the required degree, certification, minimum service time, or specific role that makes them less of a contributor to the important work OWL does or to the tools we use. 
 
 This open, radically collaborative, collective leadership approach works because we're a team of passionate people who want to help each other, our nonprofit, and the educators we network with in the broader OWL community succeed. We learn from each other, challenge each other, and thank each other. The minimum that’s asked of you in such a collaborative culture is to come to the work everyday prepared to do whatever it takes to help shape the future of the organization as we strive to live our mission and vision\!
 
-2. ### **WORKING IN “*THE OPEN SOURCE* *WAY”* AT OWL**
+### **WORKING IN “*THE OPEN SOURCE* *WAY”* AT OWL**
 
 The “open” in Open Way Learning is rooted in our core philosophy of “working in the open source way” \- an ethos that shapes how we collaborate, create, and contribute, both internally and externally. While our collective leadership model empowers everyone to make mission-aligned decisions, our open source mindset shapes how we share knowledge, build tools, and iterate together in public view.
 
@@ -38,7 +38,7 @@ Finally, our open-source ethos informs how we hire, organize, and grow:
 
 In essence, OWL is not just an open organization—we are an open-source movement in education. We don’t just use these values \- we live them.
 
-3. ### **OWL COLLECTIVE LEADERSHIP**
+### **OWL COLLECTIVE LEADERSHIP**
 
 At Open Way Learning, leadership is not tied to titles, it’s embedded in how we work, share decisions, and advance our mission together. Inspired by open-source principles of transparency, adaptability, inclusivity, and shared responsibility, OWL operates using a collective leadership model that empowers all team members to lead in their roles, contribute to strategic decisions, and take ownership of execution.
 
@@ -80,7 +80,7 @@ This model empowers everyone at OWL to contribute meaningfully to the mission—
 
 For more on the tools, processes, and responsibilities tied to OWL’s collective leadership model, refer to the [Collective Leadership SOP](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing).
 
-4. ### **SUSTAINING AN AGILE, STARTUP MINDSET AS WE GROW**
+### **SUSTAINING AN AGILE, STARTUP MINDSET AS WE GROW**
 
    
 
@@ -93,7 +93,6 @@ As OWL expands our reach and impact, we are committed to staying agile, open, an
 
 We call this our startup mindset, and it’s a conscious choice \- not something that just “happens.” It’s what lets us remain true to our mission while adapting to a changing education landscape.
 
-### 
 
 #### **What This Looks Like at OWL**
 
@@ -145,7 +144,5 @@ Rather than applying one-size-fits-all solutions, we work alongside educators an
 We also believe that the most sustainable change happens when it’s led by communities themselves. That’s why we prioritize deep, empathetic listening, shared leadership, and community-based design as we help co-design better systems \- not just for some students, but for every student.
 
 This is important work that belongs to all of us. Every member of the OWL team is expected to contribute to this vision of equity \- not as a political stance, but as a human one. When all students are seen, heard, and supported, everyone rises.
-
-### 
 
 Note that OWL intentionally avoids politically charged or polarizing language in public-facing equity commitments. This is not to diminish the seriousness of systemic inequities, but to protect the work we do to ensure our mission reaches all communities. Our values remain clear: equity, inclusion, and student-centered transformation is for every student, especially those historically furthest from opportunity.
