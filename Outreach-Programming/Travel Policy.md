@@ -1,8 +1,8 @@
-### **Purpose and Overview**
+### **PURPOSEw**
 
 This policy ensures that all OWL-related business travel is conducted fairly and responsibly. While OWL employees must follow this policy, independent contractors (hereafter "consultants") are strongly encouraged to follow it for consistency and ease of reimbursement. This policy is not exhaustive; travelers are expected to use sound judgment and act in an ethical, practical, and fiscally responsible manner.
 
-### **General Travel Policy**
+### **GENERAL ITEMS**
 
 * **Reimbursable expenses** must be necessary for OWL business, reasonable, and compliant with IRS, state, or grant-specific regulations. This ensures OWL is fiscally responsible and maintains compliance with applicable laws and funding requirements.   
 * **Pre-authorization** is required for all domestic travel via a Statement of Work (for employees) and a Scope of Work (for consultants). This helps OWL manage budgets and maintain accountability for all travel-related activities.  
@@ -17,11 +17,9 @@ This policy ensures that all OWL-related business travel is conducted fairly and
   * Any exceptions must be approved by an OWL Director in writing to ensure consistent application of policy.  
 * **Policy violations** may result in disciplinary action or termination of contract to preserve the integrity of the organization.
 
-### **Reimbursement of Expenses**
+### **REIMBURSEMENT OF EXPENSES**
 
-OWL supports a distributed, flexible work environment and aims to ensure employees are not burdened with costs associated with fulfilling their roles. OWL reimburses reasonable and necessary expenses related to work travel, professional development, and technology when incurred in service of the organization’s mission.
-
-#### **General Reimbursement Guidelines**
+OWL supports a distributed, flexible work environment and aims to ensure employees are not burdened with costs associated with fulfilling their roles. OWL reimburses reasonable and necessary expenses related to work travel, professional development, and technology when incurred in service of the organization’s mission per the following guidelines:
 
 * Reimbursement is authorized for reasonable and necessary business expenses. Examples of reimbursable items include, but are not limited to:  
 * Airfare and related taxes/fees  
@@ -33,9 +31,7 @@ OWL supports a distributed, flexible work environment and aims to ensure employe
   * Administered through Productive.io (or invoice to OWL \- contractors only) within 90 days of the expense;  
   * Accompanied by receipts for all items over $25 (receipts under $25 are encouraged, especially for grant-funded work), including dates and contract reference for clarity and audit purposes.
 
-### **Non-Reimbursable Expenses (partial list)**
-
-These are not covered because they fall outside of business necessity or may violate funding source restrictions:
+The following items ase are non-reimbursable because they fall outside of business necessity or may violate funding source restrictions:
 
 * Car rental insurance beyond required (see Ground Transportation)  
 * Personal trip changes  
@@ -45,7 +41,7 @@ These are not covered because they fall outside of business necessity or may vio
 * Alternate lodging if host/accommodations are arranged  
 * Tips outside of per diem, fines, personal property losses, in-room entertainment, child/kennel care, personal guests’ costs
 
-### **Travel and Planning Compensation:**
+### **TRAVEL RELATED COMPENSATION:**
 
 OWL strives to ensure fair compensation for travel and planning time, particularly for non-exempt (hourly) employees and consultants. However, we must also adhere to the specific terms and limitations of each client contract to maintain budget integrity and organizational sustainability.
 
@@ -160,7 +156,7 @@ When a client requires an itemized breakdown of services, OWL applies the follow
 
   *Violations of company vehicle policy may lead to disciplinary action.*
 
-### **Accidents Involving Company Vehicles, Rental Cars, or Personal Vehicles Used for OWL Business**
+### **ACCIDENTS RELATED TO COMPANY TRAVEL**
 
 Whether driving a company vehicle, a rental car, or your personal vehicle while conducting OWL-related business, the following procedures must be followed in the event of an accident, theft, or malicious damage:
 
@@ -197,14 +193,14 @@ Whether driving a company vehicle, a rental car, or your personal vehicle while 
 * Employees must follow all applicable insurance reporting guidelines and timelines.  
 * Do **not** authorize repairs, guarantee payment, or accept liability without explicit approval from an OWL Director.
 
-### **Use of Company Credit Card**
+### **COMPANY CREDIT CARD USE**
 
 * Full-time employees may request an OWL-issued company credit card for approved work-related expenses.  
 * If you have a company card, you must use it for all eligible travel and service-related expenses, unless a valid exception is pre-approved.  
 * Do not use the company card for personal expenses under any circumstance.  
 * Receipts and notes must be submitted in Productive for all company card purchases for audit and reconciliation purposes.
 
-### **Travel for Professional Development or Conferences**
+### **TRAVEL FOR PD OR CONFERENCES**
 
 OWL may fund employee travel and registration for conferences or professional events aligned with:
 
@@ -219,7 +215,7 @@ Expenses related to conferences or professional events may be covered by OWL, su
 
 Note: OWL distinguishes professional development from marketing/ presence-related events. Attendance at conferences primarily for brand awareness, recruitment, or sector engagement may be covered, but may not count toward individual PD budgets unless explicitly approved.
 
-### **Travel FAQs** 
+### **TRAVEL FAQs** 
 
 * How do I book air and hotel travel? *You are free to use any reputable travel platform or app as long as you look for the accepted and reasonably lowest cost options for the travel that’s needed for the service you are to provide. For airfare, this should be the lowest cost option, without having to fly a “redeye” to and from your home airport, unless the airfare is more than 20% of the lowest other option. For accommodations, you are free to select any you wish, knowing that the reimbursement amount will only cover the local per diem rates.*  
 * What are the limits for travel? *Refer to the policy above. Email your manager or an OWL Director if you need to extend travel beyond these limits. Also be sure to make a copy of the approval email to any invoice or reimbursement request.*   
