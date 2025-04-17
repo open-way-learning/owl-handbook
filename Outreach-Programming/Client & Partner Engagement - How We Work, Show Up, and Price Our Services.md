@@ -4,8 +4,6 @@ This document outlines OWL’s values-driven approach to engaging with clients a
 
 ### **HOW WE SHOW UP**
 
-### 
-
 OWL knows that how we show up for our partners is as important as what we deliver.
 
 Everything we do, from how we design proposals to how we manage meetings and structure follow-ups, is rooted in the belief that trust, clarity, and shared purpose are the foundation of any meaningful partnership. Our engagements are not transactions; they are co-learning journeys built on reciprocal respect and mutual investment.
@@ -90,7 +88,6 @@ That said, some documents are intended for internal use only, such as budget wor
 
 *A good rule of thumb: Never write or share anything—anywhere—that you wouldn’t stand behind with the OWL logo and your name attached.*
 
-#### 
 
 #### **Client-Facing Documents & Draft Proposals**
 
@@ -121,7 +118,6 @@ OWL team members often take notes during school visits, workshops, or meetings t
 * Document facts and insights, not assumptions or opinions.  
 * When writing something potentially sensitive, ask yourself: *Would this build or harm trust if shared accidentally?*
 
-### 
 
 ### If you’re unsure whether a note, doc, or comment thread should be shared or edited, check in with a Director first. 
 
