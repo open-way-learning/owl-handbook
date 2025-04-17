@@ -111,3 +111,23 @@ We see OWL as a living, evolving organization \- a collective of people working 
 
 So bring your perspective. Share your ideas. Ask hard questions. The next chapter of OWL’s story is being written right now \- and it’s better with you in it.
 
+---
+
+## BONUS SECTION: Influential Readings
+
+The following books have significantly influenced OWL’s philosophy and approach—from its formation to how we have evolved to better live our mission and vision. Employees are encouraged to read and reflect on these texts as part of our shared journey as a learning organization:
+
+- *The Open Organization* – Jim Whitehurst  
+- *Drive* – Daniel H. Pink  
+- *The Culture Code* – Daniel Coyle  
+- *Switch* – Chip & Dan Heath  
+- *Change by Design* – Tim Brown  
+- *Open: How We’ll Work, Live and Learn in the Future* – David Price  
+- *Reinventing Organizations* – Frederic Laloux  
+- *Presentation Zen* – Garr Reynolds  
+- *Innovation and Entrepreneurship* – Peter F. Drucker  
+- *In Search of Deeper Learning* – Jal Mehta & Sarah Fine  
+
+These resources complement our own experiences and are often referenced in the development of OWL’s internal processes, professional development, and external services.
+
+
