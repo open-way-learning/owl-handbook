@@ -91,8 +91,6 @@ As OWL expands our reach and impact, we are committed to staying agile, open, an
 
 We call this our startup mindset, and it’s a conscious choice \- not something that just “happens.” It’s what lets us remain true to our mission while adapting to a changing education landscape.
 
-### 
-
 #### **What This Looks Like at OWL**
 
 Maintaining this mindset means everyone on the team is empowered to contribute \- not just to their individual work, but to how OWL works as an organization. Here’s how we practice this ethos:
@@ -143,8 +141,6 @@ Rather than applying one-size-fits-all solutions, we work alongside educators an
 We also believe that the most sustainable change happens when it’s led by communities themselves. That’s why we prioritize deep, empathetic listening, shared leadership, and community-based design as we help co-design better systems \- not just for some students, but for every student.
 
 This is important work that belongs to all of us. Every member of the OWL team is expected to contribute to this vision of equity \- not as a political stance, but as a human one. When all students are seen, heard, and supported, everyone rises.
-
-### 
 
 Note that OWL intentionally avoids politically charged or polarizing language in public-facing equity commitments. This is not to diminish the seriousness of systemic inequities, but to protect the work we do to ensure our mission reaches all communities. Our values remain clear: equity, inclusion, and student-centered transformation is for every student, especially those historically furthest from opportunity.
 
