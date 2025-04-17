@@ -1,6 +1,6 @@
 ### **PURPOSE**
 
-This document outlines OWL’s onboarding expectations and orientation practices, including initial HR requirements, training protocols, and the organizational context needed for new employees to succeed. It also describes how each position is tied to OWL’s mission and how thoughtful onboarding, grounded in recognized industry best practices, helps ensure team cohesion and clarity from day one.
+This document outlines OWL’s commitment to cultivating a culture of continuous learning, growth, and professional reflection. It describes how team members engage in individual development planning, feedback cycles, and annual growth conversations—while also having access to shared professional development resources. At OWL, professional growth is seen as both a personal responsibility and a collective opportunity to deepen our mission impact.
 
 ### **PROFESSIONAL DEVELOPMENT**
 
