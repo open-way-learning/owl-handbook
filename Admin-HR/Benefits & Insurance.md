@@ -1,6 +1,6 @@
 ### **PURPOSE:** 
 
-This document provides an overview of OWL’s benefits, stipends, salary policies, and our compensation philosophy.
+This document provides an overview of OWL’s benefits, stipends, and insurance coverage.
 
 ### **BENEFITS AND INSURANCE** 
 
