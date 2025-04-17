@@ -1,12 +1,20 @@
 # About OWL
 
-This section introduces the foundational philosophy and values behind Open Way Learning (OWL).
+Welcome to the foundational section of the Open Way Learning (OWL) Handbook. Whether you're a new team member, a school partner, or a collaborator exploring our work, these pages provide insight into the mission, culture, and practices that shape who we are—and how we work.
 
-Whether you're a new team member, a partner school, or someone exploring our work, these pages provide context about:
+Each entry in this section is a living document, reflecting OWL’s commitment to transparency, co-design, and continuous improvement.
 
-- **Our Why** — the mission, vision, and core beliefs that drive us
-- **Our Culture** — the values and organizational practices we embody
-- **Our Approach** — how we bring our work to life through partnerships with schools and communities
+## 📌 What You'll Find
 
-Each entry is a living document and reflects OWL’s commitment to transparency, co-design, and continuous improvement.
+### [Our Why](our-why.md)
+Explore OWL’s mission, vision, core beliefs, and values. This section also includes our origin story and the experiences that shaped our open-source approach to school transformation.
 
+### [Our Culture](our-culture.md)
+This section describes the collective leadership, open collaboration, and cultural commitments that define how we work together—internally and with partners. It also includes everyday ways we bring the OWL ethos to life as a values-driven organization.
+
+### [Our Approach](our-approach.md)
+Learn how we work with schools, districts, and education networks to create lasting systems change. This includes an overview of our services, project workflow, facilitation practices, and our commitment to smart growth over fast growth.
+
+---
+
+Together, these sections offer a transparent and practical look at what it means to be part of the OWL ecosystem.
