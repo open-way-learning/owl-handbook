@@ -14,7 +14,8 @@ This mindset stems from open source principles of transparency, collaboration, m
 * Prioritize working in the open (shared docs, recorded knowledge, version control).  
 * Share drafts for community input, rather than waiting for top-down approval.  
 * Invite contributions from anyone—not just those with tenure or titles.  
-* Focus on outcomes and impact, not hours clocked or formal hierarchy\*.  
+* Focus on outcomes and impact, not hours clocked or formal hierarchy\*.
+
   *\* A note on “Focusing on Outcomes and Impact” \- While we value results and trust team members to manage their time independently, this principle should not be confused with a culture of overwork, perfectionism, or dismissing the value of effort. We recognize that meaningful progress often comes from process, relationship-building, and iteration, even when the final product is still emerging. This value simply reinforces our belief that impactful contributions matter more than visible busyness. It aligns with our flexible PTO policy and anti-burnout culture. We encourage everyone to take time off, recharge, and ask for support, because sustainable impact depends on sustainable people.*
 
 Working this way means:
@@ -33,7 +34,8 @@ Finally, our open-source ethos informs how we hire, organize, and grow:
 * We value asynchronous work, flexible schedules, and distributed collaboration.  
 * We hire from our networks and communities—prioritizing alignment and contribution over credentials.  
 * We design compensation and performance expectations that reflect our primary customer base \- educators.  
-* Writing down and recording knowledge (over verbal explanations).  
+* Writing down and recording knowledge (over verbal explanations).
+  
   *\*A note on why we document: As stated at the beginning of this Handbook, at OWL we honor multiple ways of knowing and sharing information, including verbal storytelling, visual media, and lived experience. That said, we intentionally default to written and openly accessible documentation as a core part of our open-source culture. This approach, inspired by organizations like [GitLab](https://about.gitlab.com/blog/our-handbook-is-open-source-heres-why/) and Red Hat, is not just about policies—it’s about transparency, collective memory, and equitable access. Writing things down (or recording them in searchable, shareable formats) ensures that knowledge isn’t gatekept by proximity, tenure, or personality. As such, this open Handbook is the living source code of OWL \- a way to include all voices, adapt with feedback, and ensure everyone can understand not just what we do, but why and how we do it. It’s how we stay aligned, inclusive, and agile as we grow.*
 
 In essence, OWL is not just an open organization—we are an open-source movement in education. We don’t just use these values \- we live them.
