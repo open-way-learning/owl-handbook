@@ -27,6 +27,8 @@ OWL is serious about a “Living Mission & Vision” and that extends to our val
 
 The following values represent not just how we aspire to work, but how we actually work: with each other, with the schools and communities we serve, and with the broader network of partners who share our vision of a better, more learner-centered future for education. They also reflect the deep commitments that shape our culture as an open organization, rooted in the belief that transparency, collaboration, and equity are not just buzzwords, but the foundation for sustainable transformation.
 
+These values aren't just aspirational—they're operational. They shape how we design our work, how we build our culture, and how we navigate challenges together. They show up in the details of a workshop plan, in the way we give feedback, and in the choices we make when no one's watching. Our hope and our expectation is that you'll live these values not as a checklist, but as a compass—a way to stay aligned to our shared purpose, mission, and vision. 
+
 ### Integrity in Action
 
 At OWL, we care deeply about results, but never at the expense of how we achieve them. We hold ourselves to the highest ethical standards, guided by mission-driven principles and a deep sense of fairness in all our relationships. This commitment is personal. OWL Co-Founder Ben Owens often shares advice from his grandfather:
@@ -58,7 +60,7 @@ We also assume positive intent, give and receive candid feedback, and name tensi
 * We recognize that the best solutions are rarely designed in isolation. Whether working internally across roles or externally with clients and partners, we build with—not for—others. Collaboration isn't just our default process. It's a reflection of our deep respect for collective wisdom.  
 * We work to create environments where every voice is valued, including those of students, knowing that often the quietest ideas are often the most profound. We believe that when people feel safe to contribute, everyone benefits. *The idea is that not every idea is implemented, but every idea is heard.*
 
-## Collective Leadership & Community
+### Collective Leadership & Community
 
 * OWL's leadership model is open and distributed because we believe leadership is a practice, not a position.  
 * Every team member is empowered to make informed, mission-aligned decisions based on our shared strategic goals. We use tools like RACI matrices and open protocols to clarify ownership, reduce confusion, and keep momentum going.  
@@ -66,7 +68,7 @@ We also assume positive intent, give and receive candid feedback, and name tensi
 
   *\*The concept of "the code talks" refers to how open-source coding offers a significant advantage for continuous improvement due to its collaborative nature, rapid feedback loops, and inherent transparency. By enabling developers to contribute, review, and refine code publicly, open-source projects benefit from a diverse pool of talent and insights, leading to faster development, bug fixes, and creation of cutting-edge software.*
 
-## Quality & Craft
+### Quality & Craft
 
 * We take great pride in both what we do and how we do it. Whether designing a single workshop or supporting a long-term culture shift across a district, we set a high bar—customizing every engagement, obsessing over the details, and relentlessly seeking ways to improve. Our work is grounded in humility, precision, and purpose.  
 * Our goal isn't just to be effective—it's to be genuinely transformative. We strive to deliver experiences that feel fundamentally different from traditional professional development. That means creating environments where educators are not passive recipients of a prescribed program, but active co-creators in a process that values their ideas, honors their expertise, and builds capacity for lasting change.  
@@ -77,8 +79,6 @@ We also assume positive intent, give and receive candid feedback, and name tensi
 * We are a [learning organization](https://www.ednc.org/perspective-the-key-ingredient-for-innovation/)—not just in name, but in practice. Inspired by Peter Senge and other thought leaders, we believe learning is a continuous, collective responsibility. We invest in our own growth and that of our partners. We know that when we learn, we improve, and when we improve, we create greater impact.  
 * We embrace calculated risks, lean into complexity, and treat failure as a stepping stone, not a stopping point. This mindset allows us to fail forward: to reflect, adapt, and rise stronger.  
 * We also follow the principle of “go slow to go fast”—taking the time to build clarity, relationships, and shared purpose up front, so we can move with confidence and cohesion down the line.
-
-These values aren't just aspirational—they're operational. They shape how we design our work, how we build our culture, and how we navigate challenges together. They show up in the details of a workshop plan, in the way we give feedback, and in the choices we make when no one's watching. Our hope and our expectation is that you'll live these values not as a checklist, but as a compass. A way to stay aligned to our shared purpose, mission, and vision. 
 
 ## The Open Way Learning History
 
