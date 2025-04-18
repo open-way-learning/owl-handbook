@@ -1,4 +1,4 @@
-### **PURPOSEw**
+### **PURPOSE**
 
 This policy ensures that all OWL-related business travel is conducted fairly and responsibly. While OWL employees must follow this policy, independent contractors (hereafter "consultants") are strongly encouraged to follow it for consistency and ease of reimbursement. This policy is not exhaustive; travelers are expected to use sound judgment and act in an ethical, practical, and fiscally responsible manner.
 
