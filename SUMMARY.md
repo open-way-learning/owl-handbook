@@ -38,4 +38,3 @@
   - [OWL Contractor Manual](Development-Research/OWL%20Contractor%20Manual.md)
 
 - [Templates-Resources](Templates-Resources/README.md)
-  - [Handbook Introduction](Templates-Resources/Handbook%20Introduction.md)
