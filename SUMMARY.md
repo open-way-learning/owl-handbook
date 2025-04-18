@@ -1,4 +1,7 @@
-# Summary
+# Table of Contents
+
+- [Open Way Learning Employee Handbook](README.md)
+- [Introduction](introduction.md)
 
 - [About OWL](About-OWL/README.md)
   - [Our Purpose](About-OWL/our-purpose.md)
