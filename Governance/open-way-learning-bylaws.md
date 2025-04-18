@@ -1,11 +1,7 @@
-  
-**Open Way Learning**
-
-**Articles of Organization & Bylaws**
-
+# Open Way Learning Articles of Organization & Bylaws
 (As adopted on 1/9/2020 and revised on 1/1/25)
 
-# **ARTICLE I: NAME & OFFICES**
+## Article I: Name & Offices
 
 Section 1: This organization shall be known as OPEN WAY LEARNING, a non-profit organization located at 41 Fairhope Way, Brasstown, North Carolina.
 
@@ -13,7 +9,7 @@ Section 2: The principal office and registered agent of Open Way Learning shall 
 
 Section 3: Open Way Learning may also be deemed “OWL,” “The Organization,” and “The Nonprofit” in these bylaws.
 
-# **ARTICLE II: PURPOSE**
+## Article II: Purpose
 
 Section 1: Open Way Learning has been deemed by the United States Internal Revenue Service as being an education nonprofit per [Section 501(c)(3) of the Internal Revenue Code of 1986, as amended](https://www.irs.gov/charities-non-profits/charitable-organizations/exempt-purposes-internal-revenue-code-section-501c3). Its Employer Identification Number issued by the IRS is 83-3760449.
 
@@ -43,7 +39,7 @@ Section 8: Open Way Learning funds and supports the above activities primarily t
 
 Section 9: OWL is committed to helping close the unacceptable equity gap that has existed for far too long in educational systems and institutions by prioritizing and significantly discounting service to historically marginalized and high-need schools and communities, as well as aligning resources to maximize impact in areas of greatest need.
 
-# **ARTICLE III: MEMBERSHIP**
+## Article III: Membership
 
 Section 1: Membership in Open Way Learning (OWL) refers to individuals serving on the Board of Directors who meet the qualifications outlined in this article. Members have specific rights and obligations, including voting, decision-making, and governance responsibilities, as defined under the North Carolina Nonprofit Corporation Act. Membership is restricted to participation in the Board of Directors and does not extend to general or public membership.
 
@@ -90,7 +86,7 @@ Section 9: The Board of Directors may appoint non-voting Board Advisors to provi
 * The Board shall conduct an annual review to determine the continuation or conclusion of the advisory role.
 
 
-  # **ARTICLE IV: ORGANIZATION** 
+## Article IV: Organization
 
 Section 1: The Board of Directors of Open Way Learning (OWL) is organized and operates under the authority of the North Carolina Nonprofit Corporation Act, unless otherwise specified by the Articles of Incorporation or these bylaws. The Board holds ultimate responsibility for the Organization’s governance, oversight, and strategic direction, with powers vested in it to manage OWL’s activities, property, and operations in alignment with its mission and legal obligations.
 
@@ -122,7 +118,7 @@ Section 6: The Board of Directors shall conduct a self-evaluation at least once 
 * Identification of areas for improvement and development of an action plan to address findings.
 
 
-  # **ARTICLE V: QUORUM**
+## Article V: Quorum
 
 Section 1: A simple majority of the members of the Board of Directors shall constitute a quorum.
 
@@ -139,7 +135,7 @@ Section 3: In circumstances where a quorum is not reached at a meeting or when u
 * Restrictions: Email voting is permitted only for decisions that do not require extensive deliberation or debate. Matters involving personnel decisions, changes to bylaws, or financial transactions exceeding $10,000 shall not be decided via email.
 
 
-  # **ARTICLE VI: AMENDMENTS**
+## Article VI: Amendments
 
 Section 1: Amendments to these bylaws or the [Articles of Incorporation](https://drive.google.com/file/d/1s16Nb7oyS-YnHuIm4_MsuT0vQifaIKMO/view?usp=sharing) may be proposed by the Board of Directors, organizational stakeholders, or interested members of the public. Proposals must be submitted in writing, clearly articulate the proposed changes, and provide a rationale supported by relevant evidence or examples.
 
@@ -172,7 +168,7 @@ Section 5: The Board of Directors Member-at-Large/Secretary shall:
 * Distribute updated bylaws to all Board members promptly following final approval and ensure proper archiving of prior versions.
 
 
-  # **ARTICLE VII: BOARD OF DIRECTORS MEETINGS**
+## Article VII: Board of Directors Meetings
 
 Section 1: There shall be at least two regular meetings of the Board of Directors each year. The first meeting shall be held at the beginning of the fiscal year (ideally in January) and the second meeting shall be held mid-year (ideally in June), at such place, date, and time as determined by the Board of Directors in the preceding meeting. These meetings may include a live video or teleconference to ensure a quorum is reached. These meetings ensure the Board fulfills its responsibility for governance, oversight, and strategic direction in compliance with the North Carolina Nonprofit Corporation Act and OWL’s bylaws.
 
@@ -239,7 +235,7 @@ Section 10: Board Advisors may be invited to attend and participate in Board mee
 * Cannot vote on or influence Board decisions regarding their own contracts or compensation.  
 * May receive Board meeting minutes and related documents at the discretion of the Board, except those deemed confidential or involving executive sessions.
 
-# **ARTICLE VIII: DUTIES OF MEMBERS**
+## Article VIII: Duties of Members
 
 Section 1: Members of the Board of Directors shall fulfill their fiduciary duties in good faith, with care, loyalty, and diligence, ensuring alignment with OWL’s mission and legal obligations. Key responsibilities include:
 
@@ -296,7 +292,7 @@ Section 7: To ensure transparency, ethical decision-making, and compliance with 
 * Periodic Review: The Board shall periodically review compensation and financial arrangements to ensure adherence to nonprofit regulations and best practices.  
 * Board Advisors: Advisors must disclose potential conflicts, recuse themselves from relevant discussions or decisions, and adhere to all applicable conflict of interest policies to ensure their role does not interfere with the Board’s fiduciary responsibilities.
 
-# **ARTICLE IX: NOMINATIONS AND ELECTIONS**
+## Article IX: Nominations and Elections
 
 Section 1: Nominations and Elections:
 
@@ -313,11 +309,11 @@ Section 2: Term Limits and Reappointments:
 
 Section 3: 	Board members absent for two consecutive meetings without a satisfactory reason shall be contacted by the Board and may be asked to resign.
 
-# **ARTICLE X: FISCAL YEAR**
+## Article X: Fiscal Year
 
 Section 1: The fiscal year of Open Way Learning shall end as of the thirty first of December of each year. 
 
-# **ARTICLE XI: INDEMNIFICATION**
+## Article XI: Indemnification
 
 Section 1: Open Way Learning shall indemnify and hold harmless its current and former directors, officers, employees, and agents against expenses (including reasonable attorneys' fees), judgments, fines, and settlement amounts incurred in connection with legal actions arising out of their duties performed in good faith and within the scope of their roles, to the fullest extent permitted by applicable law.
 
@@ -331,7 +327,7 @@ Section 5: Open Way Learning shall purchase and maintain “Directors & Officers
 
 Section 6: If any provision of this Article is determined to be invalid or unenforceable, the remaining provisions shall remain in full force and effect to the maximum extent permitted by law.
 
-# **ARTICLE XII: DISSOLUTION**
+## Article XII: Dissolution
 
 Section 1; The Organization shall be dissolved according to the procedures outlined in the North Carolina Nonprofit Organization Act.  
    
@@ -341,11 +337,11 @@ Section 3: Any assets not disposed of per the above Sections shall be disposed o
 
 Section 4: In the event of dissolution, the Leadership Team Officer will collaborate with the Treasurer and Director of Finance & Operations to ensure all organizational records, financial accounts, and operational processes are transferred or concluded in compliance with these bylaws and applicable laws.
 
-# **ARTICLE XIII: RULES OF ORDER**
+## Article XIII: Rules of Order
 
 Section 1: The meetings of Open Way Learning shall be conducted in accordance with Robert's Rules of Order, Newly Revised, unless otherwise stated in the Articles of Incorporation or bylaws. 
 
-# **ARTICLE XIV: BUDGET & FINANCES**
+## Article XIV: Budget & Finances
 
 Section 1: The Board of Directors shall ensure the financial health and sustainability of Open Way Learning (OWL) by:
 
@@ -421,6 +417,6 @@ Section 14: Only the Board may approve loans, requiring a two-thirds (2/3) major
 * Comply with nonprofit governance best practices.  
 * Loan discussions and decisions must be documented, with quarterly repayment updates shared by the Treasurer.
 
-# **ARTICLE XV: TAX EXEMPTION PROVISIONS**
+## Article XV: Tax Exemption Provisions
 
 Section 1: No substantial part of the activities of the Organization shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the Organization shall not participate in or intervene in (including the publishing or distribution of statements) any political campaign on behalf of any candidate for public office. Notwithstanding any other provision of these articles, the Organization shall not carry on any other activities not permitted to be carried on (a) by a corporation exempt from Federal income tax under Section 501(c)(3) of the Internal Revenue Code of 1954, as amended (or the corresponding provision of any future United States Internal Revenue Law) of (b) by a corporation, contribution to which are deductible under Section 170 (c)(2) of the Internal Revenue Code of 1954, as amended (or the corresponding provision of any future United States Internal Revenue Law).  

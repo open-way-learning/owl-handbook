@@ -6,7 +6,7 @@
   - [Our Approach](About-OWL/our-approach.md)
 
 - [Governance](Governance/README.md)
-  - [Open Way Learning ByLaws](Governance/Open%20Way%20Learning%20ByLaws.md)
+  - [Open Way Learning ByLaws](Governance/open-way-learning-bylaws.md)
   - [OWL CODE OF CONDUCT & ETHICS](Governance/OWL%20CODE%20OF%20CONDUCT%20&%20ETHICS%20.md)
   - [OWL BOARD OF DIRECTORS CODE OF ETHICS](Governance/OWL%20BOARD%20OF%20DIRECTORS%20CODE%20OF%20ETHICS.md)
 
