@@ -1,10 +1,10 @@
 ---
-description: This document outlines OWL's shared expectations for collaboration—within our internal team and with the schools, districts, and partners we serve. It reinforces our commitment to collective leadership, psychological safety, and results-driven teamwork rooted in empathy, trust, and clarity.
+description: This document outlines OWL's shared expectations for collaboration—within our internal team and with the schools, districts, and partners we serve.
 ---
 
 # Team and Collaborative Norms
 
-Our norms reflect OWL's identity as a team of "warm demanders"—people who lead with deep care *and* high expectations. Whether facilitating a partner workshop or moving an internal project sprint forward, we aim to balance humility with boldness, flexibility with follow-through, and support with strong accountability.
+Our norms reinforce our commitment to collective leadership, psychological safety, and results-driven teamwork rooted in empathy, trust, and clarity. They reflect OWL's identity as a team of "warm demanders"—people who lead with deep care *and* high expectations. Whether facilitating a partner workshop or moving an internal project sprint forward, we aim to balance humility with boldness, flexibility with follow-through, and support with strong accountability.
 
 This document highlights how we prepare, participate, and engage across all forms of collaboration. Formal systems for team meetings, sprints, and Agile cycles will be outlined in the internal SOP: "Collaboration Systems & Meeting Structures."
 
