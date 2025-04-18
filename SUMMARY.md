@@ -32,7 +32,7 @@
   - [Information Technology & Media Acceptable Use](Outreach-Programming/Information%20Technology%20&%20Media%20Acceptable%20Use_.md)
 
 - [Strategy-Innovation](Strategy-Innovation/README.md)
-  - [Team & Collaborative Norms](Strategy-Innovation/Team%20&%20Collaborative%20Norms%20.md)
+  - [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
 
 - [Development-Research](Development-Research/README.md)
   - [OWL Contractor Manual](Development-Research/OWL%20Contractor%20Manual.md)
