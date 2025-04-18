@@ -6,7 +6,6 @@ This policy ensures that all OWL-related business travel is conducted fairly and
 
 * **Reimbursable expenses** must be necessary for OWL business, reasonable, and compliant with IRS, state, or grant-specific regulations. This ensures OWL is fiscally responsible and maintains compliance with applicable laws and funding requirements.   
 * **Pre-authorization** is required for all domestic travel via a Statement of Work (for employees) and a Scope of Work (for consultants). This helps OWL manage budgets and maintain accountability for all travel-related activities.  
-* **Compensation Structure**  
 * **Exempt Employees \-** These employees are paid a fixed monthly salary and are not compensated based on individual services or hours worked. Their travel-related work is included as part of their regular duties unless otherwise specified in their Statement of Work.  
 * **Non-Exempt Employees and Consultants \-** These individuals are compensated on a fee-for-service basis, meaning they are paid for specific tasks, services, or travel time as outlined in their approved Statement of Work (for employees) or Contractor Scope of Work (for consultants). Travel-related time or expenses are only compensable if explicitly included in the contract.  
 * **Booking expectations**:  
