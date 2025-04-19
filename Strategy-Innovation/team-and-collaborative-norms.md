@@ -53,7 +53,6 @@ In facilitation spaces, we:
 * Hold both structure and flexibility. Participants should always know why we're doing something—and feel safe to ask why not.  
 * Set and revisit norms. Use visible norms like "step up/step back," "embrace non-closure," and "critique the work, not the person."  
 * Center belonging. Design for multiple modes of participation—voice, chat, sticky notes, silent reflection, and visuals.  
-*   
 * Invite productive discomfort. Normalize critical reflection without requiring forced vulnerability.  
 * Model shared responsibility. If we want collaborative classrooms, we have to lead collaborative rooms.
 
