@@ -1,6 +1,3 @@
-### **OPEN WAY LEARNING** 
-
-### **CONTRACTOR MANUAL**
 
 ## **Purpose:** 
 
@@ -73,7 +70,7 @@ This section outlines the full life cycle of an OWL Fellow's engagement in a con
 * Reviews and acknowledges the OWL Code of Ethics and Technology Requirements.  
 * Receives access to key OWL documents and templates, including the Contractor Manual, Payment Terms, and Scope of Work (SOW) template.
 
-  ### **2\. Service Engagement Initiation**
+### **2\. Service Engagement Initiation**
 
 * The OWL Program Manager notifies the Fellow of a potential upcoming service and shares:  
   * A high-level overview of the engagement.  
@@ -87,7 +84,7 @@ This section outlines the full life cycle of an OWL Fellow's engagement in a con
 * The Fellow reviews and signs the SOW, acknowledging the terms and confirming their participation (typically via email reply within 72 hours).  
 * Note that while service dates are proposed in the Contractor Scope of Work, unless noted otherwise, these dates are considered flexible and may be adjusted with mutual agreement. New dates or revisions must be confirmed in writing via email and do not require a formal amendment unless the nature or scope of services materially changes.
 
-  ### **3\. Service Planning & Preparation**
+### **3\. Service Planning & Preparation**
 
 * The OWL Fellow collaborates with the OWL Program Manager and client through:  
   * A virtual intake call (hosted by the Program Manager).  
@@ -99,7 +96,7 @@ This section outlines the full life cycle of an OWL Fellow's engagement in a con
 * The OWL Fellow reviews and aligns the planned content to meet the goals of the client and OWL’s values for learner-centered innovation.  
 * Workshop materials may be provided by OWL, the client, or the OWL Fellow depending on the engagement. The responsible party for material creation and distribution will be indicated in the Scope of Work or determined during the planning call. Any new materials created by the OWL Fellow using OWL tools or content must align with OWL’s open-source licensing and branding guidelines.
 
-  ### **4\. Service Delivery**
+### **4\. Service Delivery**
 
 * The OWL Fellow facilitates the service (workshop, PD session, design sprint, coaching, etc.) as outlined in the Scope of Work.  
 * The Fellow ensures:  
@@ -108,7 +105,7 @@ This section outlines the full life cycle of an OWL Fellow's engagement in a con
   * Clear alignment with OWL's competencies and deliverables  
 * The OWL Fellow documents any immediate needs or issues and communicates with the OWL Program Manager if follow-up or real-time support is required.
 
-  ### **5\. Post-Service Follow-Up**
+### **5\. Post-Service Follow-Up**
 
 * The OWL Program Manager sends a post-service email to the client, which may include:  
   * A follow-up survey  
@@ -121,7 +118,7 @@ This section outlines the full life cycle of an OWL Fellow's engagement in a con
   * Suggested next steps or improvements  
 * The OWL Program Manager may share confidential client feedback or survey data with the Fellow to support growth. Fellows are encouraged to reflect on this data but must not share it with clients or external parties.
 
-  ### **6\. Invoicing and Payment**
+ ### **6\. Invoicing and Payment**
 
 * The OWL Fellow prepares and submits an itemized invoice no later than the 15th of the month following the service.  
   * Invoice should include: dates, service type (e.g., planning, facilitation), and total hours or days worked.  
