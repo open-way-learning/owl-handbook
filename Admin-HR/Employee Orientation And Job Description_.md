@@ -35,7 +35,6 @@ The new employee’s manager or mentor will provide a customized onboarding plan
 * Employee Job Description  
 * Examples of Work Products
 
-Refer to [this document](https://docs.google.com/document/d/1-wqzpHO4LANfboBi5BBGSTCt5vhzzWL3ZbXuu3o1KVI/edit?usp=sharing) for an example regarding new employee orientation and onboarding.
 
 ### **POSITION DESCRIPTION**
 
