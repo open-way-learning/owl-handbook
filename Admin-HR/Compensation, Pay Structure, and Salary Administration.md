@@ -1,7 +1,5 @@
 ### **PURPOSE**
 
-### 
-
 This document outlines OWL’s compensation philosophy, pay structure, and salary administration practices. It includes principles of pay equity, benchmark ranges aligned with the education nonprofit sector, and transparent oversight protocols for all employee roles. The document also covers salary distribution, overtime, pay frequency, deductions, and related legal compliance. These policies support OWL’s mission by ensuring compensation is fair, mission-aligned, and fiscally responsible—while reinforcing transparency, accountability, and equity across the organization.
 
 ### **OWL COMPENSATION STRUCTURE FOR EMPLOYEES**
@@ -37,7 +35,6 @@ Full-time exempt compensation (including for OWL Directors) is reviewed and appr
 
 The Board may establish a Compensation Subcommittee to conduct periodic reviews of market alignment and ensure compliance with OWL’s mission, IRS standards, and evolving organizational capacity.
 
-### 
 
 ### **SALARY ADMINISTRATION**
 
@@ -68,7 +65,6 @@ Each paycheck reflects:
 
 To set up or change elected deductions, employees should contact the Manager of Finance, HR, and Communications.
 
-### 
 
 #### **Paycheck Errors & Lost Payments**
 
@@ -80,13 +76,11 @@ Employees should promptly notify the Manager of Finance, HR, and Communications 
 
 If a paper check is lost or destroyed, OWL reserves the right to charge a replacement processing fee. Also note that payroll advances are not permitted.
 
-### 
 
 #### **Workweek Definition for Non-Exempt Employees**
 
 For timekeeping and overtime purposes, the OWL workweek begins at 12:01 a.m. Sunday and ends at 12:00 midnight the following Saturday. Time worked during this period is used to calculate standard and overtime pay for non-exempt employees.
 
-### 
 
 #### **Personnel File Updates**
 
