@@ -1,7 +1,5 @@
 ### **PURPOSE**
 
-### 
-
 This document outlines OWL’s approach to time off, leave, and work-life balance, reflecting our commitment to human-centered, sustainable work practices. It includes flexible PTO for exempt employees, structured leave policies for non-exempt and part-time team members, and clear guidance on holidays, sick leave, parental leave, civic duties, and extended leave of absence. Our policies are rooted in trust, proactive communication, and the belief that time away from work is essential—not optional—for long-term wellbeing and effectiveness.
 
 ### **PAID TIME OFF**
