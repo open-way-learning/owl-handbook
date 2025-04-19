@@ -23,6 +23,8 @@ It's also important to know that this document is always in beta! That means it'
 
 To ensure this Handbook is always a living document, all employees are encouraged to routinely suggest updates, refinements, or corrections using OWL's internal GitBook comment feature or by tagging a Director in the `#handbook-updates` Slack channel. Suggestions are reviewed quarterly or as needed by the Leadership Team. Refer to this procedure for [Setting Up and Managing Documents on GitBook](https://docs.google.com/document/d/1CiJ2uRiQLLMPyVbInkVFJcjsJ10gfzf61eBA0l0DCRI/edit?usp=sharing) for more details.
 
+Note that each section is actively maintained by the designated OWL Director or Manager responsible for that respective area of work (e.g. Director of Finance & Operations will maintain the Finance & Operations files). Any proposed changes to the documents in each respective folder should be coordinated with that person for alignment, accuracy, and final approval. If you're unsure who the responsible person is for a section, contact any OWL Director or refer to the Organizational Chart for current role assignments.
+
 ### Important Legal Disclaimers
 
 * This Handbook provides current organizational policies as of its date of distribution. It is not a legal contract, nor does it guarantee employment for any particular duration or type of work. It supersedes all prior personnel documents, verbal commitments, or informal practices. Policies may change as needed. In all cases, OWL complies with applicable laws and will update this Handbook when required by legal or regulatory changes.
