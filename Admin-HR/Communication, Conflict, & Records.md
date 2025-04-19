@@ -47,7 +47,6 @@ Different approaches work in different contexts. The following five strategies o
 
 Remember that conflict isn’t something to “get through,” it’s something to lean into. When approached thoughtfully, even the toughest moments can leave us stronger, clearer, and more connected. 
 
-### 
 
 ### **PERSONNEL RECORDS** 
 
