@@ -26,7 +26,7 @@ To ensure this Handbook is always a living document, all employees are encourage
 ### Important Legal Disclaimers
 
 * This Handbook provides current organizational policies as of its date of distribution. It is not a legal contract, nor does it guarantee employment for any particular duration or type of work. It supersedes all prior personnel documents, verbal commitments, or informal practices. Policies may change as needed. In all cases, OWL complies with applicable laws and will update this Handbook when required by legal or regulatory changes.
-* This Handbook is complemented by the OWL Code of Conduct & Ethics found in the Governance section of this Handbook - which outlines legal responsibilities, ethical guidelines, and regulatory requirements for all OWL employees and stakeholders. If a situation involves potential misconduct, formal grievance resolution, or compliance with local, state, or federal law, please refer to the Code of Conduct & Ethics for detailed guidance, which is available on the OWL GitBook site or upon request from any Director.
+* This Handbook is complemented by the OWL Code of Conduct & Ethics, found in the Governance section of this Handbook - it outlines legal responsibilities, ethical guidelines, and regulatory requirements for all OWL employees and stakeholders. If a situation involves potential misconduct, formal grievance resolution, or compliance with local, state, or federal law, please refer to the Code of Conduct & Ethics for detailed guidance, which is available on the OWL GitBook site or upon request from any Director.
 
 We're glad you're here. We hope you'll find this Handbook a valuable resource, a reflection of our shared values, and an invitation to co-create the future of OWL—together!
 
