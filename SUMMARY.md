@@ -39,5 +39,8 @@
   - [Independent Contractor Agreement](Development-Research/Independent%20Contractor%20Agreement%20(OWL%20-%20Fellows).md)
   - [Independent Contractor Payment Terms](Development-Research/Independent%20Contractor%20Payment%20Terms.md)
   - [OWL Ambassador and Fellow Program Description](Development-Research/OWL%20Ambassador%20and%20Fellow%20Program%20Description.md)
+  - [Example Client Proposal](Development-Research/Example%20Client%20Proposal.md)
+  - [Example Scope of Work – Open Way Learning](Development-Research/Example%20Scope%20of%20Work%20-%20Open%20Way%20Learning.md)
+
 
 - [Templates-Resources](Templates-Resources/README.md)
