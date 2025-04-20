@@ -1,4 +1,5 @@
 THIS INDEPENDENT CONTRACTOR SERVICES AGREEMENT (this “Agreement”) is made and entered into to be effective as of \[Date\] (the “Effective Date”), by and between Open Way Learning (“Company” or “OWL”) and \_\_\_\_\_\_\_\_ (“Contractor”).  
+
 WHEREAS, Company desires to engage Contractor temporarily for specific services on an independent contractor basis as outlined below, and Contractor wishes to provide such services to Company;
 
 NOW, THEREFORE, in consideration of the mutual promises and obligations of the parties set forth herein and for other good and valuable consideration, the receipt and legal sufficiency of which are hereby acknowledged, the parties agree as follows:
@@ -51,9 +52,7 @@ Contractor will facilitate OWL programs and services to OWL’s selected clients
 
 12. Survival.  The provisions of this Agreement which by their nature are intended to survive the termination or non-renewal of this Agreement shall continue as valid and enforceable obligations of the parties notwithstanding any such termination or non-renewal.
 
-
 13. Choice of Law.  This Agreement, and any dispute or controversy arising out of or relating to this Agreement, shall in all respects be governed by and construed according to the laws of the State of North Carolina, without regard to its conflict of law provisions.
-
 
 14. Branding, Social Media, and Usage Guidelines  
     1) Contractor may refer to themself as an OWL Fellow for as long as Contractor is providing services for Company.   
