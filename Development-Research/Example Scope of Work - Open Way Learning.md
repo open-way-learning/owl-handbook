@@ -72,8 +72,8 @@ Standard OWL materials provided. Additional content must be pre-approved.
 
 ### **Contractor Compensation and Rates**
 
-* **Onsite Facilitation:** $950/day (includes all planning and preparation time)  
-* **Virtual Facilitation:** $850/day (6+ hours); $450/half day (1–3 hours)  
+* **Onsite Facilitation:** $xxx/day (includes all planning and preparation time)  
+* **Virtual Facilitation:** $yyy/day (6+ hours); $zzz/half day (1–3 hours)  
 * **Routine Communication (\<1 hour):** Provided pro bono as part of service commitment  
 * **Other Expenses:** Reimbursed per the OWL Travel Policy with prior written approval and submission of receipts  
 * **Note:** All compensation terms are subject to the OWL Independent Contractor Payment Terms and applicable Scope of Work agreements. Rates reflect OWL’s nonprofit structure and are aligned with established tiered consultant pay practice.
