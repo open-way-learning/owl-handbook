@@ -34,7 +34,10 @@
 - [Strategy-Innovation](Strategy-Innovation/README.md)
   - [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
 
-- [Development-Research](Development-Research/README.md)
+- [Development & Research](Development-Research/README.md)
   - [OWL Contractor Manual](Development-Research/OWL%20Contractor%20Manual.md)
+  - [Contractor Engagement](Development-Research/contractor-engagement.md)
+  - [Fellow Program Overview](Development-Research/fellow-program-overview.md)
+  - [Grant Tracking Procedures](Development-Research/grant-tracking-procedures.md)
 
 - [Templates-Resources](Templates-Resources/README.md)
