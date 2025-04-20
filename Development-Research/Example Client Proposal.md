@@ -41,11 +41,11 @@ Open Way Learning (OWL) is pleased to submit this proposal to support Terre Haut
 
 | Category | Description | Estimated Cost |
 | :---- | :---- | :---- |
-| Onsite Facilitation | 4 onsite visits (2 facilitators) | $6,000 |
-| Virtual Coaching | Up to 10 hours of virtual coaching and leadership support | $1,500 |
-| Travel & Lodging | Estimated for 4 visits | $2,400 |
-| Discount (10%) | Due to mission alignment and nonprofit pricing structure | \-$1,290 |
-| **Total Estimate** |  | **$8,610** |
+| Onsite Facilitation | 4 onsite visits (2 facilitators) | $xxx |
+| Virtual Coaching | Up to 10 hours of virtual coaching and leadership support | $xxx |
+| Travel & Lodging | Estimated for 4 visits | $xxx |
+| Discount (10%) | Due to mission alignment and nonprofit pricing structure | \-$xxx |
+| **Total Estimate** |  | **$xxx** |
 
 *OWL is committed to ensuring pricing is not a barrier to equitable partnership. We welcome adjustments based on mutual agreement.*
 
