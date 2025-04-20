@@ -16,8 +16,6 @@ Importantly, this procedure is not a rigid policy. It provides a flexible framew
 
 4. **Competency-Driven Growth:** Advancement is based not only on years of experience, but also demonstrated mastery of OWL’s core competencies and positive evaluation feedback from consulting engagements.
 
-## 
-
 ## **Consultant Tiers & Pay Ranges**
 
 | Tier | Title | Typical Range | Profile Summary |
@@ -49,8 +47,6 @@ This scoring system evaluates readiness and advancement based on:
 
   ## **Fellowship Integration**
 
-  ### **OWL Ambassadors and Fellows**
-
 * **Ambassadors**: Volunteer champions who model OWL’s mission within their own learning communities.  
 * **Fellows**: Recognized leaders in the OWL ecosystem who have demonstrated large-scale impact and alignment with OWL’s values.  
 * **Fellowship and Compensation**:  
@@ -63,8 +59,6 @@ This scoring system evaluates readiness and advancement based on:
 * Fellows who complete 1–2 services/year with positive feedback may maintain Tier 3 status.  
 * Fellows who complete 6+ high-quality services/year and demonstrate leadership, adaptability, and tool creation may be considered for advancement to **Tier 4**.
 
-
-## 
 
 ## **Client Rate Percentage Model**
 
@@ -135,7 +129,6 @@ By engaging in contracted work under an ICA, the consultant acknowledges that th
 * Consultant Evaluation Rubric  
 * Self-Assessment Form (aligned to OWL Competencies)
 
-  ## 
 
   ## **Appendix 1: OWL Contractor Compensation Benchmarks**
 
@@ -167,7 +160,6 @@ OWL uses a tiered contractor compensation model informed by credible, mission-al
 
 *Disclaimer:  This rate range is intended as a starting point to guide the determination of a fair and equitable initial pay rate for contractors. OWL will always strive to align compensation with experience, service type, and scope complexity. Note however, that certain client contracts may include budget ceilings that limit OWL’s ability to offer previously agreed-upon or tier-based rates. In such cases, the contractor is under no obligation to accept the assignment and may choose to decline the engagement or negotiate a mutually acceptable reduced rate with OWL.*
 
-## 
 
 ## **Appendix 2: Example Scenarios \- Tiered Compensation in Practice**
 
