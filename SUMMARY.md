@@ -36,8 +36,8 @@
 
 - [Development & Research](Development-Research/README.md)
   - [OWL Contractor Manual](Development-Research/OWL%20Contractor%20Manual.md)
-  - [Contractor Engagement](Development-Research/contractor-engagement.md)
-  - [Fellow Program Overview](Development-Research/fellow-program-overview.md)
-  - [Grant Tracking Procedures](Development-Research/grant-tracking-procedures.md)
+  - [Independent Contractor Agreement](Development-Research/Independent%20Contractor%20Agreement%20(OWL%20-%20Fellows).md)
+  - [Independent Contractor Payment Terms](Development-Research/Independent%20Contractor%20Payment%20Terms.md)
+  - [OWL Ambassador and Fellow Program Description](Development-Research/OWL%20Ambassador%20and%20Fellow%20Program%20Description.md)
 
 - [Templates-Resources](Templates-Resources/README.md)
