@@ -2,24 +2,17 @@
 
 This section includes key policies and practices related to OWL’s internal operations, with a focus on supporting team members through clear expectations, transparent communication, and equitable systems.
 
-The content here reflects OWL’s commitment to being a learning organization—balancing consistency with adaptability as we grow.
+It is actively maintained by the **Manager of Finance, HR, & Communications**, who ensures that the documents in this section are up to date, accessible, and aligned with OWL’s values and legal responsibilities. Any proposed changes to these documents should be coordinated with the Manager for alignment, accuracy, and final approval.
 
-## What’s Included
+While this folder may intersect with files in the `Operations-Finance/` and `Governance/` sections, the materials here specifically support OWL’s people systems—centered on culture, accountability, and staff wellbeing.
 
-- **Employment Policies & Practices** – From Equal Opportunity to onboarding documents, this includes baseline expectations for how we support and protect all team members.
-- **Time Off & Leave** – Descriptions of PTO, parental leave, holidays, and other types of leave available to employees.
-- **Work Hours & Comp Time** – Guidelines for comp time (exempt/non-exempt), breaks, and overtime.
-- **Benefits & Compensation** – Overview of stipends, salary policies, and our compensation philosophy.
-- **Performance, Growth & Professional Development** – Details on review cycles, raise requests, and our approach to individual growth.
-- **Communication & Conflict** – Tools and expectations for open communication and resolving tensions collaboratively.
-- **Reimbursements & Technology Use** – Policies around use of company credit cards, IT support, and expense reimbursement.
-- **Job Roles & Orientation** – What to expect as a new OWL team member, including how roles are documented and supported.
+### Core Responsibilities Tied to This Folder Include:
+- Managing and maintaining OWL’s **employee handbook**, benefits documentation, and compliance with employment law  
+- Coordinating **hiring, onboarding, and offboarding** processes for staff   
+- Supporting the development and communication of **compensation, leave, and evaluation** systems  
+- Administering employee **benefits**, tracking performance cycles, and ensuring role clarity  
+- Maintaining all contractor documentation and supporting OWL Fellows in coordination with the Director of Development & Research  
+- Documenting and archiving key organizational processes, policies, and decisions  
+- Supporting a healthy, inclusive work environment through clear communication and DEI-informed practices
 
-## Still in Development
-
-Some content areas are currently being reviewed or co-developed:
-- Updated RACI matrices and org-wide role definitions
-- Internal advancement pathways aligned to the OWL Competency Framework
-- Guidance for part-time and fellow-contracted roles
-
-These and other items will be added to this section as they are finalized. Please reach out to the Manager of Finance, HR, & Communications for questions that may arise.
+Refer to OWL’s [Organizational Chart](../Governance/org-chart.pdf) for current role assignments or contact any OWL Director for clarification.
