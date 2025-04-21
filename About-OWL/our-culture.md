@@ -18,6 +18,8 @@ This mindset stems from open source principles of transparency, collaboration, m
 * Invite contributions from anyone—not just those with tenure or titles.  
 * Focus on outcomes and impact, not hours clocked or formal hierarchy.[^outcomes-and-impact]
 
+[^outcomes-and-impact]: While we value results and trust team members to manage their time independently, this principle should not be confused with a culture of overwork, perfectionism, or dismissing the value of effort. We recognize that meaningful progress often comes from process, relationship-building, and iteration, even when the final product is still emerging. This value simply reinforces our belief that impactful contributions matter more than visible busyness. It aligns with our flexible PTO policy and anti-burnout culture. We encourage everyone to take time off, recharge, and ask for support, because sustainable impact depends on sustainable people.
+
 Working this way means:
 
 * You're empowered to try something new, fail forward,[^fail-forward] and improve quickly.  
@@ -174,8 +176,6 @@ If you work for Open Way Learning in any capacity, here are some small ways you 
 These aren't rules. They're reminders of what kind of place we want this to be, and what kind of teammates we want to be for each other.
 
 Want to go deeper? Check out [The Culture Code](https://danielcoyle.com/the-culture-code/) by Daniel Coyle for insight into why psychological safety, shared vulnerability, and purpose are the cornerstones of any high-performing culture. Or revisit [Let My People Go Surfing](https://www.patagonia.com/product/let-my-people-go-surfing-revised-paperback-book/BK067.html) by Yvon Chouinard for a model of purpose-driven work grounded in flexibility and trust.
-
-[^outcomes-and-impact]: While we value results and trust team members to manage their time independently, this principle should not be confused with a culture of overwork, perfectionism, or dismissing the value of effort. We recognize that meaningful progress often comes from process, relationship-building, and iteration, even when the final product is still emerging. This value simply reinforces our belief that impactful contributions matter more than visible busyness. It aligns with our flexible PTO policy and anti-burnout culture. We encourage everyone to take time off, recharge, and ask for support, because sustainable impact depends on sustainable people.
 
 [^fail-forward]: We believe that failure—when it's safe, intentional, and reflective—is a powerful tool for learning and innovation. As described in [this video](https://www.youtube.com/watch?v=Gb9tjnJWu5g), not all failure is created equal. OWL encourages "intelligent failures" that result from well-reasoned, mission-aligned risks and iterative experimentation, not from negligence, avoidable mistakes, or patterns of underperformance (especially if it has potential to affect OWL's reputation). If you're unsure whether a decision or action falls within that distinction, seek peer feedback or check in with a teammate or Director.
 
