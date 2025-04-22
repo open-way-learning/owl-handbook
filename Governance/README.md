@@ -1,13 +1,17 @@
+---
+description: This section of the OWL Handbook provides public access to the foundational governance documents that define how Open Way Learning (OWL) operates as a 501(c)(3) nonprofit.
+---
+
 # 🧭 OWL Governance
 
-This section of the OWL Handbook provides public access to the foundational governance documents that define how Open Way Learning (OWL) operates as a 501(c)(3) nonprofit. These resources clarify the **legal, ethical, and organizational framework** that underpins both Board-level oversight and our distributed, mission-aligned leadership culture.
+These resources clarify the **legal, ethical, and organizational framework** that underpins both Board-level oversight and our distributed, mission-aligned leadership culture.
 
 ## 🔑 Governance Philosophy
 
 OWL maintains a **dual governance model** that reflects both nonprofit best practices and our open-source values. This means we:
 
 - Honor traditional board responsibilities—legal, fiduciary, and strategic—guided by our Bylaws and IRS regulations.
-- Empower a **collective leadership team** to make informed, transparent decisions aligned to mission, vision, and strategic priorities (see [About OWL](../Employee_Handbook/About%20OWL.md)).
+- Empower a **collective leadership team** to make informed, transparent decisions aligned to mission, vision, and strategic priorities (see [About OWL](About-OWL/README.md).
 
 This structure is not a compromise—it's a commitment to **shared accountability** and high-integrity leadership, balancing compliance with the agility required to serve educators and students well.
 
@@ -36,7 +40,7 @@ A current map of OWL's internal staffing roles and reporting relationships—spa
 **Why It Matters:**  
 Illustrates how OWL distributes authority, aligns responsibilities, and ensures clarity between organizational units.
 
-📎 [View OWL Organization Chart (PDF)](./OWL%20Organization%20Chart.pdf)
+📎 [View OWL Organization Chart (PDF)](./org-chart.pdf)
 
 ### 4. OWL Code of Ethics
 **What It Is:**  
