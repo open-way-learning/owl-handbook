@@ -11,7 +11,7 @@ These resources clarify the **legal, ethical, and organizational framework** tha
 OWL maintains a **dual governance model** that reflects both nonprofit best practices and our open-source values. This means we:
 
 - Honor traditional board responsibilities—legal, fiduciary, and strategic—guided by our Bylaws and IRS regulations.
-- Empower a **collective leadership team** to make informed, transparent decisions aligned to mission, vision, and strategic priorities (see [About OWL](../About-OWL/README.md).
+- Empower a **collective leadership team** to make informed, transparent decisions aligned to mission, vision, and strategic priorities (see [About OWL](../About-OWL/README.md)).
 
 This structure is not a compromise—it's a commitment to **shared accountability** and high-integrity leadership, balancing compliance with the agility required to serve educators and students well.
 
