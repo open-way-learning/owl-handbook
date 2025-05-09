@@ -55,6 +55,6 @@ To make navigation easier, this handbook is organized into the following section
 
 ## 📬 Questions?
 
-Reach out to the OWL Leadership Team or [start a discussion](https://github.com/open-way-learning/owl-handbook/discussions) if you have questions, suggestions, or ideas.
+Reach out to the OWL Leadership Team or email admin@openwaylearning.org if you have questions, suggestions, or ideas.
 
 Together, we're building something different—and better.
