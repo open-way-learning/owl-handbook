@@ -25,7 +25,7 @@
   * [Protection of Minors Policy](<Admin-HR/Protection of Minors Policy.md>)
 * [Outreach-Programming](Outreach-Programming/README.md)
   * [Rethinking Measures of Success](<Outreach-Programming/Rethinking Measures of Success.md>)
-  * [OWL Partner integration Playbook](<Outreach-Programming/OWL Partner Integration Playbook.md>)
+  * [OWL Partner Integration Playbook](<Outreach-Programming/OWL Partner Integration Playbook.md>)
   * [Client & Partner Engagement – How We Work, Show Up, and Price Our Services](<Outreach-Programming/Client & Partner Engagement - How We Work, Show Up, and Price Our Services.md>)
   * [Information Technology & Media Acceptable Use](<Outreach-Programming/Information Technology & Media Acceptable Use_.md>)
 * [Strategy-Innovation](Strategy-Innovation/README.md)
