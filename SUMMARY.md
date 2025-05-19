@@ -31,7 +31,7 @@
 * [Strategy-Innovation](Strategy-Innovation/README.md)
   * [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
   * [Collaborative Leadership & Decision Making](Strategy-Innovation/Collaborative Leadership SOP.md)
- * * [Development & Research](Development-Research/README.md)
+* [Development & Research](Development-Research/README.md)
   * [OWL Contractor Manual](<Development-Research/OWL Contractor Manual.md>)
   * [OWL Ambassador and Fellow Program Description](Development-Research/owl-ambassador-and-fellow-program-description.md)
   * [Independent Contractor Agreement](Development-Research/independent-contractor-agreement.md)
