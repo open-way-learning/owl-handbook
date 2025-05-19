@@ -30,7 +30,7 @@
   * [Information Technology & Media Acceptable Use](<Outreach-Programming/Information Technology & Media Acceptable Use_.md>)
 * [Strategy-Innovation](Strategy-Innovation/README.md)
   * [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
-  * [Collaborative Leadership & Decision Making](Strategy-Innovation/Collaborative Leadership SOP.md)
+  * [Colloctive Leadership & Decision Making](Strategy-Innovation/Collective Leadership SOP.md)
 * [Development & Research](Development-Research/README.md)
   * [OWL Contractor Manual](<Development-Research/OWL Contractor Manual.md>)
   * [OWL Ambassador and Fellow Program Description](Development-Research/owl-ambassador-and-fellow-program-description.md)
