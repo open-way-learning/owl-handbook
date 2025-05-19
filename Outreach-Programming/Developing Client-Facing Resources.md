@@ -53,9 +53,9 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 * Avoid images that may create confusion; all visuals should enhance understanding.  
 * Follow the 6x6 Rule: No more than six words per bullet point and six bullet points per slide.
 
+  ## Incorporate Presentation Zen Principles in Every OWL Slide Deck
 
-  ## Incorporate Presentation Zen Principles in Every OWL Slide Deck 
-  *\*Design with clarity, restraint, and meaning — not decoration or distraction
+ *\*Design with clarity, restraint, and meaning - not decoration or distraction.*
   
 * Must Dos:   
   * Embrace simplicity and focus - Each slide should communicate one core idea.
