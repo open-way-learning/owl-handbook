@@ -56,6 +56,8 @@ PHASE 4: Follow-Up & Reflection:
 * The Primary Contact reviews client feedback and shares growth-oriented notes with the facilitation team.  
 * If appropriate, the project is archived and lessons are added to OWL’s internal knowledge-sharing systems.
 
+NOTE: In addition to gathering feedback and documenting lessons learned, the Primary Contact is also responsible for identifying potential opportunities for continued or renewed work with the client. This includes surfacing any ongoing needs, proposing next steps when appropriate, and communicating relevant insights to the broader OWL team. Long-term client partnerships are essential to our mission and sustainability, and relationship stewardship is a core part of each project cycle.
+
 #### **Key Responsibilities by Role:**
 
 * Primary Contact (Project Lead)  
@@ -88,7 +90,6 @@ That said, some documents are intended for internal use only, such as budget wor
 
 *A good rule of thumb: Never write or share anything—anywhere—that you wouldn’t stand behind with the OWL logo and your name attached.*
 
-
 #### **Client-Facing Documents & Draft Proposals**
 
 OWL takes pride in providing customized, co-designed proposals and scopes of work, but only after we’ve had a chance to listen deeply, define the scope, and iterate internally. To that end, we ask that all employees follow this general process:
@@ -117,7 +118,6 @@ OWL team members often take notes during school visits, workshops, or meetings t
 * Avoid speculation or personal commentary about individuals or school dynamics.  
 * Document facts and insights, not assumptions or opinions.  
 * When writing something potentially sensitive, ask yourself: *Would this build or harm trust if shared accidentally?*
-
 
 ### If you’re unsure whether a note, doc, or comment thread should be shared or edited, check in with a Director first. 
 
