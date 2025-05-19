@@ -70,7 +70,8 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
   * Rehearse delivery in context. Slides are meant to support your *facilitation*, not serve as a script.
   * Speaker notes should include prompts and realistic pacing to allow for human-centered delivery, reflection, and flexibility.
 * Avoid:
-  * Overloaded slides with tiny text or dense charts Templates or colors that conflict with OWL’s visual identity
+  * Overloaded slides with tiny text or dense charts
+  * Templates or colors that conflict with OWL’s visual identity
   * Reading slides word-for-word or using slides as handouts (see separate anchor doc guidance)
 
   ## **Engagement Through "Show, Don’t Tell"**
