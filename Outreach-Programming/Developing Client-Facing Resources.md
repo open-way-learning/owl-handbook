@@ -43,7 +43,6 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
   * Collaborative Work Time (sharing, leveraging ideas, and resources)  
   * Practical Adaptation & Goal Setting (time to adapt new knowledge and strategies to one’s own practice, including commitments for follow up)  
   * Targeted Support (prototyping and testing that models learner-centered strategies)  
-    
 
   *\*We call this “The OWL Way” and should be the core framework we use for the majority of OWL’s client-facing services, especially in the early stages of an interaction, where we are establishing relationships, norms, and expectations.*
 
@@ -55,8 +54,9 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 * Follow the 6x6 Rule: No more than six words per bullet point and six bullet points per slide.
 
 
-  ## ** Incorporate Presentation Zen Principles in Every OWL Slide Deck - Design with clarity, restraint, and meaning — not decoration or distraction**
-
+  ## Incorporate Presentation Zen Principles in Every OWL Slide Deck 
+  *\*Design with clarity, restraint, and meaning — not decoration or distraction
+  
 * Must Dos:   
   * Embrace simplicity and focus - Each slide should communicate one core idea.
   * Eliminate unnecessary text, bullet points, and decorative clutter - Use strong visuals with purpose.
