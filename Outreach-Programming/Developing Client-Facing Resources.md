@@ -55,9 +55,23 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 * Follow the 6x6 Rule: No more than six words per bullet point and six bullet points per slide.
 
 
-| Incorporate Presentation Zen Principles in Every OWL Slide Deck *Design with clarity, restraint, and meaning — not decoration or distraction.* Must Dos: Embrace simplicity and focus. Each slide should communicate one core idea. Eliminate unnecessary text, bullet points, and decorative clutter. Use strong visuals with purpose. Select full-screen, high-quality images that *support* the story, not distract from it. Avoid generic clipart or overloaded diagrams. Prioritize whitespace and contrast. Give content breathing room. Avoid cramming slides with text or visual elements. Practice restraint. Don’t use every animation, transition, or color just because you can. Simplicity adds professionalism and reduces cognitive load. Should Dos: Tell a story visually. Use visuals, metaphors, and image sequences that support the narrative arc of your session (e.g., challenge → insight → solution → call to action). Design for emotional resonance. Use authentic images and language that connect emotionally to educators' real experiences, challenges, and hopes. Rehearse delivery in context. Slides are meant to support your *facilitation*, not serve as a script. Speaker notes should include prompts and pacing to allow for human-centered delivery. Avoid: Overloaded slides with tiny text or dense charts Templates or colors that conflict with OWL’s visual identity Reading slides word-for-word or using slides as handouts (see separate anchor doc guidance) |
-| ----- |
+  ## ** Incorporate Presentation Zen Principles in Every OWL Slide Deck - Design with clarity, restraint, and meaning — not decoration or distraction**
 
+* Must Dos:   
+  * Embrace simplicity and focus - Each slide should communicate one core idea.
+  * Eliminate unnecessary text, bullet points, and decorative clutter - Use strong visuals with purpose.
+  * Select full-screen, high-quality images that *support* the story, not distract from it - Avoid generic clipart or overloaded diagrams.
+  * Prioritize whitespace and contrast - Give content breathing room.
+  * Avoid cramming slides with text or visual elements - Practice restraint.
+  * Don’t use every animation, transition, or color just because you can - Simplicity adds professionalism and reduces cognitive load.
+* Should Dos:
+  * Tell a story visually. Use visuals, metaphors, and image sequences that support the narrative arc of your session (e.g., challenge → insight → solution → call to action)
+  * Design for emotional resonance - Use authentic images and language that connect emotionally to educators' real experiences, challenges, and hopes.
+  * Rehearse delivery in context. Slides are meant to support your *facilitation*, not serve as a script.
+  * Speaker notes should include prompts and realistic pacing to allow for human-centered delivery, reflection, and flexibility.
+* Avoid:
+  * Overloaded slides with tiny text or dense charts Templates or colors that conflict with OWL’s visual identity
+  * Reading slides word-for-word or using slides as handouts (see separate anchor doc guidance)
 
   ## **Engagement Through "Show, Don’t Tell"**
 
