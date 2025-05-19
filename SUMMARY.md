@@ -28,6 +28,7 @@
   * [OWL Partner Integration Playbook](<Outreach-Programming/OWL Partner Integration Playbook.md>)
   * [Client & Partner Engagement – How We Work, Show Up, and Price Our Services](<Outreach-Programming/Client & Partner Engagement - How We Work, Show Up, and Price Our Services.md>)
   * [Information Technology & Media Acceptable Use](<Outreach-Programming/Information Technology & Media Acceptable Use_.md>)
+  * [Client-Facing Materials](<Outreach-Programming/Developing Client-Facing Resources.md>)
 * [Strategy-Innovation](Strategy-Innovation/README.md)
   * [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
   * [Colloctive Leadership & Decision Making](<Strategy-Innovation/Collective Leadership SOP.md>)
