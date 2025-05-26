@@ -26,7 +26,7 @@
 * [Outreach-Programming](Outreach-Programming/README.md)
   * [Rethinking Measures of Success](<Outreach-Programming/Rethinking Measures of Success.md>)
   * [OWL Partner Integration Playbook](<Outreach-Programming/OWL Partner Integration Playbook.md>)
-  * [Client & Partner Engagement – How We Work, Show Up, and Price Our Services](<Outreach-Programming/Client & Partner Engagement - How We Work, Show Up, and Price Our Services.md>)
+  * [Client & Partner Engagement – How We Work, Show Up, and Price Our Services](<Outreach-Programming/Client & Partner Engagement_ How We Work, Show Up, and Price Our Services (4).md>)
   * [Information Technology & Media Acceptable Use](<Outreach-Programming/Information Technology & Media Acceptable Use_.md>)
   * [Client-Facing Materials](<Outreach-Programming/Developing Client-Facing Resources.md>)
 * [Strategy-Innovation](Strategy-Innovation/README.md)
