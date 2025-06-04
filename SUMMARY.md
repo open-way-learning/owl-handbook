@@ -31,7 +31,7 @@
   * [Client-Facing Materials](<Outreach-Programming/Developing Client-Facing Resources.md>)
 * [Strategy-Innovation](Strategy-Innovation/README.md)
   * [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
-  * [Colloctive Leadership & Decision Making](<Strategy-Innovation/Collective Leadership SOP (1).md>)
+  * [Collective Leadership & Decision Making](Strategy-Innovation/collective-leadership-decision-making.md)
 * [Development & Research](Development-Research/README.md)
   * [OWL Contractor Manual](<Development-Research/OWL Contractor Manual.md>)
   * [OWL Ambassador and Fellow Program Description](Development-Research/owl-ambassador-and-fellow-program-description.md)
