@@ -36,7 +36,7 @@
   * [OWL Contractor Manual](<Development-Research/OWL Contractor Manual.md>)
   * [OWL Ambassador and Fellow Program Description](Development-Research/owl-ambassador-and-fellow-program-description.md)
   * [Independent Contractor Agreement](Development-Research/independent-contractor-agreement.md)
-  * [Independent Contractor Payment Terms](<Development-Research/Independent Contractor Payment Terms.md>)
+  * [Independent Contractor Payment Terms](<Development-Research/Independent Contractor Payment Terms(1).md>)
 * [Templates-Resources](Templates-Resources/README.md)
   * [Example Client Proposal](Templates-Resources/example-client-proposal.md)
   * [Example Scope of Work](Templates-Resources/example-scope-of-work.md)
