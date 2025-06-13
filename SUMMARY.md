@@ -14,7 +14,7 @@
   * [Time Tracking & Accountability](Operations-Finance/time-tracking-and-accountability.md)
   * [Travel Policy](<Operations-Finance/OWL Travel Policy.md>)
 * [Administration-HR](Admin-HR/README.md)
-  * [Employment Policies & Practices](<Admin-HR/Employment Policies & Practices.md>)
+  * [Employment Policies & Practices](Admin-HR/employment-policies-and-practices.md)
   * [Time Off, Leave, & Work-Life Balance](<Admin-HR/Time Off, Leave, & Work-Life Balance.md>)
   * [Compensation, Pay Structure, and Salary Administration](<Admin-HR/Compensation, Pay Structure, and Salary Administration.md>)
   * [Benefits & Insurance](<Admin-HR/Benefits & Insurance.md>)
