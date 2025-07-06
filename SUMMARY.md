@@ -31,6 +31,7 @@
   * [Client-Facing Materials](<Outreach-Programming/Developing Client-Facing Resources.md>)
 * [Strategy-Innovation](Strategy-Innovation/README.md)
   * [OWL Document Control Policy](Strategy-Innovation/document_control_policy.md)
+  * [Open Source Collaboration](Strategy-Innovation/open_source_collaboration.md)
   * [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
   * [Collective Leadership & Decision Making](Strategy-Innovation/collective-leadership-decision-making.md)
 * [Development & Research](Development-Research/README.md)
