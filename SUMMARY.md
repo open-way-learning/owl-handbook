@@ -34,6 +34,7 @@
   * [Open Source Collaboration](Strategy-Innovation/open_source_collaboration.md)
   * [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
   * [Collective Leadership & Decision Making](Strategy-Innovation/collective-leadership-decision-making.md)
+  * [OWL's Stance on Ed Policy](Strategy-Innovation/Position_Statement_on_Education_Policy_Engagement.md)
 * [Development & Research](Development-Research/README.md)
   * [OWL Contractor Manual](<Development-Research/OWL Contractor Manual.md>)
   * [OWL Ambassador and Fellow Program Description](Development-Research/owl-ambassador-and-fellow-program-description.md)
