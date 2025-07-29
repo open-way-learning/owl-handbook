@@ -1,5 +1,5 @@
 # Open Way Learning Articles of Organization & Bylaws
-(As adopted on 1/9/2020 and revised on 1/1/25)
+(As adopted on 1/9/2020 and revised on 6/11/25)
 
 ## Article I: Name & Offices
 
