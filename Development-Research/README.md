@@ -56,7 +56,7 @@ When serving as PM for non-WNCRP work, **earn your keep**: cover salary (and att
 ## Canonical documents
 - **DPD Roles & Responsibilities (Full, Canonical):** <[Drive link](https://docs.google.com/document/d/1uNTo-Wpd0MIJIrBerw5hRCSvIunFi8qkGl5o1jBIAo0/edit?usp=sharing)>  
 - **Common R&R for All Directors:** <[Drive link](https://docs.google.com/document/d/1_9y8w-tarZIhcNENVp4r7K3Y_4ym1GIDzMmdodN2rCg/edit?usp=sharing)>  
-- **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S):** <[GitHub/GitBook link](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing)>  
+- **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S):** <[Drive link](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing)>  
 
 ## Change process (how this README gets updated)
 1) Propose change via PR referencing the **#decision_log** entry.  
