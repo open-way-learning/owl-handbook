@@ -6,6 +6,9 @@ description: This section of the OWL Handbook provides public access to the foun
 
 These resources clarify the **legal, ethical, and organizational framework** that underpins both Board-level oversight and our distributed, mission-aligned leadership culture.
 
+> **Looking for how the leadership team operates day-to-day?**  
+> See our **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S)**, the **Common Roles & Responsibilities for All Directors**, and **Role READMEs** (DPD, DFIO, DPIV, D-OSL) for the lightweight norms we use to decide, deliver, and improve together.
+
 ## 🔑 Governance Philosophy
 
 OWL maintains a **dual governance model** that reflects both nonprofit best practices and our open-source values. This means we:
@@ -65,9 +68,31 @@ Clarifies the distinct ethical responsibilities of Board members in their fiduci
 | Org Chart | Internal staffing structure | Leadership Team | OWL employees |
 | OWL Code of Ethics | Day-to-day expectations | All employees, contractors | Staff, fellows, Board |
 | Board Code of Ethics | Board-specific conduct | Board Chair | Board members |
+| Collective Leadership SOP | Decision Ladder, RACI-S, #decision_log, scrum | Leadership Team (D-OSL steward) | OWL employees, Board (awareness) |
+| Common R&R (All Directors) | Shared director responsibilities & guardrails | Leadership Team (D-OSL steward) | Directors, PMs |
+| Role READMEs (DPD/DFIO/DPIV/D-OSL) | Role overviews with links to canonical R&R | Each Role Owner (Director) | Staff, fellows, partners (as relevant) |
+
+
+## 🤝 Leadership Operating Documents (Collective Leadership)
+
+These materials codify how OWL’s distributed leadership works in practice—clear decision rights, lightweight rituals, and shared operating discipline.
+
+- **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S)** — the bedrock for decisions, #decision_log, scrum cadence, and operating discipline.
+- **Common Roles & Responsibilities for All Directors** — the shared layer every Director inherits (ROI Guardrail, monthly “earn your keep,” comms/status pattern, KPI cadence).
+- **Roles Directory (READMEs)** — concise overviews for each Director role with links to the canonical Google Docs:
+  - Director of Partnerships & Development (**DPD**)
+  - Director of Finance & Internal Operations (**DFIO**)
+  - Director of Program Impact & Visibility (**DPIV**)
+  - Director of Organizational Strategy & Learning (**D-OSL**)
 
 ## 🔁 Updating Governance Documents
 
 Most governance documents (e.g. Bylaws, Board Ethics) require a formal Board vote to be amended. All updates must follow OWL's **two-reading amendment process** as outlined in the Bylaws. Operational governance documents (e.g. Code of Ethics, Org Chart) may be updated by the Leadership Team with Board awareness.
+**Leadership Operating Docs (OWL's Collective Leadership Procedure, Role & Responsibility Docs for each Director, READMEs).**  
+These are living documents maintained via PRs in this repo and the canonical Google Docs they reference. Changes follow this flow:
+1) Propose/update in the **canonical Google Doc** (role owner) and create a **#decision_log** entry.
+2) Open a **PR** mirroring the approved change in the README/SOP here; link the #decision_log entry.
+3) **Review/merge** by the steward (D-OSL) and relevant role owner; update the “last_reviewed” field.
+
 
 
