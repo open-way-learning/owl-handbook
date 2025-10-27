@@ -21,7 +21,7 @@ Safeguard OWL’s solvency and operating excellence by steering budget strategy,
 
 ## Decision rights & guardrails (snapshot)
 - **One “A” rule:** DFIO is **Accountable** for budget strategy, financial dashboards, compliance/HR policy, contract/admin terms, travel above budget, and risk posture. **Consulted** = D-OSL/DPD/DPIV as appropriate.
-- **ROI Guardrail:** Commit only if **deposit in hand**, **≥45% margin**, **pass-throughs matched to receipts**, **or** there’s a **funded path ≤90 days**; exceptions are explicit strategic investments logged in #decision_log.
+- **ROI Guardrail:** Commit only if **deposit in hand**, **>minimum margin**, **pass-throughs matched to receipts**, **or** there’s a **funded path ≤90 days**; exceptions are explicit strategic investments logged in #decision_log.
 - **Logging:** Post Strategic/Tactical outcomes in **#decision_log** (3–5 lines: summary, RACI-S, why it matters, next step, link).
 
 ## Scope of work (high-signal summary)
