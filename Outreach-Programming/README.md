@@ -1,20 +1,65 @@
-# Outreach & Programming
+---
+title: Director of Program Impact & Visibility (DPIV) — Overview
+last_reviewed: 2025-10-27
+canonical_policy: Google Drive (see “Canonical Documents” below)
+owner: DPIV (Accountable), D-OSL (Steward)
+---
 
-This section includes policies and expectations for OWL’s client-facing work. It covers workshop design, facilitation standards, client co-design practices, service delivery protocols, and feedback collection processes.
+> **Canonical Source**
+> This README is a high-level overview for fast reference.
+> The **canonical, full Roles & Responsibilities document lives on Google Drive** and is the source of truth.
+> Any policy/guardrail changes must be approved via #decision_log and reflected in the Drive doc, then mirrored here.
 
-This section is actively maintained by the **Director of Outreach & Programming**, who serves as the content steward for all files in this folder. Any proposed changes should be coordinated with this Director for alignment, accuracy, and final approval.
+## Purpose (what this role exists to achieve)
+Design and deliver consistently excellent, learner-centered programs—and turn that delivery into **evidence and visibility** that sustain OWL’s mission (artifacts, stories, renewals, and reputation).
 
-As a core member of OWL’s collective leadership team, the Director of Outreach & Programming is responsible for the intentional design and high-quality delivery of OWL’s educational services. Key responsibilities tied to this section include:
+## What success looks like (core outcomes)
+- **Program quality at scale:** Sessions/workshops delivered to scope, on time, with strong partner feedback.
+- **Evidence engine:** Regular **Bright Spots** and **Proof Points** published; clean data flow for evaluation and storytelling.
+- **Visibility that fits:** Public campaigns and comms that are mission-aligned, accurate, and timely—supporting renewal and pipeline growth.
+- **Safe and compliant practice:** Safeguarding, consent, and brand/compliance standards upheld across sites and artifacts.
 
-- Leading the design and continuous improvement of **learner-centered programs**  
-- Overseeing OWL’s **facilitation and co-design standards**, including workshop protocols and coaching practices  
-- Managing systems for **impact tracking** and post-engagement feedback  
-- Aligning public-facing service documentation with OWL’s equity commitments and theory of change  
-- Coordinating communications, events, and storytelling efforts to reflect OWL’s values and amplify client partnerships  
-- Supporting strategic partnerships and MOU-based collaborations with schools, community organizations, and education networks
+## Decision rights & guardrails (snapshot)
+- **One “A” rule:** DPIV is **Accountable** for public-facing campaigns/announcements and program visibility decisions; **Consulted** = D-OSL (strategic frame), DPD (funder/partner angles), DFIO (brand/compliance).
+- **ROI Guardrail:** If visibility or events imply delivery scope/cost, they must meet guardrails (**deposit in hand**, **≥45% margin**, **pass-throughs matched**, **or** funded path ≤90 days) or be logged as a strategic exception.
+- **Logging:** Post Strategic/Tactical outcomes in **#decision_log** (3–5 lines: summary, RACI-S, why it matters, next step, link).
 
-This folder may interface with materials in other sections such as **Strategy & Innovation** (for theory of change, facilitation frameworks), **Development & Research** (for grant-aligned programming), and **Operations & Finance** (for event logistics, contracts, and travel coordination).
+## Scope of work (high-signal summary)
+- **Program design & delivery:** Standards for facilitation/co-design; session architecture; coaching practices; QA for slides/tools.
+- **Impact measurement & artifacts:** Define metrics with D-OSL; collect evidence; publish **Bright Spots/Proof Points** on cadence.
+- **Public comms & campaigns:** Message maps, channel calendar, asset library; coordinate announcements and event visibility.
+- **Events & convenings:** Agenda design, run-of-show, partner experience; coordinate with DFIO on budget/logistics.
+- **Safeguarding & compliance:** Consent/FERPA/PII standards for images, stories, and data; brand usage and approvals.
 
-Refer to OWL’s [Organizational Chart](../Governance/org-chart.pdf) for current role assignments or contact any OWL Director for clarification.
+## Interfaces (who you co-design with)
+- **DFIO — Finance & Internal Ops:** Event budgets/logistics; brand/compliance; asset management; data/privacy alignment.
+- **DPD — Partnerships & Development:** Storytelling tied to renewals and pipeline; sponsor/funder angles; MOU implications.
+- **D-OSL — Strategy & Learning:** Theory of change; artifact standards; adoption of program/process updates.
+- **PMs & Fellows — Site Delivery:** Local co-design, implementation quality, feedback capture, artifact generation.
 
+## KPIs & review cadence
+- **Weekly:** KPI flash (delivery on-time/scope, partner signals); Grants & Partnerships slot; blockers/swarms; decisions to log.
+- **Monthly:** Artifact production count; campaign/event impact snapshot (reach, engagement, leads); budget vs. plan for events/comms.
+- **Quarterly:** Program impact synthesis (top insights), evidence roll-up, contribution to renewals/pipeline.
 
+## Operating discipline (always)
+Use Slack for essential comms; keep Productive cards current; maintain file/asset hygiene with links back to artifacts; adhere to consent/brand standards; status format: **Here’s where we are → Here’s the gap → Here’s the next step.**
+
+## Director-as-PM expectation (when applicable)
+When serving as PM, **earn your keep**: cover salary (and attributable overhead) **monthly** through billable service and/or funded grants/contracts within your portfolio.
+
+## RACI-S snapshot (common calls)
+- **Public Campaign/Announcement:** **A = DPIV**, C = D-OSL/DPD/DFIO, I = Team.
+- **Event/Summit (program-led):** **A = DPIV**, R = DPIV/PM, C = DFIO (budget/logistics), DPD (sponsors), I = Team/partners.
+- **Crisis Comms:** **A = DPIV**, C = D-OSL (strategy), DFIO (risk/compliance), I = Board/Team as needed.
+
+## Canonical documents
+- **DPIV Roles & Responsibilities (Full, Canonical):** <[Drive link](https://docs.google.com/document/d/1WobTedTdEWNvrkL9teDGWpd-cGtYXeWrdi01lY-1Ha4/edit?usp=sharing)>  
+- **Common R&R for All Directors:** <[Drive link](https://docs.google.com/document/d/1_9y8w-tarZIhcNENVp4r7K3Y_4ym1GIDzMmdodN2rCg/edit?usp=sharing)>  
+- **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S):** <[Drive link](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing)>  
+
+## Change process (how this README gets updated)
+1) Propose change via PR referencing the **#decision_log** entry.  
+2) Update the **Drive canonical** first; mirror key changes here.  
+3) Tag **DPIV (owner)** + **D-OSL (steward)** for review; merge after approval.  
+4) Update `last_reviewed` in the front matter.
