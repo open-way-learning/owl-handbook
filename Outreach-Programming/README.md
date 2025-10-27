@@ -21,7 +21,7 @@ Design and deliver consistently excellent, learner-centered programs—and turn 
 
 ## Decision rights & guardrails (snapshot)
 - **One “A” rule:** DPIV is **Accountable** for public-facing campaigns/announcements and program visibility decisions; **Consulted** = D-OSL (strategic frame), DPD (funder/partner angles), DFIO (brand/compliance).
-- **ROI Guardrail:** If visibility or events imply delivery scope/cost, they must meet guardrails (**deposit in hand**, **≥45% margin**, **pass-throughs matched**, **or** funded path ≤90 days) or be logged as a strategic exception.
+- **ROI Guardrail:** If visibility or events imply delivery scope/cost, they must meet guardrails (**deposit in hand**, **≥minimum margin**, **pass-throughs matched**, **or** funded path ≤90 days) or be logged as a strategic exception.
 - **Logging:** Post Strategic/Tactical outcomes in **#decision_log** (3–5 lines: summary, RACI-S, why it matters, next step, link).
 
 ## Scope of work (high-signal summary)
