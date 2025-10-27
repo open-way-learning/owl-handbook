@@ -21,7 +21,7 @@ Grow OWL’s mission and financial health by cultivating strategic partnerships,
 
 ## Decision rights & guardrails (snapshot)
 - **One “A” rule:** DPD is **Accountable** for pricing/go-no-go, proposals/grants, revenue forecasts, and strategic MOUs; **Consulted** = DFIO (budget/compliance), D-OSL (mission/precedent), DPIV (program/story).
-- **ROI Guardrail:** Commit only if **deposit in hand**, **≥45% margin**, **pass-throughs matched to receipts**, **or** there’s a **funded path ≤90 days**; otherwise log an explicit strategic exception.
+- **ROI Guardrail:** Commit only if **deposit in hand**, **≥minimum margin**, **pass-throughs matched to receipts**, **or** there’s a **funded path ≤90 days**; otherwise log an explicit strategic exception.
 - **Logging:** Post Strategic/Tactical outcomes in **#decision_log** (3–5 lines: summary, RACI-S, why it matters, next step, link).
 
 ## Scope of work (high-signal summary)
