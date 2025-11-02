@@ -1,4 +1,4 @@
-**OWL’s Approach to Collective Leadership and Decision Making**
+# **OWL’s Approach to Collective Leadership and Decision Making**
 
 Open Way Learning embraces a collective leadership model that intentionally departs from traditional hierarchy employed by other organizations. Inspired by *The Open Organization* (Whitehurst), *Drive* (Pink), and *Open Up, Education\!* (Owens & Haigler), we treat leadership as a practice, not a position \- one grounded in transparency, purpose, distributed authority, agile learning, and psychological safety. This procedure is the bedrock for how we routinely and consistently decide, deliver, and improve as a small, nimble nonprofit. It exists so anyone at OWL can confidently lead a decision without waiting for permission, while also staying aligned to shared guardrails, systems, and mission.
 
@@ -30,7 +30,7 @@ Open Way Learning embraces a collective leadership model that intentionally depa
 * **Own the bottom line.** Apply the ROI Guardrail: OWL only commits to work that is cash-positive now (deposit in hand, ≥45% margin, pass-throughs matched to receipts) or has a clearly documented, funded path to revenue within 90 days. Everything else pauses unless explicitly approved as a strategic investment by the Director Team.   
 * **Earn your keep.** Directors/Program Managers lead their systemic role for the organization and their respective region/portfolio of client facing work, but must *also* consistently deliver the funding to cover their role (and OWL’s essential overhead) per grants, donations, contracts tied to billable work. This is a necessary and essential part of keeping the lights on as an effective nonprofit organization.
 
-## **1\) Decision Modes \+ Decision Ladder** 
+# **1\) Decision Modes \+ Decision Ladder** 
 
 **Decision modes:** We use **Consent**, **Consensus**, and **Delegated Authority** \- selected intentionally, based on the applicable level in the following decision ladder.
 
@@ -61,7 +61,7 @@ Open Way Learning embraces a collective leadership model that intentionally depa
 
 Consistently use the **RACI-S** table below for key decisions required in the organization, as well as other similar scenarios. Reference the appendices for additional detail on how and when to use this table. 
 
-## **RACI-S Format/criteria:**
+# **RACI-S Format/criteria:**
 
 * **Exactly one “A”** (Accountable) per decision. *Note that while we strive for consensus, the “A” has the final say per their role.*  
 * **R** (Responsible) executes the decision (is often also the A);   
@@ -69,7 +69,7 @@ Consistently use the **RACI-S** table below for key decisions required in the or
 * **I** (Informed) receives outcomes;   
 * **S** (Support) co-builds or provides critical resourcing (when applicable).
 
-## **OWL’s RACI-S Table** 
+# **OWL’s RACI-S Table** 
 
 | Decision Area | Accountable (A) | Responsible (R) | Consulted (C) | Informed (I) | Support (S) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -119,7 +119,7 @@ When you log something in Slack’s \#decision\_log channel, use the following f
 * **Who’s involved (as applicable):** R / C / I / S (names)  
 * **Decision Summary:** Brief description of what was decided (what happens now), along with applicable details (due date, who’s on point, next steps, etc.). Link to Productive card or other doc, as applicable.
 
-# Example: DECISION (Tactical): Shift WNCRP workshop sequence by 2 weeks. A: DPIV. R: PM (Wes). C: DFIO, D-OSL. I: Partners. Outcome: New dates confirmed; Productive updated; comms out by Fri.
+Example: DECISION (Tactical): Shift WNCRP workshop sequence by 2 weeks. A: DPIV. R: PM (Wes). C: DFIO, D-OSL. I: Partners. Outcome: New dates confirmed; Productive updated; comms out by Fri.
 
 ***If in doubt, log \- short and clear beats invisible and assumed.***
 
