@@ -61,7 +61,7 @@ Open Way Learning embraces a collective leadership model that intentionally depa
 
 Consistently use the **RACI-S** table below for key decisions required in the organization, as well as other similar scenarios. Reference the appendices for additional detail on how and when to use this table. 
 
-# **RACI-S Format/criteria:**
+**RACI-S Format/criteria:**
 
 * **Exactly one “A”** (Accountable) per decision. *Note that while we strive for consensus, the “A” has the final say per their role.*  
 * **R** (Responsible) executes the decision (is often also the A);   
@@ -69,7 +69,7 @@ Consistently use the **RACI-S** table below for key decisions required in the or
 * **I** (Informed) receives outcomes;   
 * **S** (Support) co-builds or provides critical resourcing (when applicable).
 
-# **OWL’s RACI-S Table** 
+**OWL’s RACI-S Table** 
 
 | Decision Area | Accountable (A) | Responsible (R) | Consulted (C) | Informed (I) | Support (S) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
