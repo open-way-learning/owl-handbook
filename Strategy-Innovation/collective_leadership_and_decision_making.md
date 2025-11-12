@@ -30,7 +30,7 @@ Open Way Learning embraces a collective leadership model that intentionally depa
 * **Own the bottom line.** Apply the ROI Guardrail: OWL only commits to work that is cash-positive now (deposit in hand, ≥45% margin, pass-throughs matched to receipts) or has a clearly documented, funded path to revenue within 90 days. Everything else pauses unless explicitly approved as a strategic investment by the Director Team.   
 * **Earn your keep.** Directors/Program Managers lead their systemic role for the organization and their respective region/portfolio of client facing work, but must *also* consistently deliver the funding to cover their role (and OWL’s essential overhead) per grants, donations, contracts tied to billable work. This is a necessary and essential part of keeping the lights on as an effective nonprofit organization.
 
-## **1\) Decision Modes \+ Decision Ladder** 
+**1\) Decision Modes \+ Decision Ladder** 
 
 **Decision modes:** We use **Consent**, **Consensus**, and **Delegated Authority** \- selected intentionally, based on the applicable level in the following decision ladder.
 
@@ -57,11 +57,11 @@ Open Way Learning embraces a collective leadership model that intentionally depa
 2. **Implement & track** **decision follow-up steps.** Update any applicable Productive cards and tie decision outcomes to any applicable role objectives and/or KPIs for the organization.   
 3. **Reflect & improve.** Use monthly strategy meetings to debrief and document key decision impacts (as appropriate).
 
-# **2\) Follow the RACI-S Standard** 
+**2\) Follow the RACI-S Standard** 
 
 Consistently use the **RACI-S** table below for key decisions required in the organization, as well as other similar scenarios. Reference the appendices for additional detail on how and when to use this table. 
 
-## **RACI-S Format/criteria:**
+**RACI-S Format/criteria:**
 
 * **Exactly one “A”** (Accountable) per decision. *Note that while we strive for consensus, the “A” has the final say per their role.*  
 * **R** (Responsible) executes the decision (is often also the A);   
@@ -69,7 +69,7 @@ Consistently use the **RACI-S** table below for key decisions required in the or
 * **I** (Informed) receives outcomes;   
 * **S** (Support) co-builds or provides critical resourcing (when applicable).
 
-## **OWL’s RACI-S Table** 
+**OWL’s RACI-S Table** 
 
 | Decision Area | Accountable (A) | Responsible (R) | Consulted (C) | Informed (I) | Support (S) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -94,7 +94,7 @@ Consistently use the **RACI-S** table below for key decisions required in the or
 * DPIV \= Director of Program Impact & Visibility;   
 * PM \= Program Manager of record.
 
-# **3\) Decision Log Protocol**
+**3\) Decision Log Protocol**
 
 Every decision above the Operational level is logged in the Slack **\#decision\_log** per this Rule of Thumb: *If a decision  is likely to change someone else’s plan, money, timeline, promise, or risk \- log it. Use the “5-R” test below:* 
 
@@ -119,11 +119,11 @@ When you log something in Slack’s \#decision\_log channel, use the following f
 * **Who’s involved (as applicable):** R / C / I / S (names)  
 * **Decision Summary:** Brief description of what was decided (what happens now), along with applicable details (due date, who’s on point, next steps, etc.). Link to Productive card or other doc, as applicable.
 
-# Example: DECISION (Tactical): Shift WNCRP workshop sequence by 2 weeks. A: DPIV. R: PM (Wes). C: DFO, D-OSL. I: Partners. Outcome: New dates confirmed; Productive updated; comms out by Fri.
+Example: DECISION (Tactical): Shift WNCRP workshop sequence by 2 weeks. A: DPIV. R: PM (Wes). C: DFO, D-OSL. I: Partners. Outcome: New dates confirmed; Productive updated; comms out by Fri.
 
 ***If in doubt, log \- short and clear beats invisible and assumed.***
 
-# **4\) Operating Discipline Checklist** 
+**4\) Operating Discipline Checklist** 
 
 OWL operates with a small, nimble team in a collective (non-hierarchical) manner. As such, we must be agile at scale in order to consistently deliver high quality, mission-driven work. This requires a high degree of operating discipline that matches creativity with consistent habits:
 
@@ -137,7 +137,7 @@ OWL operates with a small, nimble team in a collective (non-hierarchical) manner
 
 *This is “how we do excellence,” not bureaucracy.*
 
-# **5\) Weekly Scrum \- Minimal Viable Ritual:**
+**5\) Weekly Scrum \- Minimal Viable Ritual:**
 
 The weekly scrum is the heartbeat of OWL’s distributed leadership model. It creates shared visibility, fast unblocking, and just-in-time decision-making so we keep our promises to partners and to one another. When we treat the scrum as a weekly operating system (not just a status meeting) we protect flow, surface risks early, and make better and more timely decisions for the organization. Reference [this document](https://docs.google.com/document/d/1_tF1v-sSqAd0sMu_ddcjletqYu4iZul7fNdT2CGW2I8/edit?usp=sharing) for more details.
 
@@ -155,7 +155,7 @@ The weekly scrum is the heartbeat of OWL’s distributed leadership model. It cr
 * **Updates:** Card owners provide succinct, minimum essential updates per the *Here’s where we are → Here’s the gap → Here’s the next step* format. The focus stays on the exceptions to “Good to Go,” not a general info session.  
 * **Output:** Cards moved, **\#decision\_log** entries posted, owners/dates clear.
 
-# **6\) Performance, Growth, & Accountability — Backstop** 
+**6\) Performance, Growth, & Accountability — Backstop** 
 
 **Why this section exists:** A distributed leadership model without a single Executive Director or CEO, still requires a fair, transparent, and legally sound way to address sustained performance gaps, policy breaches, or behavior that violates the open/trust-based ethos of OWL. The following Performance Backstop protocol preserves psychological safety and growth first, while also protecting our mission, finances, partners, and team. Note: This protocol is not a contract and does not alter at-will employment status.
 
@@ -165,7 +165,7 @@ The weekly scrum is the heartbeat of OWL’s distributed leadership model. It cr
 * **One “A.”** Each stage of the Performance Backstop names exactly one Accountable role per the Decision Ladder/RACI-S format.   
 * **Due process \+ confidentiality.** Throughout any stage of this process, we only use shared facts, time-boxed plans, and secure records; access is limited to those with a legitimate business/legal reason. We also only log operational impacts in the Slack \#decision\_log (2-5 lines max, no names or HR details); Personnel details live in restricted HR records managed by the DFO.
 
-### **6.A \- Peer Partnerships & Monthly one-on-ones (proactive layer)**
+**6.A \- Peer Partnerships & Monthly one-on-ones (proactive layer)**
 
 This base-level arrangement provides an ongoing leadership forum to prevent small issues from becoming big ones. Its purpose is to create a regular cadence for mutual clarity, coaching, peer mentorship, and policy hygiene *before* any “backstop” stages are needed.
 
@@ -178,7 +178,7 @@ This base-level arrangement provides an ongoing leadership forum to prevent smal
   4. *Policy hygiene?* (receipts/invoicing, Productive, file hygiene, calendars/OOO “sub plans,” \#decision\_log, KPIs)  
 * **Simple signal:** End each PSR 1:1 with a radically candid discussion of performance based on self-reflection, facts, and data. It should translate into a *Green / Yellow / Red* signal/indicator until the next PSR 1:1, with one concrete next step.
 
-### **6.B \- Performance Backstop Triggers (the “5-R test”)**
+**6.B \- Performance Backstop Triggers (the “5-R test”)**
 
 * **Performance Backstop Triggers (using the 5-R test):** We proactively escalate into and within this Performance Backstop protocol when there is a performance pattern that clearly affects any of the following:   
   * **Reach** (others’ work is affected),   
@@ -189,14 +189,14 @@ This base-level arrangement provides an ongoing leadership forum to prevent smal
 
   While various scenarios can trigger this elevation, the PSR 1:1 is the organization’s early warning indicator. Specifically, if a Yellow signal persists for two consecutive PSR 1:1s *or* flips to Red once, the Performance Backstop steps are initiated as outlined below.
 
-### **6.C \- Roles for Cases (no supervisors required)**
+**6.C \- Roles for Cases (no supervisors required)**
 
 * **Peer Case Steward (PCS).** A neutral colleague (often the current PSR) chosen for proximity to the work, neutrality, and bandwidth. Leads day-to-day coaching and documentation at Stages 0–2.  
 * **Review Triad.** DFO (HR/compliance), D-OSL (precedent/mission), and the PCS. This team is engaged at the tactical level (stage 1 below) to ensure fairness, provide timeline accountability, approve appropriate escalation to the next stage, and protect consistency.  
 * **Records & confidentiality.** The PCS keeps transparent working notes throughout the process and the DFO maintains any confidential personnel records; Slack \#decision\_log entries are kept, but only for any applicable organizational, operational level impacts.  
 * **Conflicts/recusal.** In cases where there is a conflict of interest (e.g. if the case involves the DFO or D-OSL), an alternative director will make up the Review Triad and assume the appropriate responsibilities outlined below. 
 
-### **6.D Stages & RACI Decision Roles (PCS/Triad model)**
+**6.D Stages & RACI Decision Roles (PCS/Triad model)**
 
 **Stage 0 — Gentle course-correction** *(Relational/Operational Level; 0–2 weeks)*
 
@@ -244,13 +244,13 @@ This base-level arrangement provides an ongoing leadership forum to prevent smal
 
 **Note:** Any case that involves potential Code of Ethics violations (e.g. harassment, discrimination, retaliation, fraud, confidentiality breach, etc.), skips the PSR flow and involves immediate notification of the DFO and the Board Chair. Depending on severity, the case may jump directly to Stage 3 or 4\. Anti-retaliation and confidentiality apply.
 
-### **6.E \- Additional Details**
+**6.E \- Additional Details**
 
 * **Non-Negotiables:** Any case that involves potential Code of Ethics violations (e.g. harassment, discrimination, retaliation, fraud, confidentiality breach, etc.), skips the PSR flow and involves immediate notification of the DFO and the Board Chair. Depending on severity, the case may jump directly to Stage 3 or 4\. Anti-retaliation and confidentiality apply.  
 * **Stage Timing:** The time windows in each stage above are minimum viable and should be shortened if the risk is acute; extend cautiously if real progress is documented.  
 * **Appeals & Safeguards:** Any employee may request a facilitated conversation with the PCS or a neutral Director). If due process or fairness seems compromised, escalate to the Board Chair. OWL’s anti-retaliation policy always applies.
 
-### **6.F \- Contingencies & Recusals (when the assigned role is the subject of the case)**
+**6.F \- Contingencies & Recusals (when the assigned role is the subject of the case)**
 
 To preserve fairness and the “one-A” rule, anyone who is the subject of a performance concern is recused from their assigned role above. Use the following order of precedence to appoint alternates. Timelines and documentation standards remain the same.
 
@@ -268,13 +268,13 @@ To preserve fairness and the “one-A” rule, anyone who is the subject of a pe
 * **DPIV is the subject →** Triad remains **DFO \+ D-OSL \+** other Director (acts as PCS).  
 * **Two Directors are subjects →** The Leadership Team Officer (LTO) meets with the Board Chair to create an Ad Hoc Oversight Panel (two non-subject Directors \+ one outside advisor from the Board, if needed). “A” assignments follow the stage logic but are held by a non-subject Director designated by the Panel.
 
-### **6.G \- Cross-references**
+**6.G \- Cross-references**
 
 * Reference the **Professional Growth & Development** procedure for coaching norms and feedback practices (these underpin Stages 0–2).  
 * Reference the **Communication, Conflict, & Records** procedure for standards and protocols regarding confidentiality, document hygiene, and restricted personnel records.  
 * Reference **OWL’s Code of Conduct & Ethics** for all non-negotiables and immediate-escalation cases.
 
-# **Appendix 1: Collective Leadership Guiding Principles**
+**Appendix 1: Collective Leadership Guiding Principles**
 
 1. **Mission Alignment First**  
    * All decisions must directly support OWL's mission, core values, and learner-centered philosophy. This ensures that every action we take contributes to our broader purpose of educational transformation.  
@@ -318,7 +318,7 @@ To preserve fairness and the “one-A” rule, anyone who is the subject of a pe
      * If unresolved, bring the issue to the full Director team during the next scheduled OWL scrum.  
      * If consensus cannot be reached, the issue is escalated to the Board Chair for facilitation, mediation, or formal vote.
 
-# **Appendix 2: OWL’s Decision Types & Methods (Aligned to the Decision Ladder)**
+**Appendix 2: OWL’s Decision Types & Methods (Aligned to the Decision Ladder)**
 
 **How to use:** Pick the **type/level**, apply the **primary method**, ensure **exactly one “A”** in RACI-S, and post to **\#decision\_log** when the decision affects others’ plans, money, timelines, promises, or risk.
 
@@ -338,7 +338,7 @@ To preserve fairness and the “one-A” rule, anyone who is the subject of a pe
 * If in doubt, log. Short \+ clear beats invisible \+ assumed.  
 * For complex/cross-team items, reference a matching pattern in Appendix 4: Example Scenarios Using RACI-S and link them together.
 
-# **Appendix 3: Clarifying Strategic vs. Tactical Roles (Directors ↔ PMs)**
+**Appendix 3: Clarifying Strategic vs. Tactical Roles (Directors ↔ PMs)**
 
 Most Directors also serve as Program Managers for a region/portfolio. Expectations:
 
@@ -348,7 +348,7 @@ Most Directors also serve as Program Managers for a region/portfolio. Expectatio
 
 *This is how we stay learner-centered, financially healthy, and trusted in the field.*
 
-## **Strategic vs. Tactical Responsibility Map**
+**Strategic vs. Tactical Responsibility Map**
 
 | Decision Area | Director – Strategic Responsibility (Org Level) | PM – Tactical Responsibility (Region/Contract Level) | Other Directors – As-Needed Support |
 | ----- | ----- | ----- | ----- |
@@ -365,7 +365,7 @@ Most Directors also serve as Program Managers for a region/portfolio. Expectatio
 | **Travel & Logistics** | **DFO:** travel policy, risk thresholds, approvals beyond budget. | Plan trips within contract budget; request exceptions; submit per diem/receipts on time. | **DPIV:** event alignment, funder expectations. |
 | **CRM / Pipeline** | **DFO:** maintain org-level pipeline, qualification criteria, cadence. | Log regional leads; move stages; document next actions; handoff to D-OSL when enterprise-level. | **DPIV:** visibility tie-ins; **D-OSL** overall pipeline strategy |
 
-## **Escalation Triggers (when PMs should pull in Directors)**
+**Escalation Triggers (when PMs should pull in Directors)**
 
 Log a decision and escalate to the Director “A” when **any** of these occur:
 
@@ -375,7 +375,7 @@ Log a decision and escalate to the Director “A” when **any** of these occur:
 * **Partnerships/Grants:** new MOU, co-fundraising, or funder-driven scope requirements.  
 * **Tooling/Process:** adoption affecting multiple teams or financial/reporting flows.
 
-## **Examples (apply the table above)**
+**Examples (apply the table above)**
 
 * **Regional grant led by a PM: A:** D-OSL (strategy/approval**)** · **R:** PM (draft/submission) · **C:** DFO (budget), DPIV (metrics), D-OSL (fit) · **Notes:** If staffing or match shifts, log **Scope/Capacity** \+ **Budget**; post link \+ budget v\# in **\#decision\_log**.
 
@@ -383,13 +383,13 @@ Log a decision and escalate to the Director “A” when **any** of these occur:
 
 **Important:** Directors **own the system**; PMs **own the site-level contracts**. Shared success \= using the same playbook with clear decision rights and fast, visible follow-through.
 
-# **Appendix 4: Example Scenarios Using RACI-S**
+**Appendix 4: Example Scenarios Using RACI-S**
 
 The following examples illustrate how OWL’s collective leadership model uses the RACI-S framework in real-world decisions. These examples are far from an exhaustive list of the kinds of decisions OWL will face, but they do provide an internal reference point to support the kind of shared understanding and reinforcement of the importance of clarity, transparency, and collaboration in our work so that we successfully leverage OWL’s distributed leadership model in order to better meet the needs of our stakeholders.
 
 **When to use this.** If a decision crosses lanes and you’re unsure how to assign roles, use the scenarios below as patterns. Always ensure there is exactly one “A” (Accountable); tag the Decision Ladder level (Operational / Tactical / Strategic) and post to the Slack \#decision\_log.
 
-## **Scenario 1 — New Grant Proposal (programmatic; due in 4 weeks)**
+**Scenario 1 — New Grant Proposal (programmatic; due in 4 weeks)**
 
 * **Level:** Strategic (funding \+ public commitment)  
 * **A:** **D-OSL**  
@@ -400,7 +400,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If staffing, scope, or match assumptions change, log linked **Scope/Capacity** and **Budget** decisions; coordinate funder stewardship with **D-OSL**; after submission, post the grant link, budget version, and a RACI-S snapshot in **\#decision\_log** and pin in the project thread.
 
-## **Scenario 2 — Strategic Partnership with Another Nonprofit (MOU, roles, boundaries)**
+**Scenario 2 — Strategic Partnership with Another Nonprofit (MOU, roles, boundaries)**
 
 * **Level:** Strategic (brand, revenue, scope, long-term commitments)  
 * **A:** **D-OSL**  
@@ -411,7 +411,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If the partnership changes delivery promises, budget exposure, or staffing, log linked **Scope/Capacity** and **Budget** decisions; if co-fundraising is involved, log a **Grant/Donor Coordination** decision (lead, calendar, stewardship); after execution, post the final MOU link and a RACI-S snapshot in **\#decision\_log** and pin in the shared channel.
 
-## **Scenario 3 — Public Learning Event / Summit (multi-director delivery)**
+**Scenario 3 — Public Learning Event / Summit (multi-director delivery)**
 
 * **Level:** Tactical (Strategic if press/major funders/brand risk)  
 * **A:** **DPIV** (theme, outcomes, public presence)  
@@ -422,7 +422,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If earned media or sensitive messaging is likely, log a separate **Public Comms** decision (owner, channels, timing); if costs shift \>10% or travel adds risk, log a **Budget/Travel** decision; after the event, post **Bright Spots/Proof Points** and link artifacts in **\#decision\_log**
 
-## **Scenario 4 — Onboarding a New Fellow/Contractor**
+**Scenario 4 — Onboarding a New Fellow/Contractor**
 
 * **Level:** Tactical  
 * **A:** **DFO** (contracting/compliance)  
@@ -433,7 +433,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If role affects partner delivery or replaces staff capacity, log a **Scope/Capacity** decision; schedule and log the **60-day check-in** (PM owner) with a short performance note; post the executed agreement link and access checklist in **\#decision\_log**.
 
-## **Scenario 5 — Compliance Gap (e.g., expired contractor agreement discovered)**
+**Scenario 5 — Compliance Gap (e.g., expired contractor agreement discovered)**
 
 * **Level:** Strategic (risk)  
 * **A:** **DFO**  
@@ -444,7 +444,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** Log a **Crisis/Risk** decision if exposure is material; after resolution, post a one-paragraph **retro** and any **SOP guardrail** updates in **\#decision\_log** and pin for 30 days.
 
-## **Scenario 6 — Public Campaign / Major Announcement (brand/reputation)**
+**Scenario 6 — Public Campaign / Major Announcement (brand/reputation)**
 
 * **Level:** Strategic (brand/reputation)  
 * **A:** **DPIV**  
@@ -455,7 +455,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If announcing dates/deliverables, log a linked **Scope/Timeline** decision; attach the message map and calendar to the decision post; after launch, post a brief **impact readout** (reach, engagement, next step).
 
-## **Scenario 7 — Internal Tool / Process Adoption (affects multiple teams)**
+**Scenario 7 — Internal Tool / Process Adoption (affects multiple teams)**
 
 * **Level:** Tactical  
 * **A:** **D-OSL**  
@@ -466,7 +466,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** Time-box a **pilot** with success criteria; log **Adopt/Decline** with a 3-bullet retro; if adoption changes how we track financials or delivery, log linked **KPI/Reporting** updates.
 
-## **Scenario 8 — Innovation Sprint (prototype a new service model)**
+**Scenario 8 — Innovation Sprint (prototype a new service model)**
 
 * **Level:** Tactical → Strategic (if external pilots/positioning)  
 * **A:** **D-OSL**  
@@ -477,7 +477,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** Define **Bright Spots/Proof Points** and data capture up front; if external piloting or pricing is proposed, log linked **Go/No-Go** and **Pricing/ROI** decisions; post a short **learning summary** with next-step owners.
 
-## **Scenario 9 — Conference Proposal (national audience; co-presenters)**
+**Scenario 9 — Conference Proposal (national audience; co-presenters)**
 
 * **Level:** Tactical  
 * **A:** **DPIV** (or **D-OSL** when strategy-heavy)  
@@ -488,7 +488,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If accepted, log **Travel & Delivery Plan** (budget, staffing, materials); after delivery, post slides/recording links and a **two-bullet debrief** (reach \+ lead-ins).
 
-## **Scenario 10 — Multi-Year Renewal / Expansion with a District**
+**Scenario 10 — Multi-Year Renewal / Expansion with a District**
 
 * **Level:** Strategic (revenue \+ capacity)  
 * **A:** **DPIV** (or **PM** of record if designated)  
