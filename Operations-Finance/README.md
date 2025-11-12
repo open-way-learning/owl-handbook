@@ -1,8 +1,8 @@
 ---
-title: Director of Finance & Internal Operations (DFIO) — Overview
+title: Director of Finance & Operations (DFO) — Overview
 last_reviewed: 2025-10-27
 canonical_policy: Google Drive (see “Canonical Documents” below)
-owner: DFIO (Accountable), D-OSL (Steward)
+owner: DFO (Accountable), D-OSL (Steward)
 ---
 
 > **Canonical Source**
@@ -35,7 +35,6 @@ Safeguard OWL’s solvency and operating excellence by steering budget strategy,
 
 ## Interfaces (who you co-design with)
 - **D-OSL — Strategy & Learning:** Strategy ↔ budget/risk alignment; SOP adoption; board-visible items.
-- **DPD — Partnerships & Development:** Pricing/go-no-go, grant budgets/compliance, invoicing cadence, revenue forecasts.
 - **DPIV — Program Impact & Visibility:** Event budgets/logistics, brand/comms compliance, artifact/evidence pipelines.
 - **PMs — Site Delivery:** Budget-to-actuals, receipts/time entry, scope or travel exceptions, contract amendments.
 
