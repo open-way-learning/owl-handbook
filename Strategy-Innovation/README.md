@@ -33,8 +33,7 @@ Steward OWL’s long-term strategy and learning culture; convert values into sim
 - **Board & governance cadence:** Coordinate board-facing strategy info (budget adoption, audit/policy reviews, mission-critical approvals).
 
 ## Interfaces (who you co-design with)
-- **DFIO — Finance & Internal Ops:** Strategy ↔ budget/risk alignment; tool administration; compliance posture.
-- **DPD — Partnerships & Development:** Strategy ↔ pipeline; review MOUs/partnerships for mission/precedent; board-visible grants.
+- **DFO — Finance & Operations:** Strategy ↔ budget/risk alignment; tool administration; compliance posture.
 - **DPIV — Program Impact & Visibility:** Strategy ↔ program design and artifacts; approve major campaigns with brand risk.
 - **PMs & Fellows — Site Delivery:** Apply SOPs locally; surface improvements; participate in pilots; share evidence.
 
