@@ -2,7 +2,7 @@
 title: Director of Organizational Strategy & Learning (D-OSL) — Overview
 last_reviewed: 2025-10-27
 canonical_policy: Google Drive (see “Canonical Documents” below)
-owner: D-OSL (Accountable), DFIO/DPD/DPIV (Consulted by domain)
+owner: D-OSL (Accountable), DFO/DPIV (Consulted by domain)
 ---
 
 > **Canonical Source**
