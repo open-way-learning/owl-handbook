@@ -2,7 +2,7 @@
 title: Director of Partnerships & Development (DPD) — Overview
 last_reviewed: 2025-10-27
 canonical_policy: Google Drive (see “Canonical Documents” below)
-owner: DPD (Accountable), D-OSL (Steward)
+owner: DFO (Accountable), D-OSL (Steward)
 ---
 
 > **Canonical Source**
@@ -20,7 +20,7 @@ Grow OWL’s mission and financial health by cultivating strategic partnerships,
 - **Financial discipline:** ROI Guardrail applied to every deal; no surprise scope or margin erosion.
 
 ## Decision rights & guardrails (snapshot)
-- **One “A” rule:** DPD is **Accountable** for pricing/go-no-go, proposals/grants, revenue forecasts, and strategic MOUs; **Consulted** = DFIO (budget/compliance), D-OSL (mission/precedent), DPIV (program/story).
+- **One “A” rule:** DFO is **Accountable** for pricing/go-no-go, proposals/grants, budget/compliance, and revenue forecasts; **Consulted** = D-OSL (mission/precedent and strategic MOUs), DPIV (program/story).
 - **ROI Guardrail:** Commit only if **deposit in hand**, **≥minimum margin**, **pass-throughs matched to receipts**, **or** there’s a **funded path ≤90 days**; otherwise log an explicit strategic exception.
 - **Logging:** Post Strategic/Tactical outcomes in **#decision_log** (3–5 lines: summary, RACI-S, why it matters, next step, link).
 
@@ -32,7 +32,7 @@ Grow OWL’s mission and financial health by cultivating strategic partnerships,
 - **Evaluation & Storytelling (with DPIV):** Translate program evidence into compelling, funder-ready narratives.
 
 ## Interfaces (who you co-design with)
-- **DFIO — Finance & Internal Ops:** Pricing, budgets, compliance, contracts/insurance, invoicing cadence.
+- **DFO — Finance & Internal Ops:** Pricing, budgets, compliance, contracts/insurance, invoicing cadence.
 - **DPIV — Program Impact & Visibility:** Program alignment, artifacts, public comms/campaigns tied to development.
 - **D-OSL — Strategy & Learning:** Mission/precedent checks, adoption of dev systems/process, board-visible items.
 - **PMs — Site Delivery:** Local scoping, capacity checks, letters/MOUs, and on-the-ground relationship intel.
@@ -54,7 +54,6 @@ When serving as PM for non-WNCRP work, **earn your keep**: cover salary (and att
 - **Pricing / Go-No-Go:** **A = DPD**, C = DFIO (margin/cash), D-OSL (guardrails/precedent), PM (delivery feasibility).
 
 ## Canonical documents
-- **DPD Roles & Responsibilities (Full, Canonical):** <[Drive link](https://docs.google.com/document/d/1uNTo-Wpd0MIJIrBerw5hRCSvIunFi8qkGl5o1jBIAo0/edit?usp=sharing)>  
 - **Common R&R for All Directors:** <[Drive link](https://docs.google.com/document/d/1_9y8w-tarZIhcNENVp4r7K3Y_4ym1GIDzMmdodN2rCg/edit?usp=sharing)>  
 - **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S):** <[Drive link](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing)>  
 
