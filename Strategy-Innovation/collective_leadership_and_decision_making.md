@@ -18,7 +18,7 @@ Open Way Learning embraces a collective leadership model that intentionally depa
   * **Appendix 4 – Example Scenarios:** Short, typical case studies that help the reader see patterns and notes for when and how to use our decision-making tools, including grants, MOUs, events, tools, renewals, etc.   
   * **A note regarding the [Transition Playbook](https://docs.google.com/document/d/1Y1_K3aZ09kZ8tUY7qBdKihBY7ncsrsm-geqMERHky0A/edit?usp=sharing)**: Consider this as an additional, complementary, and time-bound appendix to this document for critical role handoffs and interim arrangements during the period of organizational transition from the summer of 2025 through the summer of 2026\. 
 
-# **Quickstart:**
+**Quickstart:**
 
 **Why does this document exist?** We lead through distributed authority, transparent systems, and mission alignment. This procedure is the *bedrock* for how we decide, deliver, and improve and should be used as a routine tool for how you make decisions within your role and across the organization’s functions.
 
