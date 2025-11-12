@@ -49,11 +49,11 @@ Use Slack for essential comms; keep Productive current; maintain file hygiene; s
 When serving as PM for a region/portfolio, **earn your keep**: cover salary (and attributable overhead) **monthly** through billable service and/or funded grants/contracts within the assigned portfolio.
 
 ## RACI-S snapshot (common calls)
-- **Tool/Process Adoption:** **A = D-OSL**, R = DFIO (roll-out/admin), C = DPD/DPIV/PMs, I = Team.
-- **Risk Escalation / Crisis (mission-critical):** **A = D-OSL**, C = DFIO/DPD/DPIV, I = Board as required.
-- **Portfolio/PM Assignment:** **A = D-OSL**, C = DFIO/DPD/DPIV, I = Team.
-- **Public Campaign (strategy-heavy):** **A = DPIV**, C = D-OSL/DPD/DFIO (D-OSL ensures alignment).
-- **Grant/MOU (precedent/mission fit):** **A = DPD**, C = D-OSL/DFIO/DPIV (D-OSL ensures precedent is honored).
+- **Tool/Process Adoption:** **A = D-OSL**, R = DFIO (roll-out/admin), C = DPIV/PMs, I = Team.
+- **Risk Escalation / Crisis (mission-critical):** **A = D-OSL**, C = DFO/DPIV, I = Board as required.
+- **Portfolio/PM Assignment:** **A = D-OSL**, C = DFO/DPIV, I = Team.
+- **Public Campaign (strategy-heavy):** **A = DPIV**, C = D-OSL/DFO (D-OSL ensures alignment).
+- **Grant/MOU (precedent/mission fit):** **A = D-OSL**, C = DFO/DPIV (D-OSL ensures precedent is honored).
 
 ## Canonical documents
 - **D-OSL Roles & Responsibilities (Full, Canonical):** <[Drive link](https://docs.google.com/document/d/1qFKT-IA39ymClXY6TF5emHVwAU3x6UgmPZbIoAs8bj4/edit?usp=sharing)>  
