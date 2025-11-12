@@ -20,7 +20,7 @@ Design and deliver consistently excellent, learner-centered programs—and turn 
 - **Safe and compliant practice:** Safeguarding, consent, and brand/compliance standards upheld across sites and artifacts.
 
 ## Decision rights & guardrails (snapshot)
-- **One “A” rule:** DPIV is **Accountable** for public-facing campaigns/announcements and program visibility decisions; **Consulted** = D-OSL (strategic frame), DPD (funder/partner angles), DFIO (brand/compliance).
+- **One “A” rule:** DPIV is **Accountable** for public-facing campaigns/announcements and program visibility decisions; **Consulted** = D-OSL (strategic frame), DFO (brand/compliance).
 - **ROI Guardrail:** If visibility or events imply delivery scope/cost, they must meet guardrails (**deposit in hand**, **≥minimum margin**, **pass-throughs matched**, **or** funded path ≤90 days) or be logged as a strategic exception.
 - **Logging:** Post Strategic/Tactical outcomes in **#decision_log** (3–5 lines: summary, RACI-S, why it matters, next step, link).
 
@@ -33,7 +33,6 @@ Design and deliver consistently excellent, learner-centered programs—and turn 
 
 ## Interfaces (who you co-design with)
 - **DFIO — Finance & Internal Ops:** Event budgets/logistics; brand/compliance; asset management; data/privacy alignment.
-- **DPD — Partnerships & Development:** Storytelling tied to renewals and pipeline; sponsor/funder angles; MOU implications.
 - **D-OSL — Strategy & Learning:** Theory of change; artifact standards; adoption of program/process updates.
 - **PMs & Fellows — Site Delivery:** Local co-design, implementation quality, feedback capture, artifact generation.
 
