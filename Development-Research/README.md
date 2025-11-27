@@ -1,5 +1,5 @@
 ---
-title: Director of Partnerships & Development (DPD) — Overview
+title: Director of Programs & Impact Visibility (DPIV) — Overview
 last_reviewed: 2025-10-27
 canonical_policy: Google Drive (see “Canonical Documents” below)
 owner: DFO (Accountable), D-OSL (Steward)
