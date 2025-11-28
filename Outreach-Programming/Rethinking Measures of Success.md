@@ -1,3 +1,7 @@
+**Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
+**Audience:** All OWL staff and stakeholders
+
+---
 This document outlines Open Way Learning’s detailed approach to measuring the impact of our work with schools and districts. Our mission is to catalyze learner-centered transformation by helping schools develop the conditions and systems necessary for sustained, equitable, and high-quality learning for every student.
 
 Rather than narrowly focusing on test prep or high-stakes assessments, OWL uses a holistic, research-informed system of measurement aligned with deeper learning goals. We help schools integrate traditional academic metrics with meaningful indicators of student growth, engagement, and real-world readiness \- measured over time through collaborative, iterative processes.
