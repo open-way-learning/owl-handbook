@@ -1,4 +1,9 @@
-### **What We Do:**
+### **OWL's Approach - What We Do:**
+
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
 
 OWL works directly with schools, districts, networks, and education partners to bring our beliefs to life through experiential learning strategies and schoolwide systems change. Our support is always:
 
