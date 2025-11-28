@@ -1,6 +1,11 @@
 # Open Way Learning Articles of Organization & Bylaws
 (As adopted on 1/9/2020 and revised on 6/11/25)
 
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
+
 ## Article I: Name & Offices
 
 Section 1: This organization shall be known as OPEN WAY LEARNING, a non-profit organization located at 41 Fairhope Way, Brasstown, North Carolina.
