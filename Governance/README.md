@@ -10,7 +10,7 @@ This section of the OWL Handbook provides public access to the foundational gove
 These resources clarify the **legal, ethical, and organizational framework** that underpins both Board-level oversight and our distributed, mission-aligned leadership culture.
 
 > **Looking for how the leadership team operates day-to-day?**  
-> See our **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S)**, the **Common Roles & Responsibilities for All Directors**, and **Role READMEs** (DPD, DFIO, DPIV, D-OSL) for the lightweight norms we use to decide, deliver, and improve together.
+> See our **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S)**, the **Common Roles & Responsibilities for All Directors**, and **Role READMEs** (DPD, DPIV, D-OSL) for the lightweight norms we use to decide, deliver, and improve together.
 
 ## Governance Philosophy
 
@@ -73,7 +73,7 @@ Clarifies the distinct ethical responsibilities of Board members in their fiduci
 | Board Code of Ethics | Board-specific conduct | Board Chair | Board members |
 | Collective Leadership SOP | Decision Ladder, RACI-S, #decision_log, scrum | Leadership Team (D-OSL steward) | OWL employees, Board (awareness) |
 | Common R&R (All Directors) | Shared director responsibilities & guardrails | Leadership Team (D-OSL steward) | Directors, PMs |
-| Role READMEs (DPD/DFIO/DPIV/D-OSL) | Role overviews with links to canonical R&R | Each Role Owner (Director) | Staff, fellows, partners (as relevant) |
+| Role READMEs (DPD/DPIV/D-OSL) | Role overviews with links to canonical R&R | Each Role Owner (Director) | Staff, fellows, partners (as relevant) |
 
 
 ## Leadership Operating Documents (Collective Leadership)
