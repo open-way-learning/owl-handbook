@@ -1,3 +1,8 @@
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
+
 ### **PURPOSE:** 
 
 This document provides an overview of OWL’s benefits, stipends, and insurance coverage.
