@@ -40,5 +40,5 @@
   * [OWL Ambassador and Fellow Program Description](Development-Research/owl-ambassador-and-fellow-program-description.md)
   * [OWL Strategic Partnership Playbook](Development-Research/Partner_Integration_Playbook.md)
 * [Templates-Resources](Templates-Resources/README.md)
-  * [Example Scope of Work](Templates-Resources/example-scope-of-work.md)
+  * [OWL Maturityy Model for Student Success](Templates-Resources/Maturity_Model.md)
   
