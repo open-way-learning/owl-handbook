@@ -18,6 +18,7 @@
   * [Time Off, Leave, & Work-Life Balance](<Admin-HR/Time Off, Leave, & Work-Life Balance.md>)
   * [Compensation, Pay Structure, and Salary Administration](<Admin-HR/Compensation, Pay Structure, and Salary Administration.md>)
   * [Benefits & Insurance](<Admin-HR/Benefits & Insurance.md>)
+  * [Information Technology & Media](<Admin-HR/IT_Media.md>)
   * [Stipends and Supplemental Benefits](<Admin-HR/Benefits & Insurance.md>)
   * [Professional Growth & Development](<Admin-HR/Professional Growth & Development.md>)
   * [Communication, Conflict, & Records](<Admin-HR/Communication, Conflict, & Records.md>)
