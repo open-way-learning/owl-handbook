@@ -1,9 +1,7 @@
 # About OWL
 
-**Version:** 1.0  
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
-**Last updated:** 11-28-25
 
 ---
 
