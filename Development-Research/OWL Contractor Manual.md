@@ -1,5 +1,10 @@
 ## **OWL CONTRACTOR MANUAL**
 
+**Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
+**Audience:** All OWL staff and contractors/Fellows
+
+---
+
 Open Way Learning (OWL) is a 501(c)(3) nonprofit organization dedicated to advancing learner-centered innovation in education. To support this mission, OWL partners with highly qualified individuals \- referred to as OWL Fellows \- who deliver professional development, workshops, coaching, and related services to schools and education organizations across the United States.
 
 This manual outlines the expectations, responsibilities, and best practices for individuals working with OWL as independent contractors, including those recognized as OWL Fellows. It is organized to include key reference sections such as the OWL Independent Contractor Payment Terms and to cross-reference the OWL Code of Ethics, which is provided separately for review and signature. Contractors should review this full manual, including the Payment Terms section, before accepting any contracted work. The most current version of this manual is maintained in OWL’s documentation hub (currently GitBook); electronic links shared during onboarding always point to the latest version.
