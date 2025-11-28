@@ -18,6 +18,8 @@ This mindset stems from open source principles of transparency, collaboration, m
 * Invite contributions from anyone—not just those with tenure or titles.
 * Focus on outcomes and impact, not hours clocked or formal hierarchy.
 
+For more details on our Open Source approach, refer to [this document](https://docs.google.com/document/d/1eXkSlOrblA2hHs-Uw2EXO9bcL4y4d-vTpv1Jp4Vywjo/edit?usp=sharing).
+
 {% hint style="warning" %}
 **On MPVs:** An MVP must still meet high quality expectations that reflect OWL's high professional standards before going "live" to an external partner or client. If you're unsure whether something is "ready enough," ask an OWL colleague for input.
 {% endhint %}
