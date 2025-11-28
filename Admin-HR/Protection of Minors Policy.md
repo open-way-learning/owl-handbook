@@ -1,3 +1,8 @@
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff and any working partners who work directly with children.
+
+---
+
 ### **PURPOSE**
 
 Open Way Learning is committed to maintaining a safe and supportive environment for all individuals, including minors (under age 18), especially in the context of school-based partnerships, student exhibitions, or community-engaged learning. This policy outlines OWL’s procedures and expectations for protecting minors from abuse, neglect, or harm during OWL-affiliated activities.
