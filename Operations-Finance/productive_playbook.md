@@ -1,13 +1,11 @@
 # **The Productive Playbook**
 
-## ***A Guidebook for How OWL Makes Work Visible***
-
-**Version:** 1.0  
-**Owner:** Director of Finance & Ops (DFO) – with input from all Directors  
-**Audience:** All OWL staff, contractors, and fellows who touch client work, internal projects, or grants  
-**Last updated:** 11-28-25
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
 
 ---
+## ***A Guidebook for How OWL Makes Work Visible***
+
 
 ## **0\. How to Use This Playbook**
 
