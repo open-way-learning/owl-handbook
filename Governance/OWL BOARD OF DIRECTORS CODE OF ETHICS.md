@@ -1,3 +1,10 @@
+## **Board of Directors Code of Ethics:** 
+
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
+
 The OWL Board of Directors is committed to ethical governance, oversight, and fiduciary responsibilities. This Code of Ethics provides supplemental guidance to the Bylaws, fostering ethical conduct, decision-making, and collaboration to advance OWL’s mission.
 
 #### **Section 1 \- Overview and Ethical Principles:** 
@@ -7,9 +14,9 @@ The OWL Board of Directors is committed to upholding the highest ethical standar
 Each OWL Board of Director member shall annually sign [this statement](https://docs.google.com/document/d/1p-Z8e9J9KDFhgLnIar_4v1kt7PdhFzBZuFrVQVKBgTk/edit?usp=sharing), which affirms such person:
 
 1. Has received a copy of this conflicts of interest policy,   
-   2. Has read and understands the policy,  
-   3. Has agreed to comply with the policy, and  
-   4. Understands the nonprofit is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
+2. Has read and understands the policy,  
+3. Has agreed to comply with the policy, and  
+4. Understands the nonprofit is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
 
 Board members pledge to:
 
