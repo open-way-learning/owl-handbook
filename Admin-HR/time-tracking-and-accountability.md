@@ -18,8 +18,6 @@ Time must be tracked using Productive, OWL’s official timekeeping platform (or
 * Record time after-the-fact, based on actual activity (not budgeted estimates);  
 * Finalize and certify records by the 15th of the following month.
 
-For ease of access, a full set of “Standard Operating Procedure” videos for Productive is available [here](https://drive.google.com/drive/folders/1DOifmB0RI4qV1wqcdtIsyVvm_BKxhvyP?usp=drive_link).
-
 #### **Exempt Employee Requirements**
 
 Exempt employees (full-time salaried staff not eligible for overtime pay) are not required to track all hours worked. However, they must track time in the following cases:
