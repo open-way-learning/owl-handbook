@@ -1,3 +1,10 @@
+## **OWL Travel Policy**
+
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff, contractors, and other partners who travel under the scope of OWL's work
+
+---
+
 ### **Purpose and Overview**
 
 This policy ensures that all OWL-related business travel is conducted fairly and responsibly. While OWL employees must follow this policy, independent contractors (hereafter "consultants") are strongly encouraged to follow it for consistency and ease of reimbursement. This policy is not exhaustive; travelers are expected to use sound judgment and act in an ethical, practical, and fiscally responsible manner.
