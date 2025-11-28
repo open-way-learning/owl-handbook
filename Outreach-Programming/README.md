@@ -1,11 +1,8 @@
----
-title: Director of Program Impact & Visibility (DPIV) — Overview
-last_reviewed: 2025-10-27
-canonical_policy: Google Drive (see “Canonical Documents” below)
-owner: DPIV (Accountable), D-OSL (Steward)
+**Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
+**Audience:** All OWL staff and contractors/Fellows
+
 ---
 
-> **Canonical Source**
 > This README is a high-level overview for fast reference.
 > The **canonical, full Roles & Responsibilities document lives on Google Drive** and is the source of truth.
 > Any policy/guardrail changes must be approved via #decision_log and reflected in the Drive doc, then mirrored here.
