@@ -9,7 +9,7 @@
 * [Governance](Governance/README.md)
   * [Open Way Learning ByLaws](Governance/open-way-learning-bylaws.md)
   * [OWL Code of Conduct & Ethics](<Governance/OWL CODE OF CONDUCT & ETHICS .md>)
-  * [OWL BOARD OF DIRECTORS CODE OF ETHICS](<Governance/OWL BOARD OF DIRECTORS CODE OF ETHICS.md>)
+  * [OWL Board of Directors Code of Ethics](<Governance/OWL BOARD OF DIRECTORS CODE OF ETHICS.md>)
 * [Operations-Finance](Operations-Finance/README.md)
   * [Time Tracking & Accountability](Operations-Finance/time-tracking-and-accountability.md)
   * [Travel Policy](<Operations-Finance/OWL Travel Policy.md>)
