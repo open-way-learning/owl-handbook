@@ -1,4 +1,4 @@
-#### **Purpose**
+### **Purpose**
 
 OWL is committed to transparent, accurate, and auditable timekeeping practices. Accurate time tracking ensures we comply with federal labor laws, maintain financial integrity, and meet the reporting requirements of contracts, grants, and restricted donations. It also enables OWL to make informed decisions about resource allocation and client engagement, without compromising the flexibility and trust that define our organizational culture.
 
@@ -83,7 +83,7 @@ Time tracking at OWL is about shared accountability, not surveillance. Here’s 
 * Communicate early with your Director if you’re unsure how to log time or need to make a correction.  
 * Report any concerns about pressure to skip breaks, work off the clock, or misreport time.
 
-  #### **🚫 Don’t:**
+#### **🚫 Don’t:**
 
 * Round time to match a target budget or guess without checking your calendar or records.  
 * Log time you didn’t work or fail to record overtime when it applies.  
