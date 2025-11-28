@@ -99,7 +99,7 @@ For more information on licensing protocols and usage rights, refer to the .
 
 ### **MEDIA CONTACTS**
 
-Any request for information or interviews by the media should be referred to the OWL Director of Outreach & Programming.
+Any request for information or interviews by the media should be referred to the OWL Director of Programming & Impact Visibility (DPIV).
 
 ### **POLICY FOR GENERATIVE ARTIFICIAL INTELLIGENCE**
 
