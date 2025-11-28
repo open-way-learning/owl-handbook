@@ -1,5 +1,12 @@
 # About OWL
 
+**Version:** 1.0  
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+**Last updated:** 11-28-25
+
+---
+
 Welcome to the foundational section of the Open Way Learning (OWL) Handbook. Whether you're a new team member, a school partner, or a collaborator exploring our work, these pages provide insight into the mission, culture, and practices that shape who we are—and how we work.
 
 Each entry in this section is a living document, reflecting OWL's commitment to transparency, co-design, and continuous improvement.
