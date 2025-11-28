@@ -1,3 +1,8 @@
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
+
 ### **PURPOSE**
 
 This document outlines OWL’s compensation philosophy, pay structure, and salary administration practices. It includes principles of pay equity, benchmark ranges aligned with the education nonprofit sector, and transparent oversight protocols for all employee roles. The document also covers salary distribution, overtime, pay frequency, deductions, and related legal compliance. These policies support OWL’s mission by ensuring compensation is fair, mission-aligned, and fiscally responsible—while reinforcing transparency, accountability, and equity across the organization.
@@ -11,7 +16,7 @@ OWL strives to provide a fair, mission-aligned, and sustainable total compensati
 * Provide a competitive and transparent compensation and benefits package, including:  
   * Fair, reasonable, and equitable base pay for all full-time exempt employees.  
   * A starting hourly wage for part-time and non-exempt employees that exceeds the federal minimum wage and is periodically reviewed for cost-of-living alignment.  
-  * Surplus-based bonuses for full-time employees when OWL exceeds budgeted revenue targets (not guaranteed annually; see Appendix B of the [OWL Code of Ethics](https://docs.google.com/document/d/1andwhEY4KWl_4leE2MoSfHpXAOc3Nrz4le6gC_NX52M/edit?usp=drive_link)).  
+  * Surplus-based bonuses for full-time employees when OWL exceeds budgeted revenue targets (not guaranteed annually; see Appendix B of the OWL Code of Ethics (under the Governance section in GitBook).   
   * Flexible Paid Time Off (PTO) for exempt staff and generous PTO policies for all full- and part-time employees (see Time Off section above).  
   * A robust benefits package, including technology stipends and health-related offerings, as described in the Benefits section.
 
