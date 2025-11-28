@@ -36,7 +36,7 @@
   * [OWL Contractor Manual](<Development-Research/OWL Contractor Manual.md>)
   * [OWL Ambassador and Fellow Program Description](Development-Research/owl-ambassador-and-fellow-program-description.md)
   * [OWL Strategic Partnership Playbook](Development-Research/Partner_Integration_Playbook.md)
-* [Positions-Perspectives](Positions-Perspectives/README.md)
+* [Positions-Perspectives](Positions-Perspectives/README_Positions-Perspectives.md)
   * [Open Source Networking & Collaboration](Positions-Perspectives/why_open_source.md)
 * [Templates-Resources](Templates-Resources/README.md)
   * [Example Scope of Work](Templates-Resources/example-scope-of-work.md)
