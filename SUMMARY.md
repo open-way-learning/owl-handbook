@@ -30,8 +30,6 @@
   * [OWL Client Engagement Playbook](<Outreach-Programming/Client_Engagement_Playbook.md>)
 * [Strategy-Innovation](Strategy-Innovation/README.md)
   * [OWL Document Control Policy](Strategy-Innovation/document_control_policy.md)
-  * [Open Source Collaboration](Strategy-Innovation/open_source_collaboration.md)
-  * [Team & Collaborative Norms](Strategy-Innovation/team-and-collaborative-norms.md)
   * [Collective Leadership & Decision Making](Strategy-Innovation/collective_leadership_and_decision_making.md)
   * [OWL's Stance on Ed Policy](Strategy-Innovation/Position_Statement_on_Education_Policy_Engagement.md)
 * [Development & Partners](Development-Partners/README.md)
