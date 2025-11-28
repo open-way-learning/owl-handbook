@@ -1,6 +1,9 @@
-# Our Culture
+# OWL's Culture - What Sets us Apart
 
-## The Collaborative Culture we Model in our Work
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
 
 OWL's working philosophy (that everyone can contribute, regardless of title, tenure with the organization, etc.) means that everyone on our team is empowered to bring our mission and vision to life by making a positive, value-adding impact with everything they do. Every day. We are able to effectively model this approach because our team brings a vast and diverse array of experience (in and out of education) to the table. As such, no one should feel that they don't have to have the required degree, certification, minimum service time, or specific role that makes them less of a contributor to the important work OWL does or to the tools we use.
 
