@@ -1,3 +1,8 @@
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
+
 ### **PURPOSE**
 
 This document provides an overview of the tools and expectations OWL uses for open communication and how we resolve tensions that may arise in our work in a thoughtful and collaborative manner. It also addresses how we properly manage all records and documentation required for internal and external-related work.
