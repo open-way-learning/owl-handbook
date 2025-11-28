@@ -1,4 +1,11 @@
-**Open Way Learning (OWL) is committed to the highest standards of legal and ethical business conduct and operates its business consistent with written operating principles and policies that reinforce this commitment. This Code of Conduct & Ethics (Code) adopted by OWL’s Board of Directors summarizes the ethical standards for all OWL employees and is a reminder of the seriousness of our commitment to our core values. Compliance with this Code is mandatory for every employee.** 
+## **Open Way Learning Code of Ethics:** 
+
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
+
+**OWL is committed to the highest standards of legal and ethical business conduct and operates its business consistent with written operating principles and policies that reinforce this commitment. This Code of Conduct & Ethics (Code) adopted by OWL’s Board of Directors summarizes the ethical standards for all OWL employees and is a reminder of the seriousness of our commitment to our core values. Compliance with this Code is mandatory for every employee.** 
 
 ### **INTRODUCTION**
 
