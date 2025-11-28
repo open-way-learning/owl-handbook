@@ -1,4 +1,4 @@
-### **OWL CONTRACTOR MANUAL**
+## **OWL CONTRACTOR MANUAL**
 
 Open Way Learning (OWL) is a 501(c)(3) nonprofit organization dedicated to advancing learner-centered innovation in education. To support this mission, OWL partners with highly qualified individuals \- referred to as OWL Fellows \- who deliver professional development, workshops, coaching, and related services to schools and education organizations across the United States.
 
