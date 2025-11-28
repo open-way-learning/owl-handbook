@@ -1,15 +1,18 @@
----
-description: This section of the OWL Handbook provides public access to the foundational governance documents that define how Open Way Learning (OWL) operates as a 501(c)(3) nonprofit.
----
+# OWL Governance
 
-# 🧭 OWL Governance
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
+This section of the OWL Handbook provides public access to the foundational governance documents that define how Open Way Learning (OWL) operates as a 501(c)(3) nonprofit.
+---
 
 These resources clarify the **legal, ethical, and organizational framework** that underpins both Board-level oversight and our distributed, mission-aligned leadership culture.
 
 > **Looking for how the leadership team operates day-to-day?**  
 > See our **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S)**, the **Common Roles & Responsibilities for All Directors**, and **Role READMEs** (DPD, DFIO, DPIV, D-OSL) for the lightweight norms we use to decide, deliver, and improve together.
 
-## 🔑 Governance Philosophy
+## Governance Philosophy
 
 OWL maintains a **dual governance model** that reflects both nonprofit best practices and our open-source values. This means we:
 
@@ -18,7 +21,7 @@ OWL maintains a **dual governance model** that reflects both nonprofit best prac
 
 This structure is not a compromise—it's a commitment to **shared accountability** and high-integrity leadership, balancing compliance with the agility required to serve educators and students well.
 
-## 📁 Files in This Section
+## Files in This Section
 
 ### 1. Open Way Learning Bylaws
 **What It Is:**  
@@ -34,7 +37,7 @@ The official letter from the IRS confirming OWL's status as a tax-exempt nonprof
 **Why It Matters:**  
 Provides legal proof of exemption, necessary for compliance, fundraising, donor contributions, and eligibility for grants or public funding.
 
-📎 [View IRS Determination Letter (Image)](./irs-determination-letter.jpg)
+ [View IRS Determination Letter (Image)](./irs-determination-letter.jpg)
 
 ### 3. Organizational Chart
 **What It Is:**  
@@ -43,7 +46,7 @@ A current map of OWL's internal staffing roles and reporting relationships—spa
 **Why It Matters:**  
 Illustrates how OWL distributes authority, aligns responsibilities, and ensures clarity between organizational units.
 
-📎 [View OWL Organization Chart (PDF)](./org-chart.pdf)
+ [View OWL Organization Chart (PDF)](./org-chart.pdf)
 
 ### 4. OWL Code of Ethics
 **What It Is:**  
@@ -59,7 +62,7 @@ A specific ethical framework for Board members, addressing fiduciary duty, confl
 **Why It Matters:**  
 Clarifies the distinct ethical responsibilities of Board members in their fiduciary role and supports alignment between governance and mission.
 
-## 🧩 How These Pieces Fit Together
+## How These Pieces Fit Together
 
 | Document | Focus Area | Maintained By | Relevant Audience |
 | -------- | ---------- | ------------- | ----------------- |
@@ -73,7 +76,7 @@ Clarifies the distinct ethical responsibilities of Board members in their fiduci
 | Role READMEs (DPD/DFIO/DPIV/D-OSL) | Role overviews with links to canonical R&R | Each Role Owner (Director) | Staff, fellows, partners (as relevant) |
 
 
-## 🤝 Leadership Operating Documents (Collective Leadership)
+## Leadership Operating Documents (Collective Leadership)
 
 These materials codify how OWL’s distributed leadership works in practice—clear decision rights, lightweight rituals, and shared operating discipline.
 
@@ -85,7 +88,7 @@ These materials codify how OWL’s distributed leadership works in practice—cl
   - Director of Program Impact & Visibility (**DPIV**)
   - Director of Organizational Strategy & Learning (**D-OSL**)
 
-## 🔁 Updating Governance Documents
+## Updating Governance Documents
 
 Most governance documents (e.g. Bylaws, Board Ethics) require a formal Board vote to be amended. All updates must follow OWL's **two-reading amendment process** as outlined in the Bylaws. Operational governance documents (e.g. Code of Ethics, Org Chart) may be updated by the Leadership Team with Board awareness.
 **Leadership Operating Docs (OWL's Collective Leadership Procedure, Role & Responsibility Docs for each Director, READMEs).**  
