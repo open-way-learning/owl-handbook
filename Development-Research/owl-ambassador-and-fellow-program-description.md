@@ -1,5 +1,10 @@
 # The OWL Ambassador & Fellowship Programs	 
 
+**Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
+**Audience:** All OWL staff and all current or potential contractors/Fellows
+
+---
+
 Open Way Learning believes that the positive change that is needed within the education ecosystem will not come from legacy institutions or from any single organization. Rather, such positive disruption will come from networks of passionate educators \- especially those who work closest with students \- using crowdsourced ideas and collective action to drive change at the local level that can be adapted, replicated, and scaled in more learning communities. This type of grassroots, organic innovation is exemplified by the open source movement and it is long overdue in the education space\!
 
 As a way to explicitly model the above belief, Open Way Learning actively sponsors an OWL Ambassador and Fellowship program \- communities of practice for outstanding education stakeholders who share a deep understanding of the prevailing issues impacting education and a passion to affect change within their own sphere of influence and beyond.
