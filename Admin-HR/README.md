@@ -1,8 +1,13 @@
 # Administration & HR
 
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
+
 This section includes key policies and practices related to OWL’s internal operations, with a focus on supporting team members through clear expectations, transparent communication, and equitable systems.
 
-It is actively maintained by the **Manager of Finance, HR, & Communications**, who ensures that the documents in this section are up to date, accessible, and aligned with OWL’s values and legal responsibilities. Any proposed changes to these documents should be coordinated with the Manager for alignment, accuracy, and final approval.
+It is actively maintained by the **DFO**, who ensures that the documents in this section are up to date, accessible, and aligned with OWL’s values and legal responsibilities. Any proposed changes to these documents should be coordinated with the Manager for alignment, accuracy, and final approval.
 
 While this folder may intersect with files in the `Operations-Finance/` and `Governance/` sections, the materials here specifically support OWL’s people systems—centered on culture, accountability, and staff wellbeing.
 
