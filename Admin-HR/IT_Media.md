@@ -1,3 +1,8 @@
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
+
 ### **PURPOSE**
 
 This document covers OWL’s expectations around technology tools, software access, AI use, open licensing, and professional handling of media. It reinforces OWL’s open-source values and commitment to digital ethics, transparency, and responsible innovation.
