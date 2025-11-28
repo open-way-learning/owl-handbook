@@ -2,10 +2,10 @@
 
 ## ***Tools, Protocols, and Principles for Sustainable, Equity-Driven Collaboration***
 
-**Version:** 0.1 (Draft)  
+**Version:** 1.0 
 **Owner:** Director of Programs & Impact Visibility (DPIV) – with input from all Directors  
 **Audience:** All OWL staff, contractors, and fellows who touch client work, internal projects, or grants  
-**Last updated:** \[DATE\]
+**Last updated:** 11-28-25
 
 ---
 
