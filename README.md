@@ -46,11 +46,11 @@ That means you're free to use, remix, and share this content non-commercially. J
 To make navigation easier, this handbook is organized into the following sections (mirrored in GitBook):
 
 - `Governance/` – bylaws, code of ethics, legal policies, and governing documents
-- `Operations-Finance/` – expense, travel, tech, and budgeting policies
-- `Admin-HR/` – compensation, leave, benefits, classifications
-- `Outreach-Programming/` – project delivery, client expectations, protocols
-- `Development-Research/` – fundraising, grants, data, reporting
-- `Strategy-Innovation/` – continuous improvement, learning org frameworks
+- `Operations-Finance/` – how we manage funding & budgets, operating systems
+- `Admin-HR/` – compensation, benefits, HR policies
+- `Outreach-Programming/` – program delivery, client engagement, outreach
+- `Development-Research/` – contractor policies, strategic partnerships, grants
+- `Strategy-Innovation/` – continuous improvement, collective leadership policies
 - `Templates-Resources/` – forms, checklists, and reusable tools
 
 ##  Questions?
