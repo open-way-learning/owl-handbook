@@ -1,4 +1,4 @@
-# **OWL Maturity Model for Student Success**
+# *OWL Maturity Model for Student Success*
 
 ## **The OWL Essential Conditions Maturity Model is a flexible tool that has been developed and refined over years of working collaboratively with schools and districts around the country who have engaged with us to transform their school cultures to be environments of deep learning and innovation. The Maturity Model is aligned to OWL’s open source approach, which makes its use inherently flexible and adaptive to each school’s local needs, goals, and assets. As such, it can be easily remixed while also remaining true to accepted best practices and strategies that have been proven to work for students. Open Way Learning maintains that for students to thrive, their schools must establish the following three essential conditions that are not only reinforced by strong leadership, but enjoy the collective efficacy of teachers and support staff. These essential conditions, when implemented with consistency and fidelity, create a powerful environment for student success.**
 
