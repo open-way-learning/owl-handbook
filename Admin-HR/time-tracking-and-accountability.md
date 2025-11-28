@@ -1,4 +1,9 @@
-### **Time Tracking & Accountability**
+## **Time Tracking & Accountability**
+
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
 
 OWL is committed to transparent, accurate, and auditable timekeeping practices. Accurate time tracking ensures we comply with federal labor laws, maintain financial integrity, and meet the reporting requirements of contracts, grants, and restricted donations. It also enables OWL to make informed decisions about resource allocation and client engagement, without compromising the flexibility and trust that define our organizational culture.
 
