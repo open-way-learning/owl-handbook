@@ -200,7 +200,7 @@ Teachers guide students through a "messy, but productive" learning process that 
 
 ## **Collective Teacher Efficacy:** 
 
-## Collective Teacher Efficacy (CTE) is the shared belief among a group of educators that their collective efforts can positively impact student outcomes. [John Hattie's research](https://www.visiblelearning.com/research) identifies CTE as the most significant predictor of student success, showing that when teachers work together, believe in their ability to affect change, and continuously collaborate, student achievement flourishes. Below are the observable practices, measurable indicators, and actionable steps necessary to foster and sustain a culture of Collective Teacher Efficacy in schools.
+Collective Teacher Efficacy (CTE) is the shared belief among a group of educators that their collective efforts can positively impact student outcomes. [John Hattie's research](https://www.visiblelearning.com/research) identifies CTE as the most significant predictor of student success, showing that when teachers work together, believe in their ability to affect change, and continuously collaborate, student achievement flourishes. Below are the observable practices, measurable indicators, and actionable steps necessary to foster and sustain a culture of Collective Teacher Efficacy in schools.
 
 1. ### ***Shared Decision-Making and Teacher Leadership** \- Teachers actively participate in decision-making processes related to curriculum, instructional strategies, and school policies. Peer-led initiatives are developed, allowing teachers to lead professional learning, team-based projects, and mentoring programs. Teacher leadership roles are clearly defined and include opportunities for ownership over school-wide initiatives*
 
