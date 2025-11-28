@@ -3,7 +3,6 @@
 
 ---
 
-> **Canonical Source**
 > This README is a high-level overview for fast reference.
 > The **canonical, full Roles & Responsibilities document lives on Google Drive** and is the source of truth.
 > Any policy/guardrail changes must be approved via #decision_log and reflected in the Drive doc, then mirrored here.
