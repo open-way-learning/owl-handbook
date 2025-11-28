@@ -1,3 +1,8 @@
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
+
 ### **PURPOSE**
 
 This document outlines OWL’s onboarding expectations and orientation practices, including initial HR requirements, training protocols, and the organizational context needed for new employees to succeed. It also describes how each position is tied to OWL’s mission and how thoughtful onboarding, grounded in recognized industry best practices, helps ensure team cohesion and clarity from day one.
