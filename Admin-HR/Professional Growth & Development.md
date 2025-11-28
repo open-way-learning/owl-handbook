@@ -1,3 +1,8 @@
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
+
 ### **PURPOSE**
 
 This document outlines OWL’s commitment to cultivating a culture of continuous learning, growth, and professional reflection. It describes how team members engage in individual development planning, feedback cycles, and annual growth conversations—while also having access to shared professional development resources. At OWL, professional growth is seen as both a personal responsibility and a collective opportunity to deepen our mission impact.
