@@ -1,7 +1,7 @@
 # **WNC Resilience Project Playbook \- Module 0**
 
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from other project stakeholders
-**Audience:** All current and potential participants in the WNC Resilience Project (https://docs.google.com/document/d/1ucJ9Ae-9tEIEoyEBneBzCHWiX_b_gAS5pmlw1c930V8/edit?usp=sharing)
+**Audience:** All current and potential participants in the [WNC Resilience Project](https://docs.google.com/document/d/1ucJ9Ae-9tEIEoyEBneBzCHWiX_b_gAS5pmlw1c930V8/edit?usp=sharing)
 
 ---
 ***Noticing the Current State: Optional Pre-Work Grounded in Empathy***
