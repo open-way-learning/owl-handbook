@@ -1,7 +1,7 @@
 ## **Board of Directors Code of Ethics:** 
 
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
-**Audience:** All OWL staff, partners, and stakeholders
+**Audience:** All OWL staff, board members, and stakeholders
 
 ---
 
