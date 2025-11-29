@@ -1,4 +1,4 @@
-# **OWL's Position Statement on Experiential Learning**
+## **OWL's Position Statement on Experiential Learning**
 
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
