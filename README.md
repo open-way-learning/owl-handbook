@@ -61,4 +61,3 @@ To make navigation easier, this handbook is organized into the following section
 
 Reach out to the OWL Leadership Team or email admin@openwaylearning.org if you have questions, suggestions, or ideas.
 
-Together, we're building something different...and better.
