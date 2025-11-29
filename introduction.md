@@ -1,8 +1,12 @@
-# Introduction
+# OWL Handbook Introduction
 
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
 ## Handbook Overview & Disclaimers
 
-Welcome to Open Way Learning! This Handbook is your guide to understanding who we are, how we work, and the values that drive our mission to transform education through learner-centered innovation. Whether you're a new employee, a long-time contributor, or an OWL Fellow, this document is designed to provide clear, transparent guidance on our policies, procedures, and organizational ethos.
+Welcome! The OWL Handbook is your guide to understanding who we are, how we work, and the values that drive our mission to transform education through learner-centered innovation. Whether you're a new employee, a long-time contributor, or an OWL Fellow, this document is designed to provide clear, transparent guidance on our policies, procedures, and organizational ethos.
 
 Originally written when OWL was a team of one, this Handbook has evolved as we've grown—just like our culture. We realized early on that future team members wouldn't have the context of those early days. So we wrote it down, not as a rigid rulebook, but as a living, open-source narrative that distills the lessons, practices, and values we continue to refine together.
 
