@@ -1,4 +1,4 @@
-# OWL's Purpose - Our Why
+# **OWL's Purpose - Our Why**
 
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
