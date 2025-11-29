@@ -1,57 +1,19 @@
+# Development & Partners
+
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
 **Audience:** All OWL staff and contractors/Fellows
 
 ---
 
-> This README is a high-level overview for fast reference.
-> The **canonical, full Roles & Responsibilities document lives on Google Drive** and is the source of truth.
-> Any policy/guardrail changes must be approved via #decision_log and reflected in the Drive doc, then mirrored here.
+This section includes the core documents that shape how OWL builds and sustains mission-aligned revenue and partnerships. It centers on the practical “how-to” of working with funders, partner organizations, contractors/Fellows, and other entities in ways that are transparent, equitable, and consistent with our learner-centered values and mission.
 
-## Purpose (what this role exists to achieve)
-Grow OWL’s mission and financial health by cultivating strategic partnerships, grants, and contracts—turning evidence of impact into sustainable revenue—while keeping opportunities aligned with capacity, guardrails, and our learner-centered values.
+This section is actively maintained by the **DPIV**, who ensures that the documents in it are up to date, accessible, and aligned with OWL’s financial guardrails, storytelling needs, external commitments, and internal core values. Any proposed changes to these documents should be coordinated with the DPIV (and DFO where relevant) for alignment, accuracy, and final approval.
 
-## What success looks like (core outcomes)
-- **Healthy pipeline:** Predictable flow of qualified opportunities → proposals → wins → renewals.
-- **Mission-fit partnerships:** MOUs/terms that strengthen programs, visibility, and sustainability.
-- **Evidence-driven development:** Impact artifacts (Bright Spots/Proof Points) power grants and storytelling.
-- **Financial discipline:** ROI Guardrail applied to every deal; no surprise scope or margin erosion.
+While this folder overlaps with materials in the `Operations-Finance/`, `Governance/`, and `Outreach-Programming/` sections, the focus here is specifically on **development and partnership infrastructure** — the shared tools we use to cultivate growth opportunities, integrate and leverage strategic partnerships, and work with non-employee collaborators to advance our mission-driven work.
 
-## Decision rights & guardrails (snapshot)
-- **One “A” rule:** DFO is **Accountable** for pricing/go-no-go, proposals/grants, budget/compliance, and revenue forecasts; **Consulted** = D-OSL (mission/precedent and strategic MOUs)
-- **ROI Guardrail:** Commit only if **deposit in hand**, **≥minimum margin**, **pass-throughs matched to receipts**, **or** there’s a **funded path ≤90 days**; otherwise log an explicit strategic exception.
-- **Logging:** Post Strategic/Tactical outcomes in **#decision_log** (3–5 lines: summary, RACI-S, why it matters, next step, link).
-
-## Scope of work (high-signal summary)
-- **Pipeline & Partnerships:** Qualify, prioritize, and steward funders/partners; maintain CRM and 90-day forecast.
-- **Grants & Proposals:** Lead narrative, budget coordination (with DFO), compliance attachments, and submission.
-- **Strategic MOUs:** Vet mission fit, roles/decision rights, data/privacy, brand/comms, and financial terms.
-- **Fellows/Contractors (development context):** Source talent, co-design scopes with PMs, and mentor where relevant.
-- **Evaluation & Storytelling:** Translate program evidence into compelling, funder-ready narratives.
-
-## Interfaces (who you co-design with)
-- **DFO — Finance & Internal Ops:** Pricing, budgets, compliance, contracts/insurance, invoicing cadence.
-- **D-OSL — Strategy & Learning:** Mission/precedent checks, adoption of dev systems/process, board-visible items.
-- **PMs — Site Delivery:** Local scoping, capacity checks, letters/MOUs, and on-the-ground relationship intel.
-
-## KPIs & review cadence
-- **Weekly:** Pipeline moves (new → qualified → propose → commit), go/no-go calls, revenue/capacity risks.
-- **Monthly:** Development Dashboard (deposits received/forecast, 90-day outlook, grant burn/requirements, partner health).
-- **Quarterly:** Win rate by stage, renewal rate, average days to close, margin health of wins, “what we learned” memo.
-
-## Operating discipline (always)
-Use Slack for essential comms; keep Productive cards current; maintain file/CRM hygiene; submit receipts/billables promptly; keep calendar accurate (include “sub plan” when OOO); status format: **Here’s where we are → Here’s the gap → Here’s the next step.**
-
-## RACI-S snapshot (common calls)
-- **Grant/Proposal Submission:** **A = DPIV**, R = DPIV, C = DFO/D-OSL, I = Team (Board if material).
-- **Strategic Partnership (MOU):** **A = DPIV**, R = DPIV, C = DFO (terms/compliance), D-OSL (mission/precedent), I = Team/Board if material.
-- **Pricing / Go-No-Go:** **A = DPD**, C = DFO (margin/cash), D-OSL (guardrails/precedent), PM (delivery feasibility).
-
-## Canonical documents
-- **Common R&R for All Directors:** <[Drive link](https://docs.google.com/document/d/1_9y8w-tarZIhcNENVp4r7K3Y_4ym1GIDzMmdodN2rCg/edit?usp=sharing)>  
-- **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S):** <[Drive link](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing)>  
-
-## Change process (how this README gets updated)
-1) Propose change via PR referencing the **#decision_log** entry.  
-2) Update the **Drive canonical** first; mirror key changes here.  
-3) Tag **DPIV (owner)** + **D-OSL (steward)** for review; merge after approval.  
-4) Update `last_reviewed` in the front matter.
+### Core Responsibilities Tied to This Folder Include:
+- Maintaining the **OWL Contractor Manual** and related resources that set expectations, payment terms, and working norms for contractors and Fellows  
+- Documenting the **Ambassador and Fellow program** structure, selection pathways, and recognition aligned to OWL’s open-source mission  
+- Providing the **Partner Integration Playbook** and related tools that guide how we scope, formalize, and revisit strategic partnerships and MOUs  
+- Curating templates and exemplars for proposals, MOUs, and partner communications that reflect OWL’s brand, guardrails, and storytelling standards  
+- Ensuring that development and partnership practices in this folder remain consistent with our collective leadership model, R&R documents, and official decision-making processes
