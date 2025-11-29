@@ -31,7 +31,7 @@ To ensure this Handbook is always a living document, all employees are encourage
 Each section of the handbook is actively maintained by the designated OWL Director or Manager responsible for that respective area of work (e.g. Director of Finance & Operations will maintain the Finance & Operations files). Any proposed changes to the documents in each respective folder should be coordinated with that person for alignment, accuracy, and final approval. If you're unsure who is responsible is for a section, contact any OWL Director or refer to the Organizational Chart for current role assignments.
 {% endhint %}
 
-### Important Legal Disclaimers
+## Important Legal Disclaimers
 
 * This Handbook provides current organizational policies as of its date of distribution. It is not a legal contract, nor does it guarantee employment for any particular duration or type of work. It supersedes all prior personnel documents, verbal commitments, or informal practices. Policies may change as needed. In all cases, OWL complies with applicable laws and will update this Handbook when required by legal or regulatory changes.
 * This Handbook is complemented by the OWL Code of Conduct & Ethics, found in the Governance section of this Handbook - it outlines legal responsibilities, ethical guidelines, and regulatory requirements for all OWL employees and stakeholders. If a situation involves potential misconduct, formal grievance resolution, or compliance with local, state, or federal law, please refer to the Code of Conduct & Ethics for detailed guidance, which is available on the OWL GitBook site or upon request from any Director.
@@ -46,7 +46,7 @@ We're glad you're here. We hope you'll find this Handbook a valuable resource, a
 * Employer: Open Way Learning (OWL), a 501(c)(3) nonprofit organization. Referred to as "OWL,” "the organization,” or "the nonprofit” throughout this and related documents.  
 * Employee: Anyone formally hired by OWL—whether full-time, part-time, or temporary—to perform work in support of the organization's mission. Employees receive compensation, may be eligible for benefits, and have their performance directed and evaluated by OWL per their job description and role expectations.
 
-### Employment Classifications
+## Employment Classifications
 
 * Full-Time Employee: A full-time employee regularly works at least 30 hours per week. These employees follow a defined scope of responsibilities, maintain consistent work hours, and are generally eligible for the full range of OWL benefits, including health stipends, retirement, PTO, and professional development.  
 * Part-Time Employee: Part-time employees typically work less than 30 hours per week, or may have flexible, project-based schedules (e.g., OWL Coaches). They are often assigned specific deliverables tied to Statements of Work. While part-time employees may receive some benefits, eligibility varies based on hours and role.  
@@ -55,7 +55,7 @@ We're glad you're here. We hope you'll find this Handbook a valuable resource, a
 * Temporary Employee: A temporary employee is hired on a short-term basis (generally less than six months), either full- or part-time. These employees are only eligible for benefits mandated by law or specifically outlined in their offer letter or agreement with OWL.
 
 
-### Non-Employee Roles
+## Non-Employee Roles
 
 * Independent Contractor: Also referred to as a consultant, contractor, or OWL Fellow, this is an individual or organization contracted to provide specific services to OWL without being classified as an employee. Independent contractors work autonomously, are not eligible for benefits, and are paid per the terms outlined in a signed Independent Contractor Agreement (ICA). The IRS 20-factor test and OWL's internal guidelines (see Contractor Manual) help ensure proper classification. Contractors are responsible for their own taxes, insurance, and retirement planning.  
 * Volunteers: Volunteers donate time or expertise without compensation. Any form of payment, including in-kind perks, would reclassify them as employees under employment law. Volunteers are not covered by OWL's workers' comp insurance and may not deduct their time from personal income taxes.  
