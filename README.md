@@ -4,7 +4,7 @@
 **Audience:** All OWL staff, partners, and stakeholders
 
 ---
-Welcome to the official Open Way Learning Employee Handbook!
+##  Welcome to the official Open Way Learning Employee Handbook!
 
 This living document is a public resource that outlines how we work, why we work the way we do, and the values that guide everything we do - both internally and externally. Like all organizations, we're subject to relevant laws and policies, but as an [open organization](https://theopenorganization.org/definition/) grounded in collective leadership and the principles of radical collaboration and transparency, this handbook also serves as the "source code" for our organizational culture.
 
