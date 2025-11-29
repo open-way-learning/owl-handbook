@@ -1,3 +1,9 @@
+## **OWL’s Position Statement on Education Policy
+
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
 **Purpose \-** This position statement clarifies OWL’s organizational stance on education policy engagement. It is intended for internal and external stakeholders, including employees, contractors, partners, and clients, to ensure consistent understanding of OWL's role, boundaries, and philosophy in relation to education policy work.
 
 **Core Stance \-** OWL is not a policy advocacy or lobbying organization. It is not part of our core mission to initiate or campaign for changes to local, state, or national education policy. Instead, our mission is centered on catalyzing sustainable, learner-centered innovation in schools through open, crowdsourced approaches that build local capacity and foster collective teacher efficacy.
