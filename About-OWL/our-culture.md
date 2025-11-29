@@ -1,4 +1,4 @@
-# OWL's Culture - Ouw What
+# OWL's Culture - Our What
 
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
