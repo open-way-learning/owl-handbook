@@ -3,7 +3,7 @@
 * [Open Way Learning Employee Handbook](README.md)
 * [Introduction](introduction.md)
 * [About OWL](About-OWL/README.md)
-  * [Our Purpose](About-OWL/our-purpose.md)
+  * [OWL's Purpose - Our Why](About-OWL/our-purpose.md)
   * [Our Culture](About-OWL/our-culture.md)
   * [Our Approach](About-OWL/our-approach.md)
 * [Governance](Governance/README.md)
