@@ -1,4 +1,4 @@
-## **OWL’s Position Statement on Education Policy
+## **OWL’s Position Statement on Education Policy**
 
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
