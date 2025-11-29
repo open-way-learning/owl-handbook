@@ -1,5 +1,9 @@
-**OWL Document Control Policy**
+## **OWL Document Control Policy**
 
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
 ### **Purpose**
 
 This procedure codifies how Open Way Learning manages its internal and external documents using a dual-platform approach:
