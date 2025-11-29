@@ -1,11 +1,8 @@
----
-title: Director of Organizational Strategy & Learning (D-OSL) — Overview
-last_reviewed: 2025-10-27
-canonical_policy: Google Drive (see “Canonical Documents” below)
-owner: D-OSL (Accountable), DFO/DPIV (Consulted by domain)
----
 
-> **Canonical Source**
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
 > This README is a high-level overview for fast reference.
 > The **canonical, full Roles & Responsibilities document lives on Google Drive** and is the source of truth.
 > Any policy/guardrail changes must be approved via #decision_log and reflected in the Drive doc, then mirrored here.
