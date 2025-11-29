@@ -4,15 +4,14 @@
 **Audience:** All OWL staff, partners, and stakeholders
 
 ---
+This is the foundational section of the OWL Handbook, describing why we exist as an educaiton nonprofit, what we do that sets us apart in the education space, and how we do our work with schools, districts, and other partners to advance our mission. Whether you're a new team member, a school partner or stakeholder, or simply a potential collaborator exploring the work we do, these pages provide insight into the core values and principles that shape our mission-driven culture.
 
-Welcome to the foundational section of the Open Way Learning (OWL) Handbook. Whether you're a new team member, a school partner, or a collaborator exploring our work, these pages provide insight into the mission, culture, and practices that shape who we are—and how we work.
+As with each entry of this handbook, everything in this section is part of a living document, reflecting OWL's commitment to transparency, co-design, and continuous improvement.
 
-Each entry in this section is a living document, reflecting OWL's commitment to transparency, co-design, and continuous improvement.
+## What You'll Find
 
-## 📌 What You'll Find
+- [Our Purpose](our-purpose.md) (The Why): Where you can explore OWL's mission, vision, and values. This section also includes our origin story and the experiences that shaped our open-source approach to school transformation. 
+- [Our Culture](our-culture.md) (The What): This section describes what sets us apart, including our approach to collective leadership, open collaboration, and cultural commitments that define what we strive for as we do our work - internally and with partners. It also includes everyday ways we model the OWL ethos as a values-driven organization.
+- [Our Approach](our-approach.md) (The How): Learn how we work with schools, districts, partners, and education networks to create the conditions to affect and sustain systems-level change. This includes an overview of our services, project workflow, facilitation practices, and our commitment to smart growth over fast growth. 
 
-- [Our Purpose](our-purpose.md) (The Why): Explore OWL's mission, vision, core beliefs, and values. This section also includes our origin story and the experiences that shaped our open-source approach to school transformation. It is our _why_.
-- [Our Culture](our-culture.md): This section describes the collective leadership, open collaboration, and cultural commitments that define how we work together—internally and with partners. It also includes everyday ways we bring the OWL ethos to life as a values-driven organization.
-- [Our Approach](our-approach.md) (The What and How): Learn how we work with schools, districts, and education networks to create lasting systems change. This includes an overview of our services, project workflow, facilitation practices, and our commitment to smart growth over fast growth. It is our _what_ and our _how_.
-
-Together, these sections offer a transparent and practical look at what it means to be part of the OWL ecosystem.
+Together, this foundational section offers a transparent, practical, and high-level look at who we are as an organization. 
