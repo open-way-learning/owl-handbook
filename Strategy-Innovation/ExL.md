@@ -1,4 +1,9 @@
-# ***A Deeper Dive into Each Experiential Learning Element***
+# **OWL's Position Statement on Experiential Learning**
+
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
 
 OWL believes that Experiential learning (ExL) is not a new program for educators to add to their already crowded plates. It is a way of designing the foundational culture of a school so that students learn *through* meaningful experience \- i.e. investigating real questions, wrestling with open-ended problems, and creating work that matters beyond the gradebook. When students have repeated opportunities to experience, reflect, make meaning, and apply their ideas, they develop the habits of mind and heart needed for a complex, rapidly changing world. These include, but are not limited to agency, collaboration, persistence, problem solving, critical thinking, agility and adaptability, and a strong sense of purpose. The [OWL Experiential Learning Playbook](https://docs.google.com/document/d/12v1Xnc22Z3WRI-9DGxuBDbEayVxb-ov-ydEMm3ndQTg/edit?usp=sharing) names this as a framework for learner-centered innovation and outlines ten core principles and is organized into mindsets like Purposeful Rigor & Growth, Authenticity & Relevance, Navigation Tools, and Learning Process, etc. that can anchor this culture shift in any school or district.
 
