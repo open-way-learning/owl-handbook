@@ -4,7 +4,7 @@
 **Audience:** All OWL staff, partners, and stakeholders
 
 ---
-This section of the OWL Handbook provides public access to the foundational governance documents that define how Open Way Learning (OWL) operates as a 501(c)(3) nonprofit.
+This section of the OWL Handbook provides public access to the foundational governance documents that define how Open Way Learning operates as a 501(c)(3) nonprofit.
 ---
 
 These resources clarify the **legal, ethical, and organizational framework** that underpins both Board-level oversight and our distributed, mission-aligned leadership culture.
@@ -83,8 +83,7 @@ These materials codify how OWL’s distributed leadership works in practice—cl
 - **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S)** — the bedrock for decisions, #decision_log, scrum cadence, and operating discipline.
 - **Common Roles & Responsibilities for All Directors** — the shared layer every Director inherits (ROI Guardrail, monthly “earn your keep,” comms/status pattern, KPI cadence).
 - **Roles Directory (READMEs)** — concise overviews for each Director role with links to the canonical Google Docs:
-  - Director of Partnerships & Development (**DPD**)
-  - Director of Finance & Internal Operations (**DFIO**)
+  - Director of Finance & Operations (**DFO**)
   - Director of Program Impact & Visibility (**DPIV**)
   - Director of Organizational Strategy & Learning (**D-OSL**)
 
