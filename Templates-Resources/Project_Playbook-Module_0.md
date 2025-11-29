@@ -1,4 +1,4 @@
-**🌄 WNC Resilience Project Playbook \- Module 0**
+# **WNC Resilience Project Playbook \- Module 0**
 
 ***Noticing the Current State: Optional Pre-Work Grounded in Empathy***
 
