@@ -1,5 +1,10 @@
 ## **OWL’s Position Statement for Competency-Based Education (CBE)**
 
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
+
 ### **Keeping the Main Thing the Main Thing**
 
 At Open Way Learning, we believe the “main thing” in education should always be authentic teaching and learning \- not compliance, sorting, or grade chasing. Competency-Based Education (CBE) brings us back to that main thing by redefining success through mastery, equity, and student agency rather than seat time or age-based progression.
