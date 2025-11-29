@@ -85,16 +85,16 @@ Unlike conventional hierarchies or top-down management, OWL's collective leaders
 
 We also maintain a centralized Decision Log, regularly updated by our Manager of Operations to track key strategic and financial decisions.
 
-### How This Shows Up in Our Work
+### How Collective Leadership Shows Up in Our Work
 
 * All Directors share responsibility for internal systems, program quality, partner relationships, and org-wide strategy. We meet weekly to raise, track, and resolve decisions collaboratively.
 * Staff and Fellows contribute to decision-making in their scope and are encouraged to suggest changes or identify gaps.
 * Ambiguous decisions are opportunities to build clarity—not power struggles. We identify leads and support roles quickly to avoid stalling.
-* Disagreements are handled with directness and care: raised peer-to-peer first, then escalated to the full Director team, and—only when necessary—to the Board Chair.
+* Disagreements are handled with directness and care: raised peer-to-peer first, then escalated to the full Director team, and—only when necessary to the Board Chair.
 
 This model empowers everyone at OWL to contribute meaningfully to the mission—not just through ideas, but through decisions and execution. It accelerates progress, builds internal leadership capacity, and ensures our clients and communities benefit from a nimble, human-centered organization that models the kind of leadership we hope to see in schools.
 
-For more on the tools, processes, and responsibilities tied to OWL's collective leadership model, refer to the [Collective Leadership SOP](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing).
+For more on the tools, processes, and responsibilities tied to OWL's collective leadership model, refer to the Collective Leadership Procedure found in the Strategy-Innovation section.
 
 ## Sustaining an Agile, Startup Mindset as we Grow
 
