@@ -1,4 +1,4 @@
-### **OWL's Approach - What We Do:**
+# **OWL's Approach - Our How**
 
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
