@@ -1,4 +1,4 @@
-# Templates & Open Resources
+# Templates & Open Source Resources
 
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
 **Audience:** All OWL staff, contractors, Fellows, and partner educators
