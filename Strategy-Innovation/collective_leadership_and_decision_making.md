@@ -1,5 +1,9 @@
-**OWL’s Approach to Collective Leadership and Decision Making**
+## **OWL’s Approach to Collective Leadership and Decision Making**
 
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
 Open Way Learning embraces a collective leadership model that intentionally departs from traditional hierarchy employed by other organizations. Inspired by *The Open Organization* (Whitehurst), *Drive* (Pink), and *Open Up, Education\!* (Owens & Haigler), we treat leadership as a practice, not a position \- one grounded in transparency, purpose, distributed authority, agile learning, and psychological safety. This procedure is the bedrock for how we routinely and consistently decide, deliver, and improve as a small, nimble nonprofit. It exists so anyone at OWL can confidently lead a decision without waiting for permission, while also staying aligned to shared guardrails, systems, and mission.
 
 **Why this matters:** Collective leadership only works when decision protocols are clear, our work is open and transparent, and follow-through is predictable and reliable. What follows turns our values into day-to-day practice so we can move nimbly and quickly while always keeping our promises to each other and our partners.
