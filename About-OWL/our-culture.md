@@ -1,4 +1,4 @@
-# OWL's Culture - "The What" that Sets us Apart
+# OWL's Culture - Ouw What
 
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
