@@ -1,64 +1,29 @@
+# Strategy & Innovation
 
-**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
-**Audience:** All OWL staff, partners, and stakeholders
+**Owner:** Director of Organizational Strategy & Learning (D-OSL) – with input from all Directors  
+**Audience:** All OWL staff, contractors, Fellows, and partners
 
 ---
-> This README is a high-level overview for fast reference.
-> The **canonical, full Roles & Responsibilities document lives on Google Drive** and is the source of truth.
-> Any policy/guardrail changes must be approved via #decision_log and reflected in the Drive doc, then mirrored here.
 
-## Purpose (what this role exists to achieve)
-Steward OWL’s long-term strategy and learning culture; convert values into simple operating guardrails; ensure our distributed leadership model works in real life—so we decide clearly, deliver consistently, and improve continuously.
+This section gathers the core procedures and position statements that define how OWL operates as a learning organization. It focuses on how we use Design Thinking and Improvement Science to guide strategy, make decisions, run experiments, and codify what we’re learning into clear, lightweight systems.
 
-## What success looks like (core outcomes)
-- **Aligned strategy:** A living org strategy and theory of change that guides choices and resourcing.
-- **Reliable decisions:** Decision Ladder + RACI-S practiced org-wide; crisp “one A” calls logged in **#decision_log**.
-- **Evergreen systems:** SOPs and tools that are lightweight, current, and actually used.
-- **Evidence & learning:** Bright Spots/Proof Points and quarterly syntheses that inform delivery, visibility, and development.
-- **Financial discipline:** ROI Guardrail is understood, applied, and reflected in go/no-go calls and policy.
+The D-OSL is responsible for maintaining these documents, with changes coordinated through OWL’s collective leadership and decision-making processes. As new frameworks, playbooks, or position statements are adopted, they will be added here.
 
-## Decision rights & guardrails (snapshot)
-- **One “A” rule:** D-OSL is **Accountable** for tool/process adoption, SOP/policy updates, portfolio/PM assignment, and risk escalation/crisis response (mission-critical). **Consulted** = DFIO/DPD/DPIV as appropriate.
-- **ROI Guardrail:** Commit only if **deposit in hand**, **≥minimum margin**, **pass-throughs matched to receipts**, **or** there’s a **funded path ≤90 days**; exceptions are explicit strategic investments logged in **#decision_log**.
-- **Logging:** Post Strategic/Tactical outcomes (3–5 lines: summary, RACI-S, why it matters, next step, link).
+### What you’ll find in this folder
 
-## Scope of work (high-signal summary)
-- **Strategy & governance:** Maintain org strategy, Decision Ladder, and **Top Decisions RACI-S**; ensure exactly one **A** per decision.
-- **Organizational learning & artifacts:** Define evidence standards and cadences (Bright Spots/Proof Points); synthesize quarterly learning.
-- **SOPs & knowledge architecture:** Keep SOP/Playbook/GitBook coherent; retire “transition” content on schedule; publish diffs.
-- **Innovation & improvement:** Time-box pilots/experiments; publish adopt/decline decisions with short retros.
-- **Board & governance cadence:** Coordinate board-facing strategy info (budget adoption, audit/policy reviews, mission-critical approvals).
+- **Collective Leadership & Decision Making**  
+  Our bedrock procedure for distributed leadership, including the Decision Ladder, RACI-S, decision log expectations, operating discipline, and performance backstop. It explains how anyone at OWL can confidently lead a decision while staying aligned to shared guardrails.
 
-## Interfaces (who you co-design with)
-- **DFO — Finance & Operations:** Strategy ↔ budget/risk alignment; tool administration; compliance posture.
-- **DPIV — Program Impact & Visibility:** Strategy ↔ program design and artifacts; approve major campaigns with brand risk.
-- **PMs & Fellows — Site Delivery:** Apply SOPs locally; surface improvements; participate in pilots; share evidence.
+- **Document Control Policy**  
+  The guide to OWL’s dual-platform documentation system (GitHub/GitBook + Google Drive). It names what belongs where, how new “official” documents are proposed and published, and how we keep our knowledge architecture clean through naming conventions and quarterly cleanup rhythms.
 
-## KPIs & review cadence
-- **Weekly:** Scrum KPI flash; Grants & Partnerships (ROI) slot; blockers/swarms; decisions to log.
-- **Monthly:** Strategy session (leading indicators, policy diffs, adopt/decline notes), SOP freshness check.
-- **Quarterly:** Strategy progress (OKR scores), artifact roll-up, decision practices adoption (#decision_log usage), org health (capacity buffer/WIP).
+- **Position Statements (Experiential Learning, CBE, Open Design/Open Source, Education Policy)**  
+  Short, practice-grounded statements that clarify what OWL believes about key levers for learner-centered change—and what that actually looks like in classrooms, schools, and systems. These sit alongside related playbooks and tools as the shared language we use in proposals, PD design, and policy conversations.
 
-## Operating discipline (always)
-Use Slack for essential comms; keep Productive current; maintain file hygiene; submit receipts/billables promptly; keep calendars accurate (with “sub plan” when OOO); status format: **Here’s where we are → Here’s the gap → Here’s the next step.**
+### How to use this section
 
-## Director-as-PM expectation (when applicable)
-When serving as PM for a region/portfolio, **earn your keep**: cover salary (and attributable overhead) **monthly** through billable service and/or funded grants/contracts within the assigned portfolio.
+- When you are **designing or revising an SOP, playbook, or framework**, start with the Collective Leadership and Document Control procedures to align decision rights, guardrails, and where the final artifact should live.  
+- When framing **new initiatives, grants, or partner work**, pull language and design cues from the Position Statements so our strategy, delivery, and storytelling stay consistent.  
+- When in doubt about **who owns a call, how to log it, or how to publish a “finished” document**, this folder is your first stop before reaching out to the D-OSL or other Directors.
 
-## RACI-S snapshot (common calls)
-- **Tool/Process Adoption:** **A = D-OSL**, R = DFIO (roll-out/admin), C = DPIV/PMs, I = Team.
-- **Risk Escalation / Crisis (mission-critical):** **A = D-OSL**, C = DFO/DPIV, I = Board as required.
-- **Portfolio/PM Assignment:** **A = D-OSL**, C = DFO/DPIV, I = Team.
-- **Public Campaign (strategy-heavy):** **A = DPIV**, C = D-OSL/DFO (D-OSL ensures alignment).
-- **Grant/MOU (precedent/mission fit):** **A = D-OSL**, C = DFO/DPIV (D-OSL ensures precedent is honored).
-
-## Canonical documents
-- **D-OSL Roles & Responsibilities (Full, Canonical):** <[Drive link](https://docs.google.com/document/d/1qFKT-IA39ymClXY6TF5emHVwAU3x6UgmPZbIoAs8bj4/edit?usp=sharing)>  
-- **Common R&R for All Directors:** <[Drive link](https://docs.google.com/document/d/1_9y8w-tarZIhcNENVp4r7K3Y_4ym1GIDzMmdodN2rCg/edit?usp=sharing)>  
-- **Collective Leadership SOP (Quickstart + Decision Ladder/RACI-S):** <[Drive link](https://docs.google.com/document/d/19iW5Q-XKk6P9aYqBYttqXBbXAY9IQz_kgZdPv_AfFQI/edit?usp=sharing)>  
-
-## Change process (how this README gets updated)
-1) Propose change via PR referencing the **#decision_log** entry.  
-2) Update the **Drive canonical** first; mirror key changes here.  
-3) Tag **D-OSL (owner)** + one peer Director for review; merge after approval.  
-4) Update `last_reviewed` in the front matter.
+As OWL’s strategy and learning practices evolve, this folder remains the home for the concise, canonical references that keep our improvement work coherent over time.
