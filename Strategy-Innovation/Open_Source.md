@@ -1,4 +1,10 @@
-# **OWL’s Position on Open Source Networking and Collaboration: *Fueling Radical Collaboration and Transformative Innovation in Education***
+## **OWL’s Position on Open Source Networking and Collaboration in Education
+
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+
+---
+*Fueling Radical Collaboration and Transformative Innovation***
 
 Open Way Learning, believes that the most transformative educational change happens when learning communities operate as open source networks \- intentionally built cultures where collaboration, transparency, and shared purpose are not afterthoughts but foundational values. These networks are not imposed top-down; they emerge and thrive when individuals are empowered to contribute, remix, and improve ideas together in service of a greater mission.
 
