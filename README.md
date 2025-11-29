@@ -6,7 +6,7 @@
 ---
 Welcome to the official Open Way Learning Employee Handbook!
 
-This living document is a public resource that outlines how we work, why we work the way we do, and the values that guide everything we do—both internally and externally. Like all organizations, we're subject to relevant laws and policies. But as an [open organization](https://theopenorganization.org/definition/) grounded in collective leadership and the principles of radical transparency, this handbook also serves as the source code for our organizational culture.
+This living document is a public resource that outlines how we work, why we work the way we do, and the values that guide everything we do - both internally and externally. Like all organizations, we're subject to relevant laws and policies, but as an [open organization](https://theopenorganization.org/definition/) grounded in collective leadership and the principles of radical collaboration and transparency, this handbook also serves as the "source code" for our organizational culture.
 
 > “To scale deep, not just wide, requires being intentional about culture. We see culture not as the soft stuff, but as the operating system that enables everything else.”  
 > — *Jal Mehta, Harvard Graduate School of Education*
@@ -15,49 +15,34 @@ This living document is a public resource that outlines how we work, why we work
 
 This handbook includes guidance on:
 
-- Our mission, vision, and ethos
-- Benefits, compensation, and leave policies
-- Roles and definitions (employees, fellows, interns, etc.)
-- Feedback and growth practices
-- Project management and service quality standards
-- Tools and procedures for travel, reimbursement, and documentation
-- Equity commitments and open-source licensing
-- How to contribute updates to this handbook
-
-##  Governance Documents
-
-In addition to Markdown-based policies, this handbook also includes important governing documents that are hosted in their original formats:
-
-- 📄 [IRS Determination Letter (JPG)](Governance/irs-determination-letter.jpg)  
-- 📄 [OWL Organizational Chart (PDF)](Governance/org-chart.pdf)
-
-These are located in the `Governance/` folder and are referenced throughout the handbook where applicable.
+- Our mission, vision, and values
+- Key roles and responsibilities (directors, board members, employees, contractors, partners, etc.)
+- How we learn, grow, and improve using design thinking and improvement science
+- How we do the work we do for and with others (project management, service quality standards, etc.)
+- Policies, procedures and tools for things like benefits, compensation, travel, vacation, etc.
+- The process anyone can use to contribute updates to this handbook
 
 ##  A Living Document
 
-This is not a dusty PDF sitting in a forgotten drawer. It is a handbook built for iteration—an evolving reflection of our organization as we grow and learn.
-
-We update this handbook often, based on team input, feedback from partners, and changing needs. If you have an idea for improving it, can propose a change or share your thoughts via OWL’s Document Control Policy (found in the Strategy & Innovation section).
+To that last point above, this handbook is not a dusty PDF developed just to check a regulatory box. It is a living document that devines our organization's ethos and approach for the mission-driven work we do in the educaiton space. As such, it is an built for iteration and continuous improvement — i.e. an evolving reflection of who we are as an agile, learning organization. This means that we update this handbook early and often, based on team input, feedback from partners, and changing needs in the education space. If you have an idea for improving any aspect of this handbook, you are welcome to propose a change or share your thoughts via OWL’s Document Control Policy (found in the Strategy & Innovation section).
 
 ##  License
 
-Unless otherwise noted, all content is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
-
-That means you're free to use, remix, and share this content non-commercially. Just give proper credit.
+Unless otherwise noted, all content OWL produces (including what's in this handbook) is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). That means you're free to use, remix, and share this content non-commercially. All we ask is that you give us proper credit.
 
 ##  Looking for Something?
 
 To make navigation easier, this handbook is organized into the following sections (mirrored in GitBook):
 
-- `Governance/` – bylaws, code of ethics, legal policies, and governing documents
-- `Operations-Finance/` – how we manage funding & budgets, operating systems
-- `Admin-HR/` – compensation, benefits, HR policies
-- `Outreach-Programming/` – program delivery, client engagement, outreach
-- `Development-Research/` – contractor policies, strategic partnerships, grants
-- `Strategy-Innovation/` – continuous improvement, collective leadership policies
-- `Templates-Resources/` – forms, checklists, and reusable tools
+- `Governance/` – Board policies, orgazational bylaws, code of ethics, legal matters, and governing documents.
+- `Operations-Finance/` – How we manage funding & budgets, as well as back-end operating systems that enable us to efficiently and effectively manage the work we do. 
+- `Admin-HR/` – Personnel matters such as compensation, benefits, vacation, and other Human Resource policies.
+- `Outreach-Programming/` – How we manage our programs and service delivery, client engagement, and outreach efforts.
+- `Development-Partners/` – How we manage grants, fundraising, and strategic partnerships, as well as work with contract partners (the OWL Fellowship)
+- `Strategy-Innovation/` – How we model continuous improvement, collective leadership, and design-based innovation, as well as how we codify that learning in our documented policies and procedures.
+- `Templates-Resources/` – Open source tools, protocols, etc. that help us and our partners drive learner-centered innovation.
 
 ##  Questions?
 
-Reach out to the OWL Leadership Team or email admin@openwaylearning.org if you have questions, suggestions, or ideas.
+Reach out to any OWLer or email admin@openwaylearning.org if you have questions, suggestions, or ideas. Thank you for helping bring positive disruption to the status quo in education!
 
