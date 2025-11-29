@@ -41,4 +41,10 @@
   * [OWL Strategic Partnership Playbook](Development-Research/Partner_Integration_Playbook.md)
 * [Templates-Resources](Templates-Resources/README.md)
   * [OWL Maturity Model for Student Success](Templates-Resources/Maturity_Model.md)
+  * [WNCRP Project Playbook - Overview](Templates-Resources/Project_Playbook-Overview.md)
+  * [WNCRP Project Playbook - Module 0 - Empathy Mapping](Templates-Resources/Project_Playbook_0.md)
+  * [WNCRP Project Playbook - Module 1 - Change Ideas](Templates-Resources/Project_Playbook_1.md)
+  * [WNCRP Project Playbook - Module 2 - Refining the AIM](Templates-Resources/Project_Playbook_2.md)
+  * [WNCRP Project Playbook - Module 3 - Mapping Change](Templates-Resources/Project_Playbook_3.md)
+  * [WNCRP Project Playbook - Module 4 - Learning & Sustaining](Templates-Resources/Project_Playbook_4.md)
   
