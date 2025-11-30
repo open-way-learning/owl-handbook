@@ -1,4 +1,4 @@
-## **OWL Maturity Model for Student Success**
+# **OWL Maturity Model for Student Success**
 
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
