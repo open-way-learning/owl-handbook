@@ -1,7 +1,9 @@
 # **OWL Maturity Model for Learner-Centered Innovation**
 
-*![][image1]*
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
 
+---
 ### **Background and Purpose**
 
 The OWL Maturity Model for Learner-Centered Innovation is a flexible tool that helps any school, district, network, or other learning community make an honest, shared assessment of where they are on the journey toward a culture of authentic, learner-centered innovation. It focuses on systemic, culture-level conditions instead of isolated programs or specific classroom strategies. It does this by asking:
