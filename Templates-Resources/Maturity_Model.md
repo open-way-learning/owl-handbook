@@ -1,7 +1,9 @@
 # **OWL Maturity Model for Student Success**
 
-![][image1]
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
 
+---
 ## **Background and Purpose**
 
 The OWL Maturity Model for Student Success is a flexible tool that has been developed and refined over years of collaborative work with schools and districts that are transforming their learning environments into places of deep learning and innovation.
