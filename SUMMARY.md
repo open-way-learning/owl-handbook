@@ -35,6 +35,8 @@
   * [OWL's Position - Open Source in Education](Strategy-Innovation/Open_Source.md)
   * [OWL's Position - Experiential Learning](Strategy-Innovation/ExL.md)
   * [OWL's Position - Competency Based Educaiton](Strategy-Innovation/CBE.md)
+  * [OWL's Position - Design Thinking in Schools](Strategy-Innovation/Design_Thinking.md)
+  * [OWL's Position - Improvement Science & NICs](Strategy-Innovation/NIC.md)
 * [Development & Partners](Development-Partners/README.md)
   * [OWL Contractor Manual](<Development-Research/OWL Contractor Manual.md>)
   * [OWL Ambassador and Fellow Program Description](Development-Research/owl-ambassador-and-fellow-program-description.md)
