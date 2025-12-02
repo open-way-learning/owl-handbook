@@ -44,6 +44,7 @@
 * [Templates-Resources](Templates-Resources/README.md)
   * [OWL Maturity Model for Student Success](Templates-Resources/Maturity_Model.md)
   * [OWL Maturity Model for Learner-Centered Innovation](Templates-Resources/OWL_Maturity_Model.md)
+  * [OWL STEM Maturity Model](Templates-Resources/STEM_Maturity_Model.md)
   * [WNCRP Project Playbook - Overview](Templates-Resources/Project_Playbook-Overview.md)
   * [WNCRP Project Playbook - Module 0 - Empathy Mapping](Templates-Resources/Project_Playbook_0.md)
   * [WNCRP Project Playbook - Module 1 - Change Ideas](Templates-Resources/Project_Playbook_1.md)
