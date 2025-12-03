@@ -1,6 +1,9 @@
 # **OWL STEM Maturity Model**
 
-# **Background and Purpose**
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+---
+## **Background and Purpose**
 
 Young people are growing up in a world of constant scientific discovery and rapid technological change. From climate resilience and public health to artificial intelligence and the future of work, decisions that shape their lives increasingly depend on scientific and technical understanding and on their ability to participate as informed citizens, not just passive consumers.
 
@@ -32,7 +35,7 @@ The intent of this model is not to rank or label classrooms, teachers, or school
 
 Like all OWL tools, it is grounded in an open-source mindset: schools are encouraged to adapt and remix the model to fit their local needs, goals, and assets while staying rooted in research-aligned practices that consistently help students thrive in STEM.
 
-# **Model Formats and How They Work Together**
+## **Model Formats and How They Work Together**
 
 The OWL STEM Maturity Model is available in two complementary formats. Each serves a distinct purpose in the journey toward stronger STEM experiences and outcomes:
 
@@ -74,7 +77,7 @@ Schools and districts can use either format on its own or combine them. Some tea
 
 In all cases, the goal is the same: choose the format(s) that help your community see STEM learning more clearly, imagine what’s possible, and design a practical pathway toward stronger, more equitable STEM experiences.
 
-# **Connection to the OWL Maturity Models for Learner-Centered Innovation and Student Success**
+## **Connection to the OWL Maturity Models for Learner-Centered Innovation and Student Success**
 
 The OWL STEM Maturity Model zooms in on the conditions and practices that make STEM rich, relevant, and inclusive:
 
@@ -98,7 +101,7 @@ Teams might start with the culture-level model to understand readiness and syste
 
 Over time, cross-walking between the three models can help the community see how changes in one area support (or undermine) the others and keep STEM work aligned with the broader vision for learner-centered change.
 
-# **How to Use This Model – Design Thinking \+ Improvement Science**
+## **How to Use This Model – Design Thinking \+ Improvement Science**
 
 This guide and the accompanying rubric are designed to be used within a Design Thinking and Improvement Science approach to change, not as a one-time checklist.
 
