@@ -1,6 +1,6 @@
 ## **OWL Document Control Policy**
 
-**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
 
 ---
