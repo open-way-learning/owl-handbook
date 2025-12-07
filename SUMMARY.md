@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Open Way Learning Employee Handbook](README.md)
-* [Introduction](introduction.md)
+* [Open Way Learning Introduction](README.md)
+* [OWL Employee Handbook](introduction.md)
 * [About OWL](About-OWL/README.md)
   * [OWL's Purpose - Our Why](About-OWL/our-purpose.md)
   * [OWL's Culture - Our What](About-OWL/our-culture.md)
@@ -10,7 +10,7 @@
   * [Open Way Learning ByLaws](Governance/open-way-learning-bylaws.md)
   * [OWL Code of Conduct & Ethics](<Governance/OWL CODE OF CONDUCT & ETHICS .md>)
   * [OWL Board of Directors Code of Ethics](<Governance/OWL BOARD OF DIRECTORS CODE OF ETHICS.md>)
-* [Operations-Finance](Operations-Finance/README.md)
+* [Finance-Operations](Operations-Finance/README.md)
   * [Travel Policy](<Operations-Finance/OWL Travel Policy.md>)
   * [OWL Productive Playbook](<Operations-Finance/productive_playbook.md>)
 * [Administration-HR](Admin-HR/README.md)
