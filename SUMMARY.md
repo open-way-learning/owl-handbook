@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Open Way Learning Introduction](README.md)
-* [OWL Employee Handbook](introduction.md)
+* [OWL's Codified Documents - GitBook](introduction.md)
 * [About OWL](About-OWL/README.md)
   * [OWL's Purpose - Our Why](About-OWL/our-purpose.md)
   * [OWL's Culture - Our What](About-OWL/our-culture.md)
