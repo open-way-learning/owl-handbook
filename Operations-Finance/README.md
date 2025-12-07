@@ -1,4 +1,4 @@
-# Operations & Finance
+# Finance & Operations
 
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff, contractors, and Fellows
