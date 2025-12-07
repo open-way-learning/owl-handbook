@@ -1,16 +1,16 @@
-# OWL Handbook Introduction
+# OWL GitBook Introduction
 
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
 
 ---
-## Handbook Overview & Disclaimers
+## Platform Overview & Disclaimers
 
-Welcome! The OWL Handbook is your guide to understanding who we are, how we work, and the values that drive our mission to transform education through learner-centered innovation. Whether you're a new employee, a long-time contributor, or an OWL Fellow, this document is designed to provide clear, transparent guidance on our policies, procedures, and organizational ethos.
+Welcome! OWL's GitBook platform is your guide to understanding who we are, how we work, and the values that drive our mission to transform education through learner-centered innovation. Whether you're a new employee, a long-time contributor, or an OWL Fellow, this set of core documents is designed to be the codified source of truth that provides clear, transparent guidance about our essential organizational functions and ethos.
 
-Originally written when OWL was a team of one, this Handbook has evolved as we've grown—just like our culture. We realized early on that future team members wouldn't have the context of those early days. So we wrote it down, not as a rigid rulebook, but as a living, open-source narrative that distills the lessons, practices, and values we continue to refine together.
+Originally written when OWL was a team of one, this set of procedures, policies, templates, etc. has evolved along with our culture over the years as we've operated as a mission-driven nonprofit. We realized early on that future team members wouldn't have the benefit and context of those early days, so that's why we wrote it down - not as a rigid set of rules, but as a living, open-source narrative that distills the lessons, practices, and values that define who we are so that we can continue to refine them together as we grow.
 
-This Handbook exists to:
+The GitBook platform exists to:
 
 * Codify who we are and how we work, both internally and externally.  
 * Reduce confusion and unnecessary interruptions by making information discoverable.  
@@ -19,31 +19,29 @@ This Handbook exists to:
 * Support transparency and alignment across a distributed, mission-driven team.  
 * Track and communicate changes, enabling us to evolve with purpose.
 
-We know it's a lot—and that's okay. Clarity builds confidence. If you're ever unsure, ask. If something feels outdated or unclear, propose a revision. This is a shared document that embodies the "source code” for OWL's culture and as such, every employee is expected to not only use it as a guide, but shape it as we evolve as an organization. 
+A disclaimer: We know this set of documents is a lot. But that's okay. Clarity builds confidence and collective purpose. If you're ever unsure, ask. If something feels outdated or unclear, propose a revision. This is a shared set of documents that you own and embodies the "source code” for OWL's culture. As such, every team member is empowered and expected to not only use them as a guide for how to do one's work, but how we model our values to the world in everything we do. This is the reason we document extensively as an organization, but it is equally important to realize that this documentation does NOT make us a bureaucratic, out of touch organization. In fact, it's the opposite. Our commitment to transparency, asynchronous communication, and collective autonomy is what allows us to move faster, make better decisions, and continually improve. That's the open-source way!
 
-So yes, we document extensively and this Handbook is a reflection of that fact. But no, that doesn't make us bureaucratic. In fact, it's the opposite. Our commitment to transparency, asynchronous communication, and collective autonomy is what allows us to move faster, make better decisions, and improve continuously. That's the open-source way!
+It's also important to know that this set of documents is in perpetual beta! That means they are subject to review, revision, and iteration at any time. Just because something isn't (yet) included doesn't mean it's approved or prohibited. When in doubt, reach out. Interpretation is also welcome, especially when it brings cultural awareness, equity, and inclusivity into the conversation.
 
-It's also important to know that this document is always in beta! That means it's subject to ongoing review, revision, and iteration. Just because something isn't (yet) included doesn't mean it's approved or prohibited. So when in doubt, reach out. Interpretation is welcome, especially when it brings cultural awareness, equity, and inclusivity into the conversation.
-
-To ensure this Handbook is always a living document, all employees are encouraged to routinely suggest updates, refinements, or corrections using OWL's internal GitBook comment feature or by tagging a Director in the `#handbook-updates` Slack channel. Suggestions are reviewed quarterly or as needed by the Leadership Team. Refer to this procedure for [Setting Up and Managing Documents on GitBook](https://docs.google.com/document/d/1CiJ2uRiQLLMPyVbInkVFJcjsJ10gfzf61eBA0l0DCRI/edit?usp=sharing) for more details.
+To ensure these GitBook documents are always current, relevant, and accurate, all employees are encouraged to routinely suggest updates, refinements, or corrections using GitBook's comment feature or by tagging a Director on OWL's Slack channel to initiate a change. Suggestions are reviewed frequently (at least quarterly OWL's Leadership Team. Refer to the Document Control Policy found in the Strategy-Innovation section below for more details.
 
 {% hint style="info" %}
-Each section of the handbook is actively maintained by the designated OWL Director or Manager responsible for that respective area of work (e.g. Director of Finance & Operations will maintain the Finance & Operations files). Any proposed changes to the documents in each respective folder should be coordinated with that person for alignment, accuracy, and final approval. If you're unsure who is responsible is for a section, contact any OWL Director or refer to the Organizational Chart for current role assignments.
+Each docuemnt on this platform is actively maintained by the designated OWL Director responsible for that respective area of work (e.g. Director of Finance & Operations will maintain the Finance & Operations files). Any proposed changes to the documents in each respective folder should be coordinated with that person for alignment, accuracy, and final approval. These designations are noted at the top of each document, but if you're ever unsure who is responsible is for a section, contact any OWL Director for help.
 {% endhint %}
 
 ## Important Legal Disclaimers
 
-* This Handbook provides current organizational policies as of its date of distribution. It is not a legal contract, nor does it guarantee employment for any particular duration or type of work. It supersedes all prior personnel documents, verbal commitments, or informal practices. Policies may change as needed. In all cases, OWL complies with applicable laws and will update this Handbook when required by legal or regulatory changes.
-* This Handbook is complemented by the OWL Code of Conduct & Ethics, found in the Governance section of this Handbook - it outlines legal responsibilities, ethical guidelines, and regulatory requirements for all OWL employees and stakeholders. If a situation involves potential misconduct, formal grievance resolution, or compliance with local, state, or federal law, please refer to the Code of Conduct & Ethics for detailed guidance, which is available on the OWL GitBook site or upon request from any Director.
+* The documents found on the OWL GitBook platform provide current organizational policies as of the dates listed on each document. This set of documents does not constitute a legal contract, nor does it guarantee employment for any particular duration or type of work. It supersedes all prior personnel documents, verbal commitments, or informal practices. Policies may change as needed. In all cases, OWL complies with applicable laws and will update this set of documents when required by legal or regulatory changes.
+* This set of documents also includes the OWL Code of Conduct & Ethics, found in the Governance section below. It outlines legal responsibilities, ethical guidelines, and regulatory requirements for all OWL employees, contractors, and stakeholders. If a situation involves potential misconduct, formal grievance resolution, or compliance with local, state, or federal law, please refer to this Code of Conduct & Ethics for detailed guidance.
 
-We're glad you're here. We hope you'll find this Handbook a valuable resource, a reflection of our shared values, and an invitation to co-create the future of OWL—together!
+We're glad you're here. We hope you'll find the GitBook platform a valuable resource, a reflection of our shared values, and an invitation to co-create the future of OWL—together!
 
 ## Definition of Terms
 
 * Officers: The Officers of Open Way Learning include the Leadership Team Officer (LTO), Chair of the Board of Directors, and Treasurer. These individuals are responsible for board governance and operational oversight as required by law and outlined in OWL's bylaws. Officers are members of the Board and serve to uphold fiduciary responsibilities, ensure legal compliance, and provide strategic leadership. Their roles are defined in accordance with applicable nonprofit regulations and OWL's internal governance framework.  
 * Board of Directors: The governing body charged with stewarding OWL's mission, finances, and long-term strategic direction. Board members act in a fiduciary capacity to ensure all operations are aligned with OWL's values, legal responsibilities, and strategic goals. Officers also serve as members of the Board. The Board operates as both a sounding board and accountability structure for OWL's leadership, and includes voices with experience in education, nonprofit management, law, finance, and systems innovation.  
 * OWL Leadership Team: The core internal leadership group for the organization consisting of the Director of Organizational Strategy & Learning (DOSL), Director of Finance & Operations (DFO), and Director of Program Impact & Visibility (DPIV). Two Leadership Team members also serve on the Board, one as the designated LTO and another as Member-at-Large. While Leadership Team members not serving on the Board do not hold formal governance authority, they collaborate closely with the Board, lead OWL's daily operations, and help shape strategic priorities based on their lived experience with schools and partners.  
-* Employer: Open Way Learning (OWL), a 501(c)(3) nonprofit organization. Referred to as "OWL,” "the organization,” or "the nonprofit” throughout this and related documents.  
+* Employer: Open Way Learning (OWL), a 501(c)(3) nonprofit organization. Referred to as "OWL,” "the organization,” or "the nonprofit” throughout this and related documents. 
 * Employee: Anyone formally hired by OWL—whether full-time, part-time, or temporary—to perform work in support of the organization's mission. Employees receive compensation, may be eligible for benefits, and have their performance directed and evaluated by OWL per their job description and role expectations.
 
 ## Employment Classifications
@@ -63,9 +61,9 @@ We're glad you're here. We hope you'll find this Handbook a valuable resource, a
 
 ## Employment Statement
 
-Open Way Learning provides each new employee with an electronic copy of this handbook when you join the team and expect that in short order, you will be familiar and follow its content. We also provide all employees a separate Code of Conduct and Ethics document that includes the minimum essential and nonnegotiable items that ensure the highest standards of personal and professional ethics and behavior while associated with Open Way Learning—the things that have regulatory, ethical, and legal ramifications. 
+Open Way Learning provides each new employee with access to the GtiBook platform when they join the team and expect that in short order, they will be familiar and follow its content (including the Code of Conduct and Ethics document that provides the minimum essential and nonnegotiable items that ensure the highest standards of personal and professional ethics and behavior while associated with Open Way Learning). 
 
-Moreover, and just as important, Open Way Learning believes that relationships—built on *trust, transparency, inclusivity, and shared purpose*— are central to how we work and the kind of culture we aim to cultivate. This statement is not just a call for professionalism in the traditional sense, but a reflection of the *collaborative spirit* that defines OWL as an open organization. Here's what this means in practice, rooted in three core values to OWL's culture—Good judgement, Diplomacy, and Courtesy:
+OWL also firmly believes that relationships built on *trust, transparency, inclusivity, and shared purpose* are central to how we work and the kind of culture we aim to cultivate. This is not just a call for professionalism in the traditional sense, but a reflection of the *collaborative spirit* that defines OWL as an open organization. The following is what this means in practice - rooted in the ideals of good judgement, diplomacy, and courtesy:
 
 1. Good Judgment:
 * OWL employees are expected to act with integrity and thoughtfulness, making decisions that reflect our mission, values, and commitment to equitable, learner-centered transformation.  
@@ -80,7 +78,5 @@ Moreover, and just as important, Open Way Learning believes that relationships�
 * This means communicating clearly and kindly, being punctual and prepared for meetings, and showing appreciation for others' time and effort.  
 * In the spirit of open collaboration, it also means extending grace, especially in high-pressure or uncertain situations, and assuming that everyone is doing their best.
 
-The above is vitally important for OWL's culture as an [open organization](https://theopenorganization.org/) that values purposeful transparency, inclusive decision-making, and distributed leadership. These values require a culture where people feel safe to share ideas, ask questions, give feedback, and try new things. The tone and manner in which we engage with one another either builds or erodes that culture.
-
-This expectation, then, is not just about individual behavior—it's about sustaining an environment where innovation, equity, and trust can thrive.
+The above is critically important for OWL's culture as an [open organization](https://theopenorganization.org/) - one that values purposeful transparency, inclusive decision-making, and distributed leadership. These values require a culture where people feel safe to share ideas, ask questions, give feedback, and try new things. The tone and manner in which we engage with one another either builds or erodes that culture. This expectation, then, is not just about individual behavior, but is about sustaining an environment where innovation, equity, and trust can thrive.
 
