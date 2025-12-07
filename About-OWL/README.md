@@ -4,9 +4,9 @@
 **Audience:** All OWL staff, partners, and stakeholders
 
 ---
-This is the foundational section of the OWL Handbook, describing why we exist as an educaiton nonprofit, what we do that sets us apart in the education space, and how we do our work with schools, districts, and other partners to advance our mission. Whether you're a new team member, a school partner or stakeholder, or simply a potential collaborator exploring the work we do, these pages provide insight into the core values and principles that shape our mission-driven culture.
+This is the foundational section of the OWL GitBook platform, with core documentation describing why we exist as an educaiton nonprofit, what we do that sets us apart in the education space, and how we do our work with schools, districts, and other partners to advance our mission. Whether you're a new team member, a school partner or stakeholder, or simply a potential collaborator exploring the work we do, these pages provide insight into the core values and principles that shape our mission-driven culture.
 
-As with each entry of this handbook, everything in this section is part of a living document, reflecting OWL's commitment to transparency, co-design, and continuous improvement.
+As with each document on this platform, everything in this section is part of a living system of documents, reflecting OWL's commitment to transparency, co-design, and continuous improvement.
 
 ## What You'll Find
 
