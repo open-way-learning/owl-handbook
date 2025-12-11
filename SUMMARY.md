@@ -24,7 +24,7 @@
   * [Communication, Conflict, & Records](<Admin-HR/Communication, Conflict, & Records.md>)
   * [Employee Orientation And Job Description](<Admin-HR/Employee Orientation And Job Description_.md>)
   * [Protection of Minors Policy](<Admin-HR/Protection of Minors Policy.md>)
-  * [Time Tracking & Accountability](Operations-Finance/time-tracking-and-accountability.md)
+  * [Time Tracking & Accountability](Admin-HR/time-tracking-and-accountability.md)
 * [Outreach-Programming](Outreach-Programming/README.md)
   * [Rethinking Measures of Success](<Outreach-Programming/Rethinking Measures of Success.md>)
   * [OWL Client Engagement Playbook](<Outreach-Programming/Client_Engagement_Playbook.md>)
