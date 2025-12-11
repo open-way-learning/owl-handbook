@@ -1,4 +1,7 @@
-**OWL Document Control Policy**
+#**OWL Document Control Policy**
+
+Owner: Accountable = Director of Orgazational Strategy & Learning (DOSL). Responsible = Director of Finance & Operations (DFO), with support and input from all Directors
+Audience: All OWL staff, partners, and stakeholders
 
 ## **Purpose**
 
