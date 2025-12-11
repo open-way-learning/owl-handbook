@@ -1,3 +1,9 @@
+# **Time Tracking & Accountability**
+
+**Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
+**Audience:** All OWL staff
+
+---
 ### **1\. Purpose and Relationship to the Productive Playbook**
 
 OWL is committed to transparent, accurate, and auditable timekeeping. Accurate records help us:
