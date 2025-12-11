@@ -331,7 +331,7 @@ Each folder contains a “README” (Folder Overview) maintained by its Steward.
 * Steward: Director of Program Impact & Visibility (DPIV)  
   **Key sub-folders:**  
 * **01\_Active & Ongoing Clients & Partners** – one folder per active partner (district, school, funder, org). Within each partner folder, typical third-level subfolders include:  
-  * 01\_Scopes, Contracts & Agreements – SOWs, contracts, POs, MOUs.  
+  * 01\_Active Scopes, Contracts & Agreements – Current SOWs, contracts, POs, MOUs.  
   * 02\_Planning & Agendas – series plans, trip plans, agendas, logistics.  
   * 03\_Deliverables & Artifacts – slide decks, handouts, tools used with that partner.  
   * 04\_Data & Learning – partner-specific PDSA notes, survey summaries (mirrored or summarized in 06\_Data, Learning & Impact as needed).  
