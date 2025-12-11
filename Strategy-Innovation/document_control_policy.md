@@ -1,8 +1,9 @@
 #**OWL Document Control Policy**
 
-Owner: Accountable = Director of Orgazational Strategy & Learning (DOSL). Responsible = Director of Finance & Operations (DFO), with support and input from all Directors
-Audience: All OWL staff, partners, and stakeholders
+**Owner:** Accountable = Director of Orgazational Strategy & Learning (DOSL). Responsible = Director of Finance & Operations (DFO), with support and input from all Directors
+**Audience:** All OWL staff, partners, and stakeholders
 
+---
 ## **Purpose**
 
 This procedure defines how Open Way Learning creates, stores, updates, and retires its organizational documents so that everyone knows what is official, where to find it, and how to keep it current. The goals of this procedure are to:
