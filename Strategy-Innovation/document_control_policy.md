@@ -328,37 +328,37 @@ Each folder contains a “README” (Folder Overview) maintained by its Steward.
 
 * ##### **02\_External Partners & Clients:** All partner-specific work and history. If it’s tied to a particular district, school, funder, or partner organization, it lives here.
 
-* Steward: Director of Program Impact & Visibility (DPIV)  
-  **Key sub-folders:**  
-* **01\_Active & Ongoing Clients & Partners** – one folder per active partner (district, school, funder, org). Within each partner folder, typical third-level subfolders include:  
-  * 01\_Active Scopes, Contracts & Agreements – The most current, fully executed SOWs, contracts, POs, MOUs, the latest Estimator/budget export, and any active amendments. This is the single source of truth for what OWL is authorized to do and be paid for.  
-  * 02\_Planning & Agendas – Series plans, trip plans, agendas, logistics, and any running “Client Outcomes & Milestones” trackers or running notes (with key docs linked at the top). 
-  * 03\_Deliverables & Artifacts – Slide decks, handouts, tools used with that partner in various workshops, design sprints, coaching sessions, or other engagements.
-  * 04\_Data & Learning – Partner-specific PDSA notes, survey summaries (mirrored or summarized in 06_Data, Learning & Impact as needed).
-  * 05\_Archive – Past years or fully completed work for that partner, including superseded scopes, old Estimator versions, and retired planning docs.
-* **02\_Emerging or Potential Clients & Partners** – notes, early design docs, and exploratory planning.  
-* **03\_Occasional or Stale Clients & Partners** – dormant relationships that may be reactivated.  
-* **04\_Archived – Past Clients, Partners, & Projects** – fully closed work; history only.
+    * Steward: Director of Program Impact & Visibility (DPIV)  
+    **Key sub-folders:**  
+      * **01\_Active & Ongoing Clients & Partners** – one folder per active partner (district, school, funder, org). Within each partner folder, typical third-level subfolders include:  
+        * 01\_Active Scopes, Contracts & Agreements – The most current, fully executed SOWs, contracts, POs, MOUs, the latest Estimator/budget export, and any active amendments. This is the single source of truth for what OWL is authorized to do and be paid for.  
+        * 02\_Planning & Agendas – Series plans, trip plans, agendas, logistics, and any running “Client Outcomes & Milestones” trackers or running notes (with key docs linked at the top). 
+        * 03\_Deliverables & Artifacts – Slide decks, handouts, tools used with that partner in various workshops, design sprints, coaching sessions, or other engagements.
+        * 04\_Data & Learning – Partner-specific PDSA notes, survey summaries (mirrored or summarized in 06_Data, Learning & Impact as needed).
+        * 05\_Archive – Past years or fully completed work for that partner, including superseded scopes, old Estimator versions, and retired planning docs.
+      * **02\_Emerging or Potential Clients & Partners** – notes, early design docs, and exploratory planning.  
+      * **03\_Occasional or Stale Clients & Partners** – dormant relationships that may be reactivated.  
+      * **04\_Archived – Past Clients, Partners, & Projects** – fully closed work; history only.
 
 * **03\_Facilitation & Service Resources:** Reusable tools, protocols, agendas, and models used across partners.  
   * **Stewards:** DPIV (structure & content) with each Program Manager responsible for client-specific versions.
 
-  **Typical second-level subfolders:**
+      **Typical second-level subfolders:**
 
-* 01\_Example Workshop Agendas – generic agendas and session flows.  
-* 02\_Facilitation Tools, Activities, and Protocols – OWL toolkits such as:  
-  * 00\_TOOLKIT – OWL Protocols & Workshop Management Essentials  
-  * 01\_TOOLKIT – OWL Basics – The What, Why, & How  
-  * 02\_TOOLKIT – Learner Centered Essentials & Culture Shift  
-  * 03\_TOOLKIT – Design Thinking & Improvement Science  
-  * etc.  
-* 03\_Co-Design Lessons, Activities, & Protocols – classroom activities, lessons, and other resources co-designed with educators in the field.  
-* 04\_Virtual Workshop Planning Tools – virtual facilitation templates.  
-* 05\_Archived Planning Resources – retired tools and old versions.
+    * 01\_Example Workshop Agendas – generic agendas and session flows.  
+    * 02\_Facilitation Tools, Activities, and Protocols – OWL toolkits such as:  
+      * 00\_TOOLKIT – OWL Protocols & Workshop Management Essentials  
+      * 01\_TOOLKIT – OWL Basics – The What, Why, & How  
+      * 02\_TOOLKIT – Learner Centered Essentials & Culture Shift  
+      * 03\_TOOLKIT – Design Thinking & Improvement Science  
+      * etc.  
+    * 03\_Co-Design Lessons, Activities, & Protocols – classroom activities, lessons, and other resources co-designed with educators in the field.  
+    * 04\_Virtual Workshop Planning Tools – virtual facilitation templates.  
+    * 05\_Archived Planning Resources – retired tools and old versions.
 
-* ##### **04\_To File:** A landing zone for new or “orphan” docs. Use this folder when you genuinely don’t know where something goes. The Quarterly Cleanup procedure moves items into their proper homes or archives.
+* **04\_To File:** A landing zone for new or “orphan” docs. Use this folder when you genuinely don’t know where something goes. The Quarterly Cleanup procedure moves items into their proper homes or archives.
 
-  * ##### Steward: DOSL (process) with all Stewards contributing.
+  * **Steward:** DOSL (process) with all Stewards contributing.
 
 ## **Appendix 2 \- Decision Criteria: What Belongs Where?**
 
