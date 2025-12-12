@@ -331,11 +331,11 @@ Each folder contains a “README” (Folder Overview) maintained by its Steward.
 * Steward: Director of Program Impact & Visibility (DPIV)  
   **Key sub-folders:**  
 * **01\_Active & Ongoing Clients & Partners** – one folder per active partner (district, school, funder, org). Within each partner folder, typical third-level subfolders include:  
-  * 01\_Active Scopes, Contracts & Agreements – Current SOWs, contracts, POs, MOUs.  
-  * 02\_Planning & Agendas – series plans, trip plans, agendas, logistics.  
-  * 03\_Deliverables & Artifacts – slide decks, handouts, tools used with that partner.  
-  * 04\_Data & Learning – partner-specific PDSA notes, survey summaries (mirrored or summarized in 06\_Data, Learning & Impact as needed).  
-  * 05\_Archive – past years or completed work for that partner.  
+  * 01\_Active Scopes, Contracts & Agreements – The most current, fully executed SOWs, contracts, POs, MOUs, the latest Estimator/budget export, and any active amendments. This is the single source of truth for what OWL is authorized to do and be paid for.  
+  * 02\_Planning & Agendas – Series plans, trip plans, agendas, logistics, and any running “Client Outcomes & Milestones” trackers or running notes (with key docs linked at the top). 
+  * 03\_Deliverables & Artifacts – Slide decks, handouts, tools used with that partner in various workshops, design sprints, coaching sessions, or other engagements.
+  * 04\_Data & Learning – Partner-specific PDSA notes, survey summaries (mirrored or summarized in 06_Data, Learning & Impact as needed).
+  * 05\_Archive – Past years or fully completed work for that partner, including superseded scopes, old Estimator versions, and retired planning docs.
 * **02\_Emerging or Potential Clients & Partners** – notes, early design docs, and exploratory planning.  
 * **03\_Occasional or Stale Clients & Partners** – dormant relationships that may be reactivated.  
 * **04\_Archived – Past Clients, Partners, & Projects** – fully closed work; history only.
