@@ -213,10 +213,10 @@ When a service is anticipated:
 * An OWL Program Manager will contact the Fellow to gauge availability.  
 * A brief overview of the engagement and a copy of the client MOU or contract will be shared.  
 * If available, the Fellow will receive a formal SOW, including:  
-    ○ Deliverables and expectations.  
-    ○ Format and location of the service.  
-    ○ Target dates and timelines.  
-    ○ Compensation, travel, and planning hour limits.  
+  * Deliverables and expectations.  
+  * Format and location of the service.  
+  * Target dates and timelines.  
+  * Compensation, travel, and planning hour limits.  
 * For external engagements, OWL will not send you into the field “contract-blind.” For each project, there must be:  
   * a binding client instrument (such as a fully executed OWL or client-provided agreement, a client-issued purchase order that references our proposal/scope, or a written acceptance of an OWL proposal that explicitly confirms scope and budget), and  
   * a brief OWL Scope of Work (SOW) that clarifies your role, dates, deliverables, and invoicing assumptions.
