@@ -29,6 +29,9 @@ To remain in compliance with IRS and labor regulations, OWL maintains a clear di
 * All planning and communication will occur through designated OWL staff via email or shared documents connected to an approved Scope of Work.  
 * Fellows are expected to use their own tools for scheduling, billing, and documentation unless otherwise agreed upon.
 
+**Role limits and staffing decisions**  
+Contractors cannot serve in ongoing employee-like roles (for example, internal project management with day-to-day supervision, fixed schedules, or core operational responsibilities that extend over multiple months). Such ongoing work must be assigned to OWL employees (hourly, part-time, or full-time). Contractor engagements are deliverable-based and governed by a signed Scope of Work (SOW). For guidance on when to staff work with an OWL employee versus a contractor or OWL Fellow, see Appendix D: OWL Contractor Staffing Decision Tree.
+
 These boundaries protect both the legal standing of the contractor relationship and the operational integrity of OWL’s nonprofit structure.
 
 ### **1.2 Professional Expectations**
@@ -38,8 +41,11 @@ OWL Fellows are expected to:
 * Represent OWL in alignment with its mission, vision, values, and Code of Ethics.  
 * Deliver high-quality, learner-centered facilitation based on adult learning best practices.  
 * Communicate professionally and meet all deadlines and deliverables.  
-* Comply with the [OWL Travel Policy](https://docs.google.com/document/u/0/d/1_lvw8vxFSF2Qf0LbIIPfAN4ur2GNZEkgTKLCkuOhJ0o/edit) for reimbursable expenses.  
+* Comply with the [OWL Travel Policy](https://docs.google.com/document/u/0/d/1_lvw8vxFSF2Qf0LbIIPfAN4ur2GNZEkgTKLCkuOhJ0o/edit) for reimbursable expenses*.  
 * Maintain ethical conduct and respect the communities and schools they serve.
+
+* *Default to virtual-first service delivery whenever feasible, with travel only when it is clearly needed for impact and has been pre-approved and funded in alignment with the OWL Travel Policy.
+
 
 Fellows are encouraged to:
 
@@ -184,6 +190,9 @@ All services performed by OWL Fellows must be detailed in an approved Contractor
 
 **Assignment Considerations:** OWL assigns work based on client requests, the Fellow’s skill set, prior experience, availability, geographic proximity, and expressed preferences. Fellows are never obligated to accept a given assignment but should understand that repeated rejections may reduce future invitations.
 
+**Staffing decisions and this manual**  
+This section assumes that OWL has already decided to staff the work with a contractor or OWL Fellow rather than a salaried employee. Directors and Project Managers should use Appendix D: OWL Contractor Staffing Decision Tree to make that staffing decision first, then return to this section to shape the contractor’s Scope of Work (SOW) in alignment with OWL’s policies, expectations, and financial guardrails.
+
 ### **3.1 Service Workflow**
 
 The following stages outline the life cycle of a typical OWL engagement:
@@ -258,6 +267,9 @@ If urgent issues, changes, or needs arise, the Fellow should immediately notify 
 * **Feedback & Debrief:** Fellows may receive confidential feedback from clients or participants, shared by the OWL Program Manager. This information is intended for professional growth and must remain internal. A debrief meeting may be scheduled within two weeks for reflection and improvement.
 
 #### **3.1.5 Stage 5: Invoicing, Payment, and Compensation**
+
+**Important: Standard cash terms and preferred conditions**  
+All contractor Scopes of Work (SOWs) should, by default, follow OWL’s standard cash terms and preferred conditions unless the Director of Finance & Internal Operations (DFO), in partnership with the Project Manager and relevant Director, approves exceptions based on client context (for example, school district procurement rules). Standard practice includes deposit-plus-milestone billing rather than 100% at the end of the engagement, reasonable payment terms (such as Net-15 or Net-30) with ACH as the default payment method, clear change-order and cancellation language, and travel reimbursed at cost in alignment with OWL’s Travel Policy and a virtual-first mindset. These are OWL’s preferred terms; in practice, some clients may negotiate specific elements. The DFO maintains current margin expectations, contractor-spend ceilings, and other financial guardrails in OWL’s budgeting and estimation tools, and Directors and PMs should consult those tools when staffing and scoping work. See Appendix D: OWL Contractor Staffing Decision Tree for how these guardrails are applied when deciding between internal staff and contractors.
 
 OWL is committed to fair, transparent, and mission-aligned compensation practices for all contractors. To ensure consistency and equity across engagements, OWL uses a tiered compensation system\*, grounded in [OWL’s Competencies](https://docs.google.com/document/d/1u3ixR8d4Hrl2RxoPk0kSUsd80oNu_DYOGKtHfJWi0gI/edit?usp=sharing), experience, and contributions to our shared work. 
 
