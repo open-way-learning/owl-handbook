@@ -26,7 +26,8 @@ If this Playbook ever starts to feel too long, confusing, or out of sync with ho
 
 This Playbook outlines OWL’s values-driven approach to engaging with clients and partners, from early discovery conversations to final deliverables. It describes how we collaborate, how we communicate in shared documents and digital spaces, and how we design proposals and scopes that reflect mission alignment, contextual fit, and equity of access. It also clarifies our philosophy around pricing, pro bono support, and quality assurance so that every partnership is co-designed, values-aligned, and focused on lasting impact.
 
-Internally, the Client Engagement Playbook sits alongside OWL’s Collective Leadership & Decision Making guide, the Common Roles & Responsibilities for All Directors (including the Director-as-Program Manager role), the Partner Integration Playbook, the Program Delivery RACI, the Productive Playbook, and the OWL Contractor Manual. Together, these documents define how we share decision rights, structure and staff projects, and ensure that what partners experience on the front stage matches how we organize ourselves behind the scenes. One should also read this Playbook alongside *Our Purpose*, *Our Culture*, and *Our Approach*, as these documents describe who we are and what we believe. In short this Playbook turns those commitments into day-to-day practice in how we scope, steward, and renew engagements.
+Internally, the Client Engagement Playbook sits alongside OWL’s Collective Leadership & Decision Making guide, the Common Roles & Responsibilities for All Directors (including the Director-as-Program Manager role), the Partner Integration Playbook, the Program Delivery RACI, the Productive Playbook, and the OWL Contractor Manual (including Appendix D: Contractor Staffing Decision Tree). Together, these documents define how we share decision rights, structure and staff projects, and ensure that what partners experience on the front stage matches how we organize ourselves behind the scenes. One should also read this Playbook alongside *Our Purpose*, *Our Culture*, and *Our Approach*, as these documents describe who we are and what we believe. In short this Playbook turns those commitments into day-to-day practice in how we scope, steward, and renew engagements. 
+
 
 **Key Point:** *Everything in this Playbook is in service of OWL’s mission to co-design ways to amplify the joy and wonder of learning for every student, especially those historically furthest from opportunity. Our work with clients is never just about standalone events; it is about building the conditions for learner-centered cultures to take root and grow over time in local communities.*
 
@@ -52,7 +53,7 @@ These practices complement and reinforce the facilitation priorities in “About
 
 OWL approaches every client relationship as a collaborative, long-term partnership \- not a one-time transaction. Our values of trust, transparency, co-design, and learner-centered transformation guide how we manage each phase of engagement, from first contact to closeout.
 
-In this context, the Assigned Lead / Primary Contact is the OWL Program Manager (PM) \- typically a Director serving in a PM capacity as described in the Common Roles & Responsibilities document \- and the Secondary Contact is a designated backup PM or Director who can step in to ensure continuity.
+In this context, the Assigned Lead / Primary Contact is the OWL Program Manager (PM) \- typically a Director serving in a PM capacity as described in the Common Roles & Responsibilities document \- and the Secondary Contact is a designated backup PM or Director who can step in to ensure continuity. note that staffing choices for each engagement - whether work is delivered primarily by OWL employees, OWL Fellows/contractors, or a blend - are made using the Contractor Staffing Decision Tree (Contractor Manual, Appendix D) and the budgeting guardrails described in the Productive Playbook. The PM works with the DFO (and, when needed, the DPIV) to confirm that the staffing pattern keeps us within our financial, compliance, and capacity guardrails before we commit to a scope or timeline with the client.
 
 Under the hood, every engagement runs on a simple improvement rhythm: Plan–Do–Study–Act (PDSA) \- we co-design a plan with the partner, support them to try something in practice, study what changes for learners and adults, and then adapt, spread, or exit. For a single workshop, this may be a light-touch loop focused on one team and one strategy; for multi-year, networked initiatives like WNCRP, it becomes a sequenced series of PDSA cycles, ramps, and reflection points.
 
@@ -74,19 +75,19 @@ Here we blend design thinking (empathy, define, ideate) with improvement science
 
 ### **2.3 – Phase 3: Proposal & Agreement (Plan – scope & guardrails)**
 
-Once a proposal is co-developed, it is internally vetted, shared with the client for feedback, and finalized. The service arrangement is formalized using one of four contracting pathways: OWL Service Agreement; client-provided contract; client-issued Purchase Order (PO) used as the binding agreement when that is the client’s standard procurement mechanism and it clearly references OWL’s proposal/scope; or proposal-as-contract (only if mutually agreed and appropriate). Whenever OWL accepts a client-issued PO or uses a proposal-as-contract, the Assigned Lead (PM) must ensure there is a brief Statement of Work (SOW) that translates the approved amount into a clear scope, timeline, roles (including any contractors/Fellows), and invoicing plan for internal and partner use.
+Once a proposal is co-developed, it is internally vetted, shared with the client for feedback, and finalized. The service arrangement is formalized using one of four contracting pathways: OWL Service Agreement; client-provided contract; client-issued Purchase Order (PO) used as the binding agreement when that is the client’s standard procurement mechanism and it clearly references OWL’s proposal/scope; or proposal-as-contract (only if mutually agreed and appropriate). Whenever OWL accepts a client-issued PO or uses a proposal-as-contract, the Assigned Lead (PM) must ensure there is a brief SOW that translates the approved amount into a clear scope, timeline, roles (including any contractors/Fellows), and invoicing plan for internal and partner use. When contractors/Fellows are part of the delivery team, the PM also references the OWL Contractor Manual (including Appendix D: Contractor Staffing Decision Tree) and the Productive Playbook to ensure the staffing pattern, rates, and scope remain aligned with our guardrails and contractor boundaries.
 
 For multi-session or multi-year engagements, the proposal and SOW should also name the initial PDSA focus (for example, “one team, one practice, one learner group”) and outline the expected engagement rhythm (check-ins, site visits, coaching calls, artifact production, and formal reflection points).
 
 ### **2.4 – Phase 4: Launch Preparation (Plan – set the rhythm)**
 
-The Assigned Lead schedules a kickoff planning meeting with the client to confirm logistics, expectations, team roles, and access needs. Key documents and planning tools are maintained in shared OWL folders using open-source protocols.
+The Assigned Lead schedules a kickoff planning meeting with the client to confirm logistics, expectations, team roles, and access needs. Ahead of that meeting, the PM verifies that the project and budget have been set up in Productive, that the staffing plan (including any OWL Fellows/contractors) matches the Estimator/SOW, and that key links to GitBook/Drive folders are in place. Key documents and planning tools are maintained in shared OWL folders using open-source protocols.
 
 The kickoff is also where we **lock in the engagement rhythm**: we calendar the first round of sessions and coaching, agree on when and how we will capture Bright Spots and artifacts, and confirm how quick data (surveys, exit tickets, student work, story capture) will feed into regular “Study” moments in our PDSA cycles.
 
 ### **2.5 – Phase 5: Implementation, PDSA & Renewal Pathway (Do–Study–Act)**
 
-Service delivery is coordinated by the Assigned Lead and carried out by OWL facilitators and Fellows. For multi-organization work (e.g., WNCRP), the PM should also use OWL’s Program Delivery RACI to clarify task-level responsibilities across OWL staff, Fellows, and External Partner Leads.
+Service delivery is coordinated by the Assigned Lead and carried out by OWL facilitators and Fellows. The mix of OWL employees and OWL Fellows/contractors used for an engagement should reflect decisions already made using the Contractor Staffing Decision Tree (Contractor Manual, Appendix D) and captured in the Estimator, SOW, and Productive budget. For multi-organization work (e.g. WNCRP), the PM should also use OWL’s Program Delivery RACI to clarify task-level responsibilities across OWL staff, Fellows, and External Partner Leads.
 
 OWL teams are expected to:
 
@@ -163,6 +164,8 @@ This Playbook adds a client-engagement lens to that role. Within the lifecycle d
 * **Using the engagement phases and PDSA rhythm intentionally.** Making sure each phase (Discovery & Fit, Co-Design, Proposal & Agreement, Launch, Implementation/PDSA, Follow-Up & Reflection, Renewal) is visible and planned for, not assumed.
 
 * **Translating scope into a workable rhythm.** Converting the approved scope and budget into a calendarized pattern of site visits, virtual touchpoints, coaching sessions, and artifact production that is reflected in Productive, the OWL CRM, and the Service Staffing Calendar.
+
+* **Making staffing decisions that honor our guardrails.** Using the OWL Contractor Manual (especially Appendix D: Contractor Staffing Decision Tree) and the Productive Playbook to decide when work should be staffed by OWL employees vs. OWL Fellows/contractors, and to ensure that any contractor SOWs and assignments line up with the client agreement, Productive budget, and IRS-compliant contractor boundaries.
 
 * **Maintaining the Train → Main → Final arc.** Naming and revisiting how ownership shifts over time \- from OWL-led to shared to partner-led \- so renewals and expansions deepen impact and local capacity rather than extending dependence on OWL.
 
@@ -345,7 +348,6 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 * Maintain consistency in design to reinforce OWL’s identity, brand, and professionalism.  
 * Reference the OWL Code of Ethics & Standards of Conduct, as needed.
 
-
 **Follow the Design Process as a Throughline**
 
 * The Design Process (as used in OWL’s work) should be reflected throughout the presentation.  
@@ -360,7 +362,6 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
   * Collaborative Work Time (sharing, leveraging ideas, and resources)  
   * Practical Adaptation & Goal Setting (time to adapt new knowledge and strategies to one’s own practice, including commitments for follow up)  
   * Targeted Support (prototyping and testing that models learner-centered strategies)  
-    
 
   *\*We call this “The OWL Way” and should be the core framework we use for the majority of OWL’s client-facing services, especially in the early stages of an interaction, where we are establishing relationships, norms, and expectations.*
 
@@ -378,30 +379,25 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 * Incorporate discussion prompts, polls, and other interactive elements where appropriate.  
 * Reference [this folder](https://drive.google.com/drive/folders/1koa9XeMeR0gVGAM1kZsMlmfo9u9jR4dH?usp=sharing) for example slide deck templates.
 
-
 **Quality Control Check:**
 
 * Review all slides for grammar, spelling, and formatting errors.  
 * Ensure proper alignment, spacing, and readability.
-
 
 **Use Licensed Images and Resources**
 
 * All images must be [Creative Commons-licensed](https://creativecommons.org/) (including CC0) and properly attributed when required.  
 * No copyrighted or unlicensed materials should be included.
 
-
 **Customize for Each Client and Workshop:**
 
 * Adapt each slide deck to the specific goals of the session.  
 * Consider the guiding question: *"What does success look like for this client?"*
 
-
 **Workshop Working Documents (aka the Anchor Document):**
 
 * Provide participants with an editable take-home document that mirrors key workshop content and includes only the most essential slides, prompts, and protocols to support reflection and collaboration, not a comprehensive manual.  
 * This document should be formatted for easy reference and use, being shared so that it is editable for participants.
-
 
 **Utilize Speaker Notes for Effective Facilitation**
 
@@ -475,11 +471,7 @@ Why this matters: OWL maintains a high standard of visual and pedagogical qualit
 
    A final thought: We don’t expect perfection. But we *do* expect thoughtfulness. When in doubt, facilitators should share drafts with colleagues for quick feedback. We’re a learning organization, and we’re stronger together\!
 
-   
-
    ### **Required Pre-Reading & References:**
-
-   
 
 * All OWL employees must read [Presentation Zen](https://www.presentationzen.com/)  before independently creating client-facing resources, including slide decks.  
 * Additional best practices can be reviewed in:  
@@ -489,10 +481,9 @@ Why this matters: OWL maintains a high standard of visual and pedagogical qualit
   * [The "Godin Method" of presentation design](https://www.presentationzen.com/presentationzen/2005/09/the_godin_metho.html)   
   * [Leading Adult Learning Supporting Adult Development in Our Schools By: Eleanor Drago-Severson](https://www.corwin.com/books/leading-adult-learning-230518?srsltid=AfmBOopOiQlQRgdN9QhWTuunIAxUYufxqkNtng1PlDQ3ws7EGQX54XPu)
 
-
 ## **Appendix 2 \- Example Client Proposal**
 
-The following example shows a clean, plain-language proposal you can tailor to any district or school. It frames the “why,” outlines scope and milestones, and presents one all-in services price. It’s also designed to align with the OWL Estimator Tool and our preferred terms (≥45% margin floor, travel at cost, 2–3% ops/compliance on services, deposit, etc.) while staying district-friendly and jargon-free. You can quickly adapt it in the following ways: 
+The following example shows a clean, plain-language proposal you can tailor to any district or school. It frames the “why,” outlines scope and milestones, and presents one all-in services price. It’s also designed to align with the OWL Estimator Tool and our preferred terms (≥45% margin floor, travel at cost, 2–3% ops/compliance on services, deposit, etc.) while staying district-friendly and jargon-free. Note that when a proposal includes delivery by OWL Fellows/contractors, be sure the staffing pattern has already been vetted using the Contractor Staffing Decision Tree (Contractor Manual, Appendix D) and that the Estimator and Productive budget reflect that plan before sharing the proposal externally. You can quickly adapt this example in the following ways: 
 
 * **For a proposal:** Make a copy and then update names, dates, focus areas, and the services total pulled from the Estimator. Keep travel as pass-through and include the light success measures. Remove all **\[OWL note\]** callouts before sending.
 
