@@ -1,4 +1,4 @@
-## **OWL CONTRACTOR MANUAL**
+# **OWL CONTRACTOR MANUAL**
 
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
 **Audience:** All OWL staff and contractors/Fellows
