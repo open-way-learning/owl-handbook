@@ -307,6 +307,7 @@ To avoid dropped balls and “I thought someone else was doing that,” we follo
   * Owns the project creation using the checklist above (per the approved Scope of Work and contract).  
   * Confirms team members and basic task structure (including contractor/Fellow support, planning time, templates, etc.).  
   * Partners with the DFO on monitoring budget health and reporting.
+  * Confirms the staffing pattern (OWL employees vs contractors/Fellows) in alignment with the OWL Contractor Manual and Appendix D: OWL Contractor Staffing Decision Tree before substantial work begins, so that Productive reflects the real mix of internal staff and external support.
 
 * **All assigned team members**  
   * Add and maintain tasks within the project.  
@@ -502,6 +503,8 @@ Any substantial design work, co-planning, or prototyping beyond the above bounda
 * Give it a real project and budget with clear limits, *or*  
 * Stop and decide what needs to be true before we invest more.
 
+**Staffing note:** When exploratory or strategic-investment work moves beyond small, low-risk efforts and starts to involve substantial design, facilitation, or backbone support, Directors and PMs should also revisit whether it is staffed by OWL employees or contractors/Fellows using the OWL Contractor Manual and Appendix D. Strategic investments do not override our worker-classification boundaries; they simply make our intentional, capped use of time and money visible.
+
 **Litmus test:** When we look at a project’s time log, it should read like the *real* work it took to deliver the service and outcomes described in the SOW, including reasonable travel, planning, prep, and admin \- not an arbitrary slice of someone’s week or months of unbounded “thinking about” an initiative, regardless of its potential merit.
 
 #### **2.3.5 Frequency: Daily Where It Matters, Weekly Where It’s Stable**
@@ -564,6 +567,9 @@ Budgets in Productive are what connect our work to funding and cash so that we c
 * Start every planned project, activity, and client-facing service scope with the OWL Service Estimator, then mirror the approved estimate in Productive.  
 * Use the right budget pattern for the work (time & materials, lump sum/installments, grant/pass-through, or multi-funder) so that time, expenses, and reporting line up cleanly to how we actually deliver the work.  
 * Align Productive budgets with the Estimator, QuickBooks, and grant requirements, in coordination with the DFO.
+
+**Important: Staffing and budgets go together!**  
+Decisions about whether work is staffed by OWL employees or by contractors/Fellows are made first using the OWL Contractor Manual, including Appendix D: OWL Contractor Staffing Decision Tree. The Productive budget then reflects that staffing pattern (for example, which parts of the work are internal staff services vs contractor support) rather than using the budget to work around contractor boundaries or IRS rules.
 
 #### **2.4.2 What Gets a Budget (and Why)**
 
@@ -790,6 +796,7 @@ To keep things simple and useful, we aim for a small number of high-value links 
 * Link to the primary working doc or folder in Drive for that task (e.g. “Clay – Jan Convening – Working Slides” or “WNCRP – Site Visit Notes – Henderson”).  
 * Link to the relevant GitBook policy or guide when the task requires using it (e.g. OWL Travel Policy, OWL Contractor Manual, etc.).  
 * Use clear labels in the task description so the reader knows what is linked (e.g. “Contract,” “Scope of Work,” Official Estimate,” etc.).
+* For tasks that involve staffing decisions, SOW design, or contractor onboarding, link directly to the relevant section of the OWL Contractor Manual (including Appendix D: OWL Contractor Staffing Decision Tree) and, when applicable, to the OWL Service Estimator instructions so that Productive, scopes, and staffing choices stay in sync.
 
 **For Projects:** Every active project should have:
 
