@@ -1,4 +1,4 @@
-##**OWL’s Approach to Collective Leadership and Decision Making**
+# **OWL’s Approach to Collective Leadership and Decision Making**
 
 **Owner:** Accountable = Director of Orgazational Strategy & Learning (DOSL). Responsible = Director of Finance & Operations (DFO), with support and input from all Directors
 **Audience:** All OWL staff, partners, and stakeholders
