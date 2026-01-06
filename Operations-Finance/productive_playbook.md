@@ -5,7 +5,7 @@
 **Version:** 1.0  
 **Owner:** Director of Finance & Ops (DFO) – with input from all Directors  
 **Audience:** All OWL staff, contractors, and fellows who touch client work, internal projects, or grants  
-**Last updated:** 11-28-25
+**Last updated:** 1-6-26
 
 ---
 
@@ -415,7 +415,7 @@ If a “task” feels too big, break it into 2–3 smaller tasks that each have 
 
 **Task Lists \= Work Type (Nouns)**
 
-Task Lists represent the \*type or phase of work\*. They are stable, descriptive, and do not imply motion. OWL’s Kanban boards are organized by Task List and the current standard Task Lists include:
+Task Lists represent the \type or phase of work\. They are stable, descriptive, and do not imply motion. OWL’s Kanban boards are organized by Task List and the current standard Task Lists include:
 
 * Backlog  
 * Ready  
@@ -423,6 +423,7 @@ Task Lists represent the \*type or phase of work\*. They are stable, descriptive
 * Needs Internal Review  
 * Needs External Review  
 * Blocker / On Hold
+* Done
 
 **Rule of thumb:** *If you are deciding \*where a task belongs on the board\*, you are choosing a Task List.*
 
