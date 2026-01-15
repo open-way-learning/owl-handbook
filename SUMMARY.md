@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Open Way Learning Introduction](README.md)
-* [OWL's Codified Documents - GitBook](introduction.md)
+* [OWL's Codified Documents - GitBook](INTRODUCTION.md)
 * [About OWL](About-OWL/README.md)
   * [OWL's Purpose - Our Why](About-OWL/our-purpose.md)
   * [OWL's Culture - Our What](About-OWL/our-culture.md)
@@ -51,4 +51,3 @@
   * [WNCRP Project Playbook - Module 2 - Refining the AIM](Templates-Resources/Project_Playbook_2.md)
   * [WNCRP Project Playbook - Module 3 - Mapping Change](Templates-Resources/Project_Playbook_3.md)
   * [WNCRP Project Playbook - Module 4 - Learning & Sustaining](Templates-Resources/Project_Playbook_4.md)
-  
