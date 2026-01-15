@@ -1,4 +1,4 @@
-# Opwn Way Learning Introduction 
+# Open Way Learning Introduction 
 
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
@@ -45,4 +45,3 @@ To make navigation easier, this GitBook platform is organized into the following
 ##  Questions?
 
 Reach out to any OWLer or email admin@openwaylearning.org if you have questions, suggestions, or ideas. Thank you for helping bring positive disruption to the status quo in education!
-
