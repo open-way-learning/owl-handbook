@@ -79,4 +79,3 @@ OWL also firmly believes that relationships built on *trust, transparency, inclu
 * In the spirit of open collaboration, it also means extending grace, especially in high-pressure or uncertain situations, and assuming that everyone is doing their best.
 
 The above is critically important for OWL's culture as an [open organization](https://theopenorganization.org/) - one that values purposeful transparency, inclusive decision-making, and distributed leadership. These values require a culture where people feel safe to share ideas, ask questions, give feedback, and try new things. The tone and manner in which we engage with one another either builds or erodes that culture. This expectation, then, is not just about individual behavior, but is about sustaining an environment where innovation, equity, and trust can thrive.
-
