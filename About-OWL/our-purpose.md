@@ -1,9 +1,9 @@
-# **OWL's Purpose - Our Why**
+# OWL's Purpose: Our Why
 
+{% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
-
----
+{% endhint %}
 
 ## OWL's Mission and Vision
 
@@ -23,7 +23,6 @@ We are driven by three foundational ideas:
    * Open exchange of ideas and resources
 
    These conditions create the ecosystem for transformative learning to take root.
-
 3. The talent is already here: Every school has the creative potential to design better ways of teaching and learning. By applying “the open source way”—transparency, inclusivity, collaboration, adaptability, and community—we help unlock and connect that talent in service of sustainable change.
 
 ## OWL's Values
@@ -134,5 +133,3 @@ The following books have significantly influenced OWL's philosophy and approach�
 - *In Search of Deeper Learning* – Jal Mehta & Sarah Fine  
 
 These resources complement our own experiences and are often referenced in the development of OWL's internal processes, professional development, and external services.
-
-
