@@ -1,10 +1,11 @@
 # Open Way Learning Introduction 
 
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
 
----
-##  Welcome to OWL's GitBook - Our Document Control System:
+##  Welcome to OWL's GitBook: Our Document Control System:
 
 The GitBook platform is a public resource that outlines how we work, why we work the way we do, and the values that guide every action - both internally and externally with our partners and clients. Like all organizations, we're subject to relevant laws and policies, but as an [open organization](https://theopenorganization.org/definition/) grounded in collective leadership and the principles of radical collaboration and transparency, this platform also serves as the "source code" for our organizational culture.
 

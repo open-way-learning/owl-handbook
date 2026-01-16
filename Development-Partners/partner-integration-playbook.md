@@ -1,13 +1,12 @@
-# **OWL Strategic Partnership Playbook**
+# OWL Strategic Partnership Playbook
+Tools, Protocols, and Principles for Sustainable, Equity-Driven Collaboration
 
-## ***Tools, Protocols, and Principles for Sustainable, Equity-Driven Collaboration***
-
+{% hint style="info" %}
 **Owner:** Director of Programming & Impact Visibility (DPIV) – with input from all Directors  
 **Audience:** All OWL staff, contractors, and fellows who touch client work, internal projects, or grants  
+{% endhint %}
 
----
-
-# **0\. How to Use This Playbook**
+## 0. How to Use This Playbook
 
 This guide is not a rigid checklist. It outlines OWL’s recommended process and values-aligned practices for developing partnerships across contexts. Not every collaboration will move through each phase, but the core principles—mutual benefit, shared power, and clarity—should remain constant.
 
@@ -23,7 +22,7 @@ For internal consistency, this Playbook sits alongside OWL’s other core docume
 
 The Director of Program Impact & Visibility (DPIV) is the steward of this Playbook, with input from all Directors. If this Playbook ever feels out of sync with how we actually partner, we update the Playbook together rather than creating side agreements or one-off norms.
 
-# **1.0 Purpose and Philosophy**
+## 1.0 Purpose and Philosophy
 
 This Playbook is a practical guide for OWL staff and collaborators to initiate, develop, and sustain strategic partnerships that strengthen our mission and expand our impact. While the OWL Client Engagement Playbook focuses on school-facing work, this document supports peer nonprofit alliances, funders, research groups, and service-oriented collaborators.
 
@@ -46,7 +45,7 @@ This framework guides how OWL engages in everything from one-off collaborations 
 
 The phases below are a simple way to make that rhythm visible and intentional so that partnerships evolve based on evidence, learning, and mutual benefit—not inertia or habit.
 
-## **1.1 \- Phase 1: Discovery & Fit \- “Start with Why”**
+### 1.1 \- Phase 1: Discovery & Fit \- “Start with Why”
 
 **Responsible:** Initial point of contact \+ the assigned OWL Director in a PM role (per the Common R\&R procedure), in consultation with D-OSL and/or DPIV as needed.
 
@@ -69,7 +68,7 @@ The goal is not to negotiate every detail, but to surface assumptions early so t
 
 For lighter-weight relationships, the Gives & Gets Matrix can sometimes function as a stand-alone working agreement (especially when a full MOU would be overkill), or as a precursor to an MOU. In more complex initiatives, we often draft the matrix first, then use it to co-author the MOU and Scope of Work so that roles, contributions, and benefits are aligned from the start.
 
-**Key differences when using the client intake process:**
+#### Key differences when using the client intake process
 
 OWL’s Intake Process and Discovery Template were originally designed to assess client fit (e.g., schools and districts), they can also be adapted to guide early conversations with potential partners, including funders, nonprofits, and collaborators. However, these tools must be used with intention to avoid signaling a transactional or hierarchical relationship. When used with partners, the focus should be on mission alignment, complementary strengths, and co-leadership potential \- not service delivery or client readiness.
 
@@ -97,14 +96,14 @@ When engaging with potential funders or grantmaking entities, OWL applies the sa
 
 *If concerns arise about "strings attached," potential co-optation of OWL’s mission, or philosophical misalignment (e.g. privatization advocacy, deficit framing of public education, etc.), OWL may opt not to pursue the relationship, even if funding is available.*
 
-**Best Practices:**
+#### Best Practices
 
 * Be clear about what OWL is and isn’t seeking in a partner.  
 * Ask about the partner’s desired outcomes and limitations.  
 * Identify early signs of misalignment (e.g., competition mindset, IP control issues).  
 * Vet funders not just for financial alignment but for cultural and strategic alignment. When in doubt, consult with OWL leadership or board advisors.
 
-## **1.2 \- Phase 2: Scope & Structure \- “Document the What and How”**
+### 1.2 \- Phase 2: Scope & Structure \- “Document the What and How”
 
 **Responsible:** OWL Project Manager (Director in PM capacity), in close coordination with the DFO (pricing, terms, compliance) and DPIV/D-OSL as appropriate for visibility, precedent, and strategy.
 
@@ -127,7 +126,7 @@ The resulting MOU from this process serves as both a working agreement and a rec
 * Develop a standalone Scope of Work (SOW) document with detailed milestones and deliverables (reference the [OWL Partner Scope of Work template](https://docs.google.com/document/d/1IsVfnoUqHm-lxAr6rCKk_uSIwk7UtfwWmVvYjnfHdms/edit?usp=sharing)).  
 * Include a more detailed budget, communication protocol, or sub-granting agreement, if applicable
 
-### **MOU vs Scope of Work**
+#### MOU vs Scope of Work
 
 | Element | MOU | SOW |
 | ----- | ----- | ----- |
@@ -150,20 +149,20 @@ While a traditional MOU may not be needed, OWL should maintain internal document
 
 In high-visibility or multi-year grants, co-developing a lightweight Funders Partnership Summary may help define roles and avoid ambiguity.
 
-**Best Practices:**
+#### Best Practices
 
 * Ensure co-creation — OWL does not "issue" MOUs; we build them with our partners.  
 * Reference and adapt the MOU template and appendix tools to fit the context.  
 * Revisit and revise the MOU as the relationship or project evolves.  
 * Be explicit about what we will not do together (e.g., work that doesn’t align with our guardrails, unfunded expectations, or activities that pull OWL into roles better held by the partner) so “zombie” projects and vague commitments don’t accumulate over time.
 
-## **1.3 \- Phase 3: Implementation & Reflection \- “Plan and Do”**
+### 1.3 \- Phase 3: Implementation & Reflection \- “Plan and Do”
 
 **Responsible:** OWL Project Manager (Director in PM capacity) \+ Partner Lead (primary point of contact at the partner organization).
 
 **Purpose:** To activate the partnership with shared clarity, momentum, and accountability. This phase ensures that all parties understand their roles, responsibilities, and desired outcomes—and that communication norms and feedback loops are in place. It also establishes a rhythm for collaboration that promotes trust, reflection, and responsiveness over time.
 
-**Key Actions:**
+#### Key Actions
 
 * Host a formal launch meeting to:  
   * Review the timeline, deliverables, and pacing  
@@ -196,7 +195,7 @@ For complex, multi-org initiatives (e.g., WNCRP \+ partner networks), the PM and
 
 *Be cautious not to let funders drive decisions on implementation unless it is explicitly part of a co-design process and grounded in trust-based philanthropy.*
 
-**Best Practices:**
+#### Best Practices
 
 * Set the tone at launch with an emphasis on **mutual learning and flexibility**, not just deliverables  
 * Keep project documents (e.g., SOW, MOU, Gives/Gets) open and accessible to both parties  
@@ -205,13 +204,15 @@ For complex, multi-org initiatives (e.g., WNCRP \+ partner networks), the PM and
 * Anchor check-ins in appreciative inquiry: What’s working? What’s possible? What needs attention?  
 * Maintain clear internal and external boundaries between funding influence and programmatic integrity.
 
-## **1.4 \- Phase 4: Review, Renewal, or Exit \- “Hold Space for Learning”**
+### 1.4 \- Phase 4: Review, Renewal, or Exit \- “Hold Space for Learning”
 
 **Responsible:** OWL Project Manager (Director in PM capacity) \+ relevant Director(s) (typically DPIV for visibility/field implications and/or D-OSL for strategic fit and precedent).
 
 **Purpose:** To reflect on the impact and experience of the partnership in order to make an intentional and values-aligned decision about its future. This phase ensures that every collaboration—whether ongoing or concluding—is treated with transparency, gratitude, and learning. It reinforces OWL’s commitment to shared leadership, continuous improvement, and responsible stewardship of relationships.
 
-**Key Action:** Host a debrief and renewal planning session with the partner to explore:
+#### Key Action
+
+Host a debrief and renewal planning session with the partner to explore:
 
 * Did the partnership meet its goals and success metrics?  
 * What changes in context, capacity, or strategy have emerged?  
@@ -220,7 +221,7 @@ For complex, multi-org initiatives (e.g., WNCRP \+ partner networks), the PM and
 
 During periods of organizational transition or financial constraint, we must explicitly pair the partnership learning questions in this Playbook with our financial guardrails (margin targets, deposit and payment expectations, unfunded work limitations, etc.) so that renewal or exit decisions honor both our relationships and our responsibility to protect our financial sustainability. 
 
-**Decision Options:**
+#### Decision Options
 
 In general, a healthy renewal reflects both deeper impact and a clearer distribution of leadership. Much like our Train–Main–Final stance with schools, we look for patterns where:
 
@@ -242,7 +243,7 @@ Note that in the case of funding partners, they may be invited to participate in
 
 If OWL decides not to renew a funding relationship (due to evolving strategy or misalignment), the offboarding process should still express gratitude and reinforce shared values, while documenting the rationale for non-renewal internally.
 
-**Exit Best Practices:**
+#### Exit Best Practices
 
 * Share a summary email with key takeaways, next steps, and any agreed documentation  
 * Honor contributions publicly (e.g. social media, newsletters, events), if appropriate and aligned with partner preferences  
@@ -252,7 +253,7 @@ This tool helps OWL staff and facilitators lead early conversations with potenti
 
 *Use this guide with flexibility\! These aren’t scripts \- they're conversation starters meant to invite insight, reflection, and connection.*
 
-# **Appendix A \- Definitions and Clarifying Language**
+## Appendix A \- Definitions and Clarifying Language
 
 These categories help us right-size expectations, rhythms, and MOUs. Not every collaboration needs every tool in this Playbook, but every collaboration should be intentionally placed somewhere on this map.
 
@@ -275,7 +276,7 @@ These categories help us right-size expectations, rhythms, and MOUs. Not every c
   * Sharing learning with broader funding networks  
   * Encouraging transparency and trust-based philanthropy in the work
 
-# **Appendix B \- Core Partnership Guardrails**
+## Appendix B \- Core Partnership Guardrails
 
 All partnerships must reflect these OWL-wide standards, which align with our Collective Leadership & Decision Making, Common R\&R, and Program Delivery RACI tools:
 
@@ -290,7 +291,7 @@ All partnerships must reflect these OWL-wide standards, which align with our Col
 
 If a potential partnership conflicts with these guardrails, the default should be “No-Go” or “Not now,” even if funding is available.
 
-# **Appendix C \- Gives & Gets Matrix (Template)**
+## Appendix C \- Gives & Gets Matrix (Template)
 
 **How to use this template:** Start by listing each partner (including OWL) in its own row. For each, name the concrete **Gives** (what we’re putting in) and **Gets** (what we’re hoping to gain). Treat this as a living document: revise it as the partnership evolves, and pull key elements into the MOU or summary email once there is shared agreement.
 
@@ -299,7 +300,7 @@ If a potential partnership conflicts with these guardrails, the default should b
 | \[Partner Name\] | e.g. facilitation, research, funding | Visibility, access to networks, documentation tools |
 | OWL | Design support, backbone coordination | Field credibility, reach, learning, sustainability |
 
-# **Appendix D \- Partner-Adapted Intake Questions**
+## Appendix D \- Partner-Adapted Intake Questions
 
 | Original Client-Facing Language | Partner-Adapted Version |
 | ----- | ----- |
@@ -309,4 +310,3 @@ If a potential partnership conflicts with these guardrails, the default should b
 | “What are the success indicators you hope to achieve?” | “What would a successful partnership look like—for both organizations and the field?” |
 | “What supports do you expect OWL to provide?” | “What roles or contributions do you see OWL playing in this potential partnership?” |
 | “What internal capacity does your team currently have?” | “What strengths and constraints should we both be mindful of as we explore this?” |
-

@@ -1,7 +1,9 @@
+# Time off, Leave, & Work-Life Balance
+
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff
-
----
+{% endhint %}
 
 ### **PURPOSE**
 
@@ -239,4 +241,4 @@ In addition to the circumstances listed above, OWL may grant unpaid personal lea
 
 Employees anticipating a leave of absence should notify their manager as early as possible \- ideally at least 30 days in advance, when feasible. OWL will work with each employee to discuss eligibility, duration, coverage, and potential job protections associated with their leave.
 
-Employees will not be retaliated against or discriminated against for taking a leave they are entitled to under law or OWL policy. However, failure to return to work on the first business day following the approved end of a leave may be considered a voluntary resignation, unless alternative arrangements have been approved in writing.  
+Employees will not be retaliated against or discriminated against for taking a leave they are entitled to under law or OWL policy. However, failure to return to work on the first business day following the approved end of a leave may be considered a voluntary resignation, unless alternative arrangements have been approved in writing.

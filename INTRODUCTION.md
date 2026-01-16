@@ -1,9 +1,10 @@
 # OWL GitBook Introduction
 
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
 
----
 ## Platform Overview & Disclaimers
 
 Welcome! OWL's GitBook platform is your guide to understanding who we are, how we work, and the values that drive our mission to transform education through learner-centered innovation. Whether you're a new employee, a long-time contributor, or an OWL Fellow, this set of core documents is designed to be the codified source of truth that provides clear, transparent guidance about our essential organizational functions and ethos.

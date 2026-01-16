@@ -1,9 +1,9 @@
-## **OWL Travel Policy**
+# OWL Travel Policy
 
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff, contractors, and other partners who travel under the scope of OWL's work
-
----
+{% endhint %}
 
 ### **Purpose and Overview**
 
