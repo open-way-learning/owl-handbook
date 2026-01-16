@@ -3,15 +3,15 @@
 
 ---
 
-### **PURPOSE:** 
+## Purpose
 
 This document provides an overview of OWL’s benefits, stipends, and insurance coverage.
 
-### **BENEFITS AND INSURANCE** 
+## Benefits and Insurance
 
 Open Way Learning offers a range of benefits to support the personal well-being and long-term financial security of our team. Our benefits reflect OWL’s commitment to supporting our employees in a sustainable, equitable, and transparent way.
 
-#### **Retirement Plan \- 403(b)**
+### **Retirement Plan \- 403(b)**
 
 All full-time employees are eligible to participate in OWL’s 403(b) retirement plan, administered by Newport Group, with investment options through Vanguard ETFs and mutual funds.
 
@@ -21,7 +21,7 @@ All full-time employees are eligible to participate in OWL’s 403(b) retirement
 
 *Why this matters:* This benefit supports your long-term financial well-being and grows automatically over time, even if you choose not to make additional contributions.
 
-#### **Health Insurance Stipend**
+### **Health Insurance Stipend**
 
 Until OWL reaches the scale to support a group health plan, all full-time employees receive a monthly $500 health insurance stipend to help offset the cost of individual coverage.
 
@@ -33,7 +33,7 @@ Until OWL reaches the scale to support a group health plan, all full-time employ
 
 *Note:* This is a reimbursement-style stipend, not a formal group health plan, but it is designed to offer flexibility while keeping costs manageable for both employees and OWL.
 
-#### **Other Benefits**
+### **Other Benefits**
 
 * Government-Mandated Programs: OWL complies with all legal benefit programs, including Social Security, Medicare, and Medicaid. Employee contributions are withheld from each paycheck, and OWL contributes the required employer match.  
 * OWL offers full-time employees an $80/month technology stipend to help offset mobile phone and internet expenses necessary for remote work, collaboration, and virtual facilitation. Note that OWL may alternatively cover the cost of these services directly via a company credit card if the account is registered in the organization's name and used exclusively for OWL business.  
@@ -67,8 +67,6 @@ Until OWL reaches the scale to support a group health plan, all full-time employ
 
 *Note: Eligibility for benefits like vacation, sick time, and insurance stipends is based on your employee classification. Employees working in hybrid roles should refer to their primary classification or consult the OWL Leadership Team for clarification.*
 
-#### **Benefit Disclaimer**
+## Benefit Disclaimer
 
 OWL reserves the right to revise, modify, or discontinue any benefit at any time, consistent with organizational needs, legal requirements, and financial conditions. Any material changes to employee benefits will be communicated in writing and discussed as appropriate.
-
-
