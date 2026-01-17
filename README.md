@@ -1,15 +1,15 @@
-# Open Way Learning Introduction 
+# Open Way Learning Introduction
 
 {% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
 {% endhint %}
 
-##  Welcome to OWL's GitBook: Our Document Control System:
+##  Welcome to OWL's GitBook: Our Document Control System
 
 The GitBook platform is a public resource that outlines how we work, why we work the way we do, and the values that guide every action - both internally and externally with our partners and clients. Like all organizations, we're subject to relevant laws and policies, but as an [open organization](https://theopenorganization.org/definition/) grounded in collective leadership and the principles of radical collaboration and transparency, this platform also serves as the "source code" for our organizational culture.
 
-> “To scale deep, not just wide, requires being intentional about culture. We see culture not as the soft stuff, but as the operating system that enables everything else.”  
+> "To scale deep, not just wide, requires being intentional about culture. We see culture not as the soft stuff, but as the operating system that enables everything else."
 > — *Jal Mehta, Harvard Graduate School of Education*
 
 ##  What You'll Find Here
@@ -33,7 +33,7 @@ Unless otherwise noted, all content OWL produces (including what's in these docu
 
 ##  Looking for Something?
 
-To make navigation easier, this GitBook platform is organized into the following sections (more details found in the Document COntrol Policy):
+To make navigation easier, this GitBook platform is organized into the following sections (more details found in the Document Control Policy):
 
 - `Governance/` – Board policies, orgazational bylaws, code of ethics, legal matters, and governing documents.
 - `Finance-Operations/` – How we manage funding & budgets, as well as back-end operating systems that enable us to efficiently and effectively manage the work we do. 
