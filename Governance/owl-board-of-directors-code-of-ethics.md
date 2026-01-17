@@ -1,4 +1,4 @@
-## **Board of Directors Code of Ethics:** 
+# Board of Directors Code of Ethics
 
 {% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
@@ -9,7 +9,7 @@
 
 The OWL Board of Directors is committed to ethical governance, oversight, and fiduciary responsibilities. This Code of Ethics provides supplemental guidance to the Bylaws, fostering ethical conduct, decision-making, and collaboration to advance OWL’s mission.
 
-#### **Section 1 \- Overview and Ethical Principles:** 
+## **Section 1 \- Overview and Ethical Principles:** 
 
 The OWL Board of Directors is committed to upholding the highest ethical standards in governance and oversight. Board members shall adhere to the duties of care, loyalty, and obedience, ensuring all actions align with OWL’s mission, bylaws, and Articles of Incorporation. This Code supplements the bylaws by providing guidance on ethical conduct, decision-making, and collaboration to achieve OWL’s mission.
 
@@ -34,15 +34,15 @@ Board members pledge to:
 10. Respect diverse opinions and formally register dissent when appropriate.  
 11. Foster collaboration, cooperation, and partnership among OWL members and stakeholders.
 
-#### **Section 2 \- Performance Evaluation:**
+## **Section 2 \- Performance Evaluation:**
 
 Periodic evaluations of the Board of Directors and OWL Leadership Team will be conducted as outlined in Article IV, Section 13 of the Bylaws to ensure alignment with OWL's mission and governance standards.
 
-#### **Section 3 \- Full Time Employee & Director Base Pay:**
+## **Section 3 \- Full Time Employee & Director Base Pay:**
 
 The OWL Directors are responsible for advancing the nonprofit’s mission efficiently and in alignment with its annual strategic goals and operating budget, under the governance and oversight by the OWL Board of Directors. OWL embraces the principles of collective leadership, fostering collective empowerment over hierarchical decision-making. To attract and retain the talent necessary for these responsibilities, the Board of Directors is committed to providing fair, reasonable, and transparent compensation packages for all OWL employees. Refer to the OWL Compensation Guidelines document for detailed procedures.
 
-#### **Section 4 \- Financial Planning and Budgeting Principles**
+## **Section 4 \- Financial Planning and Budgeting Principles**
 
 OWL is committed to sound financial planning that ensures long-term sustainability and mission impact. The Board of Directors approves the annual budget and any surplus allocations to maintain transparency, fairness, and financial health.
 
@@ -83,7 +83,7 @@ Budgeting Guidelines:
 | Operating Reserves | Covers routine expenses and cash flow gaps | 6 months of operating expenses | Emergencies, revenue shortfalls, urgent needs |
 | Surplus Fund (Rainy Day Fund) | Supports strategic needs beyond operations | 3-6 months of expenses | Growth, innovation, expansion, investments |
 
-#### **Section 5 \- Fiscal Year Financial Reports**
+## **Section 5 \- Fiscal Year Financial Reports**
 
 At the end of each fiscal year, the Director of Finance & Operations, with support from the Administrative Associate, shall review all financial accounts to ensure accuracy and compliance. This review includes:
 
@@ -114,7 +114,7 @@ Year-End Financial Reporting: The OWL Administrative Associate shall prepare and
 5. Cash Flow Projection.  
 6. Any additional reports requested by the Board of Directors.
 
-#### **Section 6 \- Fiscal Year Financial Reports**
+## **Section 6 \- Fiscal Year Financial Reports**
 
 At the fiscal year end, the Director of Finance & Operations will review all balance sheet accounts including verification of the following balances: cash accounts match the bank reconciliations, fixed assets accounts reflect all purchases, and accounts receivable and payable accounts match outstanding amounts due and owed. The income and expense accounts review will include reconciliation to amounts received and expended and verification that payroll expenses match the payroll reports including federal and state reporting requirements. Once the final fiscal year-end financial statements are run, reviewed, and approved by the Director of Finance & Operations, no more entries or adjustments will be made into that year’s ledgers.
 
@@ -124,7 +124,7 @@ All other appropriate government filings including those required by the North C
 
 The Director of Finance & Operations will also prepare annual financial reports for distribution to the Treasurer of the Board prior to the Board’s Annual Meeting. The reports will include: balance sheet, statement of income and expenses, budget versus actual report for each program which has an established budget, a budget versus actual report for the organization, cash flow projection, and any other requested reports.
 
-#### **Section 7 \- Other Fiscal Policy Items:**
+## **Section 7 \- Other Fiscal Policy Items:**
 
 * All cash accounts owned by the nonprofit will be held in financial institutions which are insured by the FDIC. No bank account will carry a balance over the FDIC insured amount.  
 * All capital expenditures which exceed one thousand dollars ($1,000.00) will be capitalized.  
@@ -132,15 +132,15 @@ The Director of Finance & Operations will also prepare annual financial reports 
 * Any donated item with a value exceeding ($100) will be recorded and a letter acknowledging the donation will be sent to the donor within 30 days of the receipt of the donation. All volunteer time shall be recorded as in-kind donations.  
 * The Board of Directors will periodically review the adequacy of its directors & officers liability insurance policy, as well as other applicable insurance policies the nonprofit may have or need.
 
-#### **Section 8 \- Policy Review:**
+## **Section 8 \- Policy Review:**
 
 The Governance Committee of the Board of Directors shall review the Code of Ethics and Bylaws every three years, ensuring alignment with OWL’s mission, compliance with legal requirements, and incorporation of nonprofit best practices. Updates will be presented to the full Board for approval.
 
-#### **Section 9 \- Conflicts of Interest:**
+## **Section 9 \- Conflicts of Interest:**
 
 Board members must disclose potential conflicts of interest and adhere to the procedures outlined in Article VIII, Section 12 of the OWL Bylaws. This ensures transparency and ethical decision-making in alignment with OWL's mission.
 
-#### **Section 10: Whistleblower Protections:**
+## **Section 10: Whistleblower Protections:**
 
 OWL is committed to maintaining a safe and transparent reporting environment where Board members and employees can report suspected ethical violations, misconduct, or legal noncompliance without fear of retaliation.
 
