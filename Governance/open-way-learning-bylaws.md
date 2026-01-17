@@ -1,10 +1,10 @@
 # Open Way Learning Articles of Organization & Bylaws
 (As adopted on 1/9/2020 and revised on 6/11/25)
 
+{% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
-
----
+{% endhint %}
 
 ## Article I: Name & Offices
 
@@ -424,4 +424,4 @@ Section 14: Only the Board may approve loans, requiring a two-thirds (2/3) major
 
 ## Article XV: Tax Exemption Provisions
 
-Section 1: No substantial part of the activities of the Organization shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the Organization shall not participate in or intervene in (including the publishing or distribution of statements) any political campaign on behalf of any candidate for public office. Notwithstanding any other provision of these articles, the Organization shall not carry on any other activities not permitted to be carried on (a) by a corporation exempt from Federal income tax under Section 501(c)(3) of the Internal Revenue Code of 1954, as amended (or the corresponding provision of any future United States Internal Revenue Law) of (b) by a corporation, contribution to which are deductible under Section 170 (c)(2) of the Internal Revenue Code of 1954, as amended (or the corresponding provision of any future United States Internal Revenue Law).  
+Section 1: No substantial part of the activities of the Organization shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the Organization shall not participate in or intervene in (including the publishing or distribution of statements) any political campaign on behalf of any candidate for public office. Notwithstanding any other provision of these articles, the Organization shall not carry on any other activities not permitted to be carried on (a) by a corporation exempt from Federal income tax under Section 501(c)(3) of the Internal Revenue Code of 1954, as amended (or the corresponding provision of any future United States Internal Revenue Law) of (b) by a corporation, contribution to which are deductible under Section 170 (c)(2) of the Internal Revenue Code of 1954, as amended (or the corresponding provision of any future United States Internal Revenue Law).

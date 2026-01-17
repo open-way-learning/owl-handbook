@@ -1,7 +1,9 @@
+# Benefits & Insurance
+
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff
-
----
+{% endhint %}
 
 ## Purpose
 

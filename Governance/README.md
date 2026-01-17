@@ -1,11 +1,13 @@
 # OWL Governance
 
+{% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
 
----
+## Purpose
+
 This section of the OWL Handbook provides public access to the foundational governance documents that define how Open Way Learning operates as a 501(c)(3) nonprofit.
----
 
 These resources clarify the **legal, ethical, and organizational framework** that underpins both Board-level oversight and our distributed, mission-aligned leadership culture.
 
@@ -75,7 +77,6 @@ Clarifies the distinct ethical responsibilities of Board members in their fiduci
 | Common R&R (All Directors) | Shared director responsibilities & guardrails | Leadership Team (D-OSL steward) | Directors, PMs |
 | Role READMEs (DPD/DPIV/D-OSL) | Role overviews with links to canonical R&R | Each Role Owner (Director) | Staff, fellows, partners (as relevant) |
 
-
 ## Leadership Operating Documents (Collective Leadership)
 
 These materials codify how OWL’s distributed leadership works in practice—clear decision rights, lightweight rituals, and shared operating discipline.
@@ -95,6 +96,3 @@ These are living documents maintained via PRs in this repo and the canonical Goo
 1) Propose/update in the **canonical Google Doc** (role owner) and create a **#decision_log** entry.
 2) Open a **PR** mirroring the approved change in the README/SOP here; link the #decision_log entry.
 3) **Review/merge** by the steward (D-OSL) and relevant role owner; update the “last_reviewed” field.
-
-
-

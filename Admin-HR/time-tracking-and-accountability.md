@@ -1,9 +1,10 @@
-# **Time Tracking & Accountability**
+# Time Tracking & Accountability
 
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff
+{% endhint %}
 
----
 ### **1\. Purpose and Relationship to the Productive Playbook**
 
 OWL is committed to transparent, accurate, and auditable timekeeping. Accurate records help us:
@@ -149,4 +150,3 @@ These norms reinforce our expectations from both this SOP and the Productive Pla
 ### **11\. Alignment Check: When in Doubt**
 
 If you ever see a tension between this SOP (HR/compliance) and the Productive Playbook (workflow and patterns), bring it to the DFO or your Director. We want one coherent system: clear rules about timekeeping, and a practical, humane way of living them inside Productive.
-

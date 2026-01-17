@@ -1,9 +1,11 @@
 # Development & Partners
 
+{% hint style="info" %}
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
 **Audience:** All OWL staff and contractors/Fellows
+{% endhint %}
 
----
+## Purpose
 
 This section includes the core documents that shape how OWL builds and sustains mission-aligned revenue and partnerships. It centers on the practical “how-to” of working with funders, partner organizations, contractors/Fellows, and other entities in ways that are transparent, equitable, and consistent with our learner-centered values and mission.
 
@@ -11,7 +13,8 @@ This section is actively maintained by the **DPIV**, who ensures that the docume
 
 While this folder overlaps with materials in the `Operations-Finance/`, `Governance/`, and `Outreach-Programming/` sections, the focus here is specifically on **development and partnership infrastructure** — the shared tools we use to cultivate growth opportunities, integrate and leverage strategic partnerships, and work with non-employee collaborators to advance our mission-driven work.
 
-### Core Responsibilities Tied to This Folder Include:
+## Core Responsibilities Tied to This Section
+
 - Maintaining the **OWL Contractor Manual** and related resources that set expectations, payment terms, and working norms for contractors and Fellows  
 - Documenting the **Ambassador and Fellow program** structure, selection pathways, and recognition aligned to OWL’s open-source mission  
 - Providing the **Partner Integration Playbook** and related tools that guide how we scope, formalize, and revisit strategic partnerships and MOUs  

@@ -1,17 +1,19 @@
+# Protection of Minors Policy
+
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff and any working partners who work directly with children.
+{% endhint %}
 
----
-
-### **PURPOSE**
+## Purpose
 
 Open Way Learning is committed to maintaining a safe and supportive environment for all individuals, including minors (under age 18), especially in the context of school-based partnerships, student exhibitions, or community-engaged learning. This policy outlines OWL’s procedures and expectations for protecting minors from abuse, neglect, or harm during OWL-affiliated activities.
 
-#### **Scope**
+## Scope
 
 This policy applies to all OWL staff, fellows, contractors, and volunteers who may, through their work, interact directly or indirectly with minors in either physical or virtual environments.
 
-#### **Code of Conduct for Interacting with Minors**
+## Code of Conduct for Interacting with Minors
 
 All OWL-affiliated adults are expected to:
 
@@ -22,7 +24,7 @@ All OWL-affiliated adults are expected to:
 * Obtain written parental/guardian permission before photographing or recording minors.  
 * Avoid behavior or language that could be perceived as abusive, sexual, or discriminatory.
 
-#### **Prohibited Behaviors**
+## Prohibited Behaviors
 
 OWL strictly prohibits:
 
@@ -32,7 +34,7 @@ OWL strictly prohibits:
 * Photographing minors on personal devices for non-OWL purposes.  
 * Retaliation against any individual who reports suspected misconduct or abuse in good faith.
 
-#### **Mandatory Reporting Requirements**
+## Mandatory Reporting Requirements
 
 All OWL-affiliated adults are mandated reporters. If you suspect that a minor is being abused, neglected, or is the victim of a violent or sexual offense, you must:
 
@@ -44,7 +46,7 @@ Immediately:
 
 *Note that you are not responsible for investigating \- only reporting in good faith. Reasonable suspicion is enough. North Carolina law provides immunity for good-faith reporters (G.S. § 7B-309).*
 
-#### **Background Check Requirements**
+## Background Check Requirements
 
 To protect minors and ensure trust with partner organizations, OWL requires background checks for:
 
@@ -52,7 +54,7 @@ To protect minors and ensure trust with partner organizations, OWL requires back
 * Volunteers who may be present in unsupervised or extended contact roles.  
 * Anyone assigned to OWL-led events involving youth interaction outside of immediate school staff supervision.
 
-#### **Process Overview:**
+## Process Overview
 
 1. Trigger Point: The Director of Outreach or Program Manager identifies individuals requiring a check based on their project role.  
 2. Consent: The individual completes a standard background check consent form (provided by OWL).  
@@ -62,7 +64,7 @@ To protect minors and ensure trust with partner organizations, OWL requires back
 
 Background checks include identity verification, sex offender registry screening, and criminal history review. Additional DMV checks may be conducted when travel with minors is involved.
 
-#### **Training & Certification**
+## Training & Certification
 
 All OWL-affiliated individuals who may work with minors must:
 
@@ -78,10 +80,10 @@ Training Includes:
 * Reporting steps and emergency response  
 * Scenario-based reflection questions
 
-#### **Partnership & On-Site Alignment**
+## Partnership & On-Site Alignment
 
 OWL-affiliated personnel are also expected to adhere to any child safety policies of the partner schools or organizations where programming occurs. This may include sign-ins, escort policies, mandatory ID badges, or other supervision protocols.
 
 OWL defers to these host site procedures while ensuring this internal policy remains the minimum baseline standard for all engagements involving minors.
 
-Refer to forms in the Templates & Resources section for the PROTECTION OF MINORS ACKNOWLEDGEMENT FORM and the CONSENT TO BACKGROUND CHECK FORM. 
+Refer to forms in the Templates & Resources section for the PROTECTION OF MINORS ACKNOWLEDGEMENT FORM and the CONSENT TO BACKGROUND CHECK FORM.

@@ -1,9 +1,11 @@
 ## **Board of Directors Code of Ethics:** 
 
+{% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, board members, and stakeholders
+{% endhint %}
 
----
+## Purpose
 
 The OWL Board of Directors is committed to ethical governance, oversight, and fiduciary responsibilities. This Code of Ethics provides supplemental guidance to the Bylaws, fostering ethical conduct, decision-making, and collaboration to advance OWL’s mission.
 
@@ -146,4 +148,4 @@ OWL is committed to maintaining a safe and transparent reporting environment whe
 2. Investigation: The Board shall promptly and confidentially investigate all reports, taking corrective action as warranted.  
 3. Protections: Individuals reporting in good faith are protected from retaliation. Acts of retaliation are strictly prohibited and will result in disciplinary action, up to and including removal from the Board or termination of employment.
 
-The Board shall enforce whistleblower protections and ensure all concerns are reviewed and resolved in compliance with applicable laws and organizational policies.  
+The Board shall enforce whistleblower protections and ensure all concerns are reviewed and resolved in compliance with applicable laws and organizational policies.
