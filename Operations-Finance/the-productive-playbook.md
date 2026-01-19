@@ -17,9 +17,9 @@ This Playbook is the one-stop, plain-language guide for how we use [Productive](
 * The **main body** explains the essential *why* and *what*: shared expectations, use boundaries, and daily habits that drive consistency and effectiveness.  
 * The **appendices** hold the *how-to* details: step-by-step SOPs, examples, and tutorials.
 
-This Playbook is meant to be a short, concrete, easy-to-use reference for how we manage tasks, time, and projects. If it ever starts to feel too long, confusing, or unnecessary, we fix the Playbook, with crowdsourced ideas and real use cases. What we don’t do is ignore it and create a patchwork of unofficial approaches to “managing” OWL’s work. We simply can’t afford that.
+*This Playbook is intentionally thorough because the work we do is complex. As such, it’s meant to be a concrete, easy-to-use guide for how we manage tasks, time, projects, and budgets so that anyone can see how the work and the dollars line up. If parts of it ever feel too long, confusing, or clunky, our move is to improve the Playbook together using real examples — not to work around it or spin up side systems. Our mission and our margins are both too important for guesswork.*
 
-**When in doubt:** *If work matters for our mission, our money, or our commitments, it should be visible and trackable in Productive. Full stop.*
+**Rule of thumb:** *If work matters for our mission, our money, or our commitments, it should be visible and trackable in Productive. Full stop.*
 
 Note that OWL contractors and Fellows should follow the same core Productive habits as OWL staff, per what is articulated in the scope of their ICA (even if they do not have a Productive account). The PM for the contractor in question will provide a brief overview of those requirements as part of their onboarding, pointing to the specific parts of this Playbook that are applicable to their work.
 
