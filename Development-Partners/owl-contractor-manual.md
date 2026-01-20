@@ -269,8 +269,10 @@ If urgent issues, changes, or needs arise, the Fellow should immediately notify 
 
 #### **3.1.5 Stage 5: Invoicing, Payment, and Compensation**
 
+{% hint style="warning" %}
 **Important: Standard cash terms and preferred conditions**  
 All contractor Scopes of Work (SOWs) should, by default, follow OWL’s standard cash terms and preferred conditions unless the Director of Finance & Internal Operations (DFO), in partnership with the Project Manager and relevant Director, approves exceptions based on client context (for example, school district procurement rules). Standard practice includes deposit-plus-milestone billing rather than 100% at the end of the engagement, reasonable payment terms (such as Net-15 or Net-30) with ACH as the default payment method, clear change-order and cancellation language, and travel reimbursed at cost in alignment with OWL’s Travel Policy and a virtual-first mindset. These are OWL’s preferred terms; in practice, some clients may negotiate specific elements. The DFO maintains current margin expectations, contractor-spend ceilings, and other financial guardrails in OWL’s budgeting and estimation tools, and Directors and PMs should consult those tools when staffing and scoping work. See Appendix D: OWL Contractor Staffing Decision Tree for how these guardrails are applied when deciding between internal staff and contractors.
+{% endhint %}
 
 OWL is committed to fair, transparent, and mission-aligned compensation practices for all contractors. To ensure consistency and equity across engagements, OWL uses a tiered compensation system\*, grounded in [OWL’s Competencies](https://docs.google.com/document/d/1u3ixR8d4Hrl2RxoPk0kSUsd80oNu_DYOGKtHfJWi0gI/edit?usp=sharing), experience, and contributions to our shared work. 
 
@@ -278,7 +280,9 @@ Contractors are paid based on the scope of services outlined in each approved Sc
 
 To support clarity, all guidance related to rates, tiers, travel reimbursement, invoice timelines, required documentation, referral incentives, and advancement criteria can be found in the “Independent Contractor Payment Terms” section of this manual. This includes detailed examples, the tier scoring rubric, and guidance for requesting tier reviews.
 
+{% hint style="warning" %}
 **Important:** Before submitting any invoice or seeking tier advancement, OWL Fellows should review the current version of the “Independent Contractor Payment Terms” section in this manual as posted in OWL’s documentation hub. If you have questions about how the payment structure applies to a particular engagement or your tier assignment, please contact the OWL Program Manager for the contract in question or the OWL Director designated to oversee contractor and Fellow relations.
+{% endhint %}
 
 *\*OWL’s tiered system is designed to reward demonstrated competency and contributions while ensuring sustainability as a nonprofit. While rates may differ from private consulting firms, they reflect OWL’s commitment to equity, fairness, and mission-first service.*
 
@@ -319,7 +323,9 @@ The following ranges reflect the most common compensation levels used by OWL for
 | **3** | Senior Consultant | $100–$125/hr | Advanced competency, often serves as lead designer, evaluator, or advisor for complex projects. Mentors other Fellows, contributes to innovation or tool creation, and consistently earns high ratings in client feedback and internal debriefs. |
 | **4** | Strategic/Expert Lead | $110–$150+/hr | High-demand expert; national or system-wide presence or reputation; models the full OWL competency spectrum |
 
-***Note:** All rates are subject to final approval based on project scope and funding availability. For shorter engagements or partial-day work, rates may be calculated on a half-day or hourly basis using the above estimates.*
+{% hint style="warning" %}
+**Note:** All rates are subject to final approval based on project scope and funding availability. For shorter engagements or partial-day work, rates may be calculated on a half-day or hourly basis using the above estimates.*
+{% endhint %}
 
 *OWL’s standard daily facilitation rate is calculated based on approximately 6–7 hours of direct service time, typically translating to 7x the hourly rate. For example, a contractor with an approved hourly rate of $75 would receive a daily rate of $525 (i.e. $75 × 7 hours). This daily rate may be adjusted depending on the contractor’s tier, the complexity of the service, and the project’s funding capacity.*
 
@@ -352,7 +358,7 @@ OWL’s objective scoring system that is used evaluates a contractor’s readine
   * Most Fellows qualify for Tier 3 or Tier 4 pay once actively engaged in OWL service delivery.  
   * Pay is based on actual services rendered, not title alone.
 
-  #### **4.4.2. Contribution-Based Advancement:**
+#### **4.4.2. Contribution-Based Advancement:**
 
 * Fellows who complete 1–2 services/year with positive feedback may maintain Tier 3 status.  
 * Fellows who complete 6+ high-quality services/year and demonstrate leadership, adaptability, and tool creation may be considered for advancement to Tier 4\.
@@ -368,7 +374,9 @@ OWL’s client-facing rates and contractor pay percentages reflect a need to bal
 | Planning/Prep | 75% of agreed delivery rate | Half-day minimum applies |
 | Curriculum Dev / Internal | $80–$100/hr or as scoped | Final rates for curriculum development, conferences, or other scoped work will be negotiated based on complexity, timeline, and expertise required, and must be documented in the approved Scope of Work. |
 
-*Note that OWL retains 20–25% for operations and IP development. Contractor pay does not equal full client rate.*
+{% hint style="warning" %}
+**Note:** OWL retains 20–25% for operations and IP development. Contractor pay does not equal full client rate.
+{% endhint %}
 
 ### **4.6 Travel Reimbursement**
 
@@ -383,7 +391,7 @@ Pre-approved travel (lodging, meals, mileage, transport) is reimbursed per [OWL�
     * $1,000 for referred projects with a total contract value of $10,000 or more  
 * **Payout Terms:** Incentive payments will be issued only after OWL has received the first payment from the referred client under the executed contract. The incentive applies only to the initial contract and does not extend to future or recurring work from the same client.
 
-  ### **4.8 Invoicing & Payment**
+### **4.8 Invoicing & Payment**
 
 * Invoices are due within **45 days** of service.  
 * Use [OWL’s invoice template](https://docs.google.com/spreadsheets/d/1_pHcdQ-ISu2A58pzKK-nfo9sPKoFsFU0f1fLwtqmpTs/edit?usp=sharing) with categories (e.g., planning, facilitation, travel) unless you have your own.  
@@ -443,10 +451,6 @@ To ensure consistency, transparency, and compliance, OWL uses the following key 
 
 * **Invoice:** A billing document submitted by the contractor to OWL for completed services. It should include an itemized list of service hours and categories (e.g., facilitation, planning, travel), aligned with the approved Scope of Work. Invoices must follow OWL’s submission schedule and formatting requirements.
 
-# 
-
-  ## 
-
 ## **Appendix B: OWL Contractor Compensation Benchmarks**
 
 OWL uses a tiered contractor compensation model informed by credible, mission-aligned nonprofit organizations. The following summarizes realistic benchmarks that OWL uses to guide contractor compensation decisions and ensure fairness across service types and tiers.
@@ -475,7 +479,9 @@ OWL uses a tiered contractor compensation model informed by credible, mission-al
 | Planning & Development | $60–$100/hour |  \-  |
 | Virtual Coaching | $75–$125/hour |  \-  |
 
-*Disclaimer:  This rate range is intended as a starting point to guide the determination of a fair and equitable initial pay rate for contractors. OWL will always strive to align compensation with experience, service type, and scope complexity. Note however, that certain client contracts may include budget ceilings that limit OWL’s ability to offer previously agreed-upon or tier-based rates. In such cases, the contractor is under no obligation to accept the assignment and may choose to decline the engagement or negotiate a mutually acceptable reduced rate with OWL.*
+{% hint style="warning" %}
+**Disclaimer:** This rate range is intended as a starting point to guide the determination of a fair and equitable initial pay rate for contractors. OWL will always strive to align compensation with experience, service type, and scope complexity. Note however, that certain client contracts may include budget ceilings that limit OWL’s ability to offer previously agreed-upon or tier-based rates. In such cases, the contractor is under no obligation to accept the assignment and may choose to decline the engagement or negotiate a mutually acceptable reduced rate with OWL.
+{% endhint %}
 
 ## **Appendix C: Example Scenarios \- Tiered Compensation in Practice**
 
