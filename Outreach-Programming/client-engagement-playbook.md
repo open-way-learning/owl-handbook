@@ -6,7 +6,7 @@ Culture, Commitments, and Shared Expectations
 **Audience:** All OWL staff, contractors/Fellows, and partners who work under the scope of OWL's service to clients
 {% endhint %}
 
-## **0\. How to Use This Playbook**
+## 0. How to Use This Playbook
 
 This Playbook is the one-stop, plain-language guide for how OWL designs and stewards external engagements – from first contact through follow-up and renewal. Use it as:
 
@@ -22,7 +22,7 @@ New staff or Fellows should start with Sections 1–3 and 5, then refer back to 
 
 If this Playbook ever starts to feel too long, confusing, or out of sync with how we actually work, we fix the Playbook, together, rather than creating side documents or one-off norms. The DPIV is the steward of this Playbook and keeps it aligned with OWL’s Strategic Plan, Productive Playbook, and other core SOPs.
 
-## **1.0 Purpose**
+## 1.0 Purpose
 
 This Playbook outlines OWL’s values-driven approach to engaging with clients and partners, from early discovery conversations to final deliverables. It describes how we collaborate, how we communicate in shared documents and digital spaces, and how we design proposals and scopes that reflect mission alignment, contextual fit, and equity of access. It also clarifies our philosophy around pricing, pro bono support, and quality assurance so that every partnership is co-designed, values-aligned, and focused on lasting impact.
 
@@ -31,7 +31,7 @@ Internally, the Client Engagement Playbook sits alongside OWL’s Collective Lea
 
 **Key Point:** *Everything in this Playbook is in service of OWL’s mission to co-design ways to amplify the joy and wonder of learning for every student, especially those historically furthest from opportunity. Our work with clients is never just about standalone events; it is about building the conditions for learner-centered cultures to take root and grow over time in local communities.*
 
-### **1.1 Engagement Principles**
+### 1.1 Engagement Principles
 
 How we show up for partners is as important as what we deliver. Our engagements are not transactions; they are co-learning journeys built on reciprocal respect and mutual investment. Most of our clients are schools, districts, and nonprofits navigating complex challenges with limited resources, so we prioritize humility, empathy, and active listening in every interaction – especially in early discovery and co-design.
 
@@ -49,7 +49,7 @@ These practices complement and reinforce the facilitation priorities in “About
 
 *Bottom line: we show up with clarity, integrity, and curiosity so partners experience OWL as a thought partner, not a vendor.*
 
-## **2.0 Engagement Management**
+## 2.0 Engagement Management
 
 OWL approaches every client relationship as a collaborative, long-term partnership \- not a one-time transaction. Our values of trust, transparency, co-design, and learner-centered transformation guide how we manage each phase of engagement, from first contact to closeout.
 
@@ -61,31 +61,31 @@ Across all phases, we use OWL’s Essential Conditions for Student Success Matur
 
 **Important:** *As we move through these phases, we honor OWL’s commitment to smart growth over fast growth. We would rather take on fewer, deeper engagements we can deliver with excellence than overextend our team or dilute impact. When a potential scope doesn’t align with our mission, equity commitments, or realistic capacity, we reshape it \- or say no \- so that every “yes” strengthens trust, culture, and long-term results instead of creating fragile, one-off wins.*
 
-### **2.1 – Phase 1: Discovery & Fit (Plan – empathy & context)**
+### 2.1 – Phase 1: Discovery & Fit (Plan – empathy & context)
 
 A project begins with a discovery process led by the Assigned Lead (typically the OWL Program Manager / Director in PM capacity), using OWL’s Intake Process and Discovery Template to assess alignment and opportunity. 
 
 In this phase we stay in “learn before we advise” mode \- practicing empathy, surfacing constraints, and listening for both the visible challenges and the underlying conditions (culture, leadership, facilitation, student experience). We begin to connect what we hear to the [Essential Conditions for Student Success Maturity Model](https://docs.google.com/spreadsheets/u/0/d/1D6Fk31TO9BgjZ_wiHEAaatGu75DQMAeWOPv-EPdXpNM/edit) so that later design work is grounded in specific learner-centered shifts, not just general themes.
 
-### **2.2 – Phase 2: Needs Assessment & Co-Design (Plan – define & ideate)**
+### 2.2 – Phase 2: Needs Assessment & Co-Design (Plan – define & ideate)
 
 If the opportunity moves forward, OWL deepens its understanding of the local context and co-develops a “Solution Sketch.” This internal concept brief helps shape a customized, values-aligned proposal and informs our service model.
 
 Here we blend design thinking (empathy, define, ideate) with improvement science: we start naming a draft AIM (what would success look like for this partner?), early change ideas, and possible measures. For longer-term or networked work, we may use tools such as driver diagrams or Innovation Blueprints to connect the partner’s goals, key drivers, and testable change ideas into a coherent early PDSA roadmap.
 
-### **2.3 – Phase 3: Proposal & Agreement (Plan – scope & guardrails)**
+### 2.3 – Phase 3: Proposal & Agreement (Plan – scope & guardrails)
 
 Once a proposal is co-developed, it is internally vetted, shared with the client for feedback, and finalized. The service arrangement is formalized using one of four contracting pathways: OWL Service Agreement; client-provided contract; client-issued Purchase Order (PO) used as the binding agreement when that is the client’s standard procurement mechanism and it clearly references OWL’s proposal/scope; or proposal-as-contract (only if mutually agreed and appropriate). Whenever OWL accepts a client-issued PO or uses a proposal-as-contract, the Assigned Lead (PM) must ensure there is a brief SOW that translates the approved amount into a clear scope, timeline, roles (including any contractors/Fellows), and invoicing plan for internal and partner use. When contractors/Fellows are part of the delivery team, the PM also references the OWL Contractor Manual (including Appendix D: Contractor Staffing Decision Tree) and the Productive Playbook to ensure the staffing pattern, rates, and scope remain aligned with our guardrails and contractor boundaries.
 
 For multi-session or multi-year engagements, the proposal and SOW should also name the initial PDSA focus (for example, “one team, one practice, one learner group”) and outline the expected engagement rhythm (check-ins, site visits, coaching calls, artifact production, and formal reflection points).
 
-### **2.4 – Phase 4: Launch Preparation (Plan – set the rhythm)**
+### 2.4 – Phase 4: Launch Preparation (Plan – set the rhythm)
 
 The Assigned Lead schedules a kickoff planning meeting with the client to confirm logistics, expectations, team roles, and access needs. Ahead of that meeting, the PM verifies that the project and budget have been set up in Productive, that the staffing plan (including any OWL Fellows/contractors) matches the Estimator/SOW, and that key links to GitBook/Drive folders are in place. Key documents and planning tools are maintained in shared OWL folders using open-source protocols.
 
 The kickoff is also where we **lock in the engagement rhythm**: we calendar the first round of sessions and coaching, agree on when and how we will capture Bright Spots and artifacts, and confirm how quick data (surveys, exit tickets, student work, story capture) will feed into regular “Study” moments in our PDSA cycles.
 
-### **2.5 – Phase 5: Implementation, PDSA & Renewal Pathway (Do–Study–Act)**
+### 2.5 – Phase 5: Implementation, PDSA & Renewal Pathway (Do–Study–Act)
 
 Service delivery is coordinated by the Assigned Lead and carried out by OWL facilitators and Fellows. The mix of OWL employees and OWL Fellows/contractors used for an engagement should reflect decisions already made using the Contractor Staffing Decision Tree (Contractor Manual, Appendix D) and captured in the Estimator, SOW, and Productive budget. For multi-organization work (e.g. WNCRP), the PM should also use OWL’s Program Delivery RACI to clarify task-level responsibilities across OWL staff, Fellows, and External Partner Leads.
 
@@ -104,7 +104,7 @@ Across these contexts, facilitators continually connect what they’re seeing ba
 
 **Important:** *We also explicitly name capacity-building early on in our engagements. Much like Outward Bound’s “Train–Main–Final” model, our goal is to move from OWL-led design and facilitation, to shared leadership, to the partner leading with OWL in a lighter-touch coaching role. Renewals are not about keeping OWL in the driver’s seat; they are about widening and deepening impact while shifting more ownership, confidence, and skill to local teams over time.*
 
-### **2.6 – Phase 6: Follow-Up & Reflection (Study & Act – close the loop)**
+### 2.6 – Phase 6: Follow-Up & Reflection (Study & Act – close the loop)
 
 Following each engagement:
 
@@ -117,7 +117,7 @@ When we talk about “what’s next,” we avoid fluff. Renewal and scaling conv
 
 The above is part of OWL’s identity as a [learning organization](https://whatfix.com/blog/learning-organization/): we don’t just deliver services, we learn in public with our partners and feed that learning back into how we design, facilitate, and measure future engagements.
 
-### **2.7 – Renewal, Scaling, and Working Ourselves Out of a Job**
+### 2.7 – Renewal, Scaling, and Working Ourselves Out of a Job
 
 OWL is not a “canned PD provider.” Our best work helps partners build the mindsets, tools, and routines they need to continue improving long after a specific workshop series or grant cycle ends. That means we design every engagement with two intertwined goals:
 
@@ -148,7 +148,7 @@ In every case, stories of impact plus simple evidence (student work, surveys, at
 
 That is how we span and scale the work without burning out our team or creating dependency: we design for renewal where it deepens and spreads impact, and we design for exit where local teams are ready to lead.
 
-## **3.0 The Program Manager in OWL Engagements**
+## 3.0 The Program Manager in OWL Engagements
 
 In most OWL engagements, the Primary Contact is a Director serving in a Program Manager (PM) capacity. As described in the [Common Roles & Responsibilities for All Directors](https://docs.google.com/document/u/0/d/1_9y8w-tarZIhcNENVp4r7K3Y_4ym1GIDzMmdodN2rCg/edit), PMs are often the tip of the spear for OWL’s work \- the first and most consistent point of contact for a school, district, or external partner. They are not just coordinating logistics; they are actively shaping how OWL shows up, builds trust, centers equity and belonging, ensures accountability, and lives our commitments in the field. Their leadership sets the tone for the partnership and lays the groundwork for shared success.
 
