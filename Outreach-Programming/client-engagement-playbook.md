@@ -59,7 +59,9 @@ Under the hood, every engagement runs on a simple improvement rhythm: Plan–Do�
 
 Across all phases, we use OWL’s Essential Conditions for Student Success Maturity Model as a shared map of learner-centered practice, so that change ideas and PDSA cycles are always anchored in concrete shifts in culture, instruction, and student experience \- not generic PD topics.
 
-**Important:** *As we move through these phases, we honor OWL’s commitment to smart growth over fast growth. We would rather take on fewer, deeper engagements we can deliver with excellence than overextend our team or dilute impact. When a potential scope doesn’t align with our mission, equity commitments, or realistic capacity, we reshape it \- or say no \- so that every “yes” strengthens trust, culture, and long-term results instead of creating fragile, one-off wins.*
+{% hint style="warning" %}
+**Important:** As we move through these phases, we honor OWL’s commitment to smart growth over fast growth. We would rather take on fewer, deeper engagements we can deliver with excellence than overextend our team or dilute impact. When a potential scope doesn’t align with our mission, equity commitments, or realistic capacity, we reshape it \- or say no \- so that every “yes” strengthens trust, culture, and long-term results instead of creating fragile, one-off wins.
+{% endhint %}
 
 ### 2.1 – Phase 1: Discovery & Fit (Plan – empathy & context)
 
@@ -102,7 +104,9 @@ In practice, this looks different depending on the engagement type:
 
 Across these contexts, facilitators continually connect what they’re seeing back to the Essential Conditions Maturity Model so that we can say, in plain language, *how* classroom practice, student experience, and collective efficacy are shifting \- not just that we ran events. In short, we explicitly operate in “[perpetual beta](https://www.forbes.com/councils/forbescoachescouncil/2021/08/06/effective-leadership-development-in-perpetual-beta/).” We embrace non-closure by treating each agenda, prototype, and cycle as a test bed for learning \- not a finished product \- so that both OWL and our partners can name what’s working, what isn’t, and what we’ll adjust together next.
 
-**Important:** *We also explicitly name capacity-building early on in our engagements. Much like Outward Bound’s “Train–Main–Final” model, our goal is to move from OWL-led design and facilitation, to shared leadership, to the partner leading with OWL in a lighter-touch coaching role. Renewals are not about keeping OWL in the driver’s seat; they are about widening and deepening impact while shifting more ownership, confidence, and skill to local teams over time.*
+{% hint style="warning" %}
+**Important:** We also explicitly name capacity-building early on in our engagements. Much like Outward Bound’s “Train–Main–Final” model, our goal is to move from OWL-led design and facilitation, to shared leadership, to the partner leading with OWL in a lighter-touch coaching role. Renewals are not about keeping OWL in the driver’s seat; they are about widening and deepening impact while shifting more ownership, confidence, and skill to local teams over time.
+{% endhint %}
 
 ### 2.6 – Phase 6: Follow-Up & Reflection (Study & Act – close the loop)
 
@@ -196,9 +200,9 @@ These artifacts should be easy to find in shared folders, clearly labeled, and w
 
 *A good rule of thumb: Never write or share anything \- anywhere \- that you wouldn’t stand behind with the OWL logo and your name attached.*
 
+{% hint style="warning" %}
 **Important:** Unless a partner requests otherwise, client-facing tools and resources we create are licensed under OWL’s standard Creative Commons (BY-NC-SA) license so others can adapt and build on them in their own context. For more on how this connects to OWL’s open-source culture and documentation expectations, see *Our Culture* and the OWL Code of Ethics & Standards of Conduct.
-
-#### 
+{% endhint %}
 
 ### **4.1 Client-Facing Documents & Draft Proposals**
 
@@ -270,7 +274,7 @@ When we flex on price or structure, we do so with equity in mind: prioritizing c
 
 We do this strategically, not as charity, but as part of a broader effort to deepen access and equity across education.
 
-## **6.0 Professional Presence**
+## 6.0 Professional Presence
 
 When we step into workshops, design sprints, or strategy sessions with clients and partners, we’re not just leading content, we’re modeling culture. OWL facilitators are expected to operate as [warm demanders](https://resources.corwin.com/sites/default/files/13._figure_6.2_warm_demander_chart.pdf) in external engagements: combining structure with humanity, holding space for multiple perspectives, and keeping the work on track.
 
@@ -282,9 +286,11 @@ In facilitation spaces, we:
 * Invite productive discomfort. Normalize critical reflection without requiring forced vulnerability.  
 * Model shared responsibility. If we want collaborative classrooms, we have to lead collaborative rooms.
 
-**Important:** *When planning any session, facilitators should cross-check their design against the Tier 1 “non-negotiables” and Tier 2 best practices in “About OWL” (on GitBook) to ensure every engagement models the core OWL way of working, not just its content.*
+{% hint style="warning" %}
+**Important:** When planning any session, facilitators should cross-check their design against the Tier 1 "non-negotiables" and Tier 2 best practices in "About OWL" (on GitBook) to ensure every engagement models the core OWL way of working, not just its content.
+{% endhint %}
 
-#### **Suggested Workshop Norms:**
+#### Suggested Workshop Norms
 
 * Take care of yourself and each other  
 * Be fully present  
@@ -294,7 +300,7 @@ In facilitation spaces, we:
 * Embrace and accept non-closure   
 * Practice “[Yes, and…](https://medium.com/improv4/saying-yes-and-a-principle-for-improv-business-life-fd050bccf7e3)” 
 
-#### **Tech Etiquette (Virtual Sessions):**
+#### Tech Etiquette (Virtual Sessions)
 
 * Keep your camera on when possible \- it helps humanize the space  
 * Use chat actively to uplift quiet voices or affirm contributions  
@@ -304,7 +310,7 @@ In facilitation spaces, we:
 
 Remember that strong facilitation is an act of strong leadership. It’s not just about what we deliver, it’s about what we help others see in themselves. The above norms provide a framework that enables us to model how we live OWL’s mission, treating collaboration as a shared craft. As such, we revisit, revise, and re-commit to these norms regularly, knowing that they help us show up with purpose, generosity, and courage in every space we enter.
 
-#### **Professional Presence**
+#### Professional Presence
 
 How we show up – in person and online – is part of the story we tell about OWL. In most U.S. education settings, especially at the leadership level, there is a clear expectation of business-casual professionalism. Because we work directly with administrators, funders, and policymakers, we commit to showing up in ways that reflect respect for local norms, our partners’ time, and the quality of our work.
 
@@ -317,11 +323,7 @@ Our stance is simple:
 
 We recognize that identity, culture, and comfort all play a role in how people show up. Our goal is not to enforce conformity, but to ensure that our presence aligns with the trust we aim to build so the focus stays on the work, not on us as individuals.
 
-## 
-
 ## **Appendix 1 \- Client-Facing Resources**
-
-# 
 
 **Purpose:** This appendix outlines OWL’s standard approach for developing high-quality, learner-centered slide decks and workshop materials. While it provides a shared foundation and includes several non-negotiable expectations (e.g., alignment with OWL’s mission, brand, and professional standards), it is not intended to cover every possible scenario.
 
@@ -422,8 +424,6 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 
 ### **Incorporate Presentation Zen Principles in Every OWL Slide Deck**
 
-### 
-
 * Design with clarity, restraint, and meaning  \-  not decoration or distraction.  
 * Embrace simplicity and focus. Each slide should communicate one core idea. Eliminate unnecessary text, bullet points, and decorative clutter.  
 * Use strong visuals with purpose. Select full-screen, high-quality images that support the story, not distract from it. Avoid generic clipart or overloaded diagrams.  
@@ -513,8 +513,6 @@ john.dewey@openwaylearning.org | [www.openwaylearning.org](http://www.openwaylea
 Open Way Learning (OWL) is pleased to submit this proposal that was co-designed with the Terre Haute School District (THSD) to advance best practices that support the district’s learner-centered, equity-driven instructional vision. It follows OWL’s engagement rhythm: Discovery → Co-Design → Agreement → Launch → PDSA cycles → Reflection/Renewal, ensuring that all services delivered are targeted to address goals and needs, while leveraging local assets. The Assigned Lead (Program Manager) is **\[Name\]**  and the Secondary Contact is **\[Name\]** for continuity. We’ll anchor the work in a clear AIM, small tests of change (PDSA), and a simple cadence of check-ins and artifacts that are aligned to customized measures of success.
 
 ![][image1]	![][image2]
-
-# 
 
 ##### Purpose
 
