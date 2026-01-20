@@ -661,7 +661,7 @@ What makes OWL unique is our open-source approach. We use Design Thinking to amp
 
 **\[OWL note: Drop in two short quotes; keep names/titles with permission.\]**
 
-# Learn more at [www.openwaylearning.org](http://www.openwaylearning.org)
+Learn more at [www.openwaylearning.org](http://www.openwaylearning.org)
 
 ##### Optional Attachment 2: Success Metrics & Reporting (adapt as needed)
 
