@@ -1,11 +1,10 @@
 # Client Engagement Playbook
+Culture, Commitments, and Shared Expectations
 
 {% hint style="info" %}
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
 **Audience:** All OWL staff, contractors/Fellows, and partners who work under the scope of OWL's service to clients
 {% endhint %}
-
-## ***Culture, Commitments, and Shared Expectations***
 
 ## **0\. How to Use This Playbook**
 
