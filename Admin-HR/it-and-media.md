@@ -1,9 +1,11 @@
+# Information Technology & Media
+
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff
+{% endhint %}
 
----
-
-### **PURPOSE**
+## Purpose
 
 This document covers OWL’s expectations around technology tools, software access, AI use, open licensing, and professional handling of media. It reinforces OWL’s open-source values and commitment to digital ethics, transparency, and responsible innovation.
 
@@ -169,4 +171,3 @@ Employees who leave OWL within 12 months of receiving the stipend may be require
 Employees may choose to continue using OWL-issued equipment instead of claiming the stipend, provided the hardware meets ongoing performance standards.
 
 Requests to claim the stipend must be submitted to the Manager of Finance, HR, & Communications.
-
