@@ -5,7 +5,7 @@
 **Audience:** All OWL staff
 {% endhint %}
 
-### **1\. Purpose and Relationship to the Productive Playbook**
+## **1\. Purpose and Relationship to the Productive Playbook**
 
 OWL is committed to transparent, accurate, and auditable timekeeping. Accurate records help us:
 

@@ -1,9 +1,11 @@
+# Professional Growth & Development
+
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff
+{% endhint %}
 
----
-
-### **PURPOSE**
+## Purpose
 
 This document outlines OWL’s commitment to cultivating a culture of continuous learning, growth, and professional reflection. It describes how team members engage in individual development planning, feedback cycles, and annual growth conversations—while also having access to shared professional development resources. At OWL, professional growth is seen as both a personal responsibility and a collective opportunity to deepen our mission impact.
 
@@ -94,4 +96,3 @@ Note that raises and promotions are considered in context of organizational need
 #### **A Final Thought on Evaluation & Growth**
 
 At OWL, you are the architect of your own professional growth. You don’t need permission to get better, take initiative, or seek new challenges. You are empowered to reflect, request support, and advocate for your role in advancing our collective mission.
-

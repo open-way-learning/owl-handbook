@@ -1,9 +1,11 @@
+# Employment Policies & Practices
+
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff
+{% endhint %}
 
----
-
-# Employment Policies & Practices
+## Purpose
 This document outlines OWL's foundational employment policies and expectations, including Equal Opportunity, anti-harassment practices, accommodations, and onboarding protocols. These practices reflect OWL's commitment to a respectful, inclusive, and legally compliant workplace culture. Together, they help ensure that all employees are supported, protected, and positioned to thrive. For related policies, refer to the OWL Code of Conduct & Ethics.
 
 ## Equal employment opportunity

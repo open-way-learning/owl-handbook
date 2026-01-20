@@ -1,9 +1,11 @@
+# Compensation, Pay Structure, and Salary Administration
+
+{% hint style="info" %}
 **Owner:** Director of Finance & Operations (DFO) – with input from all Directors  
 **Audience:** All OWL staff
+{% endhint %}
 
----
-
-### **PURPOSE**
+## Purpose
 
 This document outlines OWL’s compensation philosophy, pay structure, and salary administration practices. It includes principles of pay equity, benchmark ranges aligned with the education nonprofit sector, and transparent oversight protocols for all employee roles. The document also covers salary distribution, overtime, pay frequency, deductions, and related legal compliance. These policies support OWL’s mission by ensuring compensation is fair, mission-aligned, and fiscally responsible—while reinforcing transparency, accountability, and equity across the organization.
 
@@ -125,4 +127,3 @@ Time Tracking & Payroll
 * Paid holidays, PTO, sick leave, and other forms of paid time off do not count toward the 40-hour threshold for standard overtime calculation.
 
 Note: For information related to compensatory time (comp time) and overtime eligibility, especially for non-exempt employees, please refer to the above COMP TIME section of this Handbook. These policies are grounded in FLSA guidelines and help ensure both fairness and compliance.
-
