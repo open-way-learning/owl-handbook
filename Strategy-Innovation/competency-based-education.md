@@ -7,9 +7,9 @@
 
 ## Keeping the Main Thing the Main Thing
 
-At Open Way Learning, we believe the “main thing” in education should always be authentic teaching and learning \- not compliance, sorting, or grade chasing. Competency-Based Education (CBE) brings us back to that main thing by redefining success through mastery, equity, and student agency rather than seat time or age-based progression.
+At Open Way Learning, we believe the “main thing” in education should always be authentic teaching and learning—not compliance, sorting, or grade chasing. Competency-Based Education (CBE) brings us back to that main thing by redefining success through mastery, equity, and student agency rather than seat time or age-based progression.
 
-We see CBE not as a program or add-on, but as a transformative shift in mindset and structure \- one that better aligns with the purpose of school in a world defined by complexity, disruption, and possibility.
+We see CBE not as a program or add-on, but as a transformative shift in mindset and structure—one that better aligns with the purpose of school in a world defined by complexity, disruption, and possibility.
 
 ## What is CBE?
 
@@ -19,28 +19,28 @@ While definitions vary, OWL aligns with the Aurora Institute’s widely accepted
 * **Student-centered pathways** where progress is based on demonstrated mastery, not time spent in a classroom.  
 * **Embedded student agency** with learners empowered to make decisions about how they learn and how they demonstrate what they know.  
 * **Timely, meaningful, and actionable feedback** that supports growth.  
-* **Flexible structures** \- including scheduling, assessment, and reporting \- that respond to each learner’s pace and needs.
+* **Flexible structures**—including scheduling, assessment, and reporting—that respond to each learner’s pace and needs.
 
 ## Why CBE? Why Now?
 
-The traditional system \- based on seat time, A–F grades, and age-based cohorts \- was never designed to meet the needs of all learners. It disproportionately disadvantaged students historically furthest from opportunity. CBE offers a path forward that centers learning, not compliance.
+The traditional system—based on seat time, A–F grades, and age-based cohorts—was never designed to meet the needs of all learners. It disproportionately disadvantaged students historically furthest from opportunity. CBE offers a path forward that centers learning, not compliance.
 
 COVID-19 revealed just how fragile our time-bound, one-size-fits-all structures really are. Schools with CBE foundations pivoted more successfully to remote learning, thanks to systems that already prioritized student agency, self-pacing, and formative feedback.
 
-This isn’t just a moment for reform \- it’s a moment for redesign.
+This isn’t just a moment for reform—it’s a moment for redesign.
 
 ## How CBE Advances OWL’s Core Beliefs
 
-CBE isn’t a silver bullet \- but when implemented thoughtfully, it acts as a *connective tissue* for deeper learner-centered innovation:
+CBE isn’t a silver bullet—but when implemented thoughtfully, it acts as a *connective tissue* for deeper learner-centered innovation:
 
 * **Equity**: CBE allows students the time and support they need to truly learn, especially those who need more time or different pathways.  
 * **Agency**: By giving students voice and choice in how they learn and demonstrate mastery, CBE nurtures ownership, resilience, and real-world readiness.  
-* **Collaboration & Culture**: Implementation requires collective leadership, shared vision, and a culture of trust \- cornerstones of OWL’s open-source philosophy.  
+* **Collaboration & Culture**: Implementation requires collective leadership, shared vision, and a culture of trust—cornerstones of OWL’s open-source philosophy.  
 * **Innovation by Design**: CBE thrives when schools use design thinking to iterate, adapt, and reflect based on their local contexts.
 
 ## What CBE Looks Like in Practice
 
-CBE is not about tossing out structure \- it’s about redefining it with intention and flexibility. High-functioning CBE systems often include:
+CBE is not about tossing out structure—it’s about redefining it with intention and flexibility. High-functioning CBE systems often include:
 
 * **Competency-aligned assessments** that go beyond memory recall to performance tasks and exhibitions of learning.  
 * **Rubrics as roadmaps**, co-created with students, to demystify expectations and support goal setting.  
@@ -70,7 +70,7 @@ OWL supports schools and districts ready to explore or deepen their CBE practice
 * Co-create systems of documentation and reflection.  
 * Engage community partners in the design and validation of authentic learning.
 
-We do this work because we believe learning should be a process of becoming \- not just complying. CBE allows learners to be seen, supported, and stretched in ways that reflect both their potential and their humanity.
+We do this work because we believe learning should be a process of becoming—not just complying. CBE allows learners to be seen, supported, and stretched in ways that reflect both their potential and their humanity.
 
 ## Learning from the Field: Insights from Schools and Experts Around the Globe
 
@@ -83,7 +83,7 @@ As part of OWL’s commitment to open-source learning and continuous inquiry, me
 * **High Tech High (San Diego), Nueva School (Hillsborough), and New Roads School (Santa Monica)** are California schools that are deeply committed to personalized, student-centered learning. While each has varying degrees of CBE culture, these schools have structures in place to break free from traditional grading practices to better support holistic student growth.  
 * **East Palo Alto Academy**, which serves a high-needs student population, stood out for its deliberate transition to CBE. Their efforts highlight both the promise and the challenge of implementing such a model in schools seeking to close opportunity gaps.  
 * **Liger Leadership Academy (Phnom Penh, Cambodia)** offered a compelling international example of what’s possible when schools deeply commit to personalized, purpose-driven learning. While not formally operating within a CBE framework, Liger's emphasis on student-led, competency-rich experiences mirrors many of the design principles foundational to mastery-based education. Their approach provides important global insight into how CBE-aligned practices can thrive even in non-Western educational contexts.  
-* Several schools were actively using **Standards-Based Grading (SBG)** as an entry point \- helping both staff and stakeholders reframe how learning is assessed. The **California Collaborative for District Reform** was cited by multiple educators as a key support network in this work.
+* Several schools were actively using **Standards-Based Grading (SBG)** as an entry point—helping both staff and stakeholders reframe how learning is assessed. The **California Collaborative for District Reform** was cited by multiple educators as a key support network in this work.
 
 ### 🌐 Global Perspectives: CBE in International Contexts
 
@@ -102,11 +102,11 @@ These conversations, site visits, and collaborative investigations affirm that w
 
 ## Final Thoughts
 
-As Sal Khan said: *“Let’s teach for mastery \- not test scores.*” CBE gives us a path to do exactly that.
+As Sal Khan said: *“Let’s teach for mastery—not test scores.*” CBE gives us a path to do exactly that.
 
-If education is to prepare students not just for a job, but for a lifetime of learning, we must embrace approaches that reflect the real world \- where advancement is based on what you can do, not how long you’ve sat in a seat.
+If education is to prepare students not just for a job, but for a lifetime of learning, we must embrace approaches that reflect the real world—where advancement is based on what you can do, not how long you’ve sat in a seat.
 
-We believe CBE is not only possible \- it is essential.
+We believe CBE is not only possible—it is essential.
 
 ## References & Resources
 
