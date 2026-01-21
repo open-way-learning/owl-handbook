@@ -1,10 +1,11 @@
-## **OWL's Position Statement on Experiential Learning**
+## OWL's Position Statement on Experiential Learning
 
+{% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
 
----
-
+## Purpose
 OWL believes that Experiential learning (ExL) is not a new program for educators to add to their already crowded plates. It is a way of designing the foundational culture of a school so that students learn *through* meaningful experience \- i.e. investigating real questions, wrestling with open-ended problems, and creating work that matters beyond the gradebook. When students have repeated opportunities to experience, reflect, make meaning, and apply their ideas, they develop the habits of mind and heart needed for a complex, rapidly changing world. These include, but are not limited to agency, collaboration, persistence, problem solving, critical thinking, agility and adaptability, and a strong sense of purpose. The [OWL Experiential Learning Playbook](https://docs.google.com/document/d/12v1Xnc22Z3WRI-9DGxuBDbEayVxb-ov-ydEMm3ndQTg/edit?usp=sharing) names this as a framework for learner-centered innovation and outlines ten core principles and is organized into mindsets like Purposeful Rigor & Growth, Authenticity & Relevance, Navigation Tools, and Learning Process, etc. that can anchor this culture shift in any school or district.
 
 This position statement sits alongside the above Playbook as a deeper dive into those ten principles and is based on years of experience OWL has had supporting schools and districts make this shift happen. For each Experiential Learning element, such as public products, student agency, sustained inquiry, or continuous feedback and iteration, it offers concrete examples across a range of approaches: project- and problem-based learning, place- and service-based learning, profession-based pathways, studio and design-based work, challenge- and game-based learning, and more. Together, the Playbook and this paper give educators a shared language and a practical map that makes meaning for the ideas related to Experiential Learning. Specifically, the Playbook shows the overall terrain and the “why,” while this position statement highlights specific design moves teachers and school teams can use to bring high-quality ExL to life in their own context.
@@ -89,4 +90,3 @@ This position statement sits alongside the above Playbook as a deeper dive into 
 * **Studio-Based Learning:** Iterating on bridge designs based on force calculations.  
 * **Design-Based Learning:** Refining coding projects after user testing.  
 * **Maker-Based Learning:** Testing robotic movement algorithms, improving with each iteration.
-

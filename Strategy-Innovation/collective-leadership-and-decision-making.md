@@ -1,14 +1,17 @@
-# **OWL’s Approach to Collective Leadership and Decision Making**
+# OWL's Approach to Collective Leadership and Decision Making
 
-**Owner:** Accountable = Director of Orgazational Strategy & Learning (DOSL). Responsible = Director of Finance & Operations (DFO), with support and input from all Directors
+{% hint style="info" %}
+**Owner:** Accountable = Director of Orgazational Strategy & Learning (DOSL). Responsible = Director of Finance & Operations (DFO), with support and input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
 
----
+## Purpose
 Open Way Learning embraces a collective leadership model that intentionally departs from traditional hierarchy employed by other organizations. Inspired by *The Open Organization* (Whitehurst), *Drive* (Pink), and *Open Up, Education\!* (Owens & Haigler), we treat leadership as a practice, not a position \- one grounded in transparency, purpose, distributed authority, agile learning, and psychological safety. This procedure is the bedrock for how we routinely and consistently decide, deliver, and improve as a small, nimble nonprofit. It exists so anyone at OWL can confidently lead a decision without waiting for permission, while also staying aligned to shared guardrails, systems, and mission.
 
-**Why this matters:** Collective leadership only works when decision protocols are clear, our work is open and transparent, and follow-through is predictable and reliable. What follows turns our values into day-to-day practice so we can move nimbly and quickly while always keeping our promises to each other and our partners.
+## Why this matters
+Collective leadership only works when decision protocols are clear, our work is open and transparent, and follow-through is predictable and reliable. What follows turns our values into day-to-day practice so we can move nimbly and quickly while always keeping our promises to each other and our partners.
 
-**How to use this document (at a glance)**
+## How to use this document (at a glance)
 
 * Use the following Quickstart every week as our “minimum viable operating system” for making nimble decisions aligned to OWL’s values and distributed leadership culture.  
 * Use the RACI-S table when a decision is more complex or crosses role boundaries, especially if it affects money, scope, risk, reputation, or cross-role capacity.  
@@ -17,11 +20,11 @@ Open Way Learning embraces a collective leadership model that intentionally depa
   * **Appendix 1 – Decision Types & Methods:** More detail for when to use Delegated Authority, Consent, or Board approval; how to tag Decision Ladder levels and when to log.  
   * **Appendix 2 – Example Scenarios:** Short, typical case studies that help the reader see patterns and notes for when and how to use our decision-making tools, including grants, MOUs, events, tools, renewals, etc. 
 
-# **Quickstart:**
+## Quickstart
 
 **Why does this document exist?** We lead through distributed authority, transparent systems, and mission alignment. This procedure is the *bedrock* for how we decide, deliver, and improve and should be used as a routine tool for how you make decisions within your role and across the organization’s functions.
 
-# **1\) Decision Modes \+ Decision Ladder** 
+## **1\) Decision Modes \+ Decision Ladder** 
 
 **Decision modes:** We use **Consent**, **Consensus**, and **Delegated Authority** \- selected intentionally, based on the applicable level in the following decision ladder.
 
@@ -48,11 +51,11 @@ Open Way Learning embraces a collective leadership model that intentionally depa
 2. **Implement & track** **decision follow-up steps.** Update any applicable Productive cards and tie decision outcomes to any applicable role objectives and/or KPIs for the organization.   
 3. **Reflect & improve.** Use monthly strategy meetings to debrief and document key decision impacts (as appropriate).
 
-# **2\) Follow the RACI-S Standard** 
+## **2\) Follow the RACI-S Standard** 
 
 Consistently use the **RACI-S** table below for key decisions required in the organization, as well as other similar scenarios. Reference the appendices for additional detail on how and when to use this table. 
 
-## **RACI-S Format/criteria:**
+### **RACI-S Format/criteria:**
 
 * **Exactly one “A”** (Accountable) per decision. *Note that while we strive for consensus, the “A” has the final say per their role.*  
 * **R** (Responsible) executes the decision (is often also the A);   
@@ -71,7 +74,7 @@ Everything else should be handled with the Decision Ladder \+ the Roles & Respon
 
 We also prune this table quarterly: if a row hasn’t been used in the last 6 months, it gets removed or moved to an appendix/pattern library.
 
-## **OWL’s RACI-S Table** 
+### **OWL’s RACI-S Table** 
 
 | Decision Area | Accountable (A) | Responsible (R) | Consulted (C) | Informed (I) | Support (S) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -96,7 +99,7 @@ We also prune this table quarterly: if a row hasn’t been used in the last 6 mo
 * DPIV \= Director of Program Impact & Visibility;   
 * PM \= Program Manager of record.
 
-# **3\) Decision Log Protocol**
+## **3\) Decision Log Protocol**
 
 Every decision above the Operational level is logged in the Slack **\#decision\_log** per this Rule of Thumb: *If a decision  is likely to change someone else’s plan, money, timeline, promise, or risk \- log it. Use the “5-R” test below:* 
 
@@ -125,7 +128,7 @@ Example: DECISION (Tactical): Shift WNCRP workshop sequence by 2 weeks. A: DPIV.
 
 ***If in doubt, log \- short and clear beats invisible and assumed.***
 
-# **4\) Operating Discipline Checklist** 
+## **4\) Operating Discipline Checklist** 
 
 OWL operates with a small, nimble team in a collective (non-hierarchical) manner. As such, we must be agile at scale in order to consistently deliver high quality, mission-driven work. This requires a high degree of operating discipline that matches creativity with consistent habits:
 
@@ -139,7 +142,7 @@ OWL operates with a small, nimble team in a collective (non-hierarchical) manner
 
 *This is “how we do excellence,” not bureaucracy.*
 
-# **5\) Team & Collaborative Norms**
+## **5\) Team & Collaborative Norms**
 
 We typically adopt the role of “warm demanders” when working with clients: providing a high level of respect and care with a set of high standards and expectations. Likewise, our internal meetings and collaboration should have that same balance, always feeling open, efficient, and respectful of peoples’ roles and time..
 
@@ -155,7 +158,7 @@ Cross-reference (kept lean on purpose):
 
 For meeting structures, agendas, scrum flow, and collaboration rituals, use the SOP: “[OWL Scrum Meeting Agenda & Expectations](https://docs.google.com/document/d/1_tF1v-sSqAd0sMu_ddcjletqYu4iZul7fNdT2CGW2I8/edit?usp=drive_link).”
 
-# **6\) Performance, Growth, & Accountability  \-  Backstop** 
+## **6\) Performance, Growth, & Accountability  \-  Backstop** 
 
 Like traditional management structures, distributed leadership environments also need a fair, consistent way to respond to sustained performance gaps, policy breaches, or behavior that erodes trust. For OWL, we have a default posture for such situations of coaching and clarity first and then escalate only when patterns persist or risk is acute.
 
@@ -171,7 +174,7 @@ Like traditional management structures, distributed leadership environments also
 
 **Cross-reference (system of record):** See the Employee Handbook / Performance Management SOP for the full process, templates, and legal/HR safeguards.
 
-# **Appendix 1: OWL’s Decision Types & Methods (Aligned to the Decision Ladder)**
+## **Appendix 1: OWL’s Decision Types & Methods (Aligned to the Decision Ladder)**
 
 **How to use:** Pick the **type/level**, apply the **primary method**, ensure **exactly one “A”** in RACI-S, and post to **\#decision\_log** when the decision affects others’ plans, money, timelines, promises, or risk.
 
@@ -191,13 +194,13 @@ Like traditional management structures, distributed leadership environments also
 * If in doubt, log. Short \+ clear beats invisible \+ assumed.  
 * For complex/cross-team items, reference a matching pattern in Appendix 2: Example Scenarios Using RACI-S and link them together.
 
-# **Appendix 2: Example Scenarios Using RACI-S**
+## **Appendix 2: Example Scenarios Using RACI-S**
 
 The following examples illustrate how OWL’s collective leadership model uses the RACI-S framework in real-world decisions. These examples are far from an exhaustive list of the kinds of decisions OWL will face, but they do provide an internal reference point to support the kind of shared understanding and reinforcement of the importance of clarity, transparency, and collaboration in our work so that we successfully leverage OWL’s distributed leadership model in order to better meet the needs of our stakeholders.
 
 **When to use this.** If a decision crosses lanes and you’re unsure how to assign roles, use the scenarios below as patterns. Always ensure there is exactly one “A” (Accountable); tag the Decision Ladder level (Operational / Tactical / Strategic) and post to the Slack \#decision\_log.
 
-## **Scenario 1  \-  New Grant Proposal (programmatic; due in 4 weeks)**
+### **Scenario 1  \-  New Grant Proposal (programmatic; due in 4 weeks)**
 
 * **Level:** Strategic (funding \+ public commitment)  
 * **A:** **D-OSL**  
@@ -208,7 +211,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If staffing, scope, or match assumptions change, log linked **Scope/Capacity** and **Budget** decisions; coordinate funder stewardship with **D-OSL**; after submission, post the grant link, budget version, and a RACI-S snapshot in **\#decision\_log** and pin in the project thread.
 
-## **Scenario 2  \-  Strategic Partnership with Another Nonprofit (MOU, roles, boundaries)**
+### **Scenario 2  \-  Strategic Partnership with Another Nonprofit (MOU, roles, boundaries)**
 
 * **Level:** Strategic (brand, revenue, scope, long-term commitments)  
 * **A:** **D-OSL**  
@@ -219,7 +222,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If the partnership changes delivery promises, budget exposure, or staffing, log linked **Scope/Capacity** and **Budget** decisions; if co-fundraising is involved, log a **Grant/Donor Coordination** decision (lead, calendar, stewardship); after execution, post the final MOU link and a RACI-S snapshot in **\#decision\_log** and pin in the shared channel.
 
-## **Scenario 3  \-  Onboarding a New Fellow/Contractor**
+### **Scenario 3  \-  Onboarding a New Fellow/Contractor**
 
 * **Level:** Tactical  
 * **A:** **DFO** (contracting/compliance)  
@@ -230,7 +233,7 @@ The following examples illustrate how OWL’s collective leadership model uses t
 
 **Notes:** If role affects partner delivery or replaces staff capacity, log a **Scope/Capacity** decision; schedule and log the **60-day check-in** (PM owner) with a short performance note; post the executed agreement link and access checklist in **\#decision\_log**.
 
-## **Scenario 4  \- Public Campaign / Major Announcement (brand/reputation)**
+### **Scenario 4  \- Public Campaign / Major Announcement (brand/reputation)**
 
 * **Level:** Strategic (brand/reputation)  
 * **A:** **DPIV**  
@@ -240,4 +243,3 @@ The following examples illustrate how OWL’s collective leadership model uses t
 * **S:** **DFO** (channel scheduling, web updates, asset management)
 
 **Notes:** If announcing dates/deliverables, log a linked **Scope/Timeline** decision; attach the message map and calendar to the decision post; after launch, post a brief **impact readout** (reach, engagement, next step).
-

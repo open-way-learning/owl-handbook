@@ -1,6 +1,11 @@
-# **OWL’s Position Statement on Improvement Science & Networked Improvement Communities** 
+# OWLs Position Statement on Improvement Science & Networked Improvement Communities
 
-## **Why NICs Now?**
+{% hint style="info" %}
+**Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
+**Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
+
+## Why NICs Now?
 
 Schools are not short on ideas. They are drowning in initiatives.
 
@@ -10,7 +15,7 @@ At Open Way Learning (OWL), we see NICs and Improvement Science as the engine un
 
 Whether we are working with a regional initiative like the Western North Carolina Resilience Project (WNCRP), an alternative schools network such as Together We Learn (TWL), or CAPS-style career pathways, our goal is the same: create living systems for learning where teams can test, adapt, and spread practices that work \- especially for students furthest from opportunity.
 
-## **What We Mean by NICs & Improvement Science**
+## What We Mean by NICs & Improvement Science
 
 We borrow heavily from the Carnegie Foundation’s framing:
 
@@ -40,7 +45,7 @@ OWL leans on a core set of Improvement Science moves, informed by resources like
 
 We treat all of this not as another compliance framework, but as a liberating structure that lets educators be systematic about what they already care deeply about: better experiences and outcomes for students.
 
-## **Core Principles That Guide OWL’s NIC & Improvement Work**
+## Core Principles That Guide OWL’s NIC & Improvement Work
 
 OWL’s approach is grounded in the six core principles of Improvement Science and tuned to our open, learner-centered culture. (Reference: [Six Core Principles of Improvement, Carnegie Foundation](https://www.carnegiefoundation.org/about/improvement-in-education/six-core-principles-improvement/?utm_source=chatgpt.com)).
 
@@ -163,4 +168,3 @@ When OWL partners with schools, districts, or networks to launch or deepen NIC/I
 Networked Improvement Communities and Improvement Science are, at their best, tools for hope with a backbone. They give educators a way to move beyond “trying harder” toward learning together, on purpose, in service of every learner’s dignity, agency, and future.
 
 This is the “open way” in Open Way Learning: not a single model to buy into, but a shared, evolving practice of noticing what’s not working, designing better experiences with those most affected, and openly sharing and spreading what we learn across classrooms, schools, and communities.
-

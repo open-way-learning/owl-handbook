@@ -1,11 +1,11 @@
-# **OWL Document Control Policy**
+# OWL Document Control Policy
 
-**Owner:** Accountable = Director of Orgazational Strategy & Learning (DOSL). Responsible = Director of Finance & Operations (DFO), with support and input from all Directors
+{% hint style="info" %}
+**Owner:** Accountable = Director of Orgazational Strategy & Learning (DOSL). Responsible = Director of Finance & Operations (DFO), with support and input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
 
----
-## **Purpose**
-
+## Purpose
 This procedure defines how Open Way Learning creates, stores, updates, and retires its organizational documents so that everyone knows what is official, where to find it, and how to keep it current. The goals of this procedure are to:
 
 * Provide a clear “single source of truth” for OWL’s internal systems and decision-making frameworks  
@@ -16,12 +16,13 @@ This procedure defines how Open Way Learning creates, stores, updates, and retir
 This procedures meets these goals by defining a dual-platform system for OWL’s document control and file management:
 
 * **GitBook (backed by GitHub)** holds OWL’s canonical, version-controlled documentation – our core policies, procedures, templates, and frameworks that describe how we operate.
-
 * **Google Drive** holds the day-to-day working files – drafts, partner-specific materials, slide decks, reference resources, and media generated through our work.
 
+{% hint style="warning" %}
 **Note:** GitBook is paired with GitHub behind the scenes so that changes to official documents are fully version-controlled and easy to track over time (see Appendix 4 – *Why GitHub/GitBook?* for more background).
+{% endhint %}
 
-## **Operating Discipline & Steward Accountability**
+## Operating Discipline & Steward Accountability
 
 As a small, agile nonprofit, we cannot afford a jumbled mess of everyone “doing their own thing.” Our ability to serve partners well depends on a shared commitment to do what we say we do.
 
@@ -40,9 +41,11 @@ In other words: *we either follow the current rule or work together to change th
 
 Each major area of our documentation has a designated **Steward**.
 
-**Important:** *For the purposes of this policy, a Steward is defined as an OWL Director (or designated lead) who owns the clarity, structure, and accuracy of documents in their area or responsibility, even when others may help with drafting or filing. Stewards may delegate day-to-day tasks, but they are ultimately accountable for keeping “official” content aligned with OWL’s values, guardrails, and open-source mindset.*
+{% hint style="warning" %}
+**Important:** For the purposes of this policy, a Steward is defined as an OWL Director (or designated lead) who owns the clarity, structure, and accuracy of documents in their area or responsibility, even when others may help with drafting or filing. Stewards may delegate day-to-day tasks, but they are ultimately accountable for keeping "official" content aligned with OWL’s values, guardrails, and open-source mindset.
+{% endhint %}
 
-## **System Overview \- GitBook vs Google Drive**
+## System Overview: GitBook vs Google Drive
 
 To reduce guesswork, OWL uses a simple rule: *GitBook is the “operating system.” Google Drive is the “workbench.”* In other words, GitBook holds our official, reusable, version-controlled, and cross-organizational content for “*how OWL works.*” Google Drive holds the contextual or confidential *day-to-day working documents* used for designing, delivering, and learning from our services with specific clients and partners.
 
@@ -57,7 +60,7 @@ The following is the guidance you need to decide where a document belongs:
 
 As a rule of thumb, GitBook is where someone goes to answer: “*What is OWL’s official way of doing this?”*
 
-**A document belongs in Google Drive when:** 
+**A document belongs in Google Drive when:**
 
 * It is a draft or actively being developed or revised by an individual or small group.  
 * It is specific to a partner, project, or event (SOWs, trip plans, PDSA logs, workshop slide decks, notes, contracts).  
@@ -67,7 +70,7 @@ As a rule of thumb, GitBook is where someone goes to answer: “*What is OWL’s
 
 As a rule of thumb, Google Drive is where someone goes to answer: “*What are we working on right now and with whom?”*
 
-#### **Special cases: GitBook \+ Drive together**
+### Special cases: GitBook + Google Drive together
 
 Some resources have both a stable “source of truth” and a flexible working version:
 
@@ -81,7 +84,7 @@ In these cases:
 
 See **Appendix 1 – Folder Map & Stewardship Overview** for a detailed map of how this plays out across OWL’s Google Drive and GitBook structures.
 
-## **Roles and Responsibilities**
+## Roles and Responsibilities
 
 | Role | Responsibility |
 | ----- | ----- |
@@ -92,7 +95,7 @@ See **Appendix 1 – Folder Map & Stewardship Overview** for a detailed map of h
 | **Tech Leads (***GitHub-Savvy Staff***)** | **GitBook/GitHub implementation support.** At the request of a Steward, translate approved content changes into GitHub: updating Markdown files, cleaning up headings and links, adjusting `SUMMARY.md` navigation, and confirming that changes appear correctly in GitBook. Tech Leads do **not** decide policy content; they implement the technical side of an already agreed change and flag any structural issues they see. In general, the Steward and Tech Lead are not the same person for a given change. |
 | **All OWL Team Members** | **Everyday users and signalers.** Follow the folder structures, naming conventions, and platform rules described in this procedure. Store work in the correct locations (GitBook vs Drive), avoid side-channel storage, and participate in cleanup cycles when asked. When something is unclear, missing, or no longer fits reality, team members are expected to raise the issue, propose improvements, or submit suggested edits instead of working around the system or creating parallel structures. |
 
-## **Document Contribution and Publication Workflow**
+## Document Contribution and Publication Workflow
 
 This section explains how to create, update, and use documents in OWL’s dual-platform system. There are three main paths:
 
@@ -460,7 +463,7 @@ Use direct GitHub editing only when:
 * You are updating Markdown files in the OWL docs repository (e.g., README.md, SUMMARY.md, or section .md files), and  
 * You understand how branches and pull requests work, or you are working under the guidance of a Tech Lead.
 
-#### **Expectations for direct GitHub edits**
+### **Expectations for direct GitHub edits**
 
 When working directly in GitHub, contributors are expected to:
 
@@ -471,7 +474,7 @@ When working directly in GitHub, contributors are expected to:
 
 Detailed Git commands and workflows are not maintained in this policy. They live where they belong: *in the repository itself.*
 
-#### **Where to find the detailed Git workflow**
+### Where to find the detailed Git workflow
 
 For step-by-step instructions, see:
 
@@ -481,7 +484,7 @@ For step-by-step instructions, see:
 
 Questions or edge cases around GitHub use should go first to your Tech Lead or the DOSL, who can either support you directly or update the CONTRIBUTING guide as our practices evolve.
 
-#### **References**
+## References
 
 * [GitHub Docs: Pull Requests](https://docs.github.com/en/pull-requests)  
 * [GitBook Documentation](https://gitbook.com/docs)  
