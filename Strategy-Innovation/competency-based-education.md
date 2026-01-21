@@ -1,4 +1,4 @@
-# OWL's Position Statement for Competency-Based Education (CBE)
+# OWL's Position Statement on Competency-Based Education (CBE)
 
 {% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
