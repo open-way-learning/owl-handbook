@@ -1,14 +1,15 @@
-# **OWL Maturity Model for Learner-Centered Innovation**
+# OWL Maturity Model for Learner-Centered Innovation
 
+{% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
 
----
-### **Background and Purpose**
+## Background and Purpose
 
 The OWL Maturity Model for Learner-Centered Innovation is a flexible tool that helps any school, district, network, or other learning community make an honest, shared assessment of where they are on the journey toward a culture of authentic, learner-centered innovation. It focuses on systemic, culture-level conditions instead of isolated programs or specific classroom strategies. It does this by asking:
 
-* How does your mission, vision, and values \- i.e. your “why” \- show up in daily practice?  
+* How does your mission, vision, and values—i.e. your "why"—show up in daily practice?  
 * How are innovation, creativity, and continuous improvement woven into the fabric of the school?  
 * Where do open sharing, collaboration, and collective leadership truly live in your systems, not just your words?
 
@@ -26,7 +27,7 @@ The model is available in three complementary formats, each serving a distinct p
 
 Schools and districts can engage with any single format or use them in combination. Some teams start with the cards to build shared language and feed the imagination, then move into the rubric to document a more specific self-assessment of current state. Others begin with this master document to ground their leadership team, then use the cards and rubric to involve staff, students, and families in the improvement process as it evolves. The goal in all cases is the same: use whichever version(s) best help your community see its current culture clearly, imagine what’s possible, and design a practical and customized pathway toward a more learner-centered culture of innovation.
 
-### **Connection to the OWL Maturity Model for Student Success**
+## Connection to the OWL Maturity Model for Student Success
 
 The [*Maturity Model for Student Success*](https://docs.google.com/document/d/1KmKnKEuCEK5qTEmQnCfJ-drDPNgTZl0zGqQfLReeUfo/edit?usp=sharing) focuses on what students experience in classrooms: safety and belonging, deep learning activities, high-quality facilitation, collective teacher efficacy, and leadership practices that sustain those conditions.
 
@@ -42,18 +43,14 @@ Teams can start with whichever entry point fits their context, then cross-walk b
 This maturity model is organized around five interlocking culture dimensions, each represented in both the rubric and the card deck:
 
 1. **Innovation Ethos** – How your school understands, prioritizes, and organizes for innovation and continuous improvement.
-
 2. **Open Source Sharing** – How your community shares knowledge, stories, and resources inside and outside the school.
-
 3. **Radical Collaboration** – How you move beyond silos so students and adults learn *with* and *from* one another.
-
 4. **Collective Leadership** – How power, decision-making, and agency are distributed among students, educators, and families.
-
 5. **Living Mission & Vision** – How your “why” is co-created, understood, and actually lived in everyday practice.
 
 Across the card set, each dimension uses the metaphor “Igniting the spark → building a campfire → leveraging an innovation bonfire” to suggest growth from early pilots to a fully embedded culture.
 
-## **How to Use This Model *(Design Thinking \+ Improvement Science)***
+## How to Use This Model (Design Thinking + Improvement Science)
 
 As mentioned above, this written guide is one of three complementary formats for this maturity model (along with the rubric and card deck). This version gives users more narrative context, examples, and suggested indicators/actions that work well within a Design Thinking and Improvement Science framework and as such, can be used on its own, or alongside the rubric and/or cards.
 

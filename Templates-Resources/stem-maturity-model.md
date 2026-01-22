@@ -1,10 +1,11 @@
-# **OWL STEM Maturity Model**
+# OWL STEM Maturity Model
 
+{% hint style="info" %}
 **Owner:** Director of Orgazational Strategy & Learning (DOSL) – with input from all Directors  
 **Audience:** All OWL staff, partners, and stakeholders
+{% endhint %}
 
----
-## **Background and Purpose**
+## Background and Purpose
 
 Young people are growing up in a world of constant scientific discovery and rapid technological change. From climate resilience and public health to artificial intelligence and the future of work, decisions that shape their lives increasingly depend on scientific and technical understanding and on their ability to participate as informed citizens, not just passive consumers.
 
@@ -563,4 +564,3 @@ Using this document and the rubric:
 As you continue to return to this model \- during planning cycles, PLCs, coaching conversations, makerspace meetings, and data reviews \- add your own stories, artifacts, and refinements. Over time, it should feel less like a generic OWL tool and more like your community’s shared playbook for STEM.
 
 Used this way, the OWL STEM Maturity Model does more than organize an annual plan for “doing more projects” or “using the makerspace more.” It helps normalize inquiry, empathy, experimentation, and reflection as everyday practice in STEM learning. In the process, it supports your school or district in becoming a true learning organization \- one where educators continually learn together, adapt practice, and redesign the system so that all students can see themselves as capable STEM thinkers, creators, and problem solvers.
-
