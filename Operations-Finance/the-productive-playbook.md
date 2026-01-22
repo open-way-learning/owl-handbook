@@ -2,10 +2,12 @@
 
 ## ***A Guidebook for How OWL Makes Work Visible***
 
-**Version:** 1.0  
-**Owner:** Director of Finance & Ops (DFO) – with input from all Directors  
-**Audience:** All OWL staff, contractors, and fellows who touch client work, internal projects, or grants  
-**Last updated:** 1-21-26
+A Guidebook for How OWL Makes Work Visible
+
+{% hint style="info" %} Version: 1.0
+Owner: Director of Finance & Ops (DFO) – with input from all Directors
+Audience: All OWL staff, contractors, and fellows who touch client work, internal projects, or grants
+Last updated: 2026-01-21 {% endhint %}
 
 ---
 
