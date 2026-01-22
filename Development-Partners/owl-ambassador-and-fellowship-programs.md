@@ -1,4 +1,4 @@
-# The OWL Ambassador & Fellowship Programs	 
+# The OWL Ambassador & Fellowship Programs
 
 {% hint style="info" %}
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from all Directors  
