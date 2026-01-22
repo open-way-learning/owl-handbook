@@ -177,7 +177,7 @@ Using this document and the rubric:
 
 ---
 
-# **STEM Element 1: STEM Essentials – Space, Tools, and Materials**
+## **STEM Element 1: STEM Essentials – Space, Tools, and Materials**
 
 **Core idea:** Students deserve flexible, well-designed spaces and tools that invite tinkering, experimentation, and creation \- not just “shiny stuff” collecting dust. A strong STEM environment balances safety, accessibility, and equity with playful curiosity. The space itself sends a clear message: *this is where we explore, build, test, and learn by doing.*
 
@@ -231,7 +231,7 @@ Using this document and the rubric:
 
 - [ ] Design a small “makerspace museum” corner or hallway display where students curate artifacts and short captions that connect their projects to local traditions, community stories, or real-world problems.
 
-# **STEM Element 2: Student Agency, Support, and Relationships**
+## **STEM Element 2: Student Agency, Support, and Relationships**
 
 **Core idea:** At the heart of powerful STEM is an unwavering belief that every student is capable of deep STEM thinking. Students need caring relationships, high expectations, and structures that help them take risks, persist through struggle, and see themselves as capable problem solvers. The [STEM Growth Mindset rubric](https://docs.google.com/spreadsheets/u/0/d/10tChc9R2ixIw1DvZxP5WRhCvpmpqKQXAtHcBbhw6aPc/edit) makes those dispositions visible and coachable.
 
@@ -287,7 +287,7 @@ Using this document and the rubric:
 
 - [ ] Pilot a student maker mentor program by selecting a small group of students to support peers on equipment, safety, and project ideas; co-design a short orientation and simple recognition (certificate or badge).
 
-# **STEM Element 3: STEM Pedagogy, Curriculum, and Instructional Approach**
+## **STEM Element 3: STEM Pedagogy, Curriculum, and Instructional Approach**
 
 **Core idea:** Authentic STEM is not a separate class \- it’s a way of teaching and learning grounded in the [Science & Engineering Practices](https://my.nsta.org/ngss/PracticesFull.aspx), design thinking, and inquiry. Students routinely ask questions, investigate, analyze data, design solutions, and communicate findings, rather than just receiving information.
 
@@ -351,7 +351,7 @@ Using this document and the rubric:
 
 - [ ] Choose 1–2 thinking routines from the maker capacity framework and commit to using them consistently across a unit so students get used to naming what they see, wonder, and infer.
 
-# **STEM Element 4: Systems of Continuous Improvement and Growth**
+## **STEM Element 4: Systems of Continuous Improvement and Growth**
 
 **Core idea:** Strong STEM programs don’t just run cool projects \- they learn from them. Teams use data, reflection, and improvement cycles to refine their STEM culture over time. Students, teachers, and leaders all play a role in noticing what’s working, what’s not, and what to try next.
 
@@ -399,7 +399,7 @@ Using this document and the rubric:
 
 - [ ] Launch a small digital portfolio pilot (with one grade level or course) in which students upload photos, reflections, and artifacts from STEM projects; at the end of the term, review these as a team to identify patterns and next steps for the program.
 
-# **STEM Element 5: Collective Leadership and School Governance**
+## **STEM Element 5: Collective Leadership and School Governance**
 
 **Core idea:** STEM transformation is not the job of one enthusiastic teacher. It requires coordinated leadership across roles \- teachers, administrators, counselors, media specialists, and community partners \- so that schedules, policies, and resources actually support STEM culture rather than fight it.
 
@@ -461,7 +461,7 @@ Using this document and the rubric:
 
 - [ ] Join or strengthen participation in at least one STEM network (regional, networked, statewide, etc.), and plan for one concrete way to share and learn with another STEM-focused school this year.
 
-# **STEM Element 6: Community Relations and Impact**
+## **STEM Element 6: Community Relations and Impact**
 
 **Core idea:** A strong STEM culture is porous \- students and teachers regularly work with people, problems, and places beyond the school walls. Community partners become collaborators, co-designers, and authentic audiences for student work, helping learners see how their STEM skills matter in the real world.
 
@@ -511,7 +511,7 @@ Using this document and the rubric:
 
 - [ ] Host a small “Maker Night” or community showcase where students teach families and community members about tools and projects, with at least one challenge or display that honors local cultural practices or histories.
 
-# **STEM Element 7: Supporting Systems, Rituals, and Protocols**
+## **STEM Element 7: Supporting Systems, Rituals, and Protocols**
 
 **Core idea:** STEM culture sticks when there are simple, repeatable systems and rituals that support it: planning habits, reflection routines, safety and maintenance systems, celebration structures, and common protocols. These create the invisible scaffolding that allows creativity, risk-taking, and deep learning to flourish.
 
@@ -559,7 +559,7 @@ Using this document and the rubric:
 
 - [ ] Identify 2–3 teacher maker leaders and give them modest protected time or stipends to support colleagues in trying one new STEM/maker routine each term.
 
-# **Closing Notes: Using the Model as an Evergreen Guide to STEM Culture**
+## **Closing Notes: Using the Model as an Evergreen Guide to STEM Culture**
 
 As you continue to return to this model \- during planning cycles, PLCs, coaching conversations, makerspace meetings, and data reviews \- add your own stories, artifacts, and refinements. Over time, it should feel less like a generic OWL tool and more like your community’s shared playbook for STEM.
 
