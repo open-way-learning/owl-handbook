@@ -1,17 +1,13 @@
-# **The Productive Playbook**
-
-## ***A Guidebook for How OWL Makes Work Visible***
-
+# The Productive Playbook
 A Guidebook for How OWL Makes Work Visible
 
-{% hint style="info" %} Version: 1.0
-Owner: Director of Finance & Ops (DFO) – with input from all Directors
-Audience: All OWL staff, contractors, and fellows who touch client work, internal projects, or grants
-Last updated: 2026-01-21 {% endhint %}
+{% hint style="info" %} 
+**Version:** 1.0  
+**Owner:** Director of Finance & Ops (DFO) – with input from all Directors  
+**Audience:** All OWL staff, contractors, and fellows who touch client work, internal projects, or grants  
+**Last updated:** 2026-01-21 {% endhint %}
 
----
-
-## **0\. How to Use This Playbook**
+## 0. How to Use This Playbook
 
 This Playbook is the one-stop, plain-language guide for how we use [Productive](http://Productive.io) at OWL. It is set up in the following manner: 
 
