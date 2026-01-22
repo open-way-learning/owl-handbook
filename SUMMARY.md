@@ -38,7 +38,7 @@
   * [OWL's Position: Improvement Science & NICs](Strategy-Innovation/NIC.md)
 * [Development & Partners](Development-Partners/README.md)
   * [OWL Contractor Manual](Development-Partners/owl-contractor-manual.md)
-  * [OWL Ambassador and Fellow Program Description](Development-Partners/owl-ambassador-and-fellow-program-description.md)
+  * [OWL Ambassador and Fellow Program Description](Development-Partners/owl-ambassador-and-fellowship-programs.md)
   * [OWL Strategic Partnership Playbook](Development-Partners/partner-integration-playbook.md)
 * [Templates-Resources](Templates-Resources/README.md)
   * [OWL Maturity Model for Student Success](Templates-Resources/maturity-model-for-student-success.md)
