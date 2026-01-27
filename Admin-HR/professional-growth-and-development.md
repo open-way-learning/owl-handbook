@@ -7,22 +7,22 @@
 
 ## Purpose
 
-This document outlines OWL’s commitment to cultivating a culture of continuous learning, growth, and professional reflection. It describes how team members engage in individual development planning, feedback cycles, and annual growth conversations—while also having access to shared professional development resources. At OWL, professional growth is seen as both a personal responsibility and a collective opportunity to deepen our mission impact.
+This document outlines OWL's commitment to cultivating a culture of continuous learning, growth, and professional reflection. It describes how team members engage in individual development planning, feedback cycles, and annual growth conversations—while also having access to shared professional development resources. At OWL, professional growth is seen as both a personal responsibility and a collective opportunity to deepen our mission impact.
 
 ### **PROFESSIONAL DEVELOPMENT**
 
 Open Way Learning believes that growing our collective impact begins with growing our people. As a team, we are committed to developing not just the skills we need today, but the capacity to adapt, innovate, and lead in the future. We know that investing in individual development strengthens our culture, advances our mission, and builds a healthier, more resilient organization.
 
-Each full-time employee at OWL has access to an equally shared portion of the organization’s annual professional development (PD) budget, which can be used toward any work-related training that enhances both individual skills and OWL’s organizational capacity. This includes:
+Each full-time employee at OWL has access to an equally shared portion of the organization's annual professional development (PD) budget, which can be used toward any work-related training that enhances both individual skills and OWL's organizational capacity. This includes:
 
 * Registration and enrollment fees  
 * Course or certification costs  
 * Travel and accommodation expenses  
 * Related materials or tools
 
-Employees are encouraged to pursue learning experiences that align with their goals and OWL’s evolving needs, from workshops and courses to in-depth coaching, conferences, or certification programs.
+Employees are encouraged to pursue learning experiences that align with their goals and OWL's evolving needs, from workshops and courses to in-depth coaching, conferences, or certification programs.
 
-If the OWL Leadership Team collectively determines that more intensive training is needed for one or more specific individuals, which would affect the equal distribution of the PD budget, that decision will be communicated transparently to the full team—along with the rationale and intended benefit to OWL’s shared work.
+If the OWL Leadership Team collectively determines that more intensive training is needed for one or more specific individuals, which would affect the equal distribution of the PD budget, that decision will be communicated transparently to the full team—along with the rationale and intended benefit to OWL's shared work.
 
 #### **PD vs. Marketing & Representation**
 
@@ -60,7 +60,7 @@ OWL encourages routine check-ins and informal feedback between all team members,
 Each full-time and part-time OWL employee will engage in an annual reflection and growth conversation, coordinated by their Director or a designated peer. This process is not punitive or bureaucratic—it is a guided opportunity to reflect on impact, explore growth edges, and align goals for the coming year. The conversation may include discussion on the following topics (not a comprehensive list):
 
 * Key accomplishments and contributions  
-* Alignment with OWL’s mission, values, and strategic priorities  
+* Alignment with OWL's mission, values, and strategic priorities  
 * Collaboration, communication, and leadership (formal or informal)  
 * Areas for skill growth, capacity building, or new opportunities  
 * Self-reflection and personal/professional growth
@@ -78,11 +78,11 @@ We recognize that traditional “360 reviews” have earned a poor reputation wh
 
 #### **Requesting a Raise or Promotion**
 
-You don’t need to wait to be asked. If you believe your role, contributions, or responsibilities have grown significantly, or you’ve demonstrated value above and beyond expectations, you are encouraged to make your case. Here’s how:
+You don't need to wait to be asked. If you believe your role, contributions, or responsibilities have grown significantly, or you've demonstrated value above and beyond expectations, you are encouraged to make your case. Here's how:
 
 * Document your impact: Highlight results, leadership, innovation, or initiative that clearly show your value.  
 * Make it measurable: Where possible, include data, deliverables, or stakeholder feedback.  
-* Be clear: Specify the promotion or raise you’re requesting, and why it aligns with OWL’s goals.  
+* Be clear: Specify the promotion or raise you're requesting, and why it aligns with OWL's goals.  
 * Schedule a formal conversation: Set up a dedicated reflection and growth meeting with the OWL Leadership Team to discuss your request transparently.
 
 Note that raises and promotions are considered in context of organizational needs, financial capacity, and role alignment, and are not guaranteed based on tenure or review ratings alone.
@@ -95,4 +95,4 @@ Note that raises and promotions are considered in context of organizational need
 
 #### **A Final Thought on Evaluation & Growth**
 
-At OWL, you are the architect of your own professional growth. You don’t need permission to get better, take initiative, or seek new challenges. You are empowered to reflect, request support, and advocate for your role in advancing our collective mission.
+At OWL, you are the architect of your own professional growth. You don't need permission to get better, take initiative, or seek new challenges. You are empowered to reflect, request support, and advocate for your role in advancing our collective mission.

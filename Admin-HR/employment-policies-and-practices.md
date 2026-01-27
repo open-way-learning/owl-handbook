@@ -29,7 +29,7 @@ To that end, this policy outlines expectations around solicitation and distribut
 * “Work time” includes time spent actively performing job duties, but does not include lunch periods, scheduled breaks, or before/after work hours.  
 * This policy applies equally to in-person, digital, or hybrid contexts—whether via email, Slack, or other OWL-managed channels.
 
-### What is encouraged—with context
+### What's encouraged—with context
 OWL celebrates employees who are civically and socially engaged outside of work, and welcomes occasional sharing of non-partisan opportunities, community events, or relevant educational resources—particularly when aligned to OWL's values.
 
 We simply ask that this be done thoughtfully, transparently, and never in a way that pressures others or disrupts team workflows.

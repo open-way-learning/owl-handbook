@@ -7,17 +7,17 @@
 
 ## Purpose
 
-This document provides an overview of OWL’s benefits, stipends, and insurance coverage.
+This document provides an overview of OWL's benefits, stipends, and insurance coverage.
 
 ## Benefits and Insurance
 
-Open Way Learning offers a range of benefits to support the personal well-being and long-term financial security of our team. Our benefits reflect OWL’s commitment to supporting our employees in a sustainable, equitable, and transparent way.
+Open Way Learning offers a range of benefits to support the personal well-being and long-term financial security of our team. Our benefits reflect OWL's commitment to supporting our employees in a sustainable, equitable, and transparent way.
 
 ### **Retirement Plan \- 403(b)**
 
-All full-time employees are eligible to participate in OWL’s 403(b) retirement plan, administered by Newport Group, with investment options through Vanguard ETFs and mutual funds.
+All full-time employees are eligible to participate in OWL's 403(b) retirement plan, administered by Newport Group, with investment options through Vanguard ETFs and mutual funds.
 
-* OWL provides a non-elective employer contribution of 5% of the employee’s base salary, deposited each pay period—regardless of whether the employee contributes.  
+* OWL provides a non-elective employer contribution of 5% of the employee's base salary, deposited each pay period—regardless of whether the employee contributes.  
 * Employees may elect to make additional voluntary contributions (pre-tax and/or Roth) up to the IRS annual contribution limits (e.g., \~$20,500 in 2022; updated annually).  
 * Enrollment support and plan details are provided upon hiring and are available upon request.
 
@@ -39,8 +39,8 @@ Until OWL reaches the scale to support a group health plan, all full-time employ
 
 * Government-Mandated Programs: OWL complies with all legal benefit programs, including Social Security, Medicare, and Medicaid. Employee contributions are withheld from each paycheck, and OWL contributes the required employer match.  
 * OWL offers full-time employees an $80/month technology stipend to help offset mobile phone and internet expenses necessary for remote work, collaboration, and virtual facilitation. Note that OWL may alternatively cover the cost of these services directly via a company credit card if the account is registered in the organization's name and used exclusively for OWL business.  
-* OWL provides a one-time moving stipend of up to $1,000 for new full-time employees or for existing employees who are relocating in a way that provides strategic benefit to OWL’s regional presence or client services. This stipend may help cover the cost of transportation, shipping, or temporary housing during the transition. While OWL is a remote-first organization, proximity to key partner regions, school districts, or conference hubs may enhance program delivery, outreach, and visibility, making relocation support an appropriate and mission-aligned investment. Approval is granted on a case-by-case basis by the OWL Leadership Team.  
-* Workers’ Compensation Insurance: All employees (except directors) are covered under OWL’s workers’ compensation policy for work-related injuries or illnesses.  
+* OWL provides a one-time moving stipend of up to $1,000 for new full-time employees or for existing employees who are relocating in a way that provides strategic benefit to OWL's regional presence or client services. This stipend may help cover the cost of transportation, shipping, or temporary housing during the transition. While OWL is a remote-first organization, proximity to key partner regions, school districts, or conference hubs may enhance program delivery, outreach, and visibility, making relocation support an appropriate and mission-aligned investment. Approval is granted on a case-by-case basis by the OWL Leadership Team.  
+* Workers' Compensation Insurance: All employees (except directors) are covered under OWL's workers' compensation policy for work-related injuries or illnesses.  
 * Prompt reporting is required for any incident, no matter how minor. Notify a Director immediately in such cases.  
 * OWL will provide instructions for submitting a claim and, if needed, refer you to an approved medical provider.  
 * Note that failure to report promptly may result in denial of benefits.  
@@ -61,7 +61,7 @@ Until OWL reaches the scale to support a group health plan, all full-time employ
 | Technology Stipend | ✔️ | ✔️ | ❌ |
 | Business Phone Expense Coverage | ✔️ | ✔️ | ❌ |
 | One-Time Moving Stipend (up to $1,000) | ✔️ (case-by-case basis) | ✔️ (case-by-case basis) | ❌ |
-| Workers’ Compensation Insurance | ✔️ | ✔️ | ✔️ |
+| Workers' Compensation Insurance | ✔️ | ✔️ | ✔️ |
 | Paid Leave (Medical, Civic, Parental, etc.) | ✔️ | ✔️ | Eligibility varies |
 | Unpaid Leave (Extended/Personal) | ✔️ | ✔️ | Eligibility varies |
 | Year-End Bonus (Surplus Sharing) | ✔️ | ✔️ | ❌ |

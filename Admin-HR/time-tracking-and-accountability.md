@@ -34,13 +34,13 @@ Note: Time tracking at OWL is **not** about micromanaging hours. It is about bei
 
 ### **3\. Timekeeping Platform & Frequency**
 
-OWL’s official timekeeping platform is **Productive**. All time covered by this SOP must ultimately be recorded in Productive so it connects correctly to projects and budgets.
+OWL's official timekeeping platform is **Productive**. All time covered by this SOP must ultimately be recorded in Productive so it connects correctly to projects and budgets.
 
 **Employees must:**
 
 * Allocate time to specific clients, contracts, grants, or internal projects when applicable  
 * Record time after the fact, based on actual work (not budgeted estimates)  
-* Keep up with entries often enough that they’re accurate (see Playbook Section 2.3.3–2.3.5 for daily vs. weekly patterns)  
+* Keep up with entries often enough that they're accurate (see Playbook Section 2.3.3–2.3.5 for daily vs. weekly patterns)  
 * Finalize and certify their time records by the 15th of the following month for payroll and reporting.
 
 If Productive is temporarily unavailable, the DFO may approve a short-term alternative (e.g., spreadsheet or form). Those records must still be entered into Productive as soon as practicable.
@@ -122,9 +122,9 @@ To ensure payroll accuracy and compliance:
 * The Director of Finance and Operations reviews submissions prior to payroll processing  
 * In the case of errors or omissions, employees must promptly notify the Director of Finance and Operations or their Manager so corrections can be made
 
-Directors/Managers are responsible for spot-checking that time tracked in Productive aligns broadly with known scopes of work and staffing patterns (as described in the Productive Playbook’s budget and time sections).
+Directors/Managers are responsible for spot-checking that time tracked in Productive aligns broadly with known scopes of work and staffing patterns (as described in the Productive Playbook's budget and time sections).
 
-### **10\. Time Tracking: Do’s & Don’ts (Policy Lens)**
+### **10\. Time Tracking: Do's & Don'ts (Policy Lens)**
 
 These norms reinforce our expectations from both this SOP and the Productive Playbook.
 
@@ -138,12 +138,12 @@ These norms reinforce our expectations from both this SOP and the Productive Pla
 * Ask your Director or the DFO if you are unsure how to code time or need a correction  
 * Report any concern about pressure to skip breaks, work off the clock, or misreport time
 
-**Don’t:**
+**Don't:**
 
 * Round or adjust time just to match a target budget  
-* Log time you didn’t work, or leave overtime off the record  
-* Wait so long to enter time that it can’t be reasonably verified  
-* Submit another employee’s time record (even as a favor)  
+* Log time you didn't work, or leave overtime off the record  
+* Wait so long to enter time that it can't be reasonably verified  
+* Submit another employee's time record (even as a favor)  
 * Bank break time to leave early or extend lunch  
 * Work “off the clock,” especially during meal periods or after hours, without prior approval and proper documentation
 

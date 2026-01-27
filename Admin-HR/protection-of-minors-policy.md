@@ -7,7 +7,7 @@
 
 ## Purpose
 
-Open Way Learning is committed to maintaining a safe and supportive environment for all individuals, including minors (under age 18), especially in the context of school-based partnerships, student exhibitions, or community-engaged learning. This policy outlines OWL’s procedures and expectations for protecting minors from abuse, neglect, or harm during OWL-affiliated activities.
+Open Way Learning is committed to maintaining a safe and supportive environment for all individuals, including minors (under age 18), especially in the context of school-based partnerships, student exhibitions, or community-engaged learning. This policy outlines OWL's procedures and expectations for protecting minors from abuse, neglect, or harm during OWL-affiliated activities.
 
 ## Scope
 
@@ -68,14 +68,14 @@ Background checks include identity verification, sex offender registry screening
 
 All OWL-affiliated individuals who may work with minors must:
 
-* Complete OWL’s annual Protection of Minors Training (30–45 minutes).  
+* Complete OWL's annual Protection of Minors Training (30–45 minutes).  
 * Sign an annual Acknowledgment Form affirming understanding of the policy and reporting obligations.
 
 Training Includes:
 
 * Overview of this policy  
 * Recognizing signs of abuse and neglect (emotional, physical, sexual, neglect)  
-* Dos and Don’ts for adult-minor interactions  
+* Dos and Don'ts for adult-minor interactions  
 * Bullying and peer-on-peer abuse awareness  
 * Reporting steps and emergency response  
 * Scenario-based reflection questions

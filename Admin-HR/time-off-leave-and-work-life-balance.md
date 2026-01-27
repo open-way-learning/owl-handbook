@@ -7,28 +7,28 @@
 
 ## Purpose
 
-This document outlines OWL’s approach to time off, leave, and work-life balance, reflecting our commitment to human-centered, sustainable work practices. It includes flexible PTO for exempt employees, structured leave policies for non-exempt and part-time team members, and clear guidance on holidays, sick leave, parental leave, civic duties, and extended leave of absence. Our policies are rooted in trust, proactive communication, and the belief that time away from work is essential—not optional—for long-term wellbeing and effectiveness.
+This document outlines OWL's approach to time off, leave, and work-life balance, reflecting our commitment to human-centered, sustainable work practices. It includes flexible PTO for exempt employees, structured leave policies for non-exempt and part-time team members, and clear guidance on holidays, sick leave, parental leave, civic duties, and extended leave of absence. Our policies are rooted in trust, proactive communication, and the belief that time away from work is essential—not optional—for long-term wellbeing and effectiveness.
 
 ### **PAID TIME OFF**
 
-Open Way Learning embraces a flexible, human-centered approach to time away from work, inspired by Patagonia’s “[*Let My People Go Surfing*](https://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838)” philosophy. Our goal is to support employee well-being, creativity, and long-term sustainability \- *not just compliance or productivity*.
+Open Way Learning embraces a flexible, human-centered approach to time away from work, inspired by Patagonia's “[*Let My People Go Surfing*](https://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838)” philosophy. Our goal is to support employee well-being, creativity, and long-term sustainability \- *not just compliance or productivity*.
 
-We recognize that time away is not a luxury; it’s essential to living our values of trust, adaptability, and shared responsibility.
+We recognize that time away is not a luxury; it's essential to living our values of trust, adaptability, and shared responsibility.
 
-Why Time Off Matters at OWL: Time off isn’t just a personal benefit—it’s a strategic practice. We want you to be at your best, and that means recognizing when you need to rest, unplug, recharge, or focus on other priorities. We expect you to take your time off \- *because we want you to last, not burn out\!*
+Why Time Off Matters at OWL: Time off isn't just a personal benefit—it's a strategic practice. We want you to be at your best, and that means recognizing when you need to rest, unplug, recharge, or focus on other priorities. We expect you to take your time off \- *because we want you to last, not burn out\!*
 
-We also understand that it can feel hard to step away. You may worry about leaving teammates short-handed or disrupting a project’s momentum. But not taking vacation can lead to individual burnout and organizational fragility. If only one person holds critical knowledge or feels too vital to step away, that’s a system flaw, not a badge of honor.
+We also understand that it can feel hard to step away. You may worry about leaving teammates short-handed or disrupting a project's momentum. But not taking vacation can lead to individual burnout and organizational fragility. If only one person holds critical knowledge or feels too vital to step away, that's a system flaw, not a badge of honor.
 
-So if you’re having trouble planning time off, please talk to your manager or another OWL leader. We’ll help you find the balance—and reinforce the idea that time off is part of our shared rhythm, not a disruption to it.
+So if you're having trouble planning time off, please talk to your manager or another OWL leader. We'll help you find the balance—and reinforce the idea that time off is part of our shared rhythm, not a disruption to it.
 
 #### **Flexible PTO for Full-Time, Exempt Employees**
 
-OWL offers a Flexible PTO policy for all full-time, exempt employees. We don’t track or limit the number of vacation days. Instead, we trust you to take what you need—responsibly and with proactive communication. Here’s how it works:
+OWL offers a Flexible PTO policy for all full-time, exempt employees. We don't track or limit the number of vacation days. Instead, we trust you to take what you need—responsibly and with proactive communication. Here's how it works:
 
-* You may take time off as long as it does not interfere with your responsibilities and you’ve coordinated with your manager, colleagues, and clients.  
+* You may take time off as long as it does not interfere with your responsibilities and you've coordinated with your manager, colleagues, and clients.  
 * You do not need formal approval for most PTO, but you do need to communicate early and ensure your responsibilities are covered.  
 * Time off must be recorded in your OWL Google Calendar and include an out-of-office notification in Slack and your email, noting a backup contact.  
-* If you’re responding to work outside of normal hours, feel free to flex your time the following day.
+* If you're responding to work outside of normal hours, feel free to flex your time the following day.
 
 Extended Leave Limits:
 
@@ -38,7 +38,7 @@ Extended Leave Limits:
 
 Communication Guidance:
 
-* As a general rule, notify your manager at least twice as many days in advance as the number of days you plan to be off (e.g. 6 days’ notice for 3 days off).  
+* As a general rule, notify your manager at least twice as many days in advance as the number of days you plan to be off (e.g. 6 days' notice for 3 days off).  
 * Coordinate with your team, especially around popular holidays, to maintain coverage and continuity for clients.
 
 #### **Time Off for Full-Time, Non-Exempt Employees**
@@ -46,7 +46,7 @@ Communication Guidance:
 Full-time, non-exempt employees receive structured paid time off through personal days, vacation days, sick leave, and holidays.
 
 Full time, non exempt employees earn vacation hours per the table below. These  
-hours are paid at the employee’s regular straight-time rate of pay at the time the vacation is taken. Part time employees are not eligible for paid vacation.
+hours are paid at the employee's regular straight-time rate of pay at the time the vacation is taken. Part time employees are not eligible for paid vacation.
 
 | Length of Service  | Accrual Hours for Each Pay Period | Maximum Annual Days | Maximum Accrual Hours |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@ hours are paid at the employee’s regular straight-time rate of pay at the time
 
 ##### Sick Leave
 
-* OWL provides paid sick leave to support employees’ physical and mental well-being, as well as their ability to care for others.  
+* OWL provides paid sick leave to support employees' physical and mental well-being, as well as their ability to care for others.  
 * Full-time employees accrue 3.46 hours per pay period, up to a maximum of 450 hours.  
 * Part-time employees accrue sick leave proportionate to their scheduled hours.  
 * Variable-hour employees earn 1 hour of sick leave for every 30 hours worked, with a cap of 72 hours.  
@@ -89,7 +89,7 @@ hours are paid at the employee’s regular straight-time rate of pay at the time
 * We encourage employees to take time off to:  
   * Vote, serve on a jury, or fulfill military duty  
   * Participate in community service or civic engagement  
-  * Support OWL’s values through volunteering, advocacy, or mutual aid.  
+  * Support OWL's values through volunteering, advocacy, or mutual aid.  
   * Observe religious or cultural holidays, as relevant to their background.
 
 ##### Observed U.S. Holidays at OWL
@@ -103,14 +103,14 @@ OWL observes the following U.S. holidays. Employees are not expected to work or 
 * Juneteenth (June 19\)  
 * Independence Day (July 4\)  
 * Labor Day (First Monday in September)  
-* Indigenous Peoples’ Day (Second Monday in October)  
+* Indigenous Peoples' Day (Second Monday in October)  
 * Veterans Day (November 11\)  
 * Thanksgiving Day (Fourth Thursday in November)  
 * Day After Thanksgiving (Fourth Friday in November)  
 * Christmas Eve (December 24\)  
 * Christmas Day (December 25\)  
 * Day After Christmas (December 26\)  
-* New Year’s Eve (December 31\)
+* New Year's Eve (December 31\)
 
 #### **Requests for Accommodation**
 
@@ -118,9 +118,9 @@ OWL complies with the Americans with Disabilities Act (ADA), the Pregnancy Discr
 
 #### **Final Note: Time Off is a Team Effort**
 
-No one is expected to work or respond to calls on vacation or holidays. Use that time to truly unplug and reset. At the same time, let’s keep each other informed—proactively planning, communicating, and coordinating to ensure continuity of support for our clients and each other.
+No one is expected to work or respond to calls on vacation or holidays. Use that time to truly unplug and reset. At the same time, let's keep each other informed—proactively planning, communicating, and coordinating to ensure continuity of support for our clients and each other.
 
-Healthy teams take care of themselves *and* each other. PTO at OWL isn’t just a benefit—it’s a shared commitment to sustainable, human-centered work.
+Healthy teams take care of themselves *and* each other. PTO at OWL isn't just a benefit—it's a shared commitment to sustainable, human-centered work.
 
 ### **HOURS OF WORK**
 
@@ -128,7 +128,7 @@ At OWL, we prioritize flexibility, autonomy, and trust—balanced with the share
 
 #### **Full-Time, Exempt Employees**
 
-Even with the flexibility provided by OWL’s Flexible Paid Time Off (PTO) policy described above, all full-time exempt employees are still expected to:
+Even with the flexibility provided by OWL's Flexible Paid Time Off (PTO) policy described above, all full-time exempt employees are still expected to:
 
 * Work a nominal 40-hour work week, on average, over the course of a year.  
 * Be generally available during standard business hours, defined as 9:00 a.m. to 5:00 p.m. local time, Monday through Friday \- *unless alternative arrangements have been discussed and approved*.  
@@ -167,7 +167,7 @@ All employees—regardless of exempt or non-exempt status—are expected to:
 * Respond in a timely manner to messages and meeting invites during working hours  
 * Notify their team or Director as early as possible about any schedule changes, absences, or time-sensitive needs.
 
-Flexible work works best when it's paired with transparency and trust. We’re committed to helping everyone succeed in their roles while respecting personal boundaries, life commitments, and collective responsibility.
+Flexible work works best when it's paired with transparency and trust. We're committed to helping everyone succeed in their roles while respecting personal boundaries, life commitments, and collective responsibility.
 
 ### **COMPENSATORY TIME (“COMP TIME”)**
 
@@ -175,7 +175,7 @@ OWL recognizes that the nature of our work sometimes requires employees to go ab
 
 #### **For Full-Time, Exempt Employees**
 
-Exempt employees (covered under OWL’s Flexible PTO policy) are not eligible for overtime pay, but may take comp time when their workload includes:
+Exempt employees (covered under OWL's Flexible PTO policy) are not eligible for overtime pay, but may take comp time when their workload includes:
 
 * Significant additional hours worked in a given week  
 * Business-related travel or events on weekends or holidays  
@@ -187,7 +187,7 @@ Comp time for exempt employees is flexible and informal, but must be:
 * Coordinated with a Director and any team members affected by your absence  
 * Recorded on Slack and your Google Calendar to ensure transparency and continuity
 
-While there’s no strict hour-for-hour accrual system, we trust exempt employees to manage their workload responsibly and use comp time to stay balanced and well.
+While there's no strict hour-for-hour accrual system, we trust exempt employees to manage their workload responsibly and use comp time to stay balanced and well.
 
 #### **For Non-Exempt Employees**
 
@@ -213,17 +213,17 @@ If the week exceeds 40 hours, overtime pay will apply, and any additional time o
 
 ### **LEAVE OF ABSENCE**
 
-OWL supports employees during life events that require extended time away from work. We allow unpaid leaves of absence for qualifying circumstances without penalty, consistent with applicable laws and our commitment to supporting employees’ well-being, family responsibilities, and civic engagement.
+OWL supports employees during life events that require extended time away from work. We allow unpaid leaves of absence for qualifying circumstances without penalty, consistent with applicable laws and our commitment to supporting employees' well-being, family responsibilities, and civic engagement.
 
 ##### Eligible Reasons for Leave Include:
 
 * Parental care: To care for a newborn, a newly adopted child, or a newly placed foster child within the first 12 months of placement.  
-* Personal medical condition: For the employee’s own serious health condition, including pregnancy, childbirth, or related medical conditions.  
+* Personal medical condition: For the employee's own serious health condition, including pregnancy, childbirth, or related medical conditions.  
 * Family caregiving: To care for a spouse, child, or parent with a serious health condition.  
 * Military caregiver leave: To care for a covered service member with a serious illness or injury related to military service.  
 * Military family leave: For qualifying emergencies due to the deployment of a spouse, child, or parent in the National Guard or Reserves. Employees may also take up to 10 days of unpaid leave when their military spouse is on leave from active deployment.  
-* Pregnancy/childbirth disability: In addition to OWL’s paid parental leave, pregnant employees may take unpaid medical leave if certified by a healthcare provider.  
-* School involvement: To participate in school-related activities for an employee’s school-aged child or dependent.  
+* Pregnancy/childbirth disability: In addition to OWL's paid parental leave, pregnant employees may take unpaid medical leave if certified by a healthcare provider.  
+* School involvement: To participate in school-related activities for an employee's school-aged child or dependent.  
 * Volunteer emergency response: To participate in emergency operations as a member of the U.S. Air Force Civil Air Patrol or another recognized emergency response organization.  
 * Adult literacy: Up to 6 weeks of leave to enroll in an adult literacy program.  
 * Military service: For service in the uniformed military, including training, examinations, or active duty.  
@@ -235,7 +235,7 @@ In addition to the circumstances listed above, OWL may grant unpaid personal lea
 
 * Are generally limited to 6 months.  
 * Require that non-exempt employees first use all available paid vacation, personal, and (if applicable) sick leave.  
-* Must be coordinated with the employee’s manager and approved by OWL leadership.
+* Must be coordinated with the employee's manager and approved by OWL leadership.
 
 ##### Planning & Return Expectations
 
