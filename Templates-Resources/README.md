@@ -6,7 +6,7 @@
 {% endhint %}
 
 ## Purpose
-This section houses OWL's openly shared tools: templates, models, protocols, thinking routines, checklists, and other practical resources we use in the field and publish under a Creative Commons BY-NC-SA 4.0 license. Everything here is [designed to be remixed](/admin-hr/it-and-media#open-source-licensing-of-materials), adapted, and improved in local contexts while staying grounded in OWL's philosophy and approach.
+This section houses OWL's openly shared tools: templates, models, protocols, thinking routines, checklists, and other practical resources we use in the field and publish under a Creative Commons BY-NC-SA 4.0 license. Everything here is [designed to be remixed](Admin-HR/it-and-media.md#open-source-licensing-of-materials), adapted, and improved in local contexts while staying grounded in OWL's philosophy and approach.
 
 The DPIV is responsible for maintaining these resources, with changes coordinated through OWL's collective leadership and document control processes. As new tools are finalized in GitBook/GitHub (and moved from Google Drive), they will be added here.
 
