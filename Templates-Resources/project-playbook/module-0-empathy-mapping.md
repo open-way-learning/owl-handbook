@@ -72,4 +72,3 @@ In the Onboarding Session (defined by Module 1), you’ll use what you’ve gath
 These steps build the foundation for your first Driver Diagram and improvement cycle.
 
 ***Thanks for taking the time to intentionally prepare for the onboarding session. The most impactful improvement work always begins with deep, empathetic listening and reflection.***
-

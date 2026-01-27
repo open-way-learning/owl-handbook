@@ -99,4 +99,3 @@ Start with:
 ### **Next Steps:** 
 
 Between now and your first school meeting with project partners, you’ll work through **Module 2** to validate your AIM and Current State (Problem Definition) with student, peer, and stakeholder input. You’ll also refine your Driver Diagram and prepare for small-scale testing. *The onboarding module you just completed sets the tone. Now the work gets real \- and local.*
-

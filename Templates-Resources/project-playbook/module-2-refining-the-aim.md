@@ -91,4 +91,3 @@ In your first facilitated school meeting, you’ll build on this validated found
 **Note:** This validation step ensures your innovation effort stays anchored in what matters most: students’ real-world experience.
 
 ***Empathy without validation is just assumptions. Let this step ground your team in credibility, clarity, and shared purpose.***
-

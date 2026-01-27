@@ -127,4 +127,3 @@ You now have all four parts of the **WNC Innovation Blueprint**:
 4. A learning system to track progress and adapt along the way
 
 ***Continuous improvement isn’t just a method—it’s a mindset. Let students’ voices and real-world outcomes guide your learning every step of the way.***
-
