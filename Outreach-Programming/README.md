@@ -9,7 +9,7 @@ This section gathers the core documents that shape how OWL shows up in the field
 
 The DPIV is responsible for maintaining these documents, with changes coordinated through OWL’s collective leadership and decision-making processes. As new tools for improved programs, facilitation, storytelling, and measurement are developed, they will be added here.
 
-## What you’ll find in this folder
+## What you’ll find in this section
 
 **OWL Client Engagement Playbook**  
   Plain-language guide for how OWL designs, scopes, stewards, and renews external engagements. Covers our engagement principles, phases of work (Discovery → Co-Design → Agreement → Launch → PDSA → Reflection/Renewal), expectations for the Program Manager/Secondary Contact, and how we align scoping and delivery with our open-source, learner-centered values.

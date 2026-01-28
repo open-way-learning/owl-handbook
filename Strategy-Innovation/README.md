@@ -10,7 +10,7 @@ This section gathers the core procedures and position statements that define how
 
 The D-OSL is responsible for maintaining these documents, with changes coordinated through OWL’s collective leadership and decision-making processes. As new frameworks, playbooks, or position statements are adopted, they will be added here.
 
-## What you’ll find in this section
+## What you'll find in this section
 
 **Collective Leadership & Decision Making**  
 Our bedrock procedure for distributed leadership, including the Decision Ladder, RACI-S, decision log expectations, operating discipline, and performance backstop. It explains how anyone at OWL can confidently lead a decision while staying aligned to shared guardrails.

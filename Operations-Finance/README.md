@@ -11,7 +11,7 @@ This section collects the core policies, guardrails, and tools that keep OWL’s
 
 The DFO is responsible for maintaining these documents, with proposed changes coordinated through the DFO and approved via our collective leadership and decision-making processes. As new finance and operations tools, systems, and procedures are developed, they will be added here.
 
-## What you'll find in this folder
+## What you'll find in this section
 
 - **OWL Travel Policy**  
   Practical guidance for planning and approving OWL-related travel, including what is reimbursable, how per diem works, expectations for booking and documentation, and how travel and planning time are compensated.
