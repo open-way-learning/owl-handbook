@@ -37,7 +37,7 @@ We support schools in designing and refining learner-centered systems through co
 
 ## **Importance of Process Data vs. Outcome Data:** 
 
-While outcome data (e.g. test scores, graduation rates) often dominate traditional data conversations, OWL’s work emphasizes the equal importance of process data \-  information that captures how well strategies are being implemented, how learners and educators experience new approaches, and how fidelity to intended practices evolves over time. Strong process data ensures we are not just measuring "whether" we are trending toward the desired outcomes we want, but also "how" success (or lack of success) was shaped by the design and delivery of our work. Prioritizing both process and outcome data fosters deeper learning, a continuous improvement mindset, and sustainable change at the school cultural level. OWL facilitates this approach through structured use of the Design Process and Improvement Science via PDSA cycles and driver diagrams to guide local, adaptive learning.
+While outcome data (e.g. test scores, graduation rates) often dominate traditional data conversations, OWL’s work emphasizes the equal importance of process data— information that captures how well strategies are being implemented, how learners and educators experience new approaches, and how fidelity to intended practices evolves over time. Strong process data ensures we are not just measuring "whether" we are trending toward the desired outcomes we want, but also "how" success (or lack of success) was shaped by the design and delivery of our work. Prioritizing both process and outcome data fosters deeper learning, a continuous improvement mindset, and sustainable change at the school cultural level. OWL facilitates this approach through structured use of the Design Process and Improvement Science via PDSA cycles and driver diagrams to guide local, adaptive learning.
 
 ## **Key Concepts & Steps**
 
@@ -61,7 +61,7 @@ While outcome data (e.g. test scores, graduation rates) often dominate tradition
    * Shift from external facilitation to internal leadership through ongoing coaching, distributed leadership, and peer-driven PLCs.  
    * Embed improvement science into school and district strategy cycles.  
    * Support cross-school learning and build local capacity to continue iterating, even after direct support ends.  
-   * Align strategic growth with OWL’s philosophy of "scaling culture, not programs" \- deepening impact without compromising authenticity.
+   * Align strategic growth with OWL’s philosophy of "scaling culture, not programs"—deepening impact without compromising authenticity.
 
 ## **Why This Matters**
 
@@ -79,7 +79,7 @@ OWL partners with schools and districts to catalyze learner-centered transformat
 * **Workforce Readiness and Real-World Application \-** Through OWL’s Profession-Based Learning (ProBL) initiatives and partnerships with local businesses and colleges, students tackled authentic community challenges, strengthening their understanding of career pathways and workforce demands. Students reported frequent use of in-demand skills such as communication, creativity, and design thinking—skills aligned with the future of work and life. In Caldwell County, teacher perceptions of student workforce readiness rose by 73.68% as a result of these initiatives.  
 * **A Culture of Equity, Innovation, and Possibility \-** OWL’s work helps schools move beyond isolated innovations to system-wide shifts that sustain and scale learner-centered practices. In every district—from urban systems like Albuquerque to rural districts like Halifax and Clay Counties—OWL’s support has helped schools cultivate a culture of innovation where student work is public, interdisciplinary, and deeply connected to community. Seven student showcases in Halifax alone reflected this transformation, making learning visible and relevant.
 
-This evidence affirms OWL’s belief that the most meaningful educational outcomes arise when schools nurture the inherent desire of every student to learn and grow through collaborative, inquiry-driven, and equitable learning environments. The data demonstrates that when schools embrace a culture of co-design and continuous improvement, students thrive \- not only academically, but socially, emotionally, and as change-makers in their own communities.
+This evidence affirms OWL’s belief that the most meaningful educational outcomes arise when schools nurture the inherent desire of every student to learn and grow through collaborative, inquiry-driven, and equitable learning environments. The data demonstrates that when schools embrace a culture of co-design and continuous improvement, students thrive—not only academically, but socially, emotionally, and as change-makers in their own communities.
 
 ## **Attachment 2: *Open Way Learning Service Impact Methodology***
 

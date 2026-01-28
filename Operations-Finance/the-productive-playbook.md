@@ -329,7 +329,7 @@ Whenever you create a new project, follow this minimum checklist so it doesn’t
    * Year or phase (if helpful for reporting)  
    * Topic (PBL, Design Thinking, STEM, etc.)
 
-Once these basics are in place, you can start adding tasks and assigning work. A project without an owner, budget, or task lists is not official \- it’s just clutter.
+Once these basics are in place, you can start adding tasks and assigning work. A project without an owner, budget, or task lists is not official—it’s just clutter.
 
 #### **2.1.6 Who Does What When a New Project Starts**
 
@@ -634,7 +634,7 @@ As a reminder from Section 1.6, “no shadow work” means we don’t do meaning
 
 **Litmus test:** *If it mattered enough to affect your focus or our commitments that week, it should show up as time in Productive somewhere, either as direct project time or overhead.*
 
-#### **2.3.7 Guardrails, Not Gotchas \- *A few norms keep time tracking aligned with OWL’s financial health and culture:***
+#### **2.3.7 Guardrails, Not Gotchas—*A few norms keep time tracking aligned with OWL’s financial health and culture:***
 
 * **Respect grant and contract rules:** Some funders are strict about what can be charged. When unsure, default to internal/overhead and ask before reallocating to a grant.  
 * **Match time patterns to budgets:** If a project or grant budget assumes a certain level of effort (e.g. 10 days facilitation \+ 5 days prep), but time logs show something very different, that’s a cue to adjust how we are working, or to adjust future pricing/scoping (not to just fudge the entries).  
@@ -929,7 +929,7 @@ To avoid each project inventing its own language, OWL uses a standard set of Tas
 
 * **Backlog:** Ideas and future work that we might do, but have not committed to yet. Note: Backlog is *not* a parking lot for abstract ideas; it’s where we hold *plausible future work* that we might commit to, once we’ve had a chance to scope it, prioritize it, and decide on next steps. Note: Backlog can hold “real but unfunded *yet*” opportunities. Also, not everything in Backlog needs a due date.  
 * **Ready:** Work we have committed to do and are prepared to start per a target date. These tasks are well-formed, with a clear title, owner, project scope, and funding pathway. Note: Ready should mean that we *intend* to spend time on this and there’s a credible ROI path or explicit leadership agreement to move it forward.  
-* **In Progress:** Work someone is actively doing right now. Key: No task should live here without an owner and some recent activity. Note: In Progress \= actually funded (client/grant) or explicitly covered by internal overhead (e.g. Development, Finance & Ops, Strategy)  \-  ever just a “nice thing we’re doing for free.”  
+* **In Progress:** Work someone is actively doing right now. Key: No task should live here without an owner and some recent activity. Note: In Progress \= actually funded (client/grant) or explicitly covered by internal overhead (e.g. Development, Finance & Ops, Strategy) — ever just a “nice thing we’re doing for free.”  
 * **Needs Review (Internal or External):** Work that is done from the doer’s perspective, but needs either:  
   * Internal review/feedback from an OWL peer, or  
   * A response from an external partner/client (e.g. waiting on approval).  

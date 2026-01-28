@@ -42,7 +42,7 @@ To keep that true in practice, we:
 * **Co-define goals, constraints, and success.** We surface both visible challenges and underlying conditions (culture, leadership, facilitation, student experience), and we name a shared AIM before we lock in a scope.  
 * **Anchor to learner-centered practice.** We connect what we hear to OWL’s Essential Conditions for Student Success Maturity Model so that change ideas and PDSA cycles are tied to concrete shifts in culture, instruction, and student experience – not generic PD topics.  
 * **Never design alone.** We avoid finalizing proposals in isolation; alignment across our internal team and a broad coalition of local stakeholders is foundational to every engagement.  
-* **Work the open source way.** We default to working in the open \- using shared docs, visible decision trails, and iterating in public view \- so partners can see and shape the work with us, not receive it as a finished product.  
+* **Work the open source way.** We default to working in the open—using shared docs, visible decision trails, and iterating in public view—so partners can see and shape the work with us, not receive it as a finished product.  
 * **Play the long game.** We design every interaction – from first email to final debrief – to build trust for the multi-year work required for any culture shift, even when the initial scope is small.
 
 These practices complement and reinforce the facilitation priorities in “About OWL – Our Approach,” found on GitBook. That document describes what we do and how we deliver our services; this Playbook focuses on how we communicate, negotiate, and present ourselves throughout the engagement.
@@ -51,23 +51,23 @@ These practices complement and reinforce the facilitation priorities in “About
 
 ## 2.0 Engagement Management
 
-OWL approaches every client relationship as a collaborative, long-term partnership \- not a one-time transaction. Our values of trust, transparency, co-design, and learner-centered transformation guide how we manage each phase of engagement, from first contact to closeout.
+OWL approaches every client relationship as a collaborative, long-term partnership—not a one-time transaction. Our values of trust, transparency, co-design, and learner-centered transformation guide how we manage each phase of engagement, from first contact to closeout.
 
-In this context, the Assigned Lead / Primary Contact is the OWL Program Manager (PM) \- typically a Director serving in a PM capacity as described in the Common Roles & Responsibilities document \- and the Secondary Contact is a designated backup PM or Director who can step in to ensure continuity. note that staffing choices for each engagement - whether work is delivered primarily by OWL employees, OWL Fellows/contractors, or a blend - are made using the Contractor Staffing Decision Tree (Contractor Manual, Appendix D) and the budgeting guardrails described in the Productive Playbook. The PM works with the DFO (and, when needed, the DPIV) to confirm that the staffing pattern keeps us within our financial, compliance, and capacity guardrails before we commit to a scope or timeline with the client.
+In this context, the Assigned Lead / Primary Contact is the OWL Program Manager (PM)—typically a Director serving in a PM capacity as described in the Common Roles & Responsibilities document—and the Secondary Contact is a designated backup PM or Director who can step in to ensure continuity. note that staffing choices for each engagement - whether work is delivered primarily by OWL employees, OWL Fellows/contractors, or a blend - are made using the Contractor Staffing Decision Tree (Contractor Manual, Appendix D) and the budgeting guardrails described in the Productive Playbook. The PM works with the DFO (and, when needed, the DPIV) to confirm that the staffing pattern keeps us within our financial, compliance, and capacity guardrails before we commit to a scope or timeline with the client.
 
-Under the hood, every engagement runs on a simple improvement rhythm: Plan–Do–Study–Act (PDSA) \- we co-design a plan with the partner, support them to try something in practice, study what changes for learners and adults, and then adapt, spread, or exit. For a single workshop, this may be a light-touch loop focused on one team and one strategy; for multi-year, networked initiatives like WNCRP, it becomes a sequenced series of PDSA cycles, ramps, and reflection points.
+Under the hood, every engagement runs on a simple improvement rhythm: Plan–Do–Study–Act (PDSA)—we co-design a plan with the partner, support them to try something in practice, study what changes for learners and adults, and then adapt, spread, or exit. For a single workshop, this may be a light-touch loop focused on one team and one strategy; for multi-year, networked initiatives like WNCRP, it becomes a sequenced series of PDSA cycles, ramps, and reflection points.
 
-Across all phases, we use OWL’s Essential Conditions for Student Success Maturity Model as a shared map of learner-centered practice, so that change ideas and PDSA cycles are always anchored in concrete shifts in culture, instruction, and student experience \- not generic PD topics.
+Across all phases, we use OWL’s Essential Conditions for Student Success Maturity Model as a shared map of learner-centered practice, so that change ideas and PDSA cycles are always anchored in concrete shifts in culture, instruction, and student experience—not generic PD topics.
 
 {% hint style="warning" %}
-**Important:** As we move through these phases, we honor OWL’s commitment to smart growth over fast growth. We would rather take on fewer, deeper engagements we can deliver with excellence than overextend our team or dilute impact. When a potential scope doesn’t align with our mission, equity commitments, or realistic capacity, we reshape it \- or say no \- so that every “yes” strengthens trust, culture, and long-term results instead of creating fragile, one-off wins.
+**Important:** As we move through these phases, we honor OWL’s commitment to smart growth over fast growth. We would rather take on fewer, deeper engagements we can deliver with excellence than overextend our team or dilute impact. When a potential scope doesn’t align with our mission, equity commitments, or realistic capacity, we reshape it—or say no—so that every “yes” strengthens trust, culture, and long-term results instead of creating fragile, one-off wins.
 {% endhint %}
 
 ### 2.1 – Phase 1: Discovery & Fit (Plan – empathy & context)
 
 A project begins with a discovery process led by the Assigned Lead (typically the OWL Program Manager / Director in PM capacity), using OWL’s Intake Process and Discovery Template to assess alignment and opportunity. 
 
-In this phase we stay in “learn before we advise” mode \- practicing empathy, surfacing constraints, and listening for both the visible challenges and the underlying conditions (culture, leadership, facilitation, student experience). We begin to connect what we hear to the [Essential Conditions for Student Success Maturity Model](https://docs.google.com/spreadsheets/u/0/d/1D6Fk31TO9BgjZ_wiHEAaatGu75DQMAeWOPv-EPdXpNM/edit) so that later design work is grounded in specific learner-centered shifts, not just general themes.
+In this phase we stay in “learn before we advise” mode—practicing empathy, surfacing constraints, and listening for both the visible challenges and the underlying conditions (culture, leadership, facilitation, student experience). We begin to connect what we hear to the [Essential Conditions for Student Success Maturity Model](https://docs.google.com/spreadsheets/u/0/d/1D6Fk31TO9BgjZ_wiHEAaatGu75DQMAeWOPv-EPdXpNM/edit) so that later design work is grounded in specific learner-centered shifts, not just general themes.
 
 ### 2.2 – Phase 2: Needs Assessment & Co-Design (Plan – define & ideate)
 
@@ -100,9 +100,9 @@ OWL teams are expected to:
 In practice, this looks different depending on the engagement type:
 
 * Short engagements (e.g., a single workshop or sprint) run at least one light-touch PDSA cycle: co-define a focus, try a strategy with participants, reflect together on what changed, and name clear next steps for the partner.  
-* Multi-session or networked engagements (WNCRP, CAPS, TWL, etc.) run on predictable PDSA rhythms \- for example, monthly touchpoints, quarterly Bright Spots / Proof Points, and annual “ramp” reflections that feed directly into renewal or redesign conversations.
+* Multi-session or networked engagements (WNCRP, CAPS, TWL, etc.) run on predictable PDSA rhythms—for example, monthly touchpoints, quarterly Bright Spots / Proof Points, and annual “ramp” reflections that feed directly into renewal or redesign conversations.
 
-Across these contexts, facilitators continually connect what they’re seeing back to the Essential Conditions Maturity Model so that we can say, in plain language, *how* classroom practice, student experience, and collective efficacy are shifting \- not just that we ran events. In short, we explicitly operate in “[perpetual beta](https://www.forbes.com/councils/forbescoachescouncil/2021/08/06/effective-leadership-development-in-perpetual-beta/).” We embrace non-closure by treating each agenda, prototype, and cycle as a test bed for learning \- not a finished product \- so that both OWL and our partners can name what’s working, what isn’t, and what we’ll adjust together next.
+Across these contexts, facilitators continually connect what they’re seeing back to the Essential Conditions Maturity Model so that we can say, in plain language, *how* classroom practice, student experience, and collective efficacy are shifting—not just that we ran events. In short, we explicitly operate in “[perpetual beta](https://www.forbes.com/councils/forbescoachescouncil/2021/08/06/effective-leadership-development-in-perpetual-beta/).” We embrace non-closure by treating each agenda, prototype, and cycle as a test bed for learning—not a finished product—so that both OWL and our partners can name what’s working, what isn’t, and what we’ll adjust together next.
 
 {% hint style="warning" %}
 **Important:** We also explicitly name capacity-building early on in our engagements. Much like Outward Bound’s “Train–Main–Final” model, our goal is to move from OWL-led design and facilitation, to shared leadership, to the partner leading with OWL in a lighter-touch coaching role. Renewals are not about keeping OWL in the driver’s seat; they are about widening and deepening impact while shifting more ownership, confidence, and skill to local teams over time.
@@ -132,7 +132,7 @@ In practice, we think about this as a loose **Train → Main → Final** progres
 
 * **Train:** OWL does more of the heavy lifting. We model learner-centered practices, introduce PDSA and design tools, and help leaders see and name the Essential Conditions they want to grow.  
 * **Main:** Ownership becomes shared. Local leads co-design and co-facilitate, run their own PDSA cycles with coaching, and begin to spread Bright Spots and Proof Points within their own networks. OWL’s role shifts toward coaching, feedback, and helping teams make sense of emerging data.  
-* **Final:** The partner owns the work. OWL provides light-touch support \- targeted coaching, occasional design sprints, or help with storytelling and measurement \- while local teams lead the design, facilitation, and improvement cycles.
+* **Final:** The partner owns the work. OWL provides light-touch support—targeted coaching, occasional design sprints, or help with storytelling and measurement—while local teams lead the design, facilitation, and improvement cycles.
 
 **Renewals and expansions** should reflect where a partner is on this arc. When we scope follow-on work, we ask:
 
@@ -146,15 +146,15 @@ For example, a renewal might:
 * focus on coaching and internal facilitation capacity rather than OWL-led workshops; or  
 * narrow to a specific strand (e.g., assessment, student agency, advisory) where the partner wants deeper design support.
 
-In every case, stories of impact plus simple evidence (student work, surveys, attendance, engagement, artifacts from the PDSA process, etc.) are the starting point. We want partners \- and funders \- to be able to say, in plain language:
+In every case, stories of impact plus simple evidence (student work, surveys, attendance, engagement, artifacts from the PDSA process, etc.) are the starting point. We want partners—and funders—to be able to say, in plain language:
 
-*“Here’s what changed. Here’s how we know. Here’s how we’re carrying it forward \- with a smaller, smarter role for OWL over time.”*
+*“Here’s what changed. Here’s how we know. Here’s how we’re carrying it forward—with a smaller, smarter role for OWL over time.”*
 
 That is how we span and scale the work without burning out our team or creating dependency: we design for renewal where it deepens and spreads impact, and we design for exit where local teams are ready to lead.
 
 ## 3.0 The Program Manager in OWL Engagements
 
-In most OWL engagements, the Primary Contact is a Director serving in a Program Manager (PM) capacity. As described in the [Common Roles & Responsibilities for All Directors](https://docs.google.com/document/u/0/d/1_9y8w-tarZIhcNENVp4r7K3Y_4ym1GIDzMmdodN2rCg/edit), PMs are often the tip of the spear for OWL’s work \- the first and most consistent point of contact for a school, district, or external partner. They are not just coordinating logistics; they are actively shaping how OWL shows up, builds trust, centers equity and belonging, ensures accountability, and lives our commitments in the field. Their leadership sets the tone for the partnership and lays the groundwork for shared success.
+In most OWL engagements, the Primary Contact is a Director serving in a Program Manager (PM) capacity. As described in the [Common Roles & Responsibilities for All Directors](https://docs.google.com/document/u/0/d/1_9y8w-tarZIhcNENVp4r7K3Y_4ym1GIDzMmdodN2rCg/edit), PMs are often the tip of the spear for OWL’s work—the first and most consistent point of contact for a school, district, or external partner. They are not just coordinating logistics; they are actively shaping how OWL shows up, builds trust, centers equity and belonging, ensures accountability, and lives our commitments in the field. Their leadership sets the tone for the partnership and lays the groundwork for shared success.
 
 The Common R\&R document is the canonical source for Director-as-PM expectations, including how PMs:
 
@@ -171,7 +171,7 @@ This Playbook adds a client-engagement lens to that role. Within the lifecycle d
 
 * **Making staffing decisions that honor our guardrails.** Using the OWL Contractor Manual (especially Appendix D: Contractor Staffing Decision Tree) and the Productive Playbook to decide when work should be staffed by OWL employees vs. OWL Fellows/contractors, and to ensure that any contractor SOWs and assignments line up with the client agreement, Productive budget, and IRS-compliant contractor boundaries.
 
-* **Maintaining the Train → Main → Final arc.** Naming and revisiting how ownership shifts over time \- from OWL-led to shared to partner-led \- so renewals and expansions deepen impact and local capacity rather than extending dependence on OWL.
+* **Maintaining the Train → Main → Final arc.** Naming and revisiting how ownership shifts over time—from OWL-led to shared to partner-led—so renewals and expansions deepen impact and local capacity rather than extending dependence on OWL.
 
 * **Aligning facilitation with learner-centered practice.** Working with facilitators and Fellows to connect agendas, protocols, and PDSA cycles to OWL’s Essential Conditions for Student Success Maturity Model so that the work stays anchored in concrete shifts in culture, instruction, and student experience.
 
@@ -179,7 +179,7 @@ This Playbook adds a client-engagement lens to that role. Within the lifecycle d
 
 A **Secondary Contact** (usually another Director like the DFO) is identified for each engagement. Their role is to provide redundancy and backup: they stay aware of the overall engagement status, can step in for the PM when needed, and serve as an additional point of contact for complex decisions or risks.
 
-**Bottom line:** the Common R\&R defines what Directors-as-PMs are responsible for across OWL. This Playbook shows how that role moves through the life of an engagement \- using our phases, PDSA framework, and systems to deliver high-quality, sustainable work for partners and for our team.
+**Bottom line:** the Common R\&R defines what Directors-as-PMs are responsible for across OWL. This Playbook shows how that role moves through the life of an engagement—using our phases, PDSA framework, and systems to deliver high-quality, sustainable work for partners and for our team.
 
 ## **4.0 Engagement Materials**
 
@@ -198,7 +198,7 @@ In practice, most OWL engagements generate a small set of “signature artifacts
 
 These artifacts should be easy to find in shared folders, clearly labeled, and written as if they may one day be shared publicly – unless marked otherwise.
 
-*A good rule of thumb: Never write or share anything \- anywhere \- that you wouldn’t stand behind with the OWL logo and your name attached.*
+*A good rule of thumb: Never write or share anything—anywhere—that you wouldn’t stand behind with the OWL logo and your name attached.*
 
 {% hint style="warning" %}
 **Important:** Unless a partner requests otherwise, client-facing tools and resources we create are licensed under OWL’s standard Creative Commons (BY-NC-SA) license so others can adapt and build on them in their own context. For more on how this connects to OWL’s open-source culture and documentation expectations, see *Our Culture* and the OWL Code of Ethics & Standards of Conduct.
@@ -228,9 +228,9 @@ At a minimum:
 
 OWL believes that learning communities should never be priced out of learner-centered transformation. Our pricing philosophy reflects not just an economic model, but a moral stance grounded in trust, transparency, and our mission.
 
-Our goal is not to be known as “affordable” or “expensive,” but as “well worth it” because what we deliver is truly unique, deeply customized, and transformational. We bring high-quality, mission-aligned services to schools, districts, and communities at a price that reflects their context and needs, not just our bottom line. Our pricing is also grounded in the realities of our primary partners \- educators and school systems \- not corporate training markets, so that what we offer is both sustainable for OWL and realistically accessible for schools.
+Our goal is not to be known as “affordable” or “expensive,” but as “well worth it” because what we deliver is truly unique, deeply customized, and transformational. We bring high-quality, mission-aligned services to schools, districts, and communities at a price that reflects their context and needs, not just our bottom line. Our pricing is also grounded in the realities of our primary partners—educators and school systems—not corporate training markets, so that what we offer is both sustainable for OWL and realistically accessible for schools.
 
-We also believe in something we call market karma: when we show up with integrity, do exceptional work, and focus relentlessly on impact, good things follow. Satisfied partners become loyal advocates. Word spreads. Our reach grows. This is why our best marketing isn’t a slick ad campaign or fancy pitch \- it’s the stories schools tell about the inherent value of working with OWL.
+We also believe in something we call market karma: when we show up with integrity, do exceptional work, and focus relentlessly on impact, good things follow. Satisfied partners become loyal advocates. Word spreads. Our reach grows. This is why our best marketing isn’t a slick ad campaign or fancy pitch—it’s the stories schools tell about the inherent value of working with OWL.
 
 We also recognize that no two learning communities are the same. That’s why we do not use fixed, one-size-fits-all rates. Instead, each scope of work is co-designed and priced in collaboration with the client and reviewed by the OWL Leadership Team, with open input from any OWL team member involved.
 
@@ -239,7 +239,7 @@ Our services, not surprisingly, are anchored in an open-source mindset:
 * All core OWL resources (frameworks, tools, protocols) are openly licensed and freely available for use and adaptation.  
 * What clients pay for is not the product, but the amplification of that product’s value through expert facilitation, strategic thinking, design expertise, targeted coaching, and deep culture work.
 
-Doing so means we provide premium services that quicken the pace of progress and help schools truly embed and scale learner-centered innovations in locally sustainable ways. In short: the products are free \- our value is in the transformation.
+Doing so means we provide premium services that quicken the pace of progress and help schools truly embed and scale learner-centered innovations in locally sustainable ways. In short: the products are free—our value is in the transformation.
 
 ### **5.1 Our Pricing Principles**
 
@@ -258,7 +258,7 @@ OWL uses a value-based pricing model, not a strict hourly or per-diem system. Th
 
 * We start with the school or partner’s goals, assets, and context.  
 * We estimate the true value of the outcomes we’re co-creating.  
-* Then we design a scope and price that’s fair, feasible, and mission-aligned \- for both OWL and the partner.
+* Then we design a scope and price that’s fair, feasible, and mission-aligned—for both OWL and the partner.
 
 There are moments when that number is higher than a school expected. There are also times when we go lower than what we “should” charge. That’s the trade-off of doing our mission-driven work the right way, despite what the market might say. That said, final pricing and terms are approved by the Director of Finance & Operations (DFO) in line with OWL’s ROI guardrails and the Collective Leadership & Decision Making framework to ensure strategic fits and long-term sustainability as a nonprofit.
 
@@ -280,9 +280,9 @@ When we step into workshops, design sprints, or strategy sessions with clients a
 
 In facilitation spaces, we:
 
-* Hold both structure and flexibility. Participants should always know why we’re doing something \- and feel safe to ask why not.  
+* Hold both structure and flexibility. Participants should always know why we’re doing something—and feel safe to ask why not.  
 * Set and revisit norms. Use visible norms like “step up/step back,” “embrace non-closure,” and “critique the work, not the person.”  
-* Center belonging. Design for multiple modes of participation \- voice, chat, sticky notes, silent reflection, and visuals.  
+* Center belonging. Design for multiple modes of participation—voice, chat, sticky notes, silent reflection, and visuals.  
 * Invite productive discomfort. Normalize critical reflection without requiring forced vulnerability.  
 * Model shared responsibility. If we want collaborative classrooms, we have to lead collaborative rooms.
 
@@ -302,9 +302,9 @@ In facilitation spaces, we:
 
 #### Tech Etiquette (Virtual Sessions)
 
-* Keep your camera on when possible \- it helps humanize the space  
+* Keep your camera on when possible—it helps humanize the space  
 * Use chat actively to uplift quiet voices or affirm contributions  
-* Avoid multitasking (unless life or caregiving happens \- we get it)  
+* Avoid multitasking (unless life or caregiving happens—we get it)  
 * Use a tidy background and steady framing to reduce distractions  
 * Have shared tools ready (e.g. sticky notes, reflection journal, Jamboard, Pear Deck, etc.)
 
@@ -323,7 +323,7 @@ Our stance is simple:
 
 We recognize that identity, culture, and comfort all play a role in how people show up. Our goal is not to enforce conformity, but to ensure that our presence aligns with the trust we aim to build so the focus stays on the work, not on us as individuals.
 
-## **Appendix 1 \- Client-Facing Resources**
+## **Appendix 1—Client-Facing Resources**
 
 **Purpose:** This appendix outlines OWL’s standard approach for developing high-quality, learner-centered slide decks and workshop materials. While it provides a shared foundation and includes several non-negotiable expectations (e.g., alignment with OWL’s mission, brand, and professional standards), it is not intended to cover every possible scenario.
 
@@ -339,9 +339,9 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 
 **Model learner-centered professionalism**
 
-* Peer review content through the lens of equity, inclusion, and accessibility, avoiding language, imagery, or assumptions that could alienate or harm participants \- i.e. never have anything in a slide that could potentially damage OWL’s reputation.  
+* Peer review content through the lens of equity, inclusion, and accessibility, avoiding language, imagery, or assumptions that could alienate or harm participants—i.e. never have anything in a slide that could potentially damage OWL’s reputation.  
 * Ensure slides are clear, aligned with OWL's values, and uphold professional standards for facilitation in the education space.  
-* Our aim is to be polished, inclusive, and humble \- not by designing for perfectionism, but designing for care, cultural responsiveness, and credibility. 
+* Our aim is to be polished, inclusive, and humble—not by designing for perfectionism, but designing for care, cultural responsiveness, and credibility. 
 
 **Honor Brand Consistency**
 
@@ -370,7 +370,7 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 **Prioritize Clarity and Simplicity**
 
 * Avoid text-heavy slides. Use bullet points, visuals, and concise phrasing.  
-* Use the "Less is More" rule: slides should support \- not replace \- facilitator speech.  
+* Use the "Less is More" rule: slides should support—not replace—facilitator speech.  
 * Avoid images that may create confusion; all visuals should enhance understanding.  
 * Follow the 6x6 Rule: No more than six words per bullet point and six bullet points per slide.
 
@@ -424,7 +424,7 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 
 ### **Incorporate Presentation Zen Principles in Every OWL Slide Deck**
 
-* Design with clarity, restraint, and meaning  \-  not decoration or distraction.  
+* Design with clarity, restraint, and meaning — not decoration or distraction.  
 * Embrace simplicity and focus. Each slide should communicate one core idea. Eliminate unnecessary text, bullet points, and decorative clutter.  
 * Use strong visuals with purpose. Select full-screen, high-quality images that support the story, not distract from it. Avoid generic clipart or overloaded diagrams.  
 * Prioritize whitespace and contrast. Give content breathing room. Avoid cramming slides with text or visual elements.  
@@ -441,7 +441,7 @@ In these cases, the guiding principle remains the same: deliver engaging, equita
 
 While OWL values resource-rich tools to support long-term educator growth, comprehensive workbooks should not be used as the primary resource during initial workshops unless explicitly aligned with the context of a multi-session engagement where strong trust, norms, and scaffolding have been established.
 
-In most cases, the Anchor Document model should be used \- a simplified, participant-friendly version that mirrors the key workshop slides and includes space for reflection, shared protocols, and take-home planning prompts. This document ensures:
+In most cases, the Anchor Document model should be used—a simplified, participant-friendly version that mirrors the key workshop slides and includes space for reflection, shared protocols, and take-home planning prompts. This document ensures:
 
 * Clarity and alignment with OWL’s facilitation style  
 * Reduced cognitive overload  
@@ -455,7 +455,7 @@ When collaborating with external partners or invited facilitators (e.g., guest s
 
 * Keep external slide decks or materials in their original format unless explicitly asked to reformat in OWL’s style.  
 * Introduce the partner by name, context, and the reason for including their unique voice.  
-* Use this contrast as a learning opportunity \- showing how different organizations or leaders approach similar challenges.
+* Use this contrast as a learning opportunity—showing how different organizations or leaders approach similar challenges.
 
 Why this matters: OWL maintains a high standard of visual and pedagogical quality in its slide design and materials. Rather than risk diluting that by over-editing external resources, we respect the source material and model openness, humility, and contextually responsive facilitation.
 
@@ -481,7 +481,7 @@ Why this matters: OWL maintains a high standard of visual and pedagogical qualit
   * [The "Godin Method" of presentation design](https://www.presentationzen.com/presentationzen/2005/09/the_godin_metho.html)   
   * [Leading Adult Learning Supporting Adult Development in Our Schools By: Eleanor Drago-Severson](https://www.corwin.com/books/leading-adult-learning-230518?srsltid=AfmBOopOiQlQRgdN9QhWTuunIAxUYufxqkNtng1PlDQ3ws7EGQX54XPu)
 
-## **Appendix 2 \- Example Client Proposal**
+## **Appendix 2—Example Client Proposal**
 
 The following example shows a clean, plain-language proposal you can tailor to any district or school. It frames the “why,” outlines scope and milestones, and presents one all-in services price. It’s also designed to align with the OWL Estimator Tool and our preferred terms (≥45% margin floor, travel at cost, 2–3% ops/compliance on services, deposit, etc.) while staying district-friendly and jargon-free. Note that when a proposal includes delivery by OWL Fellows/contractors, be sure the staffing pattern has already been vetted using the Contractor Staffing Decision Tree (Contractor Manual, Appendix D) and that the Estimator and Productive budget reflect that plan before sharing the proposal externally. You can quickly adapt this example in the following ways: 
 
@@ -516,7 +516,7 @@ Open Way Learning (OWL) is pleased to submit this proposal that was co-designed 
 
 ##### Purpose
 
-Students learn deepest when school connects to who they are and what their community needs. Together, THSD and OWL will co-design experiences that build belonging, student agency, and real-world relevance \- while giving your team practical tools they can use the next day.
+Students learn deepest when school connects to who they are and what their community needs. Together, THSD and OWL will co-design experiences that build belonging, student agency, and real-world relevance—while giving your team practical tools they can use the next day.
 
 ##### What you can expect
 
@@ -574,7 +574,7 @@ Students learn deepest when school connects to who they are and what their commu
 ##### Investment
 
 * **Project Package (services):** **$\[Total Services\]**  
-* **Travel (pass-through at cost):** billed as incurred (airfare/lodging/per diem/mileage \- no markup)  
+* **Travel (pass-through at cost):** billed as incurred (airfare/lodging/per diem/mileage—no markup)  
 * **Small admin & compliance fee:** **\[2–3\]%** on services (helps cover ACH processing, insurance/COIs, and required compliance steps)
 
 We present a single, all-inclusive services price; if your procurement team needs a line-item view for their system, we can provide a summary that maps to this total.
@@ -651,9 +651,9 @@ OWL brings together a team of experienced educators and facilitators with a prov
 
 ![][image3]
 
-Open Way Learning (OWL) is a 501(c)(3) education nonprofit with a relentless focus on helping schools develop, sustain, and scale cultures of learner-centered innovation. Our mission is to co-design ways to amplify the joy and wonder of learning for every student, especially those historically furthest from opportunity. Our vision is that all learners can change their world \- and innovative schools can empower that change to happen now.
+Open Way Learning (OWL) is a 501(c)(3) education nonprofit with a relentless focus on helping schools develop, sustain, and scale cultures of learner-centered innovation. Our mission is to co-design ways to amplify the joy and wonder of learning for every student, especially those historically furthest from opportunity. Our vision is that all learners can change their world—and innovative schools can empower that change to happen now.
 
-What makes OWL unique is our open-source approach. We use Design Thinking to amplify local ideas and co-create hyper-customized solutions rather than prescribe one-size-fits-all programs. Everything we create \- tools, processes, resources \- is shared openly so others can adapt and scale what works.
+What makes OWL unique is our open-source approach. We use Design Thinking to amplify local ideas and co-create hyper-customized solutions rather than prescribe one-size-fits-all programs. Everything we create—tools, processes, resources—is shared openly so others can adapt and scale what works.
 
 ### **What recent partners say**
 
@@ -688,7 +688,7 @@ Learn more at [www.openwaylearning.org](http://www.openwaylearning.org)
 
 ##### Optional Attachment 3: OWL’s Value-Added Approach to Professional Learning (adapt as needed)
 
-OWL doesn't deliver professional development  \-  we co-create transformation.
+OWL doesn't deliver professional development — we co-create transformation.
 
 Our work is rooted in Design Thinking, not as a buzzword, but as a way to truly listen, empathize, and prototype change that fits each school’s unique reality. Every engagement starts with a simple question: *What does success look like and how can we work with your team to create the conditions to bring that success to reality?*
 
@@ -719,7 +719,7 @@ Above all, we model joyful, learner-centered facilitation because we know the on
 We’re often asked: “What exactly do your sessions look like?” The truth is, no two are the same. But all of them share a few things in common:
 
 * They’re designed with teachers, not just for them.  
-* They build on what’s already working  \-  the “bright spots” in a school’s practice.  
+* They build on what’s already working — the “bright spots” in a school’s practice.  
 * They shrink the change into something educators can act on right away.  
 * And they always result in a concrete product, ready to be tested, improved, and shared.
 
@@ -729,7 +729,7 @@ Here are just a few ways that plays out:
 * Collaborative Planning Support: Rather than hand off a new planning tool, we model how to use it together. These sessions build collective teacher efficacy by embedding team-based routines for unit design, formative assessment, and reflection, often modeling thinking routines and protocols co-created by OWL and the school. It’s not “just another meeting.” It’s where strategy becomes practice.  
 * Centering Student Voice: We support school teams in conducting empathy interviews, focus groups, and student-led feedback sessions. The goal? To listen deeply to what students say, think, do, and feel about their learning experience and then use that as insight to co-create a collective vision that puts authentic learning at the center of instructional design and school culture.
 
-Also note that every session ends with a usable prototype  \-  a lesson plan, planning protocol, assessment tool, etc. built by teachers, for teachers and presented for peer input as a way to model a culture of openness, trust, and continuous improvement. That’s what makes it stick.
+Also note that every session ends with a usable prototype — a lesson plan, planning protocol, assessment tool, etc. built by teachers, for teachers and presented for peer input as a way to model a culture of openness, trust, and continuous improvement. That’s what makes it stick.
 
 ##### Optional Attachment 6: Example of OWL’s Work 
 
@@ -737,7 +737,7 @@ Also note that every session ends with a usable prototype  \-  a lesson plan, pl
 
 Since April 2023, OWL has partnered with Albuquerque Public Schools to spark a district-wide shift toward experiential, community-connected learning. What began as a pilot for a middle school STEAM summer program has grown into a vibrant, educator-led movement, with interdisciplinary, design-based learning experiences now embedded across [APS Summer STEAM offerings](https://www.aps.edu/news/news-from-2024-2025/aps-middle-schoolers-go-on-steam-summer-adventures).
 
-The results speak for themselves: student presentations have reached a level of quality and relevance that rivals traditional senior capstone projects. This kind of student empowerment has inspired teachers to step beyond their comfort zones, take on leadership roles, and advocate for continuing and expanding the work. As one leader noted, *“It’s the first time I’ve seen this many teachers this excited about PD  \-  and even more excited about what their students are creating.”*
+The results speak for themselves: student presentations have reached a level of quality and relevance that rivals traditional senior capstone projects. This kind of student empowerment has inspired teachers to step beyond their comfort zones, take on leadership roles, and advocate for continuing and expanding the work. As one leader noted, *“It’s the first time I’ve seen this many teachers this excited about PD — and even more excited about what their students are creating.”*
 
 Backed by strong district leadership support and authentic stories of impact (see [this video](https://drive.google.com/file/d/1-QCqBs7XAQfXUeZmtrd6Afd90uXbJhPI/view?usp=drive_link) from APS teachers and [this district highlight](https://drive.google.com/file/d/1-P-m9IbkLnstvkJSApesduQMXqZICLeE/view?usp=drive_link)), the program has moved created a true experiential learning culture shift, building teacher confidence, student agency, and a public showcase of what learner-centered innovation looks like when it's designed by and for the local community.
 

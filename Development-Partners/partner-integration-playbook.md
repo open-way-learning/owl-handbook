@@ -45,7 +45,7 @@ This framework guides how OWL engages in everything from one-off collaborations 
 
 The phases below are a simple way to make that rhythm visible and intentional so that partnerships evolve based on evidence, learning, and mutual benefit—not inertia or habit.
 
-### 1.1 \- Phase 1: Discovery & Fit \- “Start with Why”
+### 1.1—Phase 1: Discovery & Fit—“Start with Why”
 
 **Responsible:** Initial point of contact \+ the assigned OWL Director in a PM role (per the Common R\&R procedure), in consultation with D-OSL and/or DPIV as needed.
 
@@ -70,7 +70,7 @@ For lighter-weight relationships, the Gives & Gets Matrix can sometimes function
 
 #### Key differences when using the client intake process
 
-OWL’s Intake Process and Discovery Template were originally designed to assess client fit (e.g., schools and districts), they can also be adapted to guide early conversations with potential partners, including funders, nonprofits, and collaborators. However, these tools must be used with intention to avoid signaling a transactional or hierarchical relationship. When used with partners, the focus should be on mission alignment, complementary strengths, and co-leadership potential \- not service delivery or client readiness.
+OWL’s Intake Process and Discovery Template were originally designed to assess client fit (e.g., schools and districts), they can also be adapted to guide early conversations with potential partners, including funders, nonprofits, and collaborators. However, these tools must be used with intention to avoid signaling a transactional or hierarchical relationship. When used with partners, the focus should be on mission alignment, complementary strengths, and co-leadership potential—not service delivery or client readiness.
 
 * Replace “client” with “partner” or “collaborator”  
 * Focus on shared value creation, not service provision  
@@ -103,7 +103,7 @@ When engaging with potential funders or grantmaking entities, OWL applies the sa
 * Identify early signs of misalignment (e.g., competition mindset, IP control issues).  
 * Vet funders not just for financial alignment but for cultural and strategic alignment. When in doubt, consult with OWL leadership or board advisors.
 
-### 1.2 \- Phase 2: Scope & Structure \- “Document the What and How”
+### 1.2—Phase 2: Scope & Structure—“Document the What and How”
 
 **Responsible:** OWL Project Manager (Director in PM capacity), in close coordination with the DFO (pricing, terms, compliance) and DPIV/D-OSL as appropriate for visibility, precedent, and strategy.
 
@@ -156,7 +156,7 @@ In high-visibility or multi-year grants, co-developing a lightweight Funders Par
 * Revisit and revise the MOU as the relationship or project evolves.  
 * Be explicit about what we will not do together (e.g., work that doesn’t align with our guardrails, unfunded expectations, or activities that pull OWL into roles better held by the partner) so “zombie” projects and vague commitments don’t accumulate over time.
 
-### 1.3 \- Phase 3: Implementation & Reflection \- “Plan and Do”
+### 1.3—Phase 3: Implementation & Reflection—“Plan and Do”
 
 **Responsible:** OWL Project Manager (Director in PM capacity) \+ Partner Lead (primary point of contact at the partner organization).
 
@@ -204,7 +204,7 @@ For complex, multi-org initiatives (e.g., WNCRP \+ partner networks), the PM and
 * Anchor check-ins in appreciative inquiry: What’s working? What’s possible? What needs attention?  
 * Maintain clear internal and external boundaries between funding influence and programmatic integrity.
 
-### 1.4 \- Phase 4: Review, Renewal, or Exit \- “Hold Space for Learning”
+### 1.4—Phase 4: Review, Renewal, or Exit—“Hold Space for Learning”
 
 **Responsible:** OWL Project Manager (Director in PM capacity) \+ relevant Director(s) (typically DPIV for visibility/field implications and/or D-OSL for strategic fit and precedent).
 
@@ -251,9 +251,9 @@ If OWL decides not to renew a funding relationship (due to evolving strategy or 
 
 This tool helps OWL staff and facilitators lead early conversations with potential clients to ensure clarity, mutual alignment, and a strong foundation for co-designed success. The intake conversation should happen ideally 2–4 weeks before any service begins.
 
-*Use this guide with flexibility\! These aren’t scripts \- they're conversation starters meant to invite insight, reflection, and connection.*
+*Use this guide with flexibility\! These aren’t scripts—they're conversation starters meant to invite insight, reflection, and connection.*
 
-## Appendix A \- Definitions and Clarifying Language
+## Appendix A—Definitions and Clarifying Language
 
 These categories help us right-size expectations, rhythms, and MOUs. Not every collaboration needs every tool in this Playbook, but every collaboration should be intentionally placed somewhere on this map.
 
@@ -276,7 +276,7 @@ These categories help us right-size expectations, rhythms, and MOUs. Not every c
   * Sharing learning with broader funding networks  
   * Encouraging transparency and trust-based philanthropy in the work
 
-## Appendix B \- Core Partnership Guardrails
+## Appendix B—Core Partnership Guardrails
 
 All partnerships must reflect these OWL-wide standards, which align with our Collective Leadership & Decision Making, Common R\&R, and Program Delivery RACI tools:
 
@@ -291,7 +291,7 @@ All partnerships must reflect these OWL-wide standards, which align with our Col
 
 If a potential partnership conflicts with these guardrails, the default should be “No-Go” or “Not now,” even if funding is available.
 
-## Appendix C \- Gives & Gets Matrix (Template)
+## Appendix C—Gives & Gets Matrix (Template)
 
 **How to use this template:** Start by listing each partner (including OWL) in its own row. For each, name the concrete **Gives** (what we’re putting in) and **Gets** (what we’re hoping to gain). Treat this as a living document: revise it as the partnership evolves, and pull key elements into the MOU or summary email once there is shared agreement.
 
@@ -300,7 +300,7 @@ If a potential partnership conflicts with these guardrails, the default should b
 | \[Partner Name\] | e.g. facilitation, research, funding | Visibility, access to networks, documentation tools |
 | OWL | Design support, backbone coordination | Field credibility, reach, learning, sustainability |
 
-## Appendix D \- Partner-Adapted Intake Questions
+## Appendix D—Partner-Adapted Intake Questions
 
 | Original Client-Facing Language | Partner-Adapted Version |
 | ----- | ----- |

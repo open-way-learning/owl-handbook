@@ -5,11 +5,11 @@
 **Audience:** All OWL staff and contractors/Fellows
 {% endhint %}
 
-Open Way Learning (OWL) is a 501(c)(3) nonprofit organization dedicated to advancing learner-centered innovation in education. To support this mission, OWL partners with highly qualified individuals \- referred to as OWL Fellows \- who deliver professional development, workshops, coaching, and related services to schools and education organizations across the United States.
+Open Way Learning (OWL) is a 501(c)(3) nonprofit organization dedicated to advancing learner-centered innovation in education. To support this mission, OWL partners with highly qualified individuals—referred to as OWL Fellows—who deliver professional development, workshops, coaching, and related services to schools and education organizations across the United States.
 
 This manual outlines the expectations, responsibilities, and best practices for individuals working with OWL as independent contractors, including those recognized as OWL Fellows. It is organized to include key reference sections such as the OWL Independent Contractor Payment Terms and to cross-reference the OWL Code of Ethics, which is provided separately for review and signature. Contractors should review this full manual, including the Payment Terms section, before accepting any contracted work. The most current version of this manual is maintained in OWL’s documentation hub (currently GitBook); electronic links shared during onboarding always point to the latest version.
 
-## **1 \- OWL Fellow Status & Contractor Relationship**
+## **1—OWL Fellow Status & Contractor Relationship**
 
 OWL Fellows are highly qualified professionals engaged by OWL as independent contractors. They support OWL’s mission through services such as professional development, workshops, coaching, and strategic facilitation. As independent contractors:
 
@@ -85,7 +85,7 @@ To remain in good standing, Fellows must also:
 * Use their own laptops, devices, and materials unless otherwise specified.  
 * Not represent themselves as employees or use OWL branding on external proposals, social media, or communications without prior approval.
 
-## **2 \- OWL Fellow Onboarding Guideline:**
+## **2—OWL Fellow Onboarding Guideline:**
 
 The following guideline ensures that highly qualified educators joining OWL’s contractor pool as OWL Fellows are equipped to deliver exceptional, learner-centered services aligned with OWL’s mission, values, and legal structure. This guide provides a flexible but structured pathway grounded in OWL’s core competencies and open-source approach, while maintaining full IRS compliance for independent contractors.
 
@@ -174,7 +174,7 @@ As a new OWL Fellow, they will receive a customized Independent Contractor Agree
 * OWL reserves the right to remove a Fellow from the active contractor pool at any time if expectations outlined in the ICA are not met.  
 * To maintain active status, Fellows must facilitate at least one engagement per year.
 
-## **3 \- Scope of Work (SOW) & Service Workflow**
+## **3—Scope of Work (SOW) & Service Workflow**
 
 ### **3.0 Contractor Scope of Work**
 
@@ -286,7 +286,7 @@ To support clarity, all guidance related to rates, tiers, travel reimbursement, 
 
 *\*OWL’s tiered system is designed to reward demonstrated competency and contributions while ensuring sustainability as a nonprofit. While rates may differ from private consulting firms, they reflect OWL’s commitment to equity, fairness, and mission-first service.*
 
-## **4 \- Contractor Compensation Guidelines**
+## **4—Contractor Compensation Guidelines**
 
 This section of the Contractor Manual outlines OWL’s values-driven approach to determining compensation for independent contractors, especially those serving as OWL Fellows. While not a rigid policy, it offers a flexible framework to support thoughtful, case-by-case decisions that reflect the project’s scope, funding availability, and alignment with OWL’s mission. It is designed to ensure clarity, equity, and alignment with OWL’s values, while remaining adaptable to individual contract terms and the financial realities of each project.
 
@@ -298,7 +298,7 @@ The most current version of these guidelines is maintained in OWL’s documentat
 
 OWL’s approach to contractor compensation is grounded in the same principles that shape internal compensation for employees:
 
-* **Equity & Impact**: Rates reflect a contractor’s expertise, lived experience, and contribution to learner-centered innovation \- without bias.
+* **Equity & Impact**: Rates reflect a contractor’s expertise, lived experience, and contribution to learner-centered innovation—without bias.
 
 * **Transparency**: Clear guidance is available for how to qualify for and progress through contractor tiers.
 
@@ -306,7 +306,7 @@ OWL’s approach to contractor compensation is grounded in the same principles t
 
 * **Mission over Market Rates**: We acknowledge our rates may not match national consulting averages, but we prioritize mission alignment, flexibility, trust, and co-ownership as additional forms of value.
 
-* **Context-Responsive Design**: Rates are co-developed based on the specific scope, goals, and funding for each project \- balancing clarity with adaptability.
+* **Context-Responsive Design**: Rates are co-developed based on the specific scope, goals, and funding for each project—balancing clarity with adaptability.
 
 *Note: In some cases, client contracts may impose budget ceilings that limit OWL’s ability to offer previously agreed-upon or tier-based rates. In such cases, the contractor is under no obligation to accept the assignment and may choose to decline the engagement or negotiate a mutually acceptable reduced rate with OWL.*
 
@@ -476,14 +476,14 @@ OWL uses a tiered contractor compensation model informed by credible, mission-al
 | ----- | :---: | :---: |
 | Full-Day Facilitation (6–8 hrs) | $600–$1,000/day | $75–$125/hour |
 | Half-Day Facilitation (3–4 hrs) | $300–$500/half day | $75–$125/hour |
-| Planning & Development | $60–$100/hour |  \-  |
-| Virtual Coaching | $75–$125/hour |  \-  |
+| Planning & Development | $60–$100/hour | — |
+| Virtual Coaching | $75–$125/hour | — |
 
 {% hint style="warning" %}
 **Disclaimer:** This rate range is intended as a starting point to guide the determination of a fair and equitable initial pay rate for contractors. OWL will always strive to align compensation with experience, service type, and scope complexity. Note however, that certain client contracts may include budget ceilings that limit OWL’s ability to offer previously agreed-upon or tier-based rates. In such cases, the contractor is under no obligation to accept the assignment and may choose to decline the engagement or negotiate a mutually acceptable reduced rate with OWL.
 {% endhint %}
 
-## **Appendix C: Example Scenarios \- Tiered Compensation in Practice**
+## **Appendix C: Example Scenarios—Tiered Compensation in Practice**
 
 ### **C.1 Scenario 1: Virtual Workshop – Core Consultant (Tier 2\)**
 
@@ -588,7 +588,7 @@ Use this tree to make the *staffing decision* first. Then follow the checklist a
 * **If Yes:** Staff with an OWL employee (hourly, part-time, or full-time). Do *not* use a contractor for this role. Stop here.  
 * **If No:** The work is project-based and time-bound. Proceed to Step 3\.
 
-**Note:** The reason for this question is to maintain IRS-compliant contractor boundaries \- i.e. contractors should deliver scoped outcomes under a specific Scope of Work (SOW), not perform ongoing employee-like duties.
+**Note:** The reason for this question is to maintain IRS-compliant contractor boundaries—i.e. contractors should deliver scoped outcomes under a specific Scope of Work (SOW), not perform ongoing employee-like duties.
 
 #### **Step 3 – Confirm contract / approval and Scope of Work**
 

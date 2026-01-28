@@ -37,7 +37,7 @@ OWL supports a distributed, flexible work environment and aims to ensure employe
 
 * All reimbursements must be:  
   * Pre-approved (if not explicitly covered by contract or policy);  
-  * Administered through Productive.io (or invoice to OWL \- contractors only) within 90 days of the expense;  
+  * Administered through Productive.io (or invoice to OWL—contractors only) within 90 days of the expense;  
   * Accompanied by receipts for all items over $25 (receipts under $25 are encouraged, especially for grant-funded work), including dates and contract reference for clarity and audit purposes.
 
 ### **Non-Reimbursable Expenses (partial list)**
