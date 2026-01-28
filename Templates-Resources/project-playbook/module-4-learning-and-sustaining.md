@@ -1,12 +1,12 @@
-#  **WNC Resilience Project Playbook \- Module 4**
+#  WNC Resilience Project Playbook: Module 4
+Measures and PDSA: Learning While Doing
 
+{% hint style="info" %}
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from other project stakeholders
 **Audience:** All current and potential participants in the [WNC Resilience Project](https://docs.google.com/document/d/1ucJ9Ae-9tEIEoyEBneBzCHWiX_b_gAS5pmlw1c930V8/edit?usp=sharing).
+{% endhint %}
 
----
-***Measures and PDSA: Learning While Doing***
-
-## **Module Purpose**
+## Module Purpose
 
 This module equips Strand Teams to define a **System of Measures** and implement **Plan-Do-Study-Act (PDSA) cycles** to learn, iterate, and scale effective Change Ideas. It integrates:
 

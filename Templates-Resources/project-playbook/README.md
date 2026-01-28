@@ -1,12 +1,11 @@
-# WNC Resilience Project Playbook
+# WNC Resilience Project Playbook Overview
 
+{% hint style="info" %}
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from other project stakeholders
 **Audience:** All current and potential participants in the [WNC Resilience Project](https://docs.google.com/document/d/1ucJ9Ae-9tEIEoyEBneBzCHWiX_b_gAS5pmlw1c930V8/edit?usp=sharing).
+{% endhint %}
 
----
-# ***Project Playbook (Overview)***
-
-### **Purpose**
+## Purpose
 
 The WNC Resilience Project Playbook is organized into five flexible modules, each with a distinct purpose and set of outputs. These modules build upon each other and help your team co-create a customized, iterative Innovation Blueprint grounded in student experience and continuous improvement.
 

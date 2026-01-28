@@ -1,14 +1,14 @@
-# **WNC Resilience Project Playbook \- Module 0**
+# WNC Resilience Project Playbook: Module 0
+Noticing the Current State: Optional Pre-Work Grounded in Empathy
 
+{% hint style="info" %}
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from other project stakeholders
 **Audience:** All current and potential participants in the [WNC Resilience Project](https://docs.google.com/document/d/1ucJ9Ae-9tEIEoyEBneBzCHWiX_b_gAS5pmlw1c930V8/edit?usp=sharing).
-
----
-***Noticing the Current State: Optional Pre-Work Grounded in Empathy***
+{% endhint %}
 
 ### **Module Purpose**
 
-Welcome to Module 0 \- an optional but highly encouraged reflection and preparation tool for project Innovation Partners before the onboarding workshop. This module bridges your commitment from the \[Exploration & Planning Guide\] to the collaborative work your team will begin at the onboarding kickoff session. It provides space to begin noticing and documenting your current state from a student-centered perspective.
+Welcome to Module 0—an optional but highly encouraged reflection and preparation tool for project Innovation Partners before the onboarding workshop. This module bridges your commitment from the \[Exploration & Planning Guide\] to the collaborative work your team will begin at the onboarding kickoff session. It provides space to begin noticing and documenting your current state from a student-centered perspective.
 
 Rather than requiring formal planning, Module 0 is a flexible guide designed to:
 
@@ -16,7 +16,7 @@ Rather than requiring formal planning, Module 0 is a flexible guide designed to:
 * Surface early hunches about strengths and challenges  
 * Begin identifying patterns and tensions worth exploring
 
-Key thing to keep in mind: *We’re not solving problems for students \- we’re solving problems with students.*
+Key thing to keep in mind: *We’re not solving problems for students—we’re solving problems with students.*
 
 ### **Step 1: Starting with the Why**
 

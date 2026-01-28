@@ -1,22 +1,22 @@
-# **WNC Resilience Project Playbook \- Module 3**
+# WNC Resilience Project Playbook: Module 3
+Drivers and Design: Mapping the System for Change
 
+{% hint style="info" %}
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from other project stakeholders
 **Audience:** All current and potential participants in the [WNC Resilience Project](https://docs.google.com/document/d/1ucJ9Ae-9tEIEoyEBneBzCHWiX_b_gAS5pmlw1c930V8/edit?usp=sharing).
+{% endhint %}
 
----
-***Drivers and Design: Mapping the System for Change***
-
-## **Module Purpose**
+## Module Purpose
 
 This module helps Strand Teams translate their Aim Statement into a clear theory of improvement using a Driver Diagram. It also supports the generation and prioritization of Change Ideas using design thinking principles and improvement science strategies from [*Learning to Improve*](https://www.carnegiefoundation.org/resources/publications/learning-to-improve/) (Bryk et al.).
 
-***Your Driver Diagram is a methodical tool that shows how change will happen \- and what your team will focus on first.***
+***Your Driver Diagram is a methodical tool that shows how change will happen—and what your team will focus on first.***
 
 **Grounding & Reminder:** A good Driver Diagram is not a wish list\! It’s a focused, visual story of how your team believes change will happen. Let your students’ needs and your Aim from Module 2 drive the process\!
 
 ### **Step 1: Finalize and SMARTen Your Validated AIM Statement**
 
-Before constructing or refining your Driver Diagram, take time to revisit the AIM Statement your team validated in Module 2\. Now you’ll elevate it into a SMART Goal \- a clearly stated, measurable outcome that guides all future design and testing.
+Before constructing or refining your Driver Diagram, take time to revisit the AIM Statement your team validated in Module 2\. Now you’ll elevate it into a SMART Goal—a clearly stated, measurable outcome that guides all future design and testing.
 
 #### **SMART Criteria:**
 
@@ -65,7 +65,7 @@ This should already be defined in Module 2\. Place it at the far left.
 
 ### **Identify 3–5 Primary Drivers**
 
-Primary Drivers are the major conditions or high-leverage areas that must shift in order to achieve your Aim. For the purposes of the WNC Resilience Project, your team will select 1–3 initial project strands to serve as your Primary Drivers \- those that most clearly connect to your SMART Aim and local priorities.
+Primary Drivers are the major conditions or high-leverage areas that must shift in order to achieve your Aim. For the purposes of the WNC Resilience Project, your team will select 1–3 initial project strands to serve as your Primary Drivers—those that most clearly connect to your SMART Aim and local priorities.
 
 These strands should reflect both your contextual needs and your team’s energy and capacity to begin taking action.
 

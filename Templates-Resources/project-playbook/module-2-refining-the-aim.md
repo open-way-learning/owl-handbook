@@ -1,14 +1,14 @@
-#  **WNC Resilience Project Playbook - Module 2**
+#  WNC Resilience Project Playbook: Module 2
+Validating the Current State & Refining the AIM
 
+{% hint style="info" %}
 **Owner:** Director of Program Impact & Visibility (DPIV) – with input from other project stakeholders
 **Audience:** All current and potential participants in the [WNC Resilience Project](https://docs.google.com/document/d/1ucJ9Ae-9tEIEoyEBneBzCHWiX_b_gAS5pmlw1c930V8/edit?usp=sharing).
+{% endhint %}
 
----
-***Validating the Current State & Refining the AIM***
+## Module Purpose
 
-## **Module Purpose**
-
-This module is designed to be completed after the Onboarding Session and before your first facilitated school meeting. It provides structure and prompts to help your team validate the insights from your empathy map and AIM Statement you developed during the onboarding workshop \- and refine them based on real-world input.
+This module is designed to be completed after the Onboarding Session and before your first facilitated school meeting. It provides structure and prompts to help your team validate the insights from your empathy map and AIM Statement you developed during the onboarding workshop—and refine them based on real-world input.
 
 **Important:** *This is your chance to check your assumptions, ensure alignment with stakeholder experience, and ground your innovation efforts in a clear, credible understanding of the Current State.*
 
