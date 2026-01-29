@@ -17,4 +17,6 @@ As with each document on this platform, everything in this section is part of a 
 - [Our Culture](our-culture.md) (The What): This section describes what sets us apart, including our approach to collective leadership, open collaboration, and cultural commitments that define what we strive for as we do our work - internally and with partners. It also includes everyday ways we model the OWL ethos as a values-driven organization.
 - [Our Approach](our-approach.md) (The How): Learn how we work with schools, districts, partners, and education networks to create the conditions to affect and sustain systems-level change. This includes an overview of our services, project workflow, facilitation practices, and our commitment to smart growth over fast growth.
 
+## How to use this section
+
 Together, this foundational section offers a transparent, practical, and high-level look at who we are as an organization.

@@ -23,7 +23,7 @@ OWL maintains a **dual governance model** that reflects both nonprofit best prac
 
 This structure is not a compromise—it's a commitment to **shared accountability** and high-integrity leadership, balancing compliance with the agility required to serve educators and students well.
 
-## Files in This Section
+## What you'll find in this section
 
 ### 1. Open Way Learning Bylaws
 **What It Is:**  
