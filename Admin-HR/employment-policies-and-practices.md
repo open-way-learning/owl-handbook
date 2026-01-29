@@ -6,7 +6,7 @@
 {% endhint %}
 
 ## Purpose
-This document outlines OWL's foundational employment policies and expectations, including Equal Opportunity, anti-harassment practices, accommodations, and onboarding protocols. These practices reflect OWL's commitment to a respectful, inclusive, and legally compliant workplace culture. Together, they help ensure that all employees are supported, protected, and positioned to thrive. For related policies, refer to the OWL Code of Conduct & Ethics.
+This document outlines OWL's foundational employment policies and expectations, including Equal Opportunity, anti-harassment practices, accommodations, and onboarding protocols. These practices reflect OWL's commitment to a respectful, inclusive, and legally compliant workplace culture. Together, they help ensure that all employees are supported, protected, and positioned to thrive. For related policies, refer to the [OWL Code of Conduct & Ethics](../Governance/owl-code-of-conduct-and-ethics.md).
 
 ## Equal employment opportunity
 Open Way Learning follows the spirit and intent of all federal, state and local employment law and is committed to equal employment opportunity. To that end, the Board of Directors and all officers of Open Way Learning will not discriminate against any employee or applicant in a manner that violates the law. Open Way Learning is committed to providing equal opportunity for all employees and applicants without regard to race, color, religion, national origin, sex, age, marital status, sexual orientation, disability, political affiliation, personal appearance, family responsibilities, matriculation or any other characteristic protected under federal, state or local law.  Refer to the OWL Code of Conduct & Ethics for additional information.
