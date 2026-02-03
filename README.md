@@ -24,7 +24,7 @@ The GitBook platform provides OWL's team and stakeholders clear guidance on:
 
 ## A Living Set of Core Documents
 
-To that last point above, this set of top level documents are not dusty PDFs developed just to check a regulatory box. They constitute a living set of documents that define our organization's ethos and approach for the mission-driven work we do in the education space. As such, this system is built for iteration and continuous improvement—i.e., an evolving reflection of who we are as an agile, learning organization. This means that we update these documents early and often, based on team input, feedback from partners and clients in the field, and changing needs in the education space. If you have an idea for improving any aspect of this collection of documents, you are welcome to propose a change or share your thoughts via [OWL’s Document Control Policy](Strategy-Innovation/document-control-policy.md) (found in the [Strategy & Innovation](Strategy-Innovation/) section).
+To that last point above, this set of top level documents are not dusty PDFs developed just to check a regulatory box. They constitute a living set of documents that define our organization's ethos and approach for the mission-driven work we do in the education space. As such, this system is built for iteration and continuous improvement—i.e., an evolving reflection of who we are as an agile, learning organization. This means that we update these documents early and often, based on team input, feedback from partners and clients in the field, and changing needs in the education space. If you have an idea for improving any aspect of this collection of documents, you are welcome to propose a change or share your thoughts via [OWL’s Document Control Policy](governance/document-control-policy.md) (found in the [Strategy & Innovation](Strategy-Innovation/) section).
 
 ## Use & Remix (License)
 
@@ -32,7 +32,7 @@ Unless otherwise noted, all content OWL produces (including what's in these docu
 
 ## Looking for Something?
 
-To make navigation easier, this GitBook platform is organized into the following sections (more details found in the [Document Control Policy](Strategy-Innovation/document-control-policy.md)):
+To make navigation easier, this GitBook platform is organized into the following sections (more details found in the [Document Control Policy](governance/document-control-policy.md)):
 
 * `Governance/`: Board policies, organizational bylaws, code of ethics, legal matters, and governing documents.
 * `Finance-Operations/`: How we manage funding & budgets, as well as back-end operating systems that enable us to efficiently and effectively manage the work we do.
