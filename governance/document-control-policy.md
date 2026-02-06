@@ -113,7 +113,7 @@ This section explains how to create, update, and use documents in OWL's dual-pla
 For any new or revised documents that are core to OWL's function as a nonprofit, you must use one of these workflows. Changes made this way are automatically version-controlled—we always know what changed, when, and by whom. This eliminates "mystery versions" and keeps updates transparent and auditable.
 {% endhint %}
 
-### **1. Proposing and Publishing a New Official Document (GitBook)**
+### 1. Proposing and Publishing a New Official Document (GitBook)
 
 Use this when you are creating a new internal policy, template, or resource that should become part of OWL’s official, reusable “source code” in GitBook.
 
@@ -129,7 +129,7 @@ Use this when you are creating a new internal policy, template, or resource that
    * A Tech Lead can handle Markdown formatting, links, and SUMMARY.md updates as needed (see [Appendix 5](document-control-policy.md#appendix-5-direct-github-editing) for technical details).
 5. **Verify and link.** The Steward and/or Tech Lead confirms the page looks correct in GitBook (title, formatting, links, sidebar). Note that a view-only reference copy is saved or updated in the appropriate Drive location (in the "On GitHub" folder), clearly labeled and linked back to the official GitBook page.
 
-### **2. Suggesting Revisions to an Existing GitBook Document**
+### 2. Suggesting Revisions to an Existing GitBook Document
 
 Any OWL team member is encouraged to propose updates to official documents. Use this workflow when an existing GitBook page needs clarification, correction, or a content update.
 
@@ -147,7 +147,7 @@ Any OWL team member is encouraged to propose updates to official documents. Use 
 In open source communities, it's considered something of a _faux pa_ to merge one's own requests (i.e., to merge without first getting a second opinion from someone else). So even if someone has the ability to merge a change without consulting others, they should get the changes reviewed first.
 {% endhint %}
 
-### **3. Managing Working Documents in Google Drive**
+### 3. Managing Working Documents in Google Drive
 
 Use this method for any documents that stay in Drive as collaborative, client-facing, or context-specific resources.
 
@@ -167,7 +167,7 @@ Use this method for any documents that stay in Drive as collaborative, client-fa
 When a Drive document references an official GitBook policy or template, include a **direct link** and identify it clearly as the official version (e.g., "Refer to the official OWL Travel Policy in GitBook").
 {% endhint %}
 
-## **Quarterly Cleanup Procedure**
+## Quarterly Cleanup Procedure
 
 To keep OWL's shared Google Drive usable instead of overwhelming, we run a Quarterly Cleanup. The goal with this cleanup is simple: _Nothing important gets lost. Nothing unimportant clutters the way._ This disciplined pruning routine helps us reduce clutter, make search results more useful, and keep “current vs. old” crystal clear.
 
@@ -187,7 +187,7 @@ To keep OWL's shared Google Drive usable instead of overwhelming, we run a Quart
 3. Flagged for GitBook publication
 4. Clearly not needed so it can be deleted
 
-### **Cleanup Details**
+### Cleanup Details
 
 * **Step 1 – Create the cleanup queue:** At the start of each cycle, the DFO creates a temporary folder in Drive: !Drive Cleanup Queue – \[Month Year]. Within that folder, three triage folders are created (note that these are temporary staging areas, not permanent homes):
   * \[ARCHIVE] – Files that are no longer active but may be useful for historical reference
@@ -201,7 +201,7 @@ To keep OWL's shared Google Drive usable instead of overwhelming, we run a Quart
 * **Step 4 – Final filing:** Before the end of the quarter, folder stewards will make final decisions on items in each triage folder. As applicable, files are renamed (per Appendix 2) and moved into their long-term homes in Drive or published to GitBook/GitHub. Any unresolved files or unclear ownership are flagged for discussion in a scrum meeting or 1:1 follow-ups.
 * **Step of Last Resort:** Any documents that sit in 04\_To File or a cleanup staging folder for more than 3 months must be moved to a proper folder or deleted. _No file should live in limbo forever!_
 
-## **Appendix 1: Folder Map & Stewardship Overview**
+## Appendix 1: Folder Map & Stewardship Overview
 
 This appendix essentially serves as the high-level "README" document for OWL’s document and folder ecosystem. It shows how OWL's Google Drive and GitBook are structured, what each major folder or section is for, and which role is responsible (Steward) for keeping it current and accurate.
 
@@ -209,7 +209,7 @@ This appendix essentially serves as the high-level "README" document for OWL’s
 The folder map below is only useful if we follow it. Every OWL team member is expected to store and update documents according to this structure or, when it no longer fits, to start the process to improve it. Stewards may delegate the work of filing, editing, and cleanup, but they remain accountable for ensuring that their area stays clear, coherent, and current.
 {% endhint %}
 
-### **GitBook Section Map & Stewardship**
+### GitBook Section Map & Stewardship
 
 OWL’s [GitBook platform](https://app.gitbook.com/invite/0s1ztnbTyvN1cLuBuwsU/iLDognZl3bNslKvyzZI7) serves as OWL’s **public-facing operating system** (also called our “Employee Handbook”) and provides a coherent, public “source code” for how OWL operates. In short, it houses the core documents that describe why we exist, how we work, and the values and guardrails that shape our decisions, both internally and with our client, partners, and other stakeholders:
 
@@ -219,7 +219,7 @@ OWL’s [GitBook platform](https://app.gitbook.com/invite/0s1ztnbTyvN1cLuBuwsU/i
 
 These documents are living, version-controlled references, not static PDFs. They are updated through the document control workflow described in this procedure, with section Owners (Stewards) responsible for ensuring that “official” content remains clear, accurate, and aligned with OWL’s mission and values.
 
-#### **Stewardship, Purpose, & Drive Connections**
+#### Stewardship, Purpose, & Drive Connections
 
 * **About OWL:** Foundational overview of who OWL is and how we work: our purpose, culture, approach, and the core values and principles that shape our mission-driven, open-source practice. This section orients staff, partners, and stakeholders to OWL’s “why / what / how” at a high level.
   * Steward: Director of Organizational Strategy & Learning (DOSL), with input from all Directors.
@@ -248,7 +248,7 @@ These documents are living, version-controlled references, not static PDFs. They
 
 Unless otherwise noted, content in GitBook is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en), reflecting OWL’s commitment to open-source practice: others are encouraged to use and remix our work non-commercially with attribution.
 
-### **Google Drive Top-Level Structure & Stewardship**
+### Google Drive Top-Level Structure & Stewardship
 
 **Root Shared Drive:** [Open Way Learning](https://drive.google.com/drive/u/0/folders/0ALlgH838PFdnUk9PVA)
 
