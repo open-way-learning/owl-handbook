@@ -442,11 +442,11 @@ We also use GitHub in combination with GitBook because together they offer a cle
 
 In short, this combination of GitHub and GitBook helps OWL accomplish an important goal: maintain transparent, auditable, collaborative documentation of its key processes, policies, and procedures—and do so in a public-by-default manner aligned with OWL's open ethos.
 
-#### Do we record SOPs in the handbook?
+### Do we record SOPs in the handbook?
 
 Yes. Storing standard operating procedures are the GitBook handbook's _raison d'être_. These are precisely the kinds of canonical, organizationally applicable documents that the system is designed to house and assist in modifying.
 
-#### How often are changes expected?
+### How often are changes expected?
 
 Handbook updates should not become a "once per quarter thing," or "something we do at the offsite." The GitBook handbook should be something that grows and morphs in line with the organization as it matures every day.
 
@@ -458,7 +458,7 @@ But documentation pays dividends in saved time for others and the organization a
 
 Every change to the handbook is an investment in the growth of the organization and a gift to the people who aren't working there yet.
 
-#### How do we safely revert a mistake? <a href="#docs-internal-guid-a73473a8-7fff-da4e-0c6d-3342d0b58f1d" id="docs-internal-guid-a73473a8-7fff-da4e-0c6d-3342d0b58f1d"></a>
+### How do we safely revert a mistake? <a href="#docs-internal-guid-a73473a8-7fff-da4e-0c6d-3342d0b58f1d" id="docs-internal-guid-a73473a8-7fff-da4e-0c6d-3342d0b58f1d"></a>
 
 Using GitBook:
 
@@ -475,7 +475,7 @@ GitBook then rolls back the change and syncs the necessary changes with GitHub
 In Git-based workflows, time only moves forward. So while you are "rolling back" a change, in the project history that rollback is actually logged as a separate change _after_ the one you revert. That means it is actually possible to rollback the rollback!
 {% endhint %}
 
-#### How do we know we're using the handbook well?
+### How do we know we're using the handbook well?
 
 We'll know OWL is making best use of our handbook when we observe [bias for action](https://handbook.gitlab.com/teamops/decision-velocity/#bias-for-action) amongst team members. That means they are:
 
