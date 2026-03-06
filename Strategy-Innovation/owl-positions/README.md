@@ -1,3 +1,3 @@
 # OWL's Positions
 
-This section contains OWL's official positions of various issues and trends in education.
+This section contains OWL's official positions on various issues and trends in education.
