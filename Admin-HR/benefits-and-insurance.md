@@ -13,7 +13,7 @@ This document provides an overview of OWL's benefits, stipends, and insurance co
 
 Open Way Learning offers a range of benefits to support the personal well-being and long-term financial security of our team. Our benefits reflect OWL's commitment to supporting our employees in a sustainable, equitable, and transparent way.
 
-### **Retirement Plan \- 403(b)**
+### **Retirement Plan—403(b)**
 
 All full-time employees are eligible to participate in OWL's 403(b) retirement plan, administered by Newport Group, with investment options through Vanguard ETFs and mutual funds.
 
