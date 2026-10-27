@@ -70,19 +70,13 @@ When a client requires an itemized breakdown of services, OWL applies the follow
     * Ground < 200 miles: 0.5 daily rate
     * Ground ≥ 200 miles: 1.0 daily rate
 * **Planning Time Compensation**
-  * Planning is compensated using a default ratio of 1 planning day per 3 service days (i.e., a 1:3 planning-to-service ratio), unless otherwise stated.\
+  * Planning is compensated using a default ratio of 1 planning day per 3 service days (i.e., a 1:3 planning-to-service ratio), unless otherwise stated.\\
 
 {% hint style="info" %}
 Some client contracts may explicitly exclude planning or travel compensation. In such cases, OWL can only reimburse or compensate for time that is allowed within the contract's terms.
-{% endhint %}  
+{% endhint %}
 
-* **Non-Compensable Time**
-  * The following time is not eligible for compensation unless explicitly approved in the applicable Statement of Work or contract:
-    * Time not listed in the contract or Scope of Work
-    * Meal breaks where no work is performed
-    * Overnight stays (e.g., sleep time)
-    * Social functions attended voluntarily
-    * Normal daily commuting time from home to local departure point (airport, etc.)
+\* \*\*Non-Compensable Time\*\* \* The following time is not eligible for compensation unless explicitly approved in the applicable Statement of Work or contract: \* Time not listed in the contract or Scope of Work \* Meal breaks where no work is performed \* Overnight stays (e.g., sleep time) \* Social functions attended voluntarily \* Normal daily commuting time from home to local departure point (airport, etc.)
 
 ## Air Travel
 
@@ -121,9 +115,9 @@ Violation of this policy may result in denial of reimbursement and, for repeat i
   * Typical market rates for economy-class rentals from national providers such as Enterprise and Avis, which average between $40 and $60/day depending on location and season.
   * Federal travel guidelines that, while not setting a specific daily rental rate, support use of competitively priced vehicles under negotiated government contracts.
   * OWL's own vendor agreements with Avis and Enterprise, which often allow access to rates within this threshold.
-  * The need for budget consistency, cost control, and equitable standards across all travel-related projects.
+  *   The need for budget consistency, cost control, and equitable standards across all travel-related projects.
 
-    If the lowest available economy-class rate in a given location exceeds $55/day, the traveler must obtain written pre-approval from an OWL Director prior to booking (or another OWL Director if applicable). In such cases, the traveler should provide documentation (e.g., screenshots from travel platforms) demonstrating that no reasonable alternatives are available within the stated limit.
+      If the lowest available economy-class rate in a given location exceeds $55/day, the traveler must obtain written pre-approval from an OWL Director prior to booking (or another OWL Director if applicable). In such cases, the traveler should provide documentation (e.g., screenshots from travel platforms) demonstrating that no reasonable alternatives are available within the stated limit.
 
 ### Personal Vehicles
 
@@ -246,6 +240,38 @@ Whether driving a company vehicle, a rental car, or your personal vehicle while 
 * Do not use the company card for personal expenses under any circumstance.
 * Receipts and notes must be submitted in Productive for all company card purchases for audit and reconciliation purposes.
 
+#### Business Credit Card Reconciliation and Receipts
+
+All cardholders are responsible for reviewing their corporate credit card activity and providing an itemized receipt or other required supporting documentation for each transaction at the end of each month, prior to when payment is due.
+
+Cardholders are responsible for obtaining, retaining, and submitting receipts through OWL's established expense documentation process. A credit card reconciliation is not considered complete until all required documentation has been submitted or any missing documentation has been appropriately resolved.
+
+#### Missing Receipts
+
+* If an original receipt is lost or unavailable, the cardholder must first make a reasonable effort to obtain a duplicate receipt or other transaction documentation from the vendor.
+* If documentation cannot be obtained, the cardholder must complete an OWL Missing Receipt Form identifying the vendor, transaction date, amount, items or services purchased, business purpose, reason the receipt is unavailable, and any additional information requested by the Director of Finance & Operations.
+* The Director of Finance & Operations will determine whether the available documentation is sufficient to substantiate the transaction as an authorized OWL business expense.
+* Missing Receipt Forms are intended for occasional and unavoidable exceptions. They are not a substitute for routinely obtaining and submitting receipts. Frequent use of Missing Receipt Forms may be treated as failure to comply with OWL's receipt and reconciliation requirements, even when individual transactions can otherwise be substantiated.
+* If a transaction cannot be adequately substantiated as an authorized OWL business expense, the matter will be referred to the Director of Finance & Operations and Executive Director for resolution, which may include requiring repayment when appropriate and permitted by applicable law.
+
+#### Significant Delinquency
+
+A cardholder is considered significantly delinquent if:
+
+* Five or more transactions from a completed monthly reconciliation period are missing required documentation;
+* Required documentation remains outstanding for more than 30 days after the applicable reconciliation period; or
+* There is a recurring pattern of incomplete or untimely reconciliation or receipt submission.
+
+If a cardholder becomes significantly delinquent, corporate credit card privileges will be temporarily suspended until the outstanding documentation has  been resolved and the Director of Finance & Operations has confirmed that the account is in compliance.
+
+Repeated or continued failure to comply with these requirements may result in revocation of business credit card privileges.
+
+Maintaining complete and timely financial documentation is a condition of having an OWL business credit card. These requirements apply to all cardholders regardless of position.
+
+Form that employees sign off on specific for credit cards:
+
+Missing receipt form: [Missing Receipt Form](https://docs.google.com/document/d/1IN-8a9G4WfzyZiz78Rw4EaJ-R5zssvzdT1nw_QYavPE/edit?tab=t.0#heading=h.ggzte3isn3fu)
+
 ## Travel for Professional Development or Conferences
 
 OWL may fund employee travel and registration for conferences or professional events aligned with:
@@ -266,37 +292,49 @@ OWL distinguishes professional development from marketing/ presence-related even
 ## Travel FAQs
 
 ### How do I book air and hotel travel?
+
 You are free to use any reputable travel platform or app as long as you look for the accepted and reasonably lowest cost options for the travel that’s needed for the service you are to provide. For airfare, this should be the lowest cost option, without having to fly a “redeye” to and from your home airport, unless the airfare is more than 20% of the lowest other option. For accommodations, you are free to select any you wish, knowing that the reimbursement amount will only cover the local per diem rates.
 
 ### What are the limits for travel?
+
 Refer to the policy above. Email your manager or an OWL Director if you need to extend travel beyond these limits. Also be sure to make a copy of the approval email to any invoice or reimbursement request.
 
 ### Do I need to keep my receipts?
+
 Yes. You should make every effort to keep every receipt, but receipts are only required for all expenses over $25. If you lose a receipt you should note that in the description field for that expense line item on your reimbursement request. Also note that itemized receipts are considered a best practice, especially for large expenses or for any work that involves external grants or federal funding. In these cases, an explanation of the business purpose should be provided on the receipt, as well as a list of who else was in attendance for meals.
 
 ### What expenses does the company pay for?
+
 Airfare, car rental, ground transportation like Uber and Lyft, mileage reimbursement, and daily meal and accommodation per diem.
 
 ### How do meals work?
+
 Unless stated otherwise, all OWL contracts include a per diem allowance. You are free to spend whatever you wish on meals, knowing that reimbursement will be limited only to the contracted per diem. Note that you are not reimbursed in cases where the client provides some or all meals (reimbursement requests must be prorated to reflect what was provided).
 
 ### How do I get reimbursed for travel expenses, and is the process different if I have a company credit card?
+
 There are two different processes depending on if you are using a company credit card or your own form of payment (company AMEX cards are provided to some OWL employees). You are not reimbursed for company card expenses, as these are reconciled each month and paid automatically (employees are expected to keep all receipts for auditing and reconciliation purposes). All other travel expenses paid by your personal credit card or cash are eligible for reimbursement per the above policy, either by submitting an invoice (contractors) or by using the OWL Reimbursement Form (see above for details).
 
 ### Can I use a company credit card for some expenses but not all?
+
 If you have a company credit card, you are expected to use it for all travel expenses, unless there is a valid reason not to use it. You may not use a company credit card for personal use.
 
-### Can I take advantage of vendor or credit card rewards programs that I accumulate while on company travel? 
+### Can I take advantage of vendor or credit card rewards programs that I accumulate while on company travel?
+
 In general, yes. Employees with a company credit card are free to use the points or airline mileage they accumulate for personal use. The same is true for other rewards programs such as hotel points or rental car rewards. However, the employee must not allow the point accumulation to be the driving motivation for selecting flights, hotels, rental cars, etc. That decision should be strictly based on the lowest reasonable cost to the nonprofit. Likewise, the company AMEX cards generally come with an annual fee that must be offset through rewards or miles earmarked for company travel (e.g. if I have a $300 annual fee for my card, I need to ensure that I use an equivalent amount of miles or points from that card for business travel). Apart from that offset, all remaining mileage and points are free for me to use for personal travel.
 
 ### Where do I log the amount of time I spent for a service?
-All full and part time OWL employees are expected to track all time spent preparing, facilitating, and doing post-service follow-up via the Productive platform (note that some temporary employees may not have access to this platform and will keep a separate_ [_time log_](https://docs.google.com/spreadsheets/d/1vj9ju-TZZC_zXfiFVuziwU7feTnk3H0rzWPtDzZsoq4/edit?usp=sharing) _that is submitted to their manager on at least a monthly basis). Consultants should keep an itemized time log that will be used as the basis for compensation after the service is completed and per the rates agreed to in the Statement of Work and/or Contractor Scope of Work for that service.
+
+All full and part time OWL employees are expected to track all time spent preparing, facilitating, and doing post-service follow-up via the Productive platform (note that some temporary employees may not have access to this platform and will keep a separate\_ [_time log_](https://docs.google.com/spreadsheets/d/1vj9ju-TZZC_zXfiFVuziwU7feTnk3H0rzWPtDzZsoq4/edit?usp=sharing) \_that is submitted to their manager on at least a monthly basis). Consultants should keep an itemized time log that will be used as the basis for compensation after the service is completed and per the rates agreed to in the Statement of Work and/or Contractor Scope of Work for that service.
 
 ### Do I need to differentiate between service prep, service delivery, and post service deliverables?
+
 This depends on the rate schedule mentioned in the applicable Statement of Work and/or Contractor Scope of Work. In many cases, there is a flat rate in the service contract, although in some cases, rates are different for planning, travel days, and on-line service delivery. Always verify these rates in the contract terms before submitting time sheets or reimbursement requests.
 
 ### Do I get reimbursed for my travel time to and from a service?
+
 This also depends on the service contract with the client and will be specified in the applicable Statement of Work and/or Contractor Scope of Work. When travel is included, it is often at a reduced daily or hourly rate (e.g. ½ the normal hourly rate). Always verify these rates in the contract terms before submitting time sheets or reimbursement requests.
 
 ### What is the expected total number of planning hours for each facilitation hour?
+
 In general, an OWL employee is expected to spend 0.5 days of planning per 1 day of service. This may vary, however, depending on prior service experience, the type of service being provided, etc. Please verify this amount with the respective OWL project manager if it is not explicitly stated in the applicable Statement of Work.
