@@ -238,39 +238,7 @@ Whether driving a company vehicle, a rental car, or your personal vehicle while 
 * Full-time employees may request an OWL-issued company credit card for approved work-related expenses.
 * If you have a company card, you must use it for all eligible travel and service-related expenses, unless a valid exception is pre-approved.
 * Do not use the company card for personal expenses under any circumstance.
-* Receipts and notes must be submitted in Productive for all company card purchases for audit and reconciliation purposes.
-
-#### Business Credit Card Reconciliation and Receipts
-
-All cardholders are responsible for reviewing their corporate credit card activity and providing an itemized receipt or other required supporting documentation for each transaction at the end of each month, prior to when payment is due.
-
-Cardholders are responsible for obtaining, retaining, and submitting receipts through OWL's established expense documentation process. A credit card reconciliation is not considered complete until all required documentation has been submitted or any missing documentation has been appropriately resolved.
-
-#### Missing Receipts
-
-* If an original receipt is lost or unavailable, the cardholder must first make a reasonable effort to obtain a duplicate receipt or other transaction documentation from the vendor.
-* If documentation cannot be obtained, the cardholder must complete an OWL Missing Receipt Form identifying the vendor, transaction date, amount, items or services purchased, business purpose, reason the receipt is unavailable, and any additional information requested by the Director of Finance & Operations.
-* The Director of Finance & Operations will determine whether the available documentation is sufficient to substantiate the transaction as an authorized OWL business expense.
-* Missing Receipt Forms are intended for occasional and unavoidable exceptions. They are not a substitute for routinely obtaining and submitting receipts. Frequent use of Missing Receipt Forms may be treated as failure to comply with OWL's receipt and reconciliation requirements, even when individual transactions can otherwise be substantiated.
-* If a transaction cannot be adequately substantiated as an authorized OWL business expense, the matter will be referred to the Director of Finance & Operations and Executive Director for resolution, which may include requiring repayment when appropriate and permitted by applicable law.
-
-#### Significant Delinquency
-
-A cardholder is considered significantly delinquent if:
-
-* Five or more transactions from a completed monthly reconciliation period are missing required documentation;
-* Required documentation remains outstanding for more than 30 days after the applicable reconciliation period; or
-* There is a recurring pattern of incomplete or untimely reconciliation or receipt submission.
-
-If a cardholder becomes significantly delinquent, corporate credit card privileges will be temporarily suspended until the outstanding documentation has  been resolved and the Director of Finance & Operations has confirmed that the account is in compliance.
-
-Repeated or continued failure to comply with these requirements may result in revocation of business credit card privileges.
-
-Maintaining complete and timely financial documentation is a condition of having an OWL business credit card. These requirements apply to all cardholders regardless of position.
-
-Form that employees sign off on specific for credit cards:
-
-Missing receipt form: [Missing Receipt Form](https://docs.google.com/document/d/1IN-8a9G4WfzyZiz78Rw4EaJ-R5zssvzdT1nw_QYavPE/edit?tab=t.0#heading=h.ggzte3isn3fu)
+* Receipts and notes must be submitted in Productive for all company card purchases for audit and reconciliation purposes. For more details, see section Company Credit Cards under OWL Code of Ethics.
 
 ## Travel for Professional Development or Conferences
 
